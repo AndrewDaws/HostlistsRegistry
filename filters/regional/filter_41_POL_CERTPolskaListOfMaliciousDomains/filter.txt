@@ -1,12 +1,84 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.44
+! Version: 1.1.53.45
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T13:01:28.439Z
+! Last modified: 2026-06-25T15:06:38.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||dpdgroup.bond^
+||dpdgroup.cyou^
+||insightoutlookreport.com^
+||insightgrowthreport.com^
+||elsiwa.com^
+||dengedeyiz.com^
+||drinkoddly.blog^
+||embrosodis.cyou^
+||metacyanide.space^
+||protodesire.space^
+||trabuincom.cyou^
+||jomavera.cfd^
+||wecygyiomy.autos^
+||jolenefrank.shop^
+||turcocell.com^
+||xogila.homes^
+||sport-off.shop^
+||cuwixae.com^
+||monoerety.site^
+||hokolopored.site^
+||hbgvfcdx.site^
+||qwerfddhjf.site^
+||nakoodiosdipsdofsp.site^
+||executiveinsightwire.com^
+||kocakoglunakliyat.com^
+||belentarim.com^
+||strategicinsightdaily.com^
+||semiftease.cyou^
+||bruttdivol.cyou^
+||3mx9qvz.skin^
+||4vpk9ra.hair^
+||zarakahvesi.com^
+||finance82-voluptas36.sbs^
+||anadoludangeldik.com^
+||hexsium.com^
+||xcfredfvb.site^
+||qadsrftgvcx.site^
+||gudaspoloieowasl.site^
+||smartcompassw.site^
+||corapcarsisi.com^
+||torfebaula.cyou^
+||namsjisodiaodisdodi.site^
+||affumistru.cyou^
+||petizoeiwe.autos^
+||kopoowproksforew.site^
+||kiopoooaidofslklso.site^
+||polandwoodcraft.shop^
+||aventra.capital^
+||ezebracz.shop^
+||terehjkqazm.luxe^
+||millpondfog.vip^
+||terehjkqazm.club^
+||stileconco.cyou^
+||positivehubc.site^
+||plsighereresiriget.com^
+||playorrin.com^
+||velunn.com^
+||futureguidex.site^
+||ekiison.com^
+||ioofiosfofswewrr.site^
+||efendioglusaat.com^
+||insighttrendwire.com^
+||vinprof.com^
+||themgzr.com^
+||kebabsonline.com^
+||poczta-pl.eadfbe.icu^
+||www.remvvn.shop^
+||glosyzmurow24.pro^
+||bekodepo.com^
+||bestdentalclinicturkiye.com^
+||dockguardshipworks.com^
+||smart-ofera88558530.sbs^
 ||clearprogressq.site^
 ||100723.cfd^
 ||depicfiebo.cyou^
@@ -90,7 +162,6 @@
 ||xalvorinth.com^
 ||nauakewwirowrposf.site^
 ||docimmonet.cyou^
-||www.polandwoodcraft.shop^
 ||adanawebsite.com^
 ||classic.9hdxhairs.com^
 ||buynewbalances.com^
@@ -106810,10 +106881,3 @@
 ||bremacastion.world^
 ||riaccdamme.world^
 ||consephere.world^
-||elvarnexity.cloud^
-||niverdanhall.cloud^
-||cleaneatingguide49d.info^
-||greenbhollow.info^
-||styleinsider44d.info^
-||plenumaridge.cloud^
-||caldrenovist.world^
