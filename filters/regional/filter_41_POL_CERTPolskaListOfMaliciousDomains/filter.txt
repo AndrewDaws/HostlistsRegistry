@@ -1,12 +1,57 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.45
+! Version: 1.1.53.46
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T15:06:38.945Z
+! Last modified: 2026-06-25T16:54:04.899Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||www.mebgledesign.shop^
+||pl-9012213.cfd^
+||ailemibuldum.net^
+||xenthoriva.com^
+||nfz-gov.muttinfo.com^
+||nondyconst.cyou^
+||allegrolokalnie.648557jk.top^
+||75794939437.cfd^
+||pl018986702306.cfd^
+||9857451.cfd^
+||inpolst.kod38a7.sbs^
+||roundscolm.cyou^
+||apartsrent.com^
+||thecompositetoecap.shop^
+||dassilvabg.pythonanywhere.com^
+||livinya.com^
+||brightupliftj.site^
+||cards-tpay.com^
+||hajjumretur.com^
+||simonimmed.cyou^
+||kenbifurniture.com^
+||program-korzysci.biz^
+||kaganmertaydin.com^
+||alazobotti.cyou^
+||acilisbayraklari.com^
+||payyqr.com^
+||rostartdesign.com^
+||ralvixenta.com^
+||novarilox.com^
+||jioposawerikodfko.site^
+||seulderma.com^
+||dpd.dqmhfs.com^
+||dpd.jstctcl.com^
+||dpdteams.cyou^
+||dpd.szkfsrdk.com^
+||qumonline.com^
+||satorifashion.com^
+||halmarg.com^
+||birtadilat.com^
+||nautaria.com^
+||nowacijaplsk.site^
+||iklimkurutemizleme.com^
+||dpdgroup.shop^
+||dpdgroup.sbs^
+||cottonbazaar.online^
 ||dpdgroup.bond^
 ||dpdgroup.cyou^
 ||insightoutlookreport.com^
@@ -106875,9 +106920,3 @@
 ||allegro.pl-smart01875814.cfd^
 ||renewableresource48d.info^
 ||allebilet.pl-smart01875814.cfd^
-||padaurachi.sbs^
-||psgsa.com.ar^
-||mojebilling.com^
-||bremacastion.world^
-||riaccdamme.world^
-||consephere.world^
