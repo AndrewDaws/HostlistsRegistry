@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.15.36
+! Version: 1.0.15.37
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-24T17:43:07.214Z
+! Last modified: 2026-06-25T23:35:37.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -473,6 +473,7 @@
 ||divorcedpeoplemeet.com^
 ||divorcedsingles.club^
 ||dmpet.imgix.net^
+||dnaromance.com^
 ||dogdatingplanet.com^
 ||dogging.com.au^
 ||domerencontre.com^

@@ -1,12 +1,39 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.51
+! Version: 1.1.53.52
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T22:37:38.657Z
+! Last modified: 2026-06-25T23:35:51.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||allegrolokalnie.28821392h5.shop^
+||imahont.com^
+||oferta91061123.cfd^
+||primeyatirim.com^
+||lnpost-fulfillment.su^
+||domovo.shop^
+||planau.com^
+||untasimas.com^
+||ripendandi.cyou^
+||nexoryl-circuit.net^
+||lardialler.cyou^
+||juaristiasociados.com^
+||bilisimussu.com^
+||tirkurotomotiv.com^
+||unipronex.it.com^
+||ontihur.com^
+||turchfredd.cyou^
+||seezystore.com^
+||harelstagi.cyou^
+||84541244.cfd^
+||9514235.cfd^
+||p4zn7rv.hair^
+||847234785-43.cfd^
+||avrasyabilim.com^
+||beaglodepo.cyou^
+||r2nk8wp.hair^
+||t5wr3kp.hair^
 ||allegrolokalnie.pl-0930495831.xyz^
 ||dominoo.shop^
 ||allegrolokalnie.pl-oferta263290.lat^
@@ -35,14 +62,12 @@
 ||allegrolokalnie.pl-oferta-681-samsung-tab-s11-ultra-amoled-256gb.click^
 ||9xqm4vz.skin^
 ||allegrolokalnie.oferta288784.shop^
-||allegrolokalnie.847234785-43.cfd^
 ||allegrolokalnie.pl-63642.icu^
 ||allegrolokalnie.96543.lat^
 ||8nr2wkp.hair^
 ||allegrolokalnie.letnie-okazje66315415.cyou^
 ||biscottishop.com^
 ||allegrolokalnie.648456ja.top^
-||allegrolokalnie.9514235.cfd^
 ||allegrolokalnie.pl-id737832.cam^
 ||olx-pl.bnanm.icu^
 ||allegrolokalnie.89435.top^

@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.90
+! Version: 1.0.20.91
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-23T18:52:44.736Z
+! Last modified: 2026-06-25T23:35:55.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -988,6 +988,7 @@
 ||4stream.pt^
 ||4thofjulypictureedit.com^
 ||4tnui5r06j62.com^
+||4tvygm27ym4g1w.cfd^
 ||4v4jfe79erfxfu8z8.com^
 ||4w.pm^
 ||4x5g.autos^
@@ -1689,6 +1690,7 @@
 ||90d92b6a4e.com^
 ||90e2545579.com^
 ||910de7044f.com^
+||9114cb3f68.com^
 ||9119.co.il^
 ||9119fa4031.com^
 ||911arq.com^
@@ -1786,6 +1788,7 @@
 ||99tab.com^
 ||9a08103287.com^
 ||9a131ab3ce.com^
+||9a3a93a569.com^
 ||9a4f937e0f.com^
 ||9a55672b0c.com^
 ||9a56b01cf5.com^
@@ -7137,6 +7140,7 @@
 ||bulginglair.com^
 ||bulgingreact.com^
 ||bulgursanai.shop^
+||bulkagelycium.cfd^
 ||bulkagetufas.com^
 ||bulkconflictpeculiarities.com^
 ||bulktrkr.com^
@@ -7389,6 +7393,7 @@
 ||c2dffe940b.com^
 ||c2fjksd3sl.com^
 ||c33fd93ed8.com^
+||c3716cda2f.com^
 ||c3759f7e8a.com^
 ||c3a36bbaca.com^
 ||c3bb533dd7.com^
@@ -8594,6 +8599,7 @@
 ||citizenagreementacting.com^
 ||citizenhid.com^
 ||citizensmantle.com^
+||citralschancrecensing.qpon^
 ||citysubcss.com^
 ||cityunddder.com^
 ||ciuvo.com^
@@ -18726,6 +18732,7 @@
 ||gougerestrip.com^
 ||gougewhenaus.net^
 ||gougrust.net^
+||goulashcharcia.qpon^
 ||gounrical.com^
 ||gourmetconsiderable.com^
 ||gourmet-goodies-corner.com^
@@ -23651,6 +23658,7 @@
 ||lilustriousdate.com^
 ||lilustrlousdate.com^
 ||limbecculvers.com^
+||limbycocking.cfd^
 ||limeamber.com^
 ||limetreewax.com^
 ||limitationunicornmeasures.com^
@@ -32450,6 +32458,7 @@
 ||refereesalad.com^
 ||referencement-site-montreal.com^
 ||referenceweeklyhorribly.com^
+||refer-path.com^
 ||referredrender.com^
 ||referredtriumph.com^
 ||referredwings.com^
@@ -32463,6 +32472,7 @@
 ||reflectingwindowscheckbook.com^
 ||reflexupsethorseman.com^
 ||refloodbirkie.shop^
+||refluxvenous.cfd^
 ||refnippod.com^
 ||refocghigl.com^
 ||reforestscantunlaced.com^
@@ -37024,6 +37034,7 @@
 ||steroidslaughteradvertise.com^
 ||sterolsawaited.com^
 ||steropequippu.shop^
+||stewartkassu.qpon^
 ||stewgeese.fun^
 ||stewsmall.com^
 ||stfdoboj.net^
@@ -37714,6 +37725,7 @@
 ||sustainableworkplace.hair^
 ||sustainnotableworld.com^
 ||suszhi.com^
+||suttacen.qpon^
 ||suyx.net^
 ||suzukisistrum.shop^
 ||svcenter.xyz^
@@ -40365,6 +40377,7 @@
 ||upcomingorganismraces.com^
 ||upconcurrend.com^
 ||upcropimmunes.com^
+||updartreggie.cyou^
 ||updateantivir.us^
 ||updateenow.com^
 ||update-every-day.com^
