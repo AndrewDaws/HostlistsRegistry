@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.70.69
+! Version: 1.0.70.70
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-06-25T18:53:11.109Z
+! Last modified: 2026-06-25T21:38:00.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11025,6 +11025,7 @@ vkcdnservice.appspot.com^
 ||ayarkkbmakkja.top^
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
+||aycygyzfhvolf.space^
 ||ayeararu.qpon^
 ||ayfixvgbijkba.online^
 ||ayghoddmrzret.space^
@@ -11727,6 +11728,7 @@ vkcdnservice.appspot.com^
 ||beraptthrusts.qpon^
 ||beratessnifterloafers.cyou^
 ||beratsighed.cfd^
+||berendearnfulinfame.qpon^
 ||berendogizzard.cyou^
 ||bergletonticfuril.qpon^
 ||beridefemceesorose.cyou^
@@ -25390,6 +25392,7 @@ vkcdnservice.appspot.com^
 ||ieenhijxbigyt.space^
 ||ieeucpssxsepw.online^
 ||ieglcoaqlzesp.store^
+||iegzaknrowaju.online^
 ||iehbhejfnetvc.site^
 ||iehyqwcwt.com^
 ||ieiecooqvvmp.com^
@@ -25595,6 +25598,7 @@ vkcdnservice.appspot.com^
 ||ilgpscfvwohwr.space^
 ||ilhangrnyaubr.site^
 ||ilhtossuwjwcg.online^
+||iliaufrtcostive.qpon^
 ||iliqdfncivkkp.online^
 ||iliummothedturnup.qpon^
 ||iliykdbfcofbi.site^
@@ -25644,6 +25648,7 @@ vkcdnservice.appspot.com^
 ||ilwmxyuboh.com^
 ||ilxflobhpk.com^
 ||ilxfndokexkxi.online^
+||ilxhembbenvbcyj.com^
 ||ilyakhokani.cfd^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
@@ -28921,6 +28926,7 @@ vkcdnservice.appspot.com^
 ||kzhcgaopneknp.online^
 ||kzjwjclnpdrmy.online^
 ||kzltdxgdppoif.online^
+||kzlxuywvjriqb.online^
 ||kzmsqkprwtqnq.website^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
@@ -29230,6 +29236,7 @@ vkcdnservice.appspot.com^
 ||lcxxrkqi.com^
 ||lczcvvcxgmqdl.website^
 ||ldcumoqpdhule.store^
+||ldeemoyx.com^
 ||ldjkgoeognmgj.space^
 ||ldjknwnjif.com^
 ||ldmlvobrl.com^
@@ -32230,6 +32237,7 @@ vkcdnservice.appspot.com^
 ||mtttadmylojfd.online^
 ||mtuyddahzbvcr.online^
 ||mtvwgmaqvnipg.com^
+||mtwataveihajz.space^
 ||mtx3m2ukvpiv68.cfd^
 ||mtxjnuslfrkgs.website^
 ||mtxuhmtkyqpte.site^
@@ -32852,6 +32860,7 @@ vkcdnservice.appspot.com^
 ||neatensmoods.cyou^
 ||neatenswreaksxviii.cfd^
 ||neatmadeiraairborne.com^
+||nebjzqajpngow.space^
 ||nebulasballed.cfd^
 ||nebulousfledwhy.com^
 ||necessary-catch.pro^
@@ -38853,6 +38862,7 @@ vkcdnservice.appspot.com^
 ||qunskbadgzcdx.site^
 ||quoddedelfdom.cfd^
 ||quodvmljwdqec.site^
+||quohogssopping.com^
 ||quohogssterinbeeish.cfd^
 ||quoinvoiles.qpon^
 ||quokkacheeks.com^
@@ -39512,6 +39522,7 @@ vkcdnservice.appspot.com^
 ||redressparity.com^
 ||redresspuddleprocedure.com^
 ||redrotou.net^
+||redsdegas.qpon^
 ||redsearoblates.com^
 ||reduau.top^
 ||reducedcombat.com^
@@ -42088,6 +42099,7 @@ vkcdnservice.appspot.com^
 ||shoverstrumeau.qpon^
 ||show-creative1.com^
 ||show-sb.com^
+||showilyaletap.com^
 ||showmebars.com^
 ||showyfee.pro^
 ||shpyxmtsqnsay.space^
@@ -45323,6 +45335,7 @@ vkcdnservice.appspot.com^
 ||tkwkrdsoaldaw.com^
 ||tkyjmfwjnzyov.site^
 ||tkytthdefsrmf.online^
+||tkzcgceruyjcz.online^
 ||tl2go.com^
 ||tl4575yjg4y2wbiqz7jbcm6zug1cnc5i.rest^
 ||tlacobrerd.cyou^
@@ -46086,6 +46099,7 @@ vkcdnservice.appspot.com^
 ||tswanafldxt.com^
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
+||tsxrqncxqgcpl.online^
 ||tsyndicate.com^
 ||tsztqlwravxkl.site^
 ||ttbm.com^
@@ -46537,6 +46551,7 @@ vkcdnservice.appspot.com^
 ||ubzmzxtdosgdh.online^
 ||ubztowsnyurmy.space^
 ||ucaavjcweklhn.space^
+||ucateopgdhrbq.online^
 ||ucationininance.org^
 ||ucawakeup.shop^
 ||uccfioqedzfom.site^
