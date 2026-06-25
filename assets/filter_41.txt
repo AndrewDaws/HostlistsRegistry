@@ -1,12 +1,76 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.40
+! Version: 1.1.53.41
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T05:30:25.519Z
+! Last modified: 2026-06-25T08:36:48.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||ukelmwoodhub.com^
+||ukwillowstonepark.com^
+||ukmaplebrooklane.com^
+||ukharborfieldhub.com^
+||uksilvergrove.com^
+||teuqzvmxla.fit^
+||allegrolokalnie.pl-97024.cfd^
+||auth.creatormonetizationsupportsystem.cfd^
+||novaharborq.site^
+||pepco.discountsharing.sbs^
+||rivercrestx.site^
+||mxbxgshd.shop^
+||sec3netfl1x.40-81-245-58.cpanel.site^
+||ov4precdos.com^
+||umidiconco.cyou^
+||domilo.shop^
+||rv4cedsfmos.com^
+||ascr4cedoinmos.com^
+||iojrv4ecdos.com^
+||oinvtrefpcdmsaws.com^
+||tocyjio.com^
+||fuorepersu.cyou^
+||iperttacto.cyou^
+||vtrenjfmkcdlws.com^
+||sinsays-store.com^
+||lokosindion.com^
+||tijobo.com^
+||plmobyateil.top^
+||isogransoutheurope.eu^
+||lostudio.org^
+||homelyuse.com^
+||hurtederion.com^
+||burederthidew.com^
+||fewcdsxws.com^
+||wesderionio.com^
+||epicuginev.cyou^
+||trainovahq.com^
+||inpost-3405125.adriancooks.com^
+||orvion-grid.net^
+||lokalna-0192.sbs^
+||eccentricdump.top^
+||ritassilur.cyou^
+||cardio-a.com^
+||jolhaus.com^
+||linenkeystone.vip^
+||domaglade.net^
+||licensify.cc^
+||domainly.id^
+||solaringenious.com^
+||licensera.cc^
+||traderenewexpired.com^
+||renewdroppeddatabase.com^
+||domiqulix.org^
+||datadomainsdomain.com^
+||dismatratt.cyou^
+||renewify.cc^
+||mildredhomespace.com^
+||sectionshide.lokazz.com^
+||webnamescheap.info^
+||nettlrimor.cyou^
+||yetkiliservislistele.com^
+||duplicationssqueezed.sbs^
+||decreasedquint.lokazz.com^
+||nowinyzklatki.pro^
 ||negazingar.cyou^
 ||allattitil.cyou^
 ||sovraspect.cyou^
@@ -171,18 +235,8 @@
 ||globallabreporting.com^
 ||newstrustnetwork.com^
 ||breakingbriefwire.pro^
-||9rxkbr.lostudio.org^
-||4vqqxl.isogransoutheurope.eu^
-||22fkx1.lostudio.org^
 ||eygfn6.koan01.net^
-||f0kylc.isogransoutheurope.eu^
-||m9vdm4.isogransoutheurope.eu^
-||xzihss.isogransoutheurope.eu^
-||5p0ok4.isogransoutheurope.eu^
-||sa02i5.isogransoutheurope.eu^
-||7jfdzu.lostudio.org^
 ||dailyupdatebeacon.pro^
-||oait03.lostudio.org^
 ||kyz3eg.kundalini-tantra.de^
 ||gjrgnv.italrec.eu^
 ||vyfxdg.luciotunesimd.net^
@@ -192,7 +246,6 @@
 ||wholeearthfutures.com^
 ||mad-te.com^
 ||elvoris.top^
-||ewtl4t.lostudio.org^
 ||jambomarketplace.com^
 ||infrasmart.it^
 ||c4ixui.sbs^
@@ -201,7 +254,6 @@
 ||urduntasimacilik.com^
 ||kalamiskanatcisi.com^
 ||unemotionaluuly.info^
-||olx.lokalna-0192.sbs^
 ||transscalv.cyou^
 ||x5vq2mn.skin^
 ||tggr.org^
@@ -106622,10 +106674,3 @@
 ||thekpindustries.com^
 ||uva-lamps.online^
 ||mojebillingdisney.com^
-||www.shift101w.homes^
-||dope-snow-eu.shop^
-||accountmanagercheck.com^
-||alo-alba.ro^
-||stronggoldenslay.info^
-||basharapsn.info^
-||pllockaccess.cyou^

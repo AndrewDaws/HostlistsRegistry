@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.36
+! Version: 1.0.5.37
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-06-24T07:24:44.931Z
+! Last modified: 2026-06-25T08:37:06.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1071,7 +1071,6 @@
 ||2link.cc^
 ||2link.in^
 ||2ly.link^
-||2m.is^
 ||2my.info^
 ||2no.co^
 ||2nu.gs^
@@ -6777,7 +6776,6 @@
 ||rch.lt^
 ||rcknr.io^
 ||rckstr.bz^
-||rcl.ink^
 ||rcld.io^
 ||rd.gt^
 ||rd-client.com^
