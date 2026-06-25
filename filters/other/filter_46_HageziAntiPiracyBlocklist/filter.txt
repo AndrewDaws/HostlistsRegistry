@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.72
+! Version: 1.0.25.73
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-06-25T08:36:33.119Z
+! Last modified: 2026-06-25T11:04:41.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1725,7 +1725,6 @@
 ||123moviesfree.cyou^
 ||123moviesfree.day^
 ||123moviesfree.guru^
-||123moviesfree.help^
 ||123moviesfree.homes^
 ||123moviesfree.love^
 ||123moviesfree.me^
@@ -1920,7 +1919,6 @@
 ||1jour1film0626c.site^
 ||1jour1film0725b.site^
 ||1jour1film2026.site^
-||1jour1filmhd.lol^
 ||1kif.com^
 ||1kino.in^
 ||1l1l.to^

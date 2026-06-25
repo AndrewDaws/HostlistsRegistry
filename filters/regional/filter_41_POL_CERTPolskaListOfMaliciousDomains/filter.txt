@@ -1,12 +1,101 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.42
+! Version: 1.1.53.43
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T09:16:25.720Z
+! Last modified: 2026-06-25T11:04:54.838Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||sohomarin.com^
+||getsadak.com^
+||iyilikvakti.org^
+||cansuakdeniz.com^
+||terezbqplz.fit^
+||tererxzkjp.club^
+||terefhyned.top^
+||terelazikp.beer^
+||hediyola.com^
+||hulyawedding.com^
+||rmsboya.net^
+||kazaklimuhendislik.shop^
+||filvidanjor.com^
+||efendioglugumus.com^
+||eu-jyskonline.shop^
+||rentekskavator.com^
+||jumpt.shop^
+||royaletkinlik.net^
+||altimok.com^
+||uknorthfieldlane.com^
+||tojumont.com^
+||ontimalt.com^
+||xalvorinth.com^
+||nauakewwirowrposf.site^
+||docimmonet.cyou^
+||www.polandwoodcraft.shop^
+||adanawebsite.com^
+||classic.9hdxhairs.com^
+||buynewbalances.com^
+||okimont.com^
+||uyturjiwsoriiwruieotuir.site^
+||www.primarkpolska.pl^
+||aldi-us.aislestock.shop^
+||ugrhavuz.com^
+||distedavimturkiye.com^
+||dpdhelp-pl.bond^
+||dpdhelp-pl.com^
+||dpdhelp-pl.cyou^
+||dpdhelp-pl.cfd^
+||fb.verifiblueaccountsecure.cfd^
+||kibarmedya.com^
+||terewlmikp.beer^
+||masakopdaodpospdo.site^
+||nnowacijapolsk.site^
+||teregjmrfv.wiki^
+||dpdhelp-pl.sbs^
+||alebilet.pl-oferta873019821.cfd^
+||gramino.lt^
+||nisantasidonercisi.com^
+||elifmendes.com^
+||olx-pl.oiunem.icu^
+||stetson-bf1.shop^
+||nasgadys9ioadiof.site^
+||lldloutletsoffer.shop^
+||nelvixora.com^
+||brivontexa.com^
+||trelivonza.com^
+||dramivorah.com^
+||syltoranix.com^
+||vorikalex.com^
+||eobuwie.douglas-nlllsh.sbs^
+||krelmontix.com^
+||jibyinvet.cyou^
+||saglikprofesyonelleriakademi.com^
+||hitexgraphics.ferromatalco.net^
+||monitoring-poczta.netlify.app^
+||helpcenteraple.tempurl.host^
+||arabamifiyatla.com^
+||lopooweiwrisodof.site^
+||akvazone.com^
+||petroleumjellypn.com^
+||gelallastik.com^
+||nethostting.com^
+||pl-10690206.cfd^
+||tappatarsi.cyou^
+||terelazikp.yoga^
+||ukoakridgezone.com^
+||terejolkyh.work^
+||quarvexilon.com^
+||terebdcvpl.fit^
+||ukbrightmeadow.com^
+||ukgreencrestway.com^
+||praxenthor.com^
+||pl-97024.cfd^
+||stagldispu.cyou^
+||brightaxiomx.site^
+||girnerentacar.com^
+||kineticsculptureart.com^
+||submitcase-92841074.com^
 ||v4recdsxrws.com^
 ||ukriverstonepark.com^
 ||ukcedarpointview.com^
@@ -24,7 +113,6 @@
 ||ukharborfieldhub.com^
 ||uksilvergrove.com^
 ||teuqzvmxla.fit^
-||allegrolokalnie.pl-97024.cfd^
 ||auth.creatormonetizationsupportsystem.cfd^
 ||novaharborq.site^
 ||pepco.discountsharing.sbs^
@@ -106681,5 +106769,3 @@
 ||duweqif.com^
 ||solarpowerpros47d.info^
 ||app-account-pulse.com^
-||booklng.app-host-mport.com^
-||thekpindustries.com^
