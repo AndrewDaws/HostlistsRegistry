@@ -1,12 +1,52 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.47
+! Version: 1.1.53.48
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T17:51:18.029Z
+! Last modified: 2026-06-25T18:54:00.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||b2bpin.com^
+||h1fzkl.sbs^
+||elviora.lovable.app^
+||arachcepac.cyou^
+||personelsecme.com^
+||tarnauncus.cyou^
+||karumsoft.com^
+||drfundaakin.com^
+||vekilhub.com^
+||elzedekor.com^
+||ykstest.com^
+||polaywo.lovable.app^
+||sessiz6.com^
+||cengizhanmuderrisoglu.com^
+||shokoffer.com^
+||shmagazacilik.com^
+||villaturbali.com^
+||poctza.qzz.io^
+||allegrolokalnie.oferta3958274948x93958264.xyz^
+||vancouverrecoverycoach.com^
+||158-158-74-174.cprapid.com^
+||normalization.fed-logix.xyz^
+||dpp.otohd.online^
+||moros.carbodiaz.es^
+||pokmete.icu^
+||goodthingseu.xyz^
+||vortexvibeone.com^
+||sale-pme-legend.shop^
+||ttimoo.com^
+||berlinova.top^
+||localsavingsguide.com^
+||postnorddks.com^
+||remvvn.shop^
+||reportdeskstudio.com^
+||99j9pf.isogransoutheurope.it^
+||alertgridmax.pro^
+||newswavecentral.com^
+||presswatchglobal.com^
+||officialnewswirenow.com^
+||polskagoldaitrade.com^
 ||0nlinetasks.info^
 ||ritualsdeal.shop^
 ||finance88-eligendi41.sbs^
@@ -26,7 +66,6 @@
 ||lovixa.top^
 ||noiraparts.com^
 ||morning-wood-7030.s2119827.workers.dev^
-||sexpe.localsavingsguide.com^
 ||cinchsemih.cyou^
 ||flintstaple.vip^
 ||mebgledesign.shop^
@@ -141,7 +180,6 @@
 ||themgzr.com^
 ||kebabsonline.com^
 ||poczta-pl.eadfbe.icu^
-||www.remvvn.shop^
 ||glosyzmurow24.pro^
 ||bekodepo.com^
 ||bestdentalclinicturkiye.com^
@@ -424,7 +462,6 @@
 ||www.przytulnydom.shop^
 ||raccapasse.cyou^
 ||facebook-badge-apply.com^
-||rubyknice.localsavingsguide.com^
 ||komfortdomu.shop^
 ||galax-spark.org^
 ||investing-canada.com^
@@ -443,7 +480,6 @@
 ||xenwor.com^
 ||texefqplra.club^
 ||glaretirsh.cyou^
-||olx.pokmete.icu^
 ||texelxpmqz.help^
 ||globainew.it.com^
 ||879456142.cfd^
@@ -529,7 +565,6 @@
 ||booallplayers.info^
 ||7zn4rkp.hair^
 ||allegrolokalnie.75319.cfd^
-||olx-pl.pokmete.icu^
 ||sahidanisman.com^
 ||slegacanal.cyou^
 ||podslychaniewpl.info^
@@ -705,7 +740,6 @@
 ||backend-gw.com^
 ||getmeeter.com^
 ||sxjingyue.com^
-||lidl.sale-pme-legend.shop^
 ||poczta-polska.top^
 ||drop.fgwdesk.info^
 ||refersadness.com^
@@ -1349,7 +1383,6 @@
 ||xamsdcs.shop^
 ||hrixo.shop^
 ||opoopoeotiorieroirwwo.site^
-||ezebra.sale-pme-legend.shop^
 ||northpeakjournal.com^
 ||dpdloical-pl.sbs^
 ||dpdloical-pl.eu.cc^
@@ -3611,7 +3644,6 @@
 ||underkiwi.vip^
 ||biletmerkez.com^
 ||quenvireox.xyz^
-||selgros24.berlinova.top^
 ||iioadipoapdosdosfiodai.site^
 ||hsewear.com^
 ||garantivizem.net^
@@ -3948,7 +3980,6 @@
 ||pulsportalowy.pro^
 ||texedvqxnl.cyou^
 ||biezaceszepty.xyz^
-||cosibella.berlinova.top^
 ||bardaagucc.cyou^
 ||polskabnarlbas.sviluppo.host^
 ||szeptyzredakcji.top^
@@ -4724,7 +4755,6 @@
 ||frontlinevanguardalert.pro^
 ||kauf-plus.de^
 ||cool2313hot.shop^
-||aldi-uk.vortexvibeone.com^
 ||www.cheapur.com^
 ||darselo.cfd^
 ||vinted.id98153.com^
@@ -5079,7 +5109,6 @@
 ||domoklik.shop^
 ||shop-dm.shop^
 ||1frfr2dfw.rest^
-||toolnation-eu.ttimoo.com^
 ||outleco.com^
 ||cccfb.shop^
 ||outsaleon.com^
@@ -5106,7 +5135,6 @@
 ||italianews.it.com^
 ||ritual-care.shop^
 ||confedeiet.cyou^
-||toolnation.ttimoo.com^
 ||ofertomat.shop^
 ||polo-sale.shop^
 ||moja-paczka.zzfwqg.icu^
@@ -6015,7 +6043,6 @@
 ||guestroom-housestay3891.com^
 ||guestfinder-housestay5398.com^
 ||apartshare-housestay4861.com^
-||cosibella.goodthingseu.xyz^
 ||vinted.id972841.com^
 ||tekionva.eu^
 ||pizuhya.pro^
@@ -6043,7 +6070,6 @@
 ||booking.digitalguest-portal.com^
 ||militimmol.cyou^
 ||jli-eduid0873032-pola9-38773skjafwdww.lambiasericambisrl.com^
-||smyk.goodthingseu.xyz^
 ||brucirioff.cyou^
 ||texetmxqpn.icu^
 ||cloudregistration.hk^
@@ -9776,7 +9802,6 @@
 ||turqual.com^
 ||zblokuobokbloku.top^
 ||gaziozmanpasacopkonteyner.com^
-||notino-eu.ttimoo.com^
 ||zulicwroclawia.xyz^
 ||jyskss-pl.shop^
 ||risplniell.cyou^
@@ -17400,7 +17425,6 @@
 ||trendspots.shop^
 ||www.sewerh.shop^
 ||shadow-quester.com^
-||aldi-us.vortexvibeone.com^
 ||xm-ky.com^
 ||sxdtl.com^
 ||gzcyc.com^
@@ -106831,63 +106855,3 @@
 ||trudexanora.world^
 ||westanovique.world^
 ||510s98a.cyou^
-||allegrolokalnie.82738472934.sbs^
-||lombertfeesd.top^
-||mindsetcoach22d.info^
-||raventonique.cloud^
-||kadrionewest.cloud^
-||a556888-113.cyou^
-||coremaviston.cloud^
-||halvertonyx.world^
-||allegrolokalnie.plst2ksazs12xk.icu^
-||77773aax1.cyou^
-||92ueh2919f2j42.cfd^
-||4818209zii.cyou^
-||51981s7a.cyou^
-||auir1144.sbs^
-||6095833dfiu1.sbs^
-||conformation-1915.shop^
-||conformation-1914.shop^
-||conformation-1919.shop^
-||wellnesswarrior52d.info^
-||booklng.view-my-htl.com^
-||remoteworkzone55d.info^
-||entrepreneurjourney57d.info^
-||businesstactics58d.info^
-||dec-staying.com^
-||ery.g1giig.life^
-||mejehe.com^
-||lonverispath.world^
-||favelsmali.sbs^
-||contrammid.world^
-||allebilet.pl-smart7858823.cfd^
-||votetuunsec.sbs^
-||allegrolokalne.pl-smart7858823.cfd^
-||fingeduell.sbs^
-||disombirbo.world^
-||conformation-1912.shop^
-||xn--albilet-b9a.pl-smart7858823.cfd^
-||alebilet.pl-smart7858823.cfd^
-||plsd9hlazb02xk.icu^
-||allegrolokalnie.pl-smart7858823.cfd^
-||vinted.pl-smart7858823.cfd^
-||aiebilet.pl-smart7858823.cfd^
-||allegrolokainie.pl-smart7858823.cfd^
-||olx.pl-smart7858823.cfd^
-||allegro.pl-smart7858823.cfd^
-||xn--albilet-b9a.pl-smart6758814.cfd^
-||olx.pl-smart6758814.cfd^
-||alebilet.pl-smart6758814.cfd^
-||conformation-1923.shop^
-||aiebilet.pl-smart01875814.cfd^
-||plsd9klazs02xk.icu^
-||allegrolokainie.pl-smart01875814.cfd^
-||vinted.pl-smart01875814.cfd^
-||plso9klazs02xk.icu^
-||allegrolokalnie.pl-smart01875814.cfd^
-||aiebilet.pl-smart6758814.cfd^
-||allegrolokalne.pl-smart6758814.cfd^
-||vinted.pl-smart6758814.cfd^
-||allebilet.pl-smart6758814.cfd^
-||allegrolokainie.pl-smart6758814.cfd^
-||allegrolokalnie.pl-smart6758814.cfd^
