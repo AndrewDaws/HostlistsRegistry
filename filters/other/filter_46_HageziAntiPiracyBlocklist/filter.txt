@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.73
+! Version: 1.0.25.74
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-06-25T11:04:41.352Z
+! Last modified: 2026-06-25T19:39:33.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7874,6 +7874,7 @@
 ||g4u.to^
 ||gaanubal-lordfilm.ru^
 ||gabber.space^
+||gachanime.jp^
 ||gadkij-ya-lordfilm3.ru^
 ||gadkiy-yiaw-lordfilm.ru^
 ||gajver-lordfilm3.ru^
@@ -20725,6 +20726,7 @@
 ||movieworld.to^
 ||moviexk.biz^
 ||moviezenith.com^
+||moviezenn.com^
 ||moviezone.ws^
 ||moviful.com^
 ||moviplus.net^
