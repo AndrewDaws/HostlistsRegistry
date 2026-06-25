@@ -1,12 +1,70 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.43
+! Version: 1.1.53.44
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T11:04:54.838Z
+! Last modified: 2026-06-25T13:01:28.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||clearprogressq.site^
+||100723.cfd^
+||depicfiebo.cyou^
+||alan01.com^
+||armastek-fr.com^
+||vulnbrain.com^
+||dpdhelps.cfd^
+||dpdhelps.sbs^
+||dpdhelps.shop^
+||dpdhelps.cyou^
+||dpdhelps.bond^
+||hamaratbey.com^
+||berioispoiscisii.site^
+||teregjmrfv.top^
+||kioiosfkafisofisd.site^
+||greenfieldk.site^
+||borremoons.cyou^
+||pl.invstoracl.click^
+||csaiofipsdoosfofi.site^
+||eur.fifaeu.com^
+||polokyujhbd.site^
+||terefhyned.club^
+||guzelhesap.com^
+||faktyzpodjazdow.info^
+||dpdlocali-dhz.bond^
+||dpdlocali-zxp.bond^
+||dpdlocali-zne.bond^
+||hcbrovyn.shop^
+||fb.creatormonetizationsupporthelp.cfd^
+||finance87-iure76.sbs^
+||strapappas.cyou^
+||terezbqplz.help^
+||kolektif-projeyatirim.com^
+||intersportsales.com^
+||perrysarah.shop^
+||anitatomek.shop^
+||wielouslugowy.online^
+||nauadiudsdiusrosf.site^
+||equisimpen.cyou^
+||pl-oferta910932.cfd^
+||ilacimyolda.com^
+||terevhnujk.luxe^
+||energylandia.site^
+||dyncas.top^
+||shillprete.cyou^
+||alebiletoferta1.cyou^
+||alebilet.oferta09.lat^
+||guvenayberkolker.com^
+||yakinmiat.com^
+||esteall.com^
+||frehaq.top^
+||1-nqpcotpdem-fesa5.f9tvsl.casa^
+||nebulasporkulubu.com^
+||yerliturizm.shop^
+||reallnews.com^
+||hmnmedikal.com^
+||allegrolokalnie.pl538.lat^
+||thebespokealone.shop^
 ||sohomarin.com^
 ||getsadak.com^
 ||iyilikvakti.org^
@@ -106759,13 +106817,3 @@
 ||styleinsider44d.info^
 ||plenumaridge.cloud^
 ||caldrenovist.world^
-||prezzbubil.sbs^
-||vastelorique.cloud^
-||bmp-paribas-pl.connectiona.im^
-||wszoaes02.com^
-||www.sledzctwo.eu^
-||booklng.view-htl-mnmgt.com^
-||amazontravelec.com^
-||duweqif.com^
-||solarpowerpros47d.info^
-||app-account-pulse.com^
