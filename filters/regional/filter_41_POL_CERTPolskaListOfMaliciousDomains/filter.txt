@@ -1,12 +1,23 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.41
+! Version: 1.1.53.42
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T08:36:48.032Z
+! Last modified: 2026-06-25T09:16:25.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||v4recdsxrws.com^
+||ukriverstonepark.com^
+||ukcedarpointview.com^
+||coccosubie.cyou^
+||luxvillasandmore.com^
+||sosmobilrent.com^
+||afyondenge.com^
+||nasjaskiowpeoapdoda.site^
+||kuzeyemlaktr.com^
+||ibuv4rneclos.com^
+||inpostbox.xyz^
 ||ukelmwoodhub.com^
 ||ukwillowstonepark.com^
 ||ukmaplebrooklane.com^
@@ -106672,5 +106683,3 @@
 ||app-account-pulse.com^
 ||booklng.app-host-mport.com^
 ||thekpindustries.com^
-||uva-lamps.online^
-||mojebillingdisney.com^
