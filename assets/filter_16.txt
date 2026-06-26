@@ -1,9 +1,9 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.39
+! Version: 1.0.17.40
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-06-24T05:28:29.432Z
+! Last modified: 2026-06-26T05:35:18.497Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14241,6 +14241,7 @@
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 at.deviletcolog.com
 0.0.0.0 atableofcup.com
+0.0.0.0 atdxamakqo.in
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atlassolutions.com
 0.0.0.0 atp.io
@@ -15349,6 +15350,7 @@
 0.0.0.0 g0push.com
 0.0.0.0 g2288.com
 0.0.0.0 ga.looserokaying.shop
+0.0.0.0 gadmagckfy.com
 0.0.0.0 gainsscarceshiny.com
 0.0.0.0 galaksion.com
 0.0.0.0 galaxien.com
@@ -15733,6 +15735,7 @@
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 jfan1.com
 0.0.0.0 jfjle4g5l.com
+0.0.0.0 jgqpddekjd.com
 0.0.0.0 jhukfaosdjfa.com
 0.0.0.0 jijswitreaqv.in
 0.0.0.0 jinkads.de
@@ -15909,6 +15912,7 @@
 0.0.0.0 luxope.com
 0.0.0.0 lwgadm.com
 0.0.0.0 lwonclbench.com
+0.0.0.0 lwxoothcoq.com
 0.0.0.0 lyssapebble.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
@@ -17653,6 +17657,7 @@
 0.0.0.0 waxa-direct.info
 0.0.0.0 waymarkgentiin.com
 0.0.0.0 wbilvnmool.com
+0.0.0.0 wd.macherabemaim.shop
 0.0.0.0 wda.com
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 wdqhdqtlxu.com

@@ -1,12 +1,33 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.53
+! Version: 1.1.53.54
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T01:11:46.247Z
+! Last modified: 2026-06-26T05:35:25.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||intrautraq.cyou^
+||suablpolar.cyou^
+||wdrazamy.zendi.pl^
+||webapssaccountshftytnm.dfhpopoiqwemn.com^
+||ecouni.info^
+||tejegamxqpl.club^
+||talledecim.cyou^
+||annulsacco.cyou^
+||prodis.lol^
+||transrigio.cyou^
+||clausminsuri.com^
+||jujufddjffiosddsdo.site^
+||namammaaksododo.site^
+||econ-motix.it.com^
+||bolanolas.com^
+||zvonlams.com^
+||simpllaest.cyou^
+||riomakolians.com^
+||allegro.goof8471230m.bond^
+||radiosingu.cyou^
+||victorimof.com^
 ||voclet.net^
 ||quartstupi.cyou^
 ||netgiveup.fit^
@@ -106863,26 +106884,3 @@
 ||dexavorline.cloud^
 ||aggetjunct.world^
 ||modelconco.world^
-||birdwatchingclub90d.info^
-||orivenhall.world^
-||castelovex.world^
-||sikihixisetve.cloud^
-||lovukehixidi.cloud^
-||zaxoyuyel.cloud^
-||plasticfreeguide80d.info^
-||petscorner87d.info^
-||wildlifesanctuary85d.info^
-||animalrescueinfo86d.info^
-||oceanconservation83d.info^
-||dogsofinstagram89d.info^
-||architectureedge76d.info^
-||laudigrane.world^
-||brexonivale.cloud^
-||jumpday.click^
-||uxjoyzzy.top^
-||incartacti.world^
-||homeautomation73d.info^
-||cryptocurrent62d.info^
-||biotechbreakthrough68d.info^
-||travelgreenguide82d.info^
-||pl-oferta2533826.pl^

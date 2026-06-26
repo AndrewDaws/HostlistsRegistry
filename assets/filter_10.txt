@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.15
+! Version: 1.0.21.16
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-06-25T05:30:25.807Z
+! Last modified: 2026-06-26T05:35:25.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -48,6 +48,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -292,8 +293,10 @@
 ||folkrbvi.pages.dev^
 ||food-network.fwh.is^
 ||freebitcoin.pages.dev^
+||freedom-5g.com^
 ||friday89.com^
 ||friday99.com^
+||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
@@ -467,7 +470,9 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -709,7 +714,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -889,6 +893,7 @@
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
+||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
 ||wp3.xyz^
