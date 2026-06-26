@@ -1,12 +1,43 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.59
+! Version: 1.1.53.60
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T15:01:42.423Z
+! Last modified: 2026-06-26T16:48:30.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||lokalna-ofera94949493292.xyz^
+||allegrolokalnie.lokalna-ofeta3465654.shop^
+||form.hhl2010.com^
+||zf9.h4ndth.casa^
+||shininglightinitiative.org^
+||lidkkvip.shop^
+||lioreken.site^
+||e-tatilci.com^
+||correpolly.cyou^
+||inpost.paycore-24.cfd^
+||kidskoaching.com^
+||chipolinoturkiye.com^
+||allegrolokalnie.lokalna-ofeta56362.sbs^
+||footpath-egotistic-manual.ngrok-free.dev^
+||yinebanagel.com^
+||dissedesec.cyou^
+||ol-xpaczka.asi3k223.cyou^
+||giftbox3d.com^
+||havuzasansoru.com^
+||digitaltiplevel.com^
+||infelrimod.cyou^
+||account.digitals.vu^
+||checkbuy1184.shop^
+||jcglobenix.com^
+||silivrihafriyat.com^
+||rivisrichi.cyou^
+||assetrecover.click^
+||shidaoyinzuo.com^
+||sdormdispr.cyou^
+||massitotem.cyou^
+||allegrolokalnie.lokalna-oferta85325.cfd^
 ||bombsheonline.shop^
 ||peonxfio.shop^
 ||ikcontech.cam^
@@ -106962,4 +106993,3 @@
 ||selenalkyl.homes^
 ||diphyperin.world^
 ||decapselet.world^
-||ca6ef6c20f.nxcli.io^

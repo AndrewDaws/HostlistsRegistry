@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.70.78
+! Version: 1.0.70.79
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-06-26T15:00:53.944Z
+! Last modified: 2026-06-26T16:47:38.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11430,6 +11430,7 @@ vkcdnservice.appspot.com^
 ||batilevwwijjj.online^
 ||batoktor.in^
 ||battlescalpelrut.com^
+||battutoallium.shop^
 ||battutocritics.com^
 ||batzenabies.cyou^
 ||bauderyhistory.cfd^
@@ -15432,6 +15433,7 @@ vkcdnservice.appspot.com^
 ||covhxwjqshexr.site^
 ||covisitmanolis.cyou^
 ||covivado.club^
+||covsayslgwcsv.com^
 ||cowardlyapex.com^
 ||cowardlydefinite.com^
 ||cowardlyvitaljoggle.com^
@@ -16161,6 +16163,7 @@ vkcdnservice.appspot.com^
 ||czhplqbsgswcz.site^
 ||czhtvbrrnqpwq.site^
 ||cziganyravener.qpon^
+||cznbqd.com^
 ||cznjfnlosgkob.online^
 ||cznratophrtou.website^
 ||cznzorthcvkvi.online^
@@ -18463,6 +18466,7 @@ vkcdnservice.appspot.com^
 ||e897lgevwo5h4iq.rest^
 ||e89d45b16370ee7e43daeaf6ce8d9547.com^
 ||e8ew6h7nkt2t21v.cfd^
+||e8gnor6w14b1q4g.rest^
 ||e8gwhwefgi187h.rest^
 ||e8ys.com^
 ||e910e94be7.com^
@@ -27811,6 +27815,7 @@ vkcdnservice.appspot.com^
 ||juryolympicsspookily.com^
 ||juryprefacereproach.com^
 ||jurysupposedshooter.com^
+||juscoleracouldnt.qpon^
 ||jussalromeine.qpon^
 ||justey.com^
 ||justicowiring.shop^
@@ -28848,6 +28853,7 @@ vkcdnservice.appspot.com^
 ||kteawsjm.com^
 ||kteovdackvu.in^
 ||ktetxsziozrhq.site^
+||ktexiofxqjcugoi.com^
 ||ktfbuorex.com^
 ||kthukxjctweql.site^
 ||ktimmewz.com^
@@ -29997,6 +30003,7 @@ vkcdnservice.appspot.com^
 ||llwcgkvrpmrgs.online^
 ||llwgmjndizraf.website^
 ||llwgnafyieumn.store^
+||llwiazpvumalz.online^
 ||llxemmopmuitk.space^
 ||llxhgmptlnuxe.space^
 ||llxqcrbjflbop.online^
@@ -30192,6 +30199,7 @@ vkcdnservice.appspot.com^
 ||lopsideddebate.com^
 ||loptrrfnfnsnb.space^
 ||lopwhrvtmmhck.store^
+||loqhiecystguy.website^
 ||loqnomgwbsiel.site^
 ||lordhelpuswithssl.com^
 ||lordtroublessounding.com^
@@ -30333,6 +30341,7 @@ vkcdnservice.appspot.com^
 ||lqzoyqvbjkzqm.top^
 ||lqzwpvmxyxfap.space^
 ||lr-in.com^
+||lrafahzbolzqk.space^
 ||lrbrwbjch.com^
 ||lrcaxaztripcv.online^
 ||lrdacssiwbsne.site^
@@ -31167,6 +31176,7 @@ vkcdnservice.appspot.com^
 ||mcxelftdvq.com^
 ||mcxuorwlaqtyd.site^
 ||mcyaabdssxdlg.space^
+||mcyhmaqhrmsuy.website^
 ||mcymghkpdhqmk.website^
 ||mcyvlhru.com^
 ||mczbf.com^
@@ -33024,6 +33034,7 @@ vkcdnservice.appspot.com^
 ||needyscarcasserole.com^
 ||needyvarietysaucer.com^
 ||neekstore.com^
+||neeldspunnyfastly.qpon^
 ||neeltskoqvanu.site^
 ||nefpaocsgp.com^
 ||nefr7xo8bv1pg2u7co.cfd^
@@ -33390,6 +33401,7 @@ vkcdnservice.appspot.com^
 ||njgxjzvgsrzfb.website^
 ||njhinxgrdyjur.space^
 ||njilaobja.com^
+||njimwtnepehuc.website^
 ||njjsvxtovp.com^
 ||njkixvgivjaeg.online^
 ||njlmpujxsozzel.com^
@@ -33509,6 +33521,7 @@ vkcdnservice.appspot.com^
 ||nmpkfhczjd.com^
 ||nmrcrghsaplxeoc.com^
 ||nmroutvgijplm.space^
+||nmtjuybtnyuxi.website^
 ||nmukovjaiytyt.space^
 ||nmunljgekpsrj.site^
 ||nmvxcxextmwrkg.com^
@@ -34577,6 +34590,7 @@ vkcdnservice.appspot.com^
 ||oheplxkctxtdw.online^
 ||oheyffpqepntj.store^
 ||ohffs.com^
+||ohftxhvczfmec.space^
 ||ohfuuzzotyffr.online^
 ||ohganpxujow.in^
 ||ohgbefqegvejj.store^
@@ -45382,6 +45396,7 @@ vkcdnservice.appspot.com^
 ||tiglicunwitty.cyou^
 ||tiglonssaqib.cyou^
 ||tignumhexogen.cyou^
+||tigroiddry.shop^
 ||tigronesizzles.com^
 ||tihmjppaavrmz.site^
 ||tihzzgtucmnqp.online^
@@ -47638,6 +47653,7 @@ vkcdnservice.appspot.com^
 ||uptightprotestanthail.com^
 ||uptimecdn.com^
 ||uptimewithmulticast.com^
+||uptimezloties.qpon^
 ||uptjtciycieat.online^
 ||uptracefeis.com^
 ||upttorecoojaaxone.cfd^
@@ -48013,6 +48029,7 @@ vkcdnservice.appspot.com^
 ||v2006.com^
 ||v2cigs.com^
 ||v3wo53bqxw48bvlc.cfd^
+||v8co5lge8og6xy.cfd^
 ||v8uq327bic54hq.cfd^
 ||v9gb1bfvyzig484tk.cfd^
 ||vaatjcfcwvjsa.space^
