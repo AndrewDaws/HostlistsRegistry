@@ -1,12 +1,44 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.54
+! Version: 1.1.53.55
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T05:35:25.340Z
+! Last modified: 2026-06-26T07:31:33.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||weryplace.online^
+||spernsermo.cyou^
+||sygnalportalowy.pro^
+||asdkdpd.buzz^
+||xwprdter.shop^
+||inpost.paiycore-24.xyz^
+||podgladwiesci24.info^
+||inpost.paycore-24.sbs^
+||narrowichestnut.twofoldfashion.com^
+||bpowerz.deunaprende.com^
+||speaknot.shop^
+||adamdarrell.shop^
+||tammypedrosa.shop^
+||keymloop.xyz^
+||vintagemeble.shop^
+||tadje4.webwave.dev^
+||szeptyzprzystani.info^
+||drivforge.site^
+||petecaffol.cyou^
+||sperinauti.cyou^
+||jeremycortes.shop^
+||echoforgev.site^
+||lovonoo.top^
+||bafkreif4ddvbrmtp2uaaw56vku2vw2kusgcxehzieb5bcqdigsfiwpdcqa.ipfs.inbrowser.link^
+||estraraste.cyou^
+||prolutattl.cyou^
+||eobuwie.vftewfsdfescdsanharen-nl.sbs^
+||dominoza.shop^
+||immordisco.cyou^
+||placedwarf.brestelbucar.com^
+||pedesembol.cyou^
+||qorello.vip^
 ||intrautraq.cyou^
 ||suablpolar.cyou^
 ||wdrazamy.zendi.pl^
@@ -106838,49 +106870,3 @@
 ||spiovbrami.sbs^
 ||bestirgte.world^
 ||emptiprutze.world^
-||fashionforward249d.info^
-||literaryrealm240d.info^
-||allegro-lokalnie.zam-295648.it.com^
-||artforpublic.com^
-||1947indianrestaurant.com^
-||l6vs5.etkjqmpfkpmv.top^
-||hqd.4i6ndpn.top^
-||degernexora.net^
-||bitbumex800.net^
-||tactiq-dna.site^
-||pl-387923825.cfd^
-||czemlex.net^
-||pl-oferta753244387.icu^
-||wenibkobape.cloud^
-||narvexaline.world^
-||plavernique.cloud^
-||zitafijubuva.world^
-||handmadewithlove97d.info^
-||virexanode.world^
-||fashioncraft95d.info^
-||endecimmis.world^
-||telmarivale.world^
-||underwaterworld91d.info^
-||assevannic.world^
-||zerowastejourney79d.info^
-||aiinnovations64d.info^
-||pasofu.cloud^
-||sunmarketl.info^
-||staphlesbi.world^
-||plendorique.world^
-||smartcityguide71d.info^
-||irradunmis.world^
-||novacrestial.world^
-||zucchmotiv.world^
-||aquariumhobby92d.info^
-||pacisi.cloud^
-||attririnfo.sbs^
-||deepseadiscovery94d.info^
-||harvenostone.world^
-||culinaryjourney239d.info^
-||ridarspezz.world^
-||velmoranix.cloud^
-||provehitto.world^
-||dexavorline.cloud^
-||aggetjunct.world^
-||modelconco.world^
