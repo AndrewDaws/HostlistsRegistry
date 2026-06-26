@@ -1,9 +1,9 @@
 !
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Version: 1.0.17.33
+! Version: 1.0.17.34
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-06-24T19:37:00.301Z
+! Last modified: 2026-06-26T11:07:44.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -516,7 +516,6 @@
 ||ads.pinterest.com^
 ||ads.planet.nl^
 ||ads.pni.com^
-||ads.pof.com^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.prod.webservices.mozgcp.net^
@@ -971,7 +970,6 @@
 ||bagsurprise.com^
 ||banik.redigy.cz^
 ||banner.ambercoastcasino.com^
-||banner.buempliz-online.ch^
 ||banner.cotedazurpalace.com^
 ||banner.easyspace.com^
 ||banner.elisa.net^
@@ -998,7 +996,6 @@
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
-||banners.babylon-x.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.czi.cz^
@@ -1284,7 +1281,6 @@
 ||clicks.njuskalo.hr^
 ||clickserve.cc-dt.com^
 ||clicksinfo.thefork.co.uk^
-||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^
 ||clicktrack.pubmatic.com^
@@ -1319,6 +1315,7 @@
 ||codeadnetwork.com^
 ||cognitiv.ai^
 ||cointraffic.io^
+||coldbalance.com^
 ||collector-dev.cdp-dev.cnn.com^
 ||collector.cdp.cnn.com^
 ||colonize.com^
@@ -1805,7 +1802,6 @@
 ||hbb.afl.rakuten.co.jp^
 ||hbopenbid.pubmatic.com^
 ||heap.com^
-||heimi-lwx.com^
 ||hellobar.com^
 ||helpcollar.com^
 ||hentaicounter.com^
@@ -1940,7 +1936,6 @@
 ||interreklame.de^
 ||ioam.de^
 ||ip.ro^
-||ip193.cn^
 ||iperceptions.com^
 ||ipredictive.com^
 ||ipstack.com^
@@ -2706,6 +2701,7 @@
 ||reklamdsp.com^
 ||relmaxtop.com^
 ||rememberdiscussion.com^
+||remox.com^
 ||report-1.appmetrica.webvisor.com^
 ||report-2.appmetrica.webvisor.com^
 ||report-partners.appmetrica.yandex.net^
