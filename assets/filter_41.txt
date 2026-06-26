@@ -1,12 +1,58 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.55
+! Version: 1.1.53.56
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T07:31:33.103Z
+! Last modified: 2026-06-26T09:16:46.893Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||aiebilet.pl-478857818758322.sbs^
+||wallartmuseum.com^
+||kancelaria-online.info^
+||erste-hilfe-poessneck.de^
+||ottos-chsaffsdafsadasda.sbs^
+||lexspace.pl^
+||adwokatura.info^
+||pub-78ee4ff71a9141609a2f03dc503df927.r2.dev^
+||f9tvsl.casa^
+||dpdvis.bond^
+||h1gyme.casa^
+||aiebilet.pl-5981085912342.sbs^
+||allegrolokalne.pl-5981085912342.sbs^
+||xn--albilet-b9a.pl-5981085912342.sbs^
+||kancelariaonline.uk^
+||allebilet.pl-5981085912342.sbs^
+||allegrolokalnie.pl-5981085912342.sbs^
+||allegro-lokalnie.pl-5981085912342.sbs^
+||allegro.pl-5981085912342.sbs^
+||olx.pl-5981085912342.sbs^
+||vinted.pl-5981085912342.sbs^
+||alebilet.pl-5981085912342.sbs^
+||allegrolokainie.pl-5981085912342.sbs^
+||ritasarriv.cyou^
+||ukharborstone.com^
+||vhdfmpvw.shop^
+||benigcatta.cyou^
+||kevinmariam.shop^
+||easyfuturek.site^
+||ateliermine.com^
+||rallestral.cyou^
+||ukcedarfieldhub.com^
+||agatish.lovable.app^
+||hisoviska.com^
+||finance93-quo79.sbs^
+||au-chan.shop^
+||ukoakmeadowhub.com^
+||allegrolokalnie.pl-478857818758322.sbs^
+||dknyawoa10rwu5.smallgifts.ca^
+||aveibi.top^
+||allegrolokalnie.lokalna-ofeta1981729.sbs^
+||erremimarlik.com^
+||iracocadmi.cyou^
+||ceptengez.com^
+||beautarcht.cyou^
+||platinorum.com^
 ||weryplace.online^
 ||spernsermo.cyou^
 ||sygnalportalowy.pro^
@@ -396,7 +442,6 @@
 ||yakinmiat.com^
 ||esteall.com^
 ||frehaq.top^
-||1-nqpcotpdem-fesa5.f9tvsl.casa^
 ||nebulasporkulubu.com^
 ||yerliturizm.shop^
 ||reallnews.com^
@@ -106855,18 +106900,3 @@
 ||elmarostone.world^
 ||poetrycorner241d.info^
 ||primewealthtrading.com^
-||mybooking.app-guestinfos.com^
-||prolinixtrader51apex.com^
-||etherealuxflux.com^
-||sxwwumogsl.info^
-||45w.lmwuqpifvsinx.top^
-||immediatesanorex80.net^
-||bravellfund.com^
-||greenenergyhub242d.info^
-||sparlstopp.world^
-||d9p2yg.lol^
-||tradegpt360evixapp.com^
-||hematuncap.world^
-||spiovbrami.sbs^
-||bestirgte.world^
-||emptiprutze.world^
