@@ -1,12 +1,31 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.62
+! Version: 1.1.53.63
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T20:41:28.592Z
+! Last modified: 2026-06-26T21:35:43.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||saurani.shop^
+||renuncesto.cyou^
+||rosurp.com^
+||potwierdzolxsprzedas.info^
+||basahuiufiureki.site^
+||roopantis.cyou^
+||suffidefet.cyou^
+||ofert54034938h5h5.shop^
+||ataskonut.com^
+||twabwdux.shop^
+||ofeer2r39831.xyz^
+||xn--albilet-b9a.12939h74.xyz^
+||vinted.12939h74.xyz^
+||allebilet.12939h74.xyz^
+||yourtopwinner.us^
+||fictive.lol^
+||aggraappro.cyou^
+||pilbataryamarketi.com^
+||rylkopl.shop^
 ||oy845845j.shop^
 ||10209j8j8.shop^
 ||vinted.goof8471230m.bond^
@@ -104971,7 +104990,6 @@
 ||stearncommunlty.com^
 ||allegrolokalnie.pl-89361245.cc^
 ||mybillingspotifypremium.com^
-||www.rylkopl.shop^
 ||quantumtrust-system.com^
 ||allegrolokalniepl.oferta9402.icu^
 ||allegrolokalnie.pl-567883457.icu^
@@ -107017,24 +107035,3 @@
 ||equiloompro-app.net^
 ||swap4000adipex.net^
 ||pro-quantum-ai.net^
-||buffononst.pro^
-||hobbitonif.pro^
-||diletclagzi.world^
-||cinermarro.world^
-||olx.pl-oferta94062813.cfd^
-||pl-927151mawutqba71515hshqhsshag61513uwfacnn3.sbs^
-||support.headfox.in^
-||swap14xsanorex.net^
-||pl-oferta962033-google-pixel-10-pro-xl.sbs^
-||solvextrader17pulse.net^
-||solavextrader-34core.com^
-||sklepbiegacza.saleeu.top^
-||order.form5103.icu^
-||allegro.pl-oferta55179459.sbs^
-||alebilet.pl-oferta55179459.sbs^
-||allegrolokalnie.pl-oferta55179459.sbs^
-||olx.pl-oferta55179459.sbs^
-||schotcadmi.homes^
-||plerodicap.pro^
-||imbiacher.world^
-||ammorhutch.world^
