@@ -1,16 +1,55 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.60
+! Version: 1.1.53.61
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T16:48:30.685Z
+! Last modified: 2026-06-26T19:38:26.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||necrodeter.cyou^
+||virtualofficepremium.com^
+||trackyoursorder.us^
+||gundem-enerji.com^
+||ruyatabiri.xyz^
+||trtavm.com^
+||thespacestrategist.com^
+||smart-ofera23393919.shop^
+||o1ot-1lxp1f645.hs7dcw.top^
+||safeyourbrowser.us^
+||generalmotorsankara.com^
+||nice2gether.com^
+||gwieconcl.cyou^
+||sbisariann.cyou^
+||hansanelektronik.com^
+||teranem.xyz^
+||anyma-bilet-pl.com^
+||sefa7.com^
+||aspaytr.com^
+||ezebra.outdeo.shop^
+||synchrotone.com^
+||learndevelopsucceed.org^
+||kioipoeriosfiosd.site^
+||headmana.cfd^
+||apolluxe.com^
+||ol-xpaczka.asi3k223.sbs^
+||finance99-aut23.mom^
+||arts-4-all.com^
+||h4ndth.casa^
+||topstorybreak.pro^
+||kilaa-soun.xyz^
+||juiooisdfosifofs.site^
+||proverecus.cyou^
+||ofisimiture.com^
+||smarttax312.com^
+||evimsahaneizmir.com^
+||3737282733828.lol^
+||alfakdisin.cyou^
+||hobiarge.com^
+||agtesigla.cyou^
 ||lokalna-ofera94949493292.xyz^
 ||allegrolokalnie.lokalna-ofeta3465654.shop^
 ||form.hhl2010.com^
-||zf9.h4ndth.casa^
 ||shininglightinitiative.org^
 ||lidkkvip.shop^
 ||lioreken.site^
@@ -52,7 +91,6 @@
 ||offstra.com^
 ||toptanav.com^
 ||h8ngbe.cfd^
-||kd6gp.h4ndth.casa^
 ||m6pk2qw.hair^
 ||documents.announced.digital^
 ||paczka.regabne.icu^
@@ -106959,6 +106997,10 @@
 ||solavextrader-34core.com^
 ||sklepbiegacza.saleeu.top^
 ||order.form5103.icu^
+||allegro.pl-oferta55179459.sbs^
+||alebilet.pl-oferta55179459.sbs^
+||allegrolokalnie.pl-oferta55179459.sbs^
+||olx.pl-oferta55179459.sbs^
 ||schotcadmi.homes^
 ||plerodicap.pro^
 ||imbiacher.world^
@@ -106967,29 +107009,3 @@
 ||drabbvatsga.pro^
 ||pl-oferta80507-google-pixel-10-pro.cfd^
 ||pl-oferta94062813.cfd^
-||amberweld.ru^
-||pillafruga.pro^
-||pl-oferta55179459.sbs^
-||rubacierar.homes^
-||allegro-lokalnie.pl-prywatna8952971.icu^
-||zibozentumi.world^
-||nebula-synox.net^
-||conseister.homes^
-||wutawe.world^
-||hytknifhi8.com^
-||xevorantilume.cloud^
-||pellealpeg.digital^
-||sizeer.boot-sale.shop^
-||v4d3kp.sbs^
-||pge-ebok-elektroniczne-66201994811-pl.us.stackstaging.com^
-||excrayzz.click^
-||j0t4sv.lol^
-||pl-oferta70176-playstation-5-pro.cfd^
-||impliconst.sbs^
-||staticance.world^
-||scorcdismo.pro^
-||fanerbipar.pro^
-||sottorinto.world^
-||selenalkyl.homes^
-||diphyperin.world^
-||decapselet.world^

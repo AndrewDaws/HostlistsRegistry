@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.49
+! Version: 1.0.3.50
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-25T23:35:26.539Z
+! Last modified: 2026-06-26T19:38:00.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,093
-# Updated: 6/25/2026  18:27 (6:27 PM CST)
+# Domains: 115,094
+# Updated: 6/26/2026  13:59 (1:59 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -110666,6 +110666,7 @@
 ||usersurge.com^
 ||usersurvey.dropbox.com^
 ||usersvc.shutterfly.com^
+||users.videasy.to^
 ||usersync.samplicio.us^
 ||user-telemetry.vectra.ai^
 ||user.tennessean.com^

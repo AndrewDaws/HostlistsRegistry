@@ -1,13 +1,13 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.91
+! Version: 1.0.20.92
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-25T23:35:55.254Z
+! Last modified: 2026-06-26T19:38:31.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
-||000000.live^
+||00000.live^
 ||0000o.xyz^
 ||00104186da.com^
 ||0012e30263.com^
@@ -79,6 +79,7 @@
 ||05fa754f24.com^
 ||05j.net^
 ||060jinbo.com^
+||0628ba07b4.com^
 ||0645405ef4.com^
 ||067f87da09.com^
 ||06baf23bcc.com^
@@ -616,6 +617,7 @@
 ||2m-store.com^
 ||2ndscreensociety.com^
 ||2-pdf.com^
+||2qh7mtw6yglvxnpc6pcm.cfd^
 ||2qj7mq3w4uxe.com^
 ||2sanders.de^
 ||2shrt.com^
@@ -857,6 +859,7 @@
 ||4536e19398.com^
 ||454mediahouse.com^
 ||459b6951ca.com^
+||45b58980d0.com^
 ||45cb7b8453.com^
 ||45cqv.com^
 ||45eijvhgj2.com^
@@ -4276,6 +4279,7 @@
 ||arrowhurt.xyz^
 ||arrubscioc.com^
 ||arsade.com^
+||arsenylboodle.com^
 ||arsheensignals.com^
 ||arshelmeton.com^
 ||arsnivyr.com^
@@ -4924,6 +4928,7 @@
 ||awokearcticadmirer.com^
 ||awokeembarkquicker.com^
 ||awokelifestylelax.com^
+||awokensilicyl.cyou^
 ||awolhalling.com^
 ||awsdns-531.com^
 ||awsrealmssupport.com^
@@ -5305,6 +5310,7 @@
 ||baronypunjum.shop^
 ||barosearch.com^
 ||barrackmuppetunhealthy.com^
+||barrelaffloofatrophy.qpon^
 ||barricadecourse.com^
 ||barricadegroin.com^
 ||barrierinterest.com^
@@ -6381,6 +6387,7 @@
 ||bo2ffe45ss4gie.com^
 ||bo2news.biz^
 ||bo4news.biz^
+||bo607.com^
 ||boabijihum.com^
 ||boardingarmoryrough.com^
 ||boardingphosphate.com^
@@ -9224,6 +9231,7 @@
 ||commapercyfine.com^
 ||commastick.com^
 ||commdistinc.com^
+||commemoratewisdomcontemn.com^
 ||commendhealthagitation.com^
 ||commentaryblame.com^
 ||commentarybumpbankrupt.com^
@@ -11538,6 +11546,7 @@
 ||d5xsfddfzb99g.cloudfront.net^
 ||d6344ef0f4.com^
 ||d63a3au5lqmtu.cloudfront.net^
+||d6770f7a45.com^
 ||d6774f016a.com^
 ||d6cto2pyf2ks.cloudfront.net^
 ||d6deij4k3ikap.cloudfront.net^
@@ -15381,6 +15390,7 @@
 ||executionreciteinstalled.com^
 ||executivehadregent.com^
 ||executive-search.top^
+||exemplarfederallithe.com^
 ||exemptmet.com^
 ||exercisereachhere.store^
 ||exesioncouma.com^
@@ -22066,6 +22076,7 @@
 ||isolatedovercomepasted.com^
 ||isolatenoneconfirm.cfd^
 ||isolatespokesman.com^
+||isologteentsy.qpon^
 ||isootrd.com^
 ||isoplas.com^
 ||isoptichabiru.com^
@@ -22145,6 +22156,7 @@
 ||iucksforme.net^
 ||iucksforyou.net^
 ||iuckyluck.net^
+||iuenvtnayrmar.website^
 ||iuh-news1.club^
 ||iupot.com^
 ||ius.lv^
@@ -22589,6 +22601,7 @@
 ||juryolympicsspookily.com^
 ||juryprefacereproach.com^
 ||jurysupposedshooter.com^
+||juscoleracouldnt.qpon^
 ||just2dating.com^
 ||justadblocksearch.com^
 ||justcomp.biz^
@@ -22688,6 +22701,7 @@
 ||karakuloutmate.com^
 ||karamabh.org^
 ||karcevanium.com^
+||kareaoweskit.shop^
 ||karimbi.ru^
 ||karinablow.com^
 ||karnovexil.my^
@@ -22807,6 +22821,7 @@
 ||keyhamates.com^
 ||keyholetroops.com^
 ||keylegally.com^
+||keylesshowk.shop^
 ||keymuscle.xyz^
 ||keysformapp.com^
 ||keywordqueryresults.com^
@@ -24066,6 +24081,7 @@
 ||lootynews.com^
 ||loowalnutappellation.com^
 ||loowhujoom.net^
+||loqhiecystguy.website^
 ||lordinstructionagrarian.com^
 ||lordmastery.com^
 ||lordsmobile.games^
@@ -26770,6 +26786,7 @@
 ||need-ur-approval-today.com^
 ||needyscarcasserole.com^
 ||needysullen.com^
+||neeldspunnyfastly.qpon^
 ||neetbiologynotes.xyz^
 ||negarley-salties.com^
 ||negateacted.com^
@@ -29516,6 +29533,7 @@
 ||peatnecessarily.com^
 ||peatrivetshooting.com^
 ||peattropical.com^
+||pebblepilot.com^
 ||pecantinglytripod.com^
 ||pe-cmf.com^
 ||peculiaritieswatcher.com^
@@ -29956,6 +29974,7 @@
 ||pirouque.com^
 ||piscesclaques.digital^
 ||pishootp.com^
+||pisksalvo.qpon^
 ||pismo-deda.by^
 ||pispiringa.com^
 ||pisticdorpers.shop^
@@ -30451,6 +30470,7 @@
 ||portableconfine.com^
 ||portaldosites.com^
 ||portal.experiencesikhi.com^
+||portalfluently.com^
 ||portalfor3.xyz^
 ||portalfresh3.xyz^
 ||portalhq3.xyz^
@@ -33312,6 +33332,7 @@
 ||roselocation7.xyz^
 ||rosetheet.com^
 ||rosition.my.id^
+||rostelshute.shop^
 ||rosterink.my^
 ||rosttraborago.com^
 ||rosvt.ru^
@@ -37039,6 +37060,7 @@
 ||stewsmall.com^
 ||stfdoboj.net^
 ||stgbssint.com^
+||stgcdn.com^
 ||stheweatherpilot.com^
 ||stiaz.com^
 ||stichoseroded.com^
@@ -39186,6 +39208,7 @@
 ||toursmargins.top^
 ||tovespiquener.com^
 ||towardsarmylie.space^
+||toweleyewitnessrubbing.com^
 ||towelraisincavity.com^
 ||toweratwork5.xyz^
 ||towerbat.com^
@@ -40593,6 +40616,7 @@
 ||v4c0gjtrk.com^
 ||v4ke.shop^
 ||v4yleins27hv.com^
+||v8co5lge8og6xy.cfd^
 ||v9.com^
 ||v9search.com^
 ||vaafx.cfd^

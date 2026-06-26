@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.75
+! Version: 1.0.18.76
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-25T19:39:19.631Z
+! Last modified: 2026-06-26T19:37:53.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3370,6 +3370,7 @@
 0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
+0.0.0.0 www.eventflavor.com
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.exceleratehelp.com
