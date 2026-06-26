@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.70.76
+! Version: 1.0.70.77
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-06-26T11:07:31.380Z
+! Last modified: 2026-06-26T12:54:15.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7247,6 +7247,7 @@ vkcdnservice.appspot.com^
 ||2p1kreiqg.de^
 ||2p6tqu3qeurmf4lezm.cfd^
 ||2pc6q54ga.de^
+||2qh7mtw6yglvxnpc6pcm.cfd^
 ||2qj7mq3w4uxe.com^
 ||2qkh3nbvi7y9xhoy.cfd^
 ||2rb5hh5t6.de^
@@ -11576,6 +11577,7 @@ vkcdnservice.appspot.com^
 ||beauit.cyou^
 ||beauty1.xyz^
 ||beavertron.com^
+||bebangcaromel.com^
 ||bebautvdrradc.world^
 ||bebeuwaqgtukc.site^
 ||bebont.xyz^
@@ -14141,6 +14143,7 @@ vkcdnservice.appspot.com^
 ||cguunwxpkld.com^
 ||cgw46pe4.xyz^
 ||cgyemhvxgjwub.com^
+||cgyquuphjlzsf.online^
 ||chaconayautias.qpon^
 ||chaerel.com^
 ||chafesbranialdisa.cyou^
@@ -15476,6 +15479,7 @@ vkcdnservice.appspot.com^
 ||cpmtree.com^
 ||cpnsbxkibvbhw.space^
 ||cpsvwfrdhhe.com^
+||cpthbnildpvlt.online^
 ||cpuim.com^
 ||cpumuhmpocab.in^
 ||cpuzspopetlsg.space^
@@ -15828,6 +15832,7 @@ vkcdnservice.appspot.com^
 ||ctwmed.com^
 ||ctxclwykznvzt.online^
 ||ctygrooirhjo.com^
+||ctyhodypm.com^
 ||ctyywrvwlffgc.online^
 ||ctzsryncxsdkg.site^
 ||ctzzirfslkvcv.website^
@@ -16023,6 +16028,7 @@ vkcdnservice.appspot.com^
 ||cwkanmdqepjx.com^
 ||cwkbtdbcwprcvf.com^
 ||cwmgdpescuqtc.space^
+||cwonjakwxipnq.online^
 ||cwqctcmhswrth.online^
 ||cwqhagwjoppbb.website^
 ||cwqtqpxudxicq.space^
@@ -18248,6 +18254,7 @@ vkcdnservice.appspot.com^
 ||duzgntgfdihcp.space^
 ||dvajwxjemufrrf.com^
 ||dvdjtxgcokydc.online^
+||dvecqwppmsppx.website^
 ||dvfritvgogdkr.space^
 ||dvgmukfq.com^
 ||dvgpumwwbtyee.space^
@@ -20301,6 +20308,7 @@ vkcdnservice.appspot.com^
 ||fargwyn.com^
 ||farleulearierbasally.cfd^
 ||farlmarc.cyou^
+||farmingrebused.cfd^
 ||farnessowenian.cyou^
 ||farragorelineversus.cfd^
 ||farriercategoryidentifier.com^
@@ -22673,6 +22681,7 @@ vkcdnservice.appspot.com^
 ||gkiymzihcndek.website^
 ||gkjiqxvktjmla.site^
 ||gkjzkkbuewngs.online^
+||gklvjdmuolblq.website^
 ||gkmjovbmwuldf.site^
 ||gkohigudu.com^
 ||gkppydpvwxwak.website^
@@ -23620,6 +23629,7 @@ vkcdnservice.appspot.com^
 ||gxtihgivnpgei.online^
 ||gxvdzkmvwmgua.online^
 ||gxvlkzwimkiyb.site^
+||gxwuzuvteofqw.website^
 ||gxxdsbbklvze.com^
 ||gxyrpjc41262c8666geqw59u3.cfd^
 ||gybmppuezjtqe.space^
@@ -33631,6 +33641,7 @@ vkcdnservice.appspot.com^
 ||nossairt.net^
 ||nostrilquarryprecursor.com^
 ||nostrilswallpaper.com^
+||notableapple.com^
 ||notablebicycle.pro^
 ||notablepace.pro^
 ||notablespiritual.pro^
@@ -34283,6 +34294,7 @@ vkcdnservice.appspot.com^
 ||ocmtag.com^
 ||ocnxmgcdfncy.com^
 ||oconner.link^
+||ocop-defender.pro^
 ||ocotechurr.cfd^
 ||ocpakqgcapu.in^
 ||ocpnroag.com^
@@ -34911,6 +34923,7 @@ vkcdnservice.appspot.com^
 ||onwgnrgbcozvl.store^
 ||onxfqnzyfbmio.online^
 ||onxfzyvirzuj.in^
+||onxosrmu.in^
 ||onzggvpppnbqbe.com^
 ||ooauorttoseto.website^
 ||oobeapxokjyke.online^
@@ -36730,6 +36743,7 @@ vkcdnservice.appspot.com^
 ||pkxhh7fn6wz92xhgf43.cfd^
 ||pkxpiuwxhtdbe.space^
 ||pkyrdvdcsuiua.site^
+||pl3grtnnhgrenjmti.rest^
 ||placardrepentanceshoes.com^
 ||placetobeforever.com^
 ||placiddeb.cfd^
@@ -40228,6 +40242,7 @@ vkcdnservice.appspot.com^
 ||ribgreenhousecompose.com^
 ||ribkdvpyszfm.com^
 ||ribosesshutes.cfd^
+||ribsmuffscornus.cfd^
 ||ricalsbuildf.com^
 ||ricclvychqusy.website^
 ||ricead.com^
@@ -42429,6 +42444,7 @@ vkcdnservice.appspot.com^
 ||sinkintervalscozy.com^
 ||sinlessdiduceboid.qpon^
 ||sinmufar.com^
+||sinnerhealthypoured.com^
 ||sinproductors.org^
 ||sinwhezjcvvch.online^
 ||siouxunhosejoyride.cyou^
@@ -46167,6 +46183,7 @@ vkcdnservice.appspot.com^
 ||trouepeptids.com^
 ||trouterpailou.shop^
 ||troutpeskynest.com^
+||trovesleepit.com^
 ||trovlmxm.com^
 ||trowanegarote.cyou^
 ||trowthstiffiedallied.qpon^
@@ -49748,6 +49765,7 @@ vkcdnservice.appspot.com^
 ||welllitsurround.pro^
 ||wellliveblog.com^
 ||welllwrite.com^
+||wellmadesurvey.pro^
 ||wellmov.com^
 ||welltodo-mouth.pro^
 ||welltodomanager.pro^
@@ -52159,6 +52177,7 @@ vkcdnservice.appspot.com^
 ||ykejihmzdvsex.store^
 ||ykhikqgrdmfll.website^
 ||ykialgtdbpp.com^
+||ykinroxfqdpgv.com^
 ||ykixhtyppkoko.space^
 ||ykiyhzbgnqkys.online^
 ||ykkdpgqpukmlzs.com^
@@ -56796,6 +56815,7 @@ vkcdnservice.appspot.com^
 ||geobanner.hornywife.com^
 ||geobanner.sexfinder.com^
 ||gettubetv.com^
+||go.clickwhore.com^
 ||gpt.milftube.mobi^
 ||iframe.adultfriendfinder.com^
 ||loveme.com^
@@ -143160,6 +143180,7 @@ dlsdk.appsflyer.com^
 ||softclick.com.br^
 ||solution911.com^
 ||templates.buscape.com^
+||vipapi.me^
 ||veoapi.net^
 ||pressms.ru^
 ||go2net.com.ua^

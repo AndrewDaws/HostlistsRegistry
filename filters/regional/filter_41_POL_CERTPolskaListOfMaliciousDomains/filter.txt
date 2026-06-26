@@ -1,12 +1,57 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.57
+! Version: 1.1.53.58
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T11:08:22.050Z
+! Last modified: 2026-06-26T12:55:04.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||kiopsofoorkfslskdf.site^
+||sultanbugday.com^
+||nowe-25-06-26.click^
+||uzatmabirader.com^
+||polshome.shop^
+||alebiletoferta9.sbs^
+||galamexicanaecuador.com^
+||rezervkanit.com^
+||allegrolokalnie.smart-92542.cfd^
+||extruorant.cyou^
+||spanisquam.cyou^
+||kphbowga.shop^
+||francishomelive.com^
+||ersahicgiyim.online^
+||sgpositron.com^
+||form.100dollarhuds.com^
+||form.shenghuida56.com^
+||clubfenerbahce.com^
+||eurodental.info^
+||inpostpl.one^
+||srv250136.hoster-test.ru^
+||promptcanyon.net^
+||anadolutipbirligi.org^
+||dieaaccie.cyou^
+||alpinainvestlimited.com^
+||beh8nfbrie.shop^
+||mischbloss.cyou^
+||softkatman.net^
+||ozkomkompresor.com^
+||aliciburada.com^
+||tdrdwhxxgjzhztwxtxsf-dp9ctcz1v8gi.edgeone.dev^
+||doysos.com^
+||uknorthpinehub.com^
+||ritualseu.shop^
+||onuryapikarasu.com^
+||sehrisera.com^
+||srolife.com^
+||alphaotomotiv.com^
+||vavorolmi.cyou^
+||finance91-earum7.mom^
+||shoperify.offer31514.rest^
+||incisplati.cyou^
+||ozanlarmetalrafineri.com^
+||thesofttoe.shop^
+||themckaywelt.shop^
 ||dpdlocali-ixg.bond^
 ||dpdlocali-yoi.bond^
 ||dpdlocali-ygu.bond^
@@ -106881,6 +106926,7 @@
 ||decapselet.world^
 ||ca6ef6c20f.nxcli.io^
 ||u6p0ji.sbs^
+||alebilet.pl-hwgavn726252wggshard7725haga6.sbs^
 ||designstudiohub75d.info^
 ||plplus-info.com^
 ||orbitfocus.cfd^
@@ -106940,27 +106986,3 @@
 ||plst9klazs02xk.icu^
 ||291878s999sss.cfd^
 ||5876-10a98zj.sbs^
-||allegrolokalnie.91284918294.sbs^
-||kevinsaquariums.com^
-||mejores3.com^
-||hamzehhadad.com^
-||hnabilgenerator.com^
-||gptrackr.com^
-||ripicchint.world^
-||yobetme.com^
-||bingvisa.com^
-||pl-hwgavn726252wggshard7725haga6.sbs^
-||fodalabs.com^
-||fsboandco.com^
-||gptx9euraxapp.com^
-||bitradeorrego.com^
-||taxeliox.net^
-||allegrolokalnie.8127381273.sbs^
-||h8m7yr.icu^
-||immediate20intal.net^
-||xafnagoxuyeda.world^
-||fabuhosedgelli.cloud^
-||iodocdisel.homes^
-||tavernolix.world^
-||ovoidrecli.homes^
-||ounceridon.world^

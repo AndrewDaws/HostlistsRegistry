@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Normal Blocklist
 ! Description: Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
-! Version: 1.0.31.1
+! Version: 1.0.31.2
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-06-26T11:07:42.558Z
+! Last modified: 2026-06-26T12:54:27.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -10715,6 +10715,7 @@
 ||sgtm.web.clickup.com^
 ||results.clickverifier.online^
 ||stats.clickviviendas.es^
+||go.clickwhore.com^
 ||tr.news.clicochic.com^
 ||trac.clicplan.fr^
 ||trac.clicplan.it^
@@ -11233,6 +11234,7 @@
 ||d1s18kaechs9c9.cloudfront.net^
 ||d1s4mby8domwt9.cloudfront.net^
 ||d1s5n6wuwgnxf4.cloudfront.net^
+||d1s8vtutufck9t.cloudfront.net^
 ||d1sboz88tkttfp.cloudfront.net^
 ||d1sc13y7hrlskd.cloudfront.net^
 ||d1sfclevshpbro.cloudfront.net^
@@ -11443,7 +11445,6 @@
 ||d29i6o40xcgdai.cloudfront.net^
 ||d29lduyskr59p4.cloudfront.net^
 ||d29mhxfd390ueb.cloudfront.net^
-||d29mvmlv0uf9l3.cloudfront.net^
 ||d29mxewlidfjg1.cloudfront.net^
 ||d2a0tn74luqqde.cloudfront.net^
 ||d2a0wk9ahruyzx.cloudfront.net^
@@ -11466,7 +11467,6 @@
 ||d2c2pscv8ayc0e.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2camyomzxmxme.cloudfront.net^
-||d2cek19ei8u7c4.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d2cli4kgl5uxre.cloudfront.net^
 ||d2cmh8xu3ncrj2.cloudfront.net^
@@ -11475,7 +11475,6 @@
 ||d2cq71i60vld65.cloudfront.net^
 ||d2cqjjokdc31wb.cloudfront.net^
 ||d2d6cf2do9znht.cloudfront.net^
-||d2d756ulnohqjs.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2db10c4rkv9vb.cloudfront.net^
 ||d2dc2sk4vkh2xn.cloudfront.net^
@@ -11530,7 +11529,6 @@
 ||d2gi7ultltnc2u.cloudfront.net^
 ||d2glav2919q4cw.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
-||d2gtzq6vrs67vv.cloudfront.net^
 ||d2h2t5pll64zl8.cloudfront.net^
 ||d2h7xgu48ne6by.cloudfront.net^
 ||d2h85i07ehs6ej.cloudfront.net^
@@ -11571,7 +11569,6 @@
 ||d2k7gvkt8o1fo8.cloudfront.net^
 ||d2k8yz7zlc0yyi.cloudfront.net^
 ||d2kadvyeq051an.cloudfront.net^
-||d2kb7e4l5uwdes.cloudfront.net^
 ||d2kd9y1bp4zc6.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kecuadujf2df.cloudfront.net^
@@ -11601,19 +11598,16 @@
 ||d2m6mzhbzc72b5.cloudfront.net^
 ||d2m785nxw66jui.cloudfront.net^
 ||d2m94lbnm5w6s8.cloudfront.net^
-||d2mgfcwumuqvgo.cloudfront.net^
 ||d2mgk3zfd02vd2.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
 ||d2moz0h55szev9.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
-||d2mvehzm92szfi.cloudfront.net^
 ||d2mvl3dkxvehny.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
 ||d2n2qdkjbbe2l7.cloudfront.net^
 ||d2n5v45616cm6u.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
-||d2nc4vdebby89a.cloudfront.net^
 ||d2ng6x3yyemlxz.cloudfront.net^
 ||d2nin2iqst0txp.cloudfront.net^
 ||d2nje72ms8ylvb.cloudfront.net^
@@ -11650,7 +11644,6 @@
 ||d2p6p61as37cfr.cloudfront.net^
 ||d2p8taqyjofgrq.cloudfront.net^
 ||d2pdbggfzjbhzh.cloudfront.net^
-||d2pm03h7avw356.cloudfront.net^
 ||d2pnacriyf41qm.cloudfront.net^
 ||d2pozfvrp52dk4.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
@@ -11671,7 +11664,6 @@
 ||d2qqc8ssywi4j6.cloudfront.net^
 ||d2qxmykuaro8s3.cloudfront.net^
 ||d2qz7ofajpstv5.cloudfront.net^
-||d2r04q496213hs.cloudfront.net^
 ||d2r173wcohmi6.cloudfront.net^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
@@ -11714,7 +11706,6 @@
 ||d2uaktjl22qvg4.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2udkjdo48yngu.cloudfront.net^
-||d2ufpetskdq8dy.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
 ||d2ul07mfd59d8q.cloudfront.net^
 ||d2un76zvb5mgzx.cloudfront.net^
@@ -11725,7 +11716,6 @@
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2v4wf9my00msd.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
-||d2vcmitbj8sjr6.cloudfront.net^
 ||d2vl0gdro49u3c.cloudfront.net^
 ||d2vmavw0uawm2t.cloudfront.net^
 ||d2vorijeeka2cf.cloudfront.net^
@@ -11754,7 +11744,6 @@
 ||d2xng9e6gymuzr.cloudfront.net^
 ||d2xoknzblbbhrj.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
-||d2xvr380n8t1rn.cloudfront.net^
 ||d2xxq4ijfwetlm.cloudfront.net^
 ||d2xxqqn3tj9nf3.cloudfront.net^
 ||d2y1lr6nqzfgkq.cloudfront.net^
@@ -11766,7 +11755,6 @@
 ||d2yjkgrjody1qc.cloudfront.net^
 ||d2yjxa7gi6wm99.cloudfront.net^
 ||d2ykons4g8jre6.cloudfront.net^
-||d2ynw8so8bj9er.cloudfront.net^
 ||d2yqd6s4llxprx.cloudfront.net^
 ||d2yt9hj1yu3ly.cloudfront.net^
 ||d2ywv53s25fi6c.cloudfront.net^
@@ -11837,6 +11825,7 @@
 ||d33fc9uy0cnxl9.cloudfront.net^
 ||d33gmheck9s2xl.cloudfront.net^
 ||d33m25o4wo6f3g.cloudfront.net^
+||d33nluofm5criy.cloudfront.net^
 ||d33otidwg56k90.cloudfront.net^
 ||d33s3ffr7fotas.cloudfront.net^
 ||d33u55zn5p3wfg.cloudfront.net^
@@ -11964,7 +11953,6 @@
 ||d3div1mtym39ic.cloudfront.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
-||d3e0v2fize42ie.cloudfront.net^
 ||d3e8xvf8dyclkj.cloudfront.net^
 ||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
@@ -12009,7 +11997,6 @@
 ||d3hwh14livah35.cloudfront.net^
 ||d3hyjqptbt9dpx.cloudfront.net^
 ||d3hyoy1d16gfg0.cloudfront.net^
-||d3hzbtp5a80xz2.cloudfront.net^
 ||d3i28n8laz9lyd.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
 ||d3iih5w7xp5hdg.cloudfront.net^
@@ -12029,7 +12016,6 @@
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
 ||d3jzhqnvnvdy34.cloudfront.net^
-||d3k0cbyjjyeqhj.cloudfront.net^
 ||d3k2wzdv9kuerp.cloudfront.net^
 ||d3k68ig7ckr3r6.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
@@ -12166,7 +12152,6 @@
 ||d3ubdcv1nz4dub.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d3ugwbjwrb0qbd.cloudfront.net^
-||d3uha13cti0nle.cloudfront.net^
 ||d3uj0uhi43axgb.cloudfront.net^
 ||d3uqm14ppr8tkw.cloudfront.net^
 ||d3uvwdhukmp6v9.cloudfront.net^
@@ -12176,7 +12161,6 @@
 ||d3vgkjyuhp91nc.cloudfront.net^
 ||d3vk40ihlliju7.cloudfront.net^
 ||d3vnm1492fpnm2.cloudfront.net^
-||d3vnuv7smlsg9a.cloudfront.net^
 ||d3vp85u5z4wlqf.cloudfront.net^
 ||d3vpf6i51y286p.cloudfront.net^
 ||d3vsc1wu2k3z85.cloudfront.net^
@@ -12184,7 +12168,6 @@
 ||d3vvrup2jpfiep.cloudfront.net^
 ||d3vw4uehoh23hx.cloudfront.net^
 ||d3vw74hiy9xqtm.cloudfront.net^
-||d3w0arvvki19jt.cloudfront.net^
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d3yl7tmbqe1mq.cloudfront.net^
 ||d3zd5ejbi4l9w.cloudfront.net^
@@ -12197,7 +12180,6 @@
 ||d4ebx5h0p80bx.cloudfront.net^
 ||d4eqyxjqusvjj.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
-||d58y3i8g62axh.cloudfront.net^
 ||d5d3sg85gu7o6.cloudfront.net^
 ||d5em5plenp2k5.cloudfront.net^
 ||d5i9o0tpq9sa1.cloudfront.net^
@@ -12229,7 +12211,6 @@
 ||d7tst6bnt99p2.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 ||d830x8j3o1b2k.cloudfront.net^
-||d89xmmx6e5grb.cloudfront.net^
 ||d8a69dni6x2i5.cloudfront.net^
 ||d8bsqfpnw46ux.cloudfront.net^
 ||d8c5y8fq3znwi.cloudfront.net^
@@ -12238,7 +12219,6 @@
 ||d8dkar87wogoy.cloudfront.net^
 ||d8hdm94ldw8yr.cloudfront.net^
 ||d8k8yw18dq88h.cloudfront.net^
-||d8mrs2p5baql5.cloudfront.net^
 ||d8sllv1cwflbw.cloudfront.net^
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d90z5o386dhs7.cloudfront.net^
@@ -12251,7 +12231,6 @@
 ||d9etzk30b05yg.cloudfront.net^
 ||d9jj3mjthpub.cloudfront.net^
 ||d9leupuz17y6i.cloudfront.net^
-||d9msk9dy9tbnk.cloudfront.net^
 ||d9qjkk0othy76.cloudfront.net^
 ||d9r4lqt28t1fm.cloudfront.net^
 ||d9tnvwv7i2n85.cloudfront.net^
@@ -12339,7 +12318,6 @@
 ||dfqcp2awt0947.cloudfront.net^
 ||dfwbfr2blhmr5.cloudfront.net^
 ||dfwp6qatulz0p.cloudfront.net^
-||dg063sxephvgi.cloudfront.net^
 ||dg0hrtzcus4q4.cloudfront.net^
 ||dg6gu9iqplusg.cloudfront.net^
 ||dg7k1tpeaxzcq.cloudfront.net^
@@ -12357,7 +12335,6 @@
 ||dh8azcl753e1e.cloudfront.net^
 ||dhcmni6m2kkyw.cloudfront.net^
 ||dhgywazgeek0d.cloudfront.net^
-||dhktcdi6d5t28.cloudfront.net^
 ||dhpikd1t89arn.cloudfront.net^
 ||dhrhzii89gpwo.cloudfront.net^
 ||dhzws7l31cq8p.cloudfront.net^
@@ -12427,7 +12404,6 @@
 ||dmc1acwvwny3.cloudfront.net^
 ||dmdigbrzjbmso.cloudfront.net^
 ||dmeq7blex6x1u.cloudfront.net^
-||dmfe2ryjiqnq7.cloudfront.net^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
@@ -12448,7 +12424,6 @@
 ||dna8twue3dlxq.cloudfront.net^
 ||dne6rbzy5csnc.cloudfront.net^
 ||dnf06i4y06g13.cloudfront.net^
-||dnfutcpxi5u1v.cloudfront.net^
 ||dnh523js9661q.cloudfront.net^
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dnhgz729v27ca.cloudfront.net^
@@ -12483,7 +12458,6 @@
 ||dp64mxip2za0c.cloudfront.net^
 ||dp94m8xzwqsjk.cloudfront.net^
 ||dpb3g4kqr8xz.cloudfront.net^
-||dpcvfgmszlvpx.cloudfront.net^
 ||dpd9yiocsyy6p.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||dpirwgljl6cjp.cloudfront.net^
@@ -19557,8 +19531,6 @@
 ||sgtm.earthechofoods.com^
 ||qltuh.earthheartsmith.com^
 ||applog.matrix.easebar.com^
-||mgbsdknaeast.matrix.easebar.com^
-||mgbsdksg.matrix.easebar.com^
 ||mgbsdksgtest.matrix.easebar.com^
 ||data-detect.nie.easebar.com^
 ||mrzh-kr.fp.ps.easebar.com^
@@ -29110,7 +29082,6 @@
 ||analytics.kongregate.io^
 ||affiliate.konibet.com^
 ||piwik.konicaminolta.eu^
-||vg.konigakeyset.top^
 ||adsmart.konka.com^
 ||login.konnectads.com^
 ||static.konnectads.com^
@@ -43234,7 +43205,6 @@
 ||collectors.sumologic.com^
 ||opamp-collectors.sumologic.com^
 ||open-collectors.sumologic.com^
-||tg.sumptfiestas.shop^
 ||cmh-analytics.sumtotal.host^
 ||webanalytics.sumtotal.host^
 ||ads.sun.com^
@@ -59219,7 +59189,6 @@
 ||9nizbbyf774vm14cp4e797zk.cfd^
 ||9nl.eu^
 ||9nmv95m7jl2wx31kk79p7648.cfd^
-||9npze.com^
 ||9o29nhxgp.com^
 ||9obmf866d.com^
 ||9orao5br.com^
@@ -60022,6 +59991,7 @@
 ||accustomjumper.com^
 ||acdc-strom.de^
 ||acdcdn.com^
+||acdkpbpzpjekb.website^
 ||acdojsqocgvoj.online^
 ||acdpainters.com^
 ||ace-adserver.com^
@@ -62814,6 +62784,7 @@
 ||agilitydigitalmedia.com^
 ||agillic.eu^
 ||agilone.com^
+||aginalborakparols.qpon^
 ||aginbaretta.shop^
 ||aging3.co^
 ||agingcrawledarose.com^
@@ -65441,6 +65412,7 @@
 ||apyboqno.com^
 ||apycdn.com^
 ||apycdtdlkjqka.site^
+||apychzfrkjvyr.website^
 ||apycomm.com^
 ||apyecom.com^
 ||apyoth.com^
@@ -66608,6 +66580,7 @@
 ||atwgcikkyav.in^
 ||atwi.pl^
 ||atwindutra.qpon^
+||atwodxnrmpabe.space^
 ||atwola.com^
 ||atwqtirutamh.com^
 ||atwrimdatb.com^
@@ -67250,6 +67223,7 @@
 ||axkgummig.in^
 ||axkocscuqo.com^
 ||axkojdfhek.com^
+||axkrpvezkxmar.website^
 ||axmabdamdpka.com^
 ||axmltj.com^
 ||axmmilepqvdyj.world^
@@ -69507,11 +69481,13 @@
 ||bhrltiziiipad.website^
 ||bhs4.com^
 ||bhshm.com^
+||bhsohdcblqsnr.website^
 ||bhsqojyjtucgq.site^
 ||bhszasnoamoro.space^
 ||bhtuukgrerzjmchn.com^
 ||bhukrmnrxzcyd.space^
 ||bhutiamoony.world^
+||bhwavmjvosxwk.online^
 ||bhwgdvpavsfzw.site^
 ||bhwkyiddqyole.space^
 ||bhxwqfawnpdcxc.com^
@@ -69699,7 +69675,6 @@
 ||bihohllw.in^
 ||bihpivqkeb.in^
 ||bihunekus.com^
-||biisteringdate.com^
 ||bijinkadan.com^
 ||bijophomsorsig.com^
 ||bijztncfltrmb.site^
@@ -73904,6 +73879,7 @@
 ||catererdiarrhoeaapproach.com^
 ||catererskilled.com^
 ||cateringquakeunfortunately.com^
+||catfishfatals.cyou^
 ||catfun.tv^
 ||cathaytrash.com^
 ||cathbermes.com^
@@ -74608,6 +74584,7 @@
 ||cgmalight.com^
 ||cgmfhzvqykwxg.store^
 ||cgmfmmjnsxm.com^
+||cgmjawbhcqgu.com^
 ||cgohgvwrgueb.xyz^
 ||cgpjpvvcadzrp.store^
 ||cgqcuskbtcusxl.com^
@@ -74955,7 +74932,6 @@
 ||cheftoondiligord.site^
 ||chekbexdop.pro^
 ||chekrilsoumpoab.net^
-||cheksoam.com^
 ||chelseaimprovement.com^
 ||chemdrug.net^
 ||chemicalssmuglyuntying.com^
@@ -78502,7 +78478,6 @@
 ||croplake.com^
 ||croppahamli.qpon^
 ||cross-a.net^
-||cross-customer.com^
 ||crossboardmobile.com^
 ||crossdevicetracking.com^
 ||crossees.com^
@@ -84848,9 +84823,9 @@
 ||ecjhgxpqqpuzu.website^
 ||ecjrzisfqedcu.space^
 ||eck-grill.de^
+||eckaapep.com^
 ||ecknbonfiftad.website^
 ||eckqjsgnqjvxk.space^
-||eclairstropia.cfd^
 ||ecleneue.com^
 ||eclick.vn^
 ||eclinerybelfast.org^
@@ -86336,6 +86311,7 @@
 ||enternowwebinar.ru^
 ||enterombacerick.com^
 ||enterprisealso.com^
+||enterprises3001.com^
 ||enterprises488.net^
 ||enterprises550.net^
 ||enterprisestorepository.com^
@@ -89038,6 +89014,7 @@
 ||ferit.online^
 ||ferlafamilybikesshop.shop^
 ||ferlagimo.com^
+||fermaltutele.cyou^
 ||fermasosedi.ru^
 ||fermataintima.com^
 ||fermil.shop^
@@ -90668,6 +90645,7 @@
 ||focdn.net^
 ||fockechouma.net^
 ||fockleuncomptbraves.cfd^
+||focusameneducation.com^
 ||focusamongstdaylight.com^
 ||focuscivilization.com^
 ||focused-west.pro^
@@ -92706,7 +92684,6 @@
 ||gamingkoltuk.com^
 ||gaminglaptopcomputer.com^
 ||gamingmadarin.org^
-||gamingnewsanalyst.com^
 ||gamletaarnhuset.no^
 ||gammaclown.com^
 ||gammamaximum.com^
@@ -95777,7 +95754,6 @@
 ||gsgxnauqu8.com^
 ||gshcsoaowxcbz.space^
 ||gshtgmb.com^
-||gsi3t.com^
 ||gsiixznhxxqwg.online^
 ||gsimedia.net^
 ||gsimvqfghc.com^
@@ -97397,7 +97373,6 @@
 ||heim-glueck.de^
 ||heima8.com^
 ||heimalesssinpad.com^
-||heimi-lwx.com^
 ||heimliebe24.de^
 ||heimmehr.de^
 ||heimvoll.de^
@@ -99731,6 +99706,7 @@
 ||hyfiwldsulvvb.website^
 ||hyfntrak.com^
 ||hygckbylqhutq.website^
+||hygeiankinema.cyou^
 ||hygeistintrunk.cfd^
 ||hygiene86.com^
 ||hygienicpee.com^
@@ -103701,7 +103677,6 @@
 ||jeknoeqcgedl.com^
 ||jekzyyowqvevz.top^
 ||jelgavaszinas.com^
-||jellibecphova.shop^
 ||jellycounter.com^
 ||jellyfinstream.com^
 ||jellyhopeless.com^
@@ -106306,6 +106281,7 @@
 ||kipvptyusewoq.space^
 ||kipyn.com^
 ||kira-kira.blue^
+||kirantifandoms.cfd^
 ||kirawhite.com^
 ||kirbiescurfmuckman.cfd^
 ||kireibox.xyz^
@@ -107478,7 +107454,6 @@
 ||kyseral.live^
 ||kysleuqxhkfji.website^
 ||kythesembue.top^
-||kythuatdmayxanh.com^
 ||kytrzcenkcvyo.space^
 ||kyuulknnhnune.online^
 ||kyvaeggfnvefc.space^
@@ -111812,6 +111787,7 @@
 ||marathondataco.com^
 ||marathonpleadparachute.com^
 ||marathonseaside.com^
+||maraudsagamoid.cfd^
 ||marayshahin.shop^
 ||maraywreath.com^
 ||marazma.com^
@@ -112481,7 +112457,6 @@
 ||me88social1.com^
 ||meadow-assets.click^
 ||meadowlullaby.com^
-||meadowstreamlight.com^
 ||meager-conclusion.com^
 ||meagerblock.pro^
 ||meagersex.pro^
@@ -113398,7 +113373,6 @@
 ||midgetbreakfast.com^
 ||midgetgravelshorthand.com^
 ||midgetreckon.com^
-||midgetsrassles.life^
 ||midhold.nl^
 ||midjourney.co^
 ||midlandcultivatecoherence.com^
@@ -128927,7 +128901,6 @@
 ||qsbfglhmfunlq.store^
 ||qsblvjjutcbhh.buzz^
 ||qsccogecrwmdp.website^
-||qseacheby.xyz^
 ||qsepgujcjrr.com^
 ||qservz.com^
 ||qsevuzedqrjoa.online^
@@ -132643,6 +132616,7 @@
 ||rondachang.xyz^
 ||ronderosalvarezabogados.com^
 ||ronerusma.com^
+||rongagesture.cfd^
 ||rongcfg.com^
 ||rongli.com^
 ||ronjonsurfshopz.com^
@@ -138155,7 +138129,6 @@
 ||soldierreproduceadmiration.com^
 ||soldierrewet.com^
 ||soleblinds.com^
-||solededitor.top^
 ||soleescapeprojects.com^
 ||solelyawhir.qpon^
 ||solelyskirtniche.com^
@@ -141910,6 +141883,10 @@
 ||talsauve.com^
 ||taltoocmoomie.net^
 ||taluhetviciousanorexy.cfd^
+||talvurieks.com^
+||talvurieks.org^
+||talvurieks-official.net^
+||talvurieks-official-at.com^
 ||talysu.info^
 ||tamablejuntodewitt.qpon^
 ||tamanacgelilah.shop^
@@ -148526,6 +148503,7 @@
 ||uramilovines.cyou^
 ||uranaikan.com^
 ||urara02032023.com^
+||urazinekecklesflabel.qpon^
 ||urban-press.pro^
 ||urban-signal.pro^
 ||urbanaesthetic.com^
@@ -148611,6 +148589,9 @@
 ||urubieesjkkwxh.com^
 ||urulwxikmmaer.space^
 ||urutumoet.com^
+||urvlentoki.com^
+||urvlentoki-at.com^
+||urvlentoki-ie.com^
 ||urwbsmyrspycn.online^
 ||urwh.cn^
 ||urwqfecgnncli.space^
@@ -151664,6 +151645,7 @@
 ||vvficvcvclphpyn.com^
 ||vvfmrqnivrm.com^
 ||vvfndxeumlfbn.com^
+||vvhub.me^
 ||vvjacrtsivivq.online^
 ||vvkholowfoeku.website^
 ||vvklvhpx.com^
@@ -153916,7 +153898,6 @@
 ||wispingfarmy.qpon^
 ||wispycity.com^
 ||wissekeygroup.com^
-||wissesquagga.top^
 ||wisstbthlyhv.com^
 ||wisteinsight.com^
 ||wister.biz^
@@ -155763,6 +155744,7 @@
 ||xafrzicbixitc.today^
 ||xafszmuibdlps.site^
 ||xagdficxgdrkfyy.com^
+||xahkzacrrwfzu.online^
 ||xahuapu.net^
 ||xahycw.com^
 ||xaiofficial.ai^
@@ -158576,7 +158558,6 @@
 ||ytii.com^
 ||ytinxswlejphn.space^
 ||ytiwffwzbqxya.site^
-||ytjon-d2s1ah.com^
 ||ytjvnutks.pro^
 ||ytjxhgjeudkrx.space^
 ||ytkfatevrpld.com^
