@@ -1,12 +1,35 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.64
+! Version: 1.1.53.65
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T22:33:34.989Z
+! Last modified: 2026-06-26T23:32:44.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||commeaguzz.cyou^
+||xaxcybz.com^
+||nordpostapp.tempurl.host^
+||invisalignisantasi.com^
+||goof8471230m.bond^
+||syrphpheno.cyou^
+||umstambas.cyou^
+||soperdigre.cyou^
+||lumetrixajans.com^
+||rhsigorta.com^
+||arcpointgroup.pro^
+||randevua.com^
+||12939h74.xyz^
+||tejegiufqpn.wiki^
+||rywna4712899.shop^
+||tejeghekmrd.club^
+||widestony.xyz^
+||tejegjykqn.club^
+||instaapex.sbs^
+||boostedtrade.monster^
+||lokalna-3431212.sbs^
+||evers.lol^
+||atmospherehot.lat^
 ||saurani.shop^
 ||renuncesto.cyou^
 ||rosurp.com^
@@ -18,9 +41,6 @@
 ||ataskonut.com^
 ||twabwdux.shop^
 ||ofeer2r39831.xyz^
-||xn--albilet-b9a.12939h74.xyz^
-||vinted.12939h74.xyz^
-||allebilet.12939h74.xyz^
 ||yourtopwinner.us^
 ||fictive.lol^
 ||aggraappro.cyou^
@@ -28,8 +48,6 @@
 ||rylkopl.shop^
 ||oy845845j.shop^
 ||10209j8j8.shop^
-||vinted.goof8471230m.bond^
-||allegrolokalnie.goof8471230m.bond^
 ||saort4938h45.cfd^
 ||8h723810.xyz^
 ||akrwjeip.shop^
@@ -43,7 +61,6 @@
 ||gooretan.xyz^
 ||idrofhepat.cyou^
 ||torvinari.eu^
-||allegrolokalnie.12939h74.xyz^
 ||naticdualm.cyou^
 ||titolarrog.cyou^
 ||ademsertkarmenenerji.com^
@@ -386,7 +403,6 @@
 ||zvonlams.com^
 ||simpllaest.cyou^
 ||riomakolians.com^
-||allegro.goof8471230m.bond^
 ||radiosingu.cyou^
 ||victorimof.com^
 ||voclet.net^
