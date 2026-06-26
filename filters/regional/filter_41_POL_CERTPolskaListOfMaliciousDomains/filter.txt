@@ -1,12 +1,41 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.61
+! Version: 1.1.53.62
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-26T19:38:26.365Z
+! Last modified: 2026-06-26T20:41:28.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||oy845845j.shop^
+||10209j8j8.shop^
+||vinted.goof8471230m.bond^
+||allegrolokalnie.goof8471230m.bond^
+||saort4938h45.cfd^
+||8h723810.xyz^
+||akrwjeip.shop^
+||foesoflegacy.com^
+||ummanbilimmerkezi.com^
+||28821392h5.shop^
+||2393877.bond^
+||aukcje564349.lol^
+||0989lh6534f1.shop^
+||1023010h04.shop^
+||gooretan.xyz^
+||idrofhepat.cyou^
+||torvinari.eu^
+||allegrolokalnie.12939h74.xyz^
+||naticdualm.cyou^
+||titolarrog.cyou^
+||ademsertkarmenenerji.com^
+||linestradesign.com^
+||finance95-nostrum78.sbs^
+||www.meblefabryka.shop^
+||valtorinix.com^
+||reginadonna.com^
+||thalvorix.com^
+||kinetek-motor.com^
+||koranvelth.com^
 ||necrodeter.cyou^
 ||virtualofficepremium.com^
 ||trackyoursorder.us^
@@ -361,7 +390,6 @@
 ||hpooti54823.shop^
 ||prywante842012887j.shop^
 ||58239j6.xyz^
-||allegrolokalnie.28821392h5.shop^
 ||imahont.com^
 ||oferta91061123.cfd^
 ||primeyatirim.com^
@@ -106950,6 +106978,8 @@
 ||toybuygogo.com^
 ||velrixcoreaiapp.com^
 ||pl-62513rteuo5593tfue686623pokos7.sbs^
+||allegrolokalnie.pl-oferta80507-google-pixel-10-pro.cfd^
+||olx.pl-oferta80507-google-pixel-10-pro.cfd^
 ||offenpoeme.world^
 ||overpmatal.world^
 ||dissainfra.homes^
@@ -106982,6 +107012,8 @@
 ||allegrolokainie.pl-smart7681241.cfd^
 ||ilvjes02.com^
 ||singfable-flux-app.net^
+||vinted.pl-oferta94062813.cfd^
+||allegro.pl-oferta94062813.cfd^
 ||equiloompro-app.net^
 ||swap4000adipex.net^
 ||pro-quantum-ai.net^
@@ -106989,6 +107021,7 @@
 ||hobbitonif.pro^
 ||diletclagzi.world^
 ||cinermarro.world^
+||olx.pl-oferta94062813.cfd^
 ||pl-927151mawutqba71515hshqhsshag61513uwfacnn3.sbs^
 ||support.headfox.in^
 ||swap14xsanorex.net^
@@ -107005,7 +107038,3 @@
 ||plerodicap.pro^
 ||imbiacher.world^
 ||ammorhutch.world^
-||solenecoinvia.com^
-||drabbvatsga.pro^
-||pl-oferta80507-google-pixel-10-pro.cfd^
-||pl-oferta94062813.cfd^

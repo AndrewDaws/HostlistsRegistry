@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.92
+! Version: 1.0.20.93
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-26T19:38:31.542Z
+! Last modified: 2026-06-26T20:41:33.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4234,6 +4234,7 @@
 ||armourhound.com^
 ||armpitoriginally.com^
 ||armsalife.com^
+||armsbroodelusive.com^
 ||armsgross.com^
 ||armssegmentprofess.com^
 ||armyshilling.com^
@@ -4567,6 +4568,7 @@
 ||athletethrong.com^
 ||athwartendorsetwinkle.com^
 ||athyriaafara.shop^
+||atimygud.cyou^
 ||atiscurren.biz^
 ||atjigglypuffor.com^
 ||atlantadaily2.xyz^
@@ -5411,6 +5413,7 @@
 ||bbaxx.xyz^
 ||bbexcite.jp^
 ||bbtec.net^
+||bbwafx.com^
 ||bbwdesire.com^
 ||bbx2fwtrk.com^
 ||bbybmp.com^
@@ -5554,6 +5557,7 @@
 ||beerarea.sbs^
 ||beergeneralization.com^
 ||beernet.shop^
+||beeroutetrail.com^
 ||beesparliament.com^
 ||beespoultry.com^
 ||beestark.com^
@@ -8710,6 +8714,7 @@
 ||cleannaturalists.com^
 ||cleannotifications.com^
 ||cleansizes.com^
+||cleanslateweb.com^
 ||cleanupharm.com^
 ||clearancebuttertire.com^
 ||clearancecolossalprotection.com^
@@ -12528,6 +12533,7 @@
 ||destructionruler.com^
 ||destscbck.com^
 ||desvibravaom.com^
+||desylunfeel.cfd^
 ||detachedauraencircle.com^
 ||detachedbates.com^
 ||detachedhauledperfect.com^
@@ -22493,6 +22499,7 @@
 ||joynatanthem.com^
 ||joyrodetoment.com^
 ||joyround.com^
+||jp99uxmoc59mcvne3v4yc18o6.cfd^
 ||jp-a6c8d4845ab25e50f954ee4e9adf4b149c2b42ae.ph^
 ||jp-a82d825f272632f3ccb2fd25cffd29c9297b7c03.ph^
 ||jp-a9baaa7739a2b6d3e596335723b856a435a431db.ph^
@@ -31231,6 +31238,7 @@
 ||prudentperform.com^
 ||prugskh.com^
 ||prugskh.net^
+||prutothoggerusuals.cyou^
 ||prw-news3.club^
 ||prxhn.xyz^
 ||pryberries.com^

@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.50
+! Version: 1.0.3.51
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-26T19:38:00.939Z
+! Last modified: 2026-06-26T20:41:04.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,094
-# Updated: 6/26/2026  13:59 (1:59 PM CST)
+# Domains: 115,096
+# Updated: 6/26/2026  15:26 (3:26 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -53803,6 +53803,7 @@
 ||metrics.seawheeze.com^
 ||metrics.sebgroup.com^
 ||metrics.seb.se^
+||metrics.secrets.ai^
 ||metrics.secuiana.ro^
 ||metricssecure.empiretoday.com^
 ||metrics.secure.eurocard.com^
@@ -69926,6 +69927,7 @@
 ||proxwould.com^
 ||proxy.angelstudios.com^
 ||proxycheck.io^
+||proxyhog.com^
 ||prplepleter.com^
 ||pr.retire.americanfunds.com^
 ||prsmtrcks.com^

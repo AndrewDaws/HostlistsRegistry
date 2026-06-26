@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.15.37
+! Version: 1.0.15.38
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-25T23:35:37.110Z
+! Last modified: 2026-06-26T20:41:16.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -73,6 +73,7 @@
 ||amiouplus.com^
 ||amirru.com^
 ||amistarium.com^
+||amoredate.com^
 ||amour.dk^
 ||amourfactory.com^
 ||amourland.com^
