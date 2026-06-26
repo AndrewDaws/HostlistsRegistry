@@ -1,12 +1,32 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.52
+! Version: 1.1.53.53
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-25T23:35:51.516Z
+! Last modified: 2026-06-26T01:11:46.247Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||voclet.net^
+||quartstupi.cyou^
+||netgiveup.fit^
+||finance99-quis68.sbs^
+||sylvicaten.cyou^
+||sakaryaozturknakliyati.com^
+||binarymaple.roomkrakow.com^
+||presuriapp.cyou^
+||fcgsflzi.shop^
+||349j8j67202.shop^
+||smart847312950458.xyz^
+||prywanei782389129.xyz^
+||949875h.xyz^
+||12200h0592.xyz^
+||get9547823.lol^
+||487syss1.shop^
+||smart8437912.shop^
+||hpooti54823.shop^
+||prywante842012887j.shop^
+||58239j6.xyz^
 ||allegrolokalnie.28821392h5.shop^
 ||imahont.com^
 ||oferta91061123.cfd^
@@ -106866,21 +106886,3 @@
 ||biotechbreakthrough68d.info^
 ||travelgreenguide82d.info^
 ||pl-oferta2533826.pl^
-||archegirad.sbs^
-||austeronexis.cloud^
-||pl-927151mawutqba71515uwywtfacshdy61513uwyaggab7.sbs^
-||uncalralla.world^
-||parasdispr.world^
-||urbanmobility72d.info^
-||mindbodysoul51d.info^
-||fintechnews61d.info^
-||blockchainpulse63d.info^
-||brandbuilders60d.info^
-||interiorinspire74d.info^
-||greenarchitecture77d.info^
-||northexalor.cloud^
-||iridonexpath.cloud^
-||crestolavern.world^
-||solventique.world^
-||clavernodex.world^
-||westoranelle.world^

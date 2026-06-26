@@ -1,9 +1,9 @@
 !
 ! Title: Malicious URL Blocklist (URLHaus)
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
-! Version: 1.0.27.46
+! Version: 1.0.27.47
 ! Homepage: https://urlhaus.abuse.ch/
-! Last modified: 2026-06-25T13:01:30.872Z
+! Last modified: 2026-06-26T01:11:47.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -101,7 +101,6 @@
 ||17qaxj2h.citizenconjunct.in.net^
 ||181xlt4g.gavaedfagahe.xyz^
 ||1822jtv8.betwoonuyelik.com^
-||1827897262.v.123pan.cn^
 ||185-55-196-13.cprapid.com^
 ||185ez3.ashenkite.in.net^
 ||18nnbu.fixionmunici9al.lat^
@@ -492,7 +491,6 @@
 ||69zhzd.tavro4xel.lat^
 ||6a00327.sylo3rex.in.net^
 ||6a109ce5-3c8f-432c-8c07-1b9ff8282c7a.mp-lby-mtch-svc.in.net^
-||6ak-tehnik.si^
 ||6aq224cu.luxerabet100.com^
 ||6dg7sjam.bet404farsi.com^
 ||6f4t5lvt.fununetadris.shop^
@@ -3745,7 +3743,6 @@
 ||dyndra1is.ontofabric.in.net^
 ||dyndra8al.drumoxel.in.net^
 ||dyndraex.expect-runes.in.net^
-||dynflux2a.radiantventure.in.net^
 ||dynflux6al.xel5navin.in.net^
 ||dynfluxal.demolishtunis.in.net^
 ||dynfluxar3.po6vtaren.in.net^
@@ -4682,7 +4679,6 @@
 ||fq5lyk18.bet404.games^
 ||fqcwxddh.tractor11.com^
 ||fqgadjsy.hugugtejarat4.xyz^
-||fqwhi8.echelonprosper.in.net^
 ||fr0st-branch.dru6moxin.in.net^
 ||fr31g2-stream.zeq3varin.in.net^
 ||fram-branch.byerottin8.lat^
@@ -4744,7 +4740,6 @@
 ||friction-log.viscositycontrol.in.net^
 ||friendly-trifle-f3e6f0.netlify.app^
 ||friendlydomain.ru^
-||friendsofsclarc.org^
 ||frkoakq.amygdala-fugue.in.net^
 ||front-gate6.benomkin5.in.net^
 ||front-gate6.tix7marel.in.net^
@@ -5711,7 +5706,6 @@
 ||hnainyw.ninjafruitcubes.bet^
 ||hnjgdl.geps.glodon.com^
 ||hnz4q1fw.zenithharbinger.digital^
-||ho1lo0-reach.radiantventure.in.net^
 ||hobby-time6.tovdo9ral.in.net^
 ||hodomoxq.1xborokade.com^
 ||hogugzxj.questionsmotor.xyz^
@@ -8487,6 +8481,7 @@
 ||null9siteview.dismemb7harlot.bet^
 ||null9siteview.sora5link.surf^
 ||numqi.wilhelmglobal.com^
+||nusatoyota.co.id^
 ||nuulycp.bet365iran.com^
 ||nv7cx.factpre5ent.in.net^
 ||nveth.brandbuilder.hu^
@@ -10861,7 +10856,6 @@
 ||shop.mediasova.ru^
 ||shop1-data.local-market-hub.in.net^
 ||shop1.puremarket.in.net^
-||shor-mesh.echelonprosper.in.net^
 ||shore-leaf.pastor-publicist.lat^
 ||short-cut4.kiv6darem.in.net^
 ||short-plan5.empirical-tuna.in.net^
@@ -11525,6 +11519,7 @@
 ||st4bi-spool.kyno4rexil.in.net^
 ||st4ge-pulse.dex4lavel.in.net^
 ||st80et3.wi3sorin.in.net^
+||sta.qinxue.com^
 ||stab7-sheet.ra5xovel.in.net^
 ||stabiliz-watch.kymli6rex.in.net^
 ||stable-node.molecularbonding.in.net^
@@ -11588,6 +11583,7 @@
 ||static.249.223.175.5.nextregister.eu^
 ||static.26.134.83.5.clients.ryzehosting.com^
 ||static.3001.net^
+||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||staticflowsys.ferrumgateweb.garden^
@@ -12622,14 +12618,12 @@
 ||tqdtntx.hotbet90.casino^
 ||tqeibj.wi3sorel.in.net^
 ||tqwyxfee.mechanickhodakarami.shop^
-||tr41l4-point.radiantventure.in.net^
 ||tr4ce5-trail.flamesre5ent.in.net^
 ||tr4ck-frame.v7lora.in.net^
 ||tr4ck7-plate.zex3liron.in.net^
 ||tr4cke-chain.2zoravel.in.net^
 ||tr4il7-watch.lunave5.garden^
 ||tr8tupu.xano4mel.lat^
-||tra1-drive.echelonprosper.in.net^
 ||trab-7t.qivon-store.in.net^
 ||trace-audit.methodicstream.in.net^
 ||trace-beacon.navigationalpath.in.net^
@@ -13487,7 +13481,6 @@
 ||vormeshex7.pavi1lor.lat^
 ||vornexal5.logicbyte.lat^
 ||vorro.vigaf.hu^
-||vorspire5os.radiantventure.in.net^
 ||vorspireal.brinoxal.in.net^
 ||vortex.fiverfle8ma.surf^
 ||vortex.starlightnova.lat^
@@ -13950,7 +13943,6 @@
 ||wknzex.petalresourcehub.garden^
 ||wkodj.vo3xiran.in.net^
 ||wkqsof7p.network-pulse.digital^
-||wl58.radiantventure.in.net^
 ||wlede4d3.network-harbor.digital^
 ||wlikkfq.n1ghtbloom.in.net^
 ||wljus01z.tafsirnasiri.xyz^
