@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Normal Blocklist
 ! Description: Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
-! Version: 1.0.31.2
+! Version: 1.0.31.3
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-06-26T12:54:27.111Z
+! Last modified: 2026-06-26T15:01:05.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -48515,6 +48515,7 @@
 ||metrics.o-int.webex.com^
 ||smetrics.webex.com^
 ||tsa.webex.com^
+||tsa-f.webex.com^
 ||sec.webeyez.com^
 ||matomo.webfactory.de^
 ||xml-v4.webfindi.com^
@@ -55595,6 +55596,7 @@
 ||22s22.com^
 ||22slots.com^
 ||22sou.com^
+||22svkcdbyp.com^
 ||22us.com^
 ||22uv.org^
 ||22vie9ula.com^
@@ -56077,6 +56079,7 @@
 ||2playgames.org^
 ||2pogg4c.cn^
 ||2pqma2nuv.com^
+||2qh7mtw6yglvxnpc6pcm.cfd^
 ||2qj7mq3w4uxe.com^
 ||2qkh3nbvi7y9xhoy.cfd^
 ||2qpqwkx.cn^
@@ -56128,6 +56131,7 @@
 ||2x9ezrw7vuhqco.cfd^
 ||2xclick.ru^
 ||2xeibjlqyxu8m4zq7lob3qyknpl2.cfd^
+||2xi988xu22.com^
 ||2xpc.com^
 ||2xx63f0bfy.com^
 ||2y2lttjs.hair^
@@ -67149,6 +67153,7 @@
 ||awnypearch.com^
 ||awokeembarkquicker.com^
 ||awokelifestylelax.com^
+||awokensilicyl.cyou^
 ||awolbitt.cyou^
 ||awolhalling.com^
 ||awozdcvzjgbnh.online^
@@ -68535,6 +68540,7 @@
 ||beavergamer.com^
 ||beavertron.com^
 ||beaxewr.com^
+||bebangcaromel.com^
 ||bebasads.com^
 ||bebasjudi.com^
 ||bebautvdrradc.world^
@@ -70997,6 +71003,7 @@
 ||boostog.net^
 ||bootcdn.net^
 ||bootcss.com^
+||booteryembrase.shop^
 ||boothmythevergreen.com^
 ||bootingunpickedusable.com^
 ||bootpostcardkate.com^
@@ -74595,6 +74602,7 @@
 ||cguunwxpkld.com^
 ||cgw46pe4.xyz^
 ||cgyemhvxgjwub.com^
+||cgyquuphjlzsf.online^
 ||cgyx.tv^
 ||cgyyu.com^
 ||ch17axocue.top^
@@ -77084,6 +77092,7 @@
 ||conduit-banners.com^
 ||conduit-services.com^
 ||conejoschools.org^
+||conermoocher.com^
 ||conerstratus.com^
 ||conestreshow.com^
 ||confectioneryafore.com^
@@ -77569,6 +77578,7 @@
 ||cooperativepop.com^
 ||cooperativestrike.com^
 ||cooperbudge.com^
+||cooperydiptych.cyou^
 ||cooptoojoo.net^
 ||coordinated-agent.pro^
 ||coordinated-visual.pro^
@@ -78067,6 +78077,7 @@
 ||cpqpm8trk.com^
 ||cprnuxmr.xyz^
 ||cpsvwfrdhhe.com^
+||cpthbnildpvlt.online^
 ||cptoptious.com^
 ||cpuim.com^
 ||cpuiouglooukucidynln.com^
@@ -78808,6 +78819,7 @@
 ||ctxcollect.com^
 ||ctxtfl.com^
 ||ctygrooirhjo.com^
+||ctyhodypm.com^
 ||ctypo.com^
 ||ctytteti.com^
 ||ctyymllt63m9ik1.cyou^
@@ -79188,6 +79200,7 @@
 ||cwmlm.com^
 ||cwn0drtrk.com^
 ||cwoamjkma.com^
+||cwonjakwxipnq.online^
 ||cwoonpowxvi.com^
 ||cwqctcmhswrth.online^
 ||cwqhagwjoppbb.website^
@@ -83222,6 +83235,7 @@
 ||dramaticdeterpulverize.com^
 ||dramaticdirection.com^
 ||dramaticmight.pro^
+||drammercheng.com^
 ||drammerxylinid.com^
 ||drankclosed.com^
 ||drankinjectioncircumference.com^
@@ -84086,6 +84100,7 @@
 ||dv-tube.com^
 ||dvajwxjemufrrf.com^
 ||dvdjtxgcokydc.online^
+||dvecqwppmsppx.website^
 ||dvepare.com^
 ||dvfritvgogdkr.space^
 ||dvgmukfq.com^
@@ -85650,6 +85665,7 @@
 ||elevadorsencillo.com^
 ||elevateseating.org^
 ||elevationhypnotize.com^
+||elevationoutshout.net^
 ||elevationvotefeign.com^
 ||elevatorpartsbuy.com^
 ||elevatorvainpainful.com^
@@ -88105,6 +88121,7 @@
 ||facetz.net^
 ||facevideosc.com^
 ||facheicuropapon.com^
+||faciadambrod.cyou^
 ||facialinconvenienceinadequacy.com^
 ||facialleaflet.com^
 ||facil-iti.com^
@@ -88439,6 +88456,7 @@
 ||farmaciasanva.com^
 ||farmanimalplays.com^
 ||farmergoldfish.com^
+||farmingrebused.cfd^
 ||farmingvilleny.com^
 ||farmonarchy.com^
 ||farnessowenian.cyou^
@@ -94013,6 +94031,7 @@
 ||gkjiqxvktjmla.site^
 ||gkjzkkbuewngs.online^
 ||gklsfigkom.com^
+||gklvjdmuolblq.website^
 ||gkmjovbmwuldf.site^
 ||gknpinykaom.net^
 ||gkohigudu.com^
@@ -96262,6 +96281,7 @@
 ||gxvdzkmvwmgua.online^
 ||gxvf.cn^
 ||gxvlkzwimkiyb.site^
+||gxwuzuvteofqw.website^
 ||gxxdsbbklvze.com^
 ||gxxie.com^
 ||gxxyclub.top^
@@ -96549,6 +96569,7 @@
 ||haktwptspsgr.com^
 ||hakvzygpdpnbx.online^
 ||halal.ad^
+||halalasbisks.qpon^
 ||halberdosiery.com^
 ||halceca.qpon^
 ||halcyoncanyon.com^
@@ -96806,6 +96827,7 @@
 ||hareldabarsacxenons.cyou^
 ||haresmodus.com^
 ||harfangtibicenshills.cfd^
+||hargzcacgltoe.site^
 ||hariken.co^
 ||harimoutyelp.cyou^
 ||harithasolar.com^
@@ -98282,6 +98304,7 @@
 ||hlstatus.com^
 ||hlstlyy.com^
 ||hltbnvcu.com^
+||hltmncqxayyhu.website^
 ||hlufsqadxupgr.website^
 ||hlumreexivler.space^
 ||hluraiwoy.com^
@@ -98328,6 +98351,7 @@
 ||hmqolcbr.com^
 ||hmqphmhktywbq.space^
 ||hms-11.com^
+||hmsobsvsqbvle.site^
 ||hmspkk.cc^
 ||hmstats.com^
 ||hmsuxcnrcyzmn.today^
@@ -105601,6 +105625,7 @@
 ||kaushichie.net^
 ||kaushooptawo.net^
 ||kavanga.ru^
+||kavblcvs.com^
 ||kavcbupdfjo.com^
 ||kaviar-natursektkontakte.com^
 ||kavijaseuranta.fi^
@@ -119485,6 +119510,7 @@
 ||ocolt.com^
 ||oconner.biz^
 ||oconner.link^
+||ocop-defender.pro^
 ||ocotechurr.cfd^
 ||ocotelogeia.shop^
 ||ocoupaigipteejo.net^
@@ -120811,6 +120837,7 @@
 ||onxdahsho.com^
 ||onxfqnzyfbmio.online^
 ||onxfzyvirzuj.in^
+||onxosrmu.in^
 ||onxuegm38t.com^
 ||onxxahcr.com^
 ||onxzwofhaft.com^
@@ -123023,6 +123050,7 @@
 ||pastelentirely.com^
 ||pastelskill.com^
 ||pastepot.com^
+||pastimelardoon.shop^
 ||pastinaveinerstibet.cyou^
 ||pastjauntychinese.com^
 ||pastoraler-raum-rietberg.de^
@@ -124571,6 +124599,7 @@
 ||pishenormously.com^
 ||pisism.com^
 ||piskaday.com^
+||pisksalvo.qpon^
 ||pisrael.com^
 ||pisruhakq.in^
 ||pit3wzvqf2xfnw1uml23eknmq.cfd^
@@ -124743,6 +124772,7 @@
 ||pkytxfiin.com^
 ||pl-oferta-id2387942371.top^
 ||pl-vider.pl^
+||pl3grtnnhgrenjmti.rest^
 ||pl520.com^
 ||pl53l7tyw.com^
 ||pl7ncaj0b.com^
@@ -126324,6 +126354,7 @@
 ||previouslyvaluableexploit.com^
 ||previousplayground.com^
 ||prevoidboulle.com^
+||prevoteglimmer.cyou^
 ||prevoterfb.qpon^
 ||prevueseugonicjilting.cyou^
 ||prewarmritards.cfd^
@@ -131263,6 +131294,7 @@
 ||reryn3ce.com^
 ||resacaafflux.cyou^
 ||resacaduende.com^
+||resaidbodily.cyou^
 ||resalag.com^
 ||resawnseized.cyou^
 ||rescission77.top^
@@ -131846,6 +131878,7 @@
 ||ribgreenhousecompose.com^
 ||ribkdvpyszfm.com^
 ||ribosesshutes.cfd^
+||ribsmuffscornus.cfd^
 ||ributed.com^
 ||ricalsbuildf.com^
 ||ricarvort.com^
@@ -136141,6 +136174,7 @@
 ||shoaghaglaug.net^
 ||shoagloumtoamir.net^
 ||shoagrauphee.net^
+||shoalsirate.shop^
 ||shoathofte.net^
 ||shock-news.net^
 ||shockdefined.com^
@@ -136772,6 +136806,7 @@
 ||sinkportal.com^
 ||sinlessdiduceboid.qpon^
 ||sinmufar.com^
+||sinnerhealthypoured.com^
 ||sinoa.com^
 ||sinogamepeck.com^
 ||sinproductors.org^
@@ -137706,6 +137741,7 @@
 ||smugpsstplus.com^
 ||smurseawife.cyou^
 ||smurtlesenam.com^
+||smutchyalarbus.qpon^
 ||smuxupanwji.com^
 ||smuzpaqaw.com^
 ||smv.to^
@@ -144363,6 +144399,7 @@
 ||tollbarresale.top^
 ||tollboagane.com^
 ||tolldive.com^
+||tollmensakiyeh.cfd^
 ||tolt.io^
 ||toltanax.cyou^
 ||toluidebaffled.com^
@@ -145708,6 +145745,7 @@
 ||troutpeskynest.com^
 ||troutysidings.shop^
 ||trouupjeu.com^
+||trovesleepit.com^
 ||trovi.com^
 ||trovlmxm.com^
 ||trovo-tag.com^
@@ -153061,6 +153099,7 @@
 ||werkzeugebillig.com^
 ||werkzeugemaschinen.com^
 ||werkzeugonline24.com^
+||werstegrootricker.cyou^
 ||wertendium.com^
 ||wertuip.com^
 ||werwzd1.com^
@@ -156423,6 +156462,7 @@
 ||xlivrdr.com^
 ||xliwryycvgfh.com^
 ||xljgbrlqylwwt.store^
+||xljhqekqygwuohq.com^
 ||xlkbinzjgmnsy.site^
 ||xllceyjtmljek.space^
 ||xllkxiffgdidv.site^
@@ -157951,6 +157991,7 @@
 ||ykhikqgrdmfll.website^
 ||yki9xpcuc.com^
 ||ykialgtdbpp.com^
+||ykinroxfqdpgv.com^
 ||ykixhtyppkoko.space^
 ||ykiyhzbgnqkys.online^
 ||ykkdpgqpukmlzs.com^
