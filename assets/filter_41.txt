@@ -1,12 +1,49 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.70
+! Version: 1.1.53.71
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-27T09:03:56.250Z
+! Last modified: 2026-06-27T11:36:04.180Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||bry.hpj.mybluehost.me^
+||nancysapp.shop^
+||dpd.paycore-24.cfd^
+||inpostfreshpl.live^
+||veadadeleg.cyou^
+||sdipaseste.cyou^
+||tejeuniverse.fit^
+||zebra-rabat.shop^
+||jacquardjump.shop^
+||performancesearly.xclubmy.com^
+||kdeba.refixt.com^
+||oddlab.degenchest.com^
+||chroniclesteady.xclubmy.com^
+||www.swarovski-polska.pl^
+||yhundredr.ghhaba.com^
+||nahukjhahiaioira.site^
+||gyvuoylj.shop^
+||pensibaste.cyou^
+||tejeapexteje.luxe^
+||tejemomentum.luxe^
+||deichmann.dealsshoes.store^
+||mugugcocco.cyou^
+||kiolaoospaosloapos.site^
+||foozrrli.shop^
+||drogerienatura.idrinks.top^
+||psychtesau.cyou^
+||samuelvh.com^
+||2qw8mxa.eu^
+||gasedcaffaffaopoidop.site^
+||tejeoptimize.luxe^
+||tejevelocity.wiki^
+||tejeexplorer.club^
+||tejepioneeri.fit^
+||thevintagevaultco.shop^
+||precodiric.cyou^
+||noverdecer.cyou^
+||banhtranmuoitayninh.com^
 ||prehesublu.cyou^
 ||racceweeti.cyou^
 ||entsuun.com^
@@ -1250,8 +1287,6 @@
 ||domowaprzestrzen.shop^
 ||alsaticin.com^
 ||inforsubmo.cyou^
-||website.banhtranmuoitayninh.com^
-||tcaptcha.banhtranmuoitayninh.com^
 ||swiatwhisky.club^
 ||saleshoes.shop^
 ||terekxcqaz.work^
@@ -43493,7 +43528,6 @@
 ||raxivo.pro^
 ||reeesolidifies.info^
 ||frosty-casement.com^
-||restorationsstar.samuelvh.com^
 ||qintarsethnohistorssians.info^
 ||zintra.pro^
 ||pl-allegrolokalnie.click^
@@ -106997,23 +107031,3 @@
 ||510919x8u.cfd^
 ||pl-oferta8473057.cfd^
 ||glokoreledmask.net^
-||ticoku.cloud^
-||allegrolokalnie.659h9fjdj3jgr.sbs^
-||customer-system-update-eepro.vercel.app^
-||n0d4qe.icu^
-||ctrtrackxyz.xyz^
-||e3p2xh.icu^
-||www.suitcaseonline-pl.shop^
-||ppcc.digital^
-||countracco.homes^
-||puzzationo.homes^
-||allegrolokalnie.087234.click^
-||olx.pl6748934.cfd^
-||allegrolokalnie.pl-7162811hagahn1871233trrewey99116hwysga6.cfd^
-||allegrolokalnie.005217.click^
-||spektraxai.com^
-||shoratex-app.net^
-||semimpharm.homes^
-||emailtrackit.click^
-||keywordpro.icu^
-||optine.click^
