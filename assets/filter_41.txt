@@ -1,12 +1,14 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.66
+! Version: 1.1.53.67
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-27T01:07:19.176Z
+! Last modified: 2026-06-27T03:17:15.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||bih4837h4h93.shop^
+||damoilecca.cyou^
 ||plainjade.info^
 ||humpla.stanmao.com^
 ||gearpre.whiterosecleaning.com^
@@ -106928,6 +106930,7 @@
 ||countracco.homes^
 ||puzzationo.homes^
 ||allegrolokalnie.087234.click^
+||olx.pl6748934.cfd^
 ||allegrolokalnie.005217.click^
 ||spektraxai.com^
 ||shoratex-app.net^
@@ -106978,10 +106981,15 @@
 ||jurihji.world^
 ||nikonolihopvigu.world^
 ||bujuni.online^
+||allegrolokalnie.pl6748934.cfd^
 ||zexeu.net^
+||vinted.005382.vu^
 ||teawinel.info^
 ||tnoazxqhwl.info^
 ||techpetl.info^
+||alebilet.pl-oferta962033-playstation-5-fat.sbs^
+||vinted.pl6748934.cfd^
+||alebilet.pl6748934.cfd^
 ||annuaaggri.pro^
 ||filoaerbor.homes^
 ||sprawricon.world^
@@ -106990,34 +106998,3 @@
 ||dudapmocupo.world^
 ||zicajavizimyo.cloud^
 ||gahifinini.cloud^
-||esautmalca.world^
-||kalkulator.szabo-balazs.hu^
-||xekboyujuynotawo.cloud^
-||allegro-lokalnie.zam-295748.it.com^
-||qubiquantnode.com^
-||vinted.60837.click^
-||allegro.01648.click^
-||vinted.01648.click^
-||valturoxtrade.net^
-||allegrolokalnie.073912.click^
-||www.jysk-pl.sbs^
-||wertoniox.net^
-||gimnast.fun^
-||allegro.off-eu.cyou^
-||pl6748934.cfd^
-||altrix-spotpro.com^
-||alebilet.009918.click^
-||searchbrain.digital^
-||emailwiizard.icu^
-||adsmetricx.icu^
-||pl-oferta962033-playstation-5-fat.sbs^
-||lgaiarcus.world^
-||orbitriemp.homes^
-||sfinevinol.homes^
-||ristatrucc.world^
-||affacclli.homes^
-||vinted.073912.click^
-||allegro.073912.click^
-||olx.073912.click^
-||alebilet.073912.click^
-||005382.vu^
