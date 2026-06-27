@@ -1,0 +1,28 @@
+{
+  "domains": [
+    {
+      "domain": "binotel.com",
+      "exceptions": [ "finotel.com" ]
+    },
+    {
+      "domain": "discovery.com",
+      "exceptions": [ "discover.com" ]
+    },
+    {
+      "domain": "pvp.net",
+      "exceptions": [ "php.net" ]
+    },
+    {
+      "domain": "seel.com",
+      "exceptions": [ "seek.com" ]
+    },
+    {
+      "domain": "mmstat.com",
+      "exceptions": [ "ymstat.com" ]
+    },
+    {
+      "domain": "moji.com",
+      "exceptions": [ "muji.com" ]
+    }
+  ]
+}

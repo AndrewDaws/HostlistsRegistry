@@ -1,0 +1,266 @@
+[
+	{
+		"hostlist.1.name": "AdGuardin DNS-suodatin",
+		"hostlist.1.description": "Useista erillisistä suodattimista koostuva lista (AdGuardin vakiosuodatin, sosiaalisen median suodatin, seurantaestosuodatin, mobiilimainossuodatin, EasyList ja EasyPrivacy) ja tiivistetty erityisesti DNS-tason mainosestoon sopivammaksi"
+	},
+	{
+		"hostlist.3.name": "Peter Lowe's Blocklist",
+		"hostlist.3.description": "Mainonta- ja seurantapalvelinten osoitteilla tapahtuva esto."
+	},
+	{
+		"hostlist.4.name": "Dan Pollock's List",
+		"hostlist.4.description": "Lista mainosten ja käyttäjäseurannan estoon."
+	},
+	{
+		"hostlist.5.name": "OISD Blocklist Small",
+		"hostlist.5.description": "Lista mainosten ja seurantojen estoon. Painottaa eston sijaan toiminnallisuutta."
+	},
+	{
+		"hostlist.6.name": "Dandelion Sprout's Game Console Adblock List",
+		"hostlist.6.description": "Lista mainosten estoon AdGuard Homea käyttäville pelikonsoleille."
+	},
+	{
+		"hostlist.7.name": "Perflyst and Dandelion Sprout's Smart-TV Blocklist",
+		"hostlist.7.description": "Lista, jonka on tarkoitus estää älytelevisioita lähettämästä metatietoja laitevalmistajille sekä sovellusten käyttöliittymissä ja videopalveluissa esiintyviä mainoksia."
+	},
+	{
+		"hostlist.8.name": "NoCoin Filter List",
+		"hostlist.8.description": "Estolista selainpohjaista kryptovaluutan louhintaa vastaan."
+	},
+	{
+		"hostlist.9.name": "The Big List of Hacked Malware Web Sites",
+		"hostlist.9.description": "Lista verkkosivustoista, jotka on saastutettu haittaohjelmilla, lunnasohjelmilla tai troijalaisilla."
+	},
+	{
+		"hostlist.10.name": "Scam Blocklist by DurableNapkin",
+		"hostlist.10.description": "Lista epäluotettavien sivustojen estoon."
+	},
+	{
+		"hostlist.11.name": "Malicious URL Blocklist (URLHaus)",
+		"hostlist.11.description": "Abuse.ch URLhaus -tietokantaan perustuva estolista haitallisille haitallisille sivustoille."
+	},
+	{
+		"hostlist.12.name": "Dandelion Sprout's Anti-Malware List",
+		"hostlist.12.description": "Dandelion Sproutin haittaohjelmalista (AdGuard Homen sekä AdGuardin Android- ja Windows-versioiden DNS-suodatukselle)."
+	},
+	{
+		"hostlist.13.name": "NOR: Dandelion Sprouts nordiske filtre",
+		"hostlist.13.description": "Dandelion Sproutin pohjoismaiset suodattimet (AdGuard Homen sekä AdGuardin Android- ja Windows-versioiden DNS-suodatukselle)."
+	},
+	{
+		"hostlist.14.name": "POL: Polish filters for Pi-hole",
+		"hostlist.14.description": "Puolankielen Pi-hole-suodattimet."
+	},
+	{
+		"hostlist.15.name": "KOR: YousList",
+		"hostlist.15.description": "Mainosestolista lähinnä koreankielisille sivustoille."
+	},
+	{
+		"hostlist.16.name": "VNM: ABPVN List",
+		"hostlist.16.description": "Mainosestolista vietnaminkielisille sivustoille."
+	},
+	{
+		"hostlist.17.name": "SWE: Frellwit's Swedish Hosts File",
+		"hostlist.17.description": "Lista mainosten, seurannan ja haittaohjelmien estoon lähinnä ruotsinkielisillä sivustoilla."
+	},
+	{
+		"hostlist.18.name": "Phishing Army",
+		"hostlist.18.description": "Estolista tietojenkalasteluverkkotunnusten suodatukseen."
+	},
+	{
+		"hostlist.19.name": "IRN: PersianBlocker list",
+		"hostlist.19.description": "Optimaalinen ja kattava lista mainosten ja seurantojen estoon persiankielisillä sivustoilla."
+	},
+	{
+		"hostlist.20.name": "MKD: Makedonian Pi-hole-suodattimet",
+		"hostlist.20.description": "Mainosestolista makedoniankielisille sivustoille."
+	},
+	{
+		"hostlist.21.name": "CHN: anti-AD",
+		"hostlist.21.description": "Lista kiinankielisen alueen mainosestoon. Tähtää yksityisyyden suojaukseen."
+	},
+	{
+		"hostlist.22.name": "IDN: ABPindo",
+		"hostlist.22.description": "Lisäsuodatin EasyListille mainosten estoon indonesian- ja malesiankielisillä sivustoilla."
+	},
+	{
+		"hostlist.23.name": "WindowsSpyBlocker - Hosts spy rules",
+		"hostlist.23.description": "Lista vakoilun ja seurannan estoon Windowsissa."
+	},
+	{
+		"hostlist.24.name": "1Hosts (Lite)",
+		"hostlist.24.description": "Lista ärsyttävien mainosten, seurantojen ja haittaohjelmien estoon. Tasapainoisempi versio: aseta ja unohda, ei haittaa käyttökokemusta."
+	},
+	{
+		"hostlist.25.name": "KOR: List-KR DNS",
+		"hostlist.25.description": "DNS-versio koreankielisille sivustoille tarkoitetusta List-KR-suodattimesta."
+	},
+	{
+		"hostlist.26.name": "TUR: turk-adlist",
+		"hostlist.26.description": "Estolista mainosten ja ärsyttävien elementtien estoon turkinkielisillä sivustoilla."
+	},
+	{
+		"hostlist.27.name": "OISD Blocklist Big",
+		"hostlist.27.description": "Estolista mainoksille ja seurannoille, joka painottaa toiminnallisuutta eston sijaan. OISD Blocklistin pieneen versioon verrattuna virheellisten estojen mahdollisuus on suurempi."
+	},
+	{
+		"hostlist.29.name": "CHN: AdRules DNS List",
+		"hostlist.29.description": "Mainosestolista kiinankieliselle alueelle."
+	},
+	{
+		"hostlist.30.name": "Phishing URL Blocklist (PhishTank ja OpenPhish)",
+		"hostlist.30.description": "PhishTank- ja OpenPhish-listoihin perustuva estolista tietojenkalastelusivustoille."
+	},
+	{
+		"hostlist.31.name": "Stalkerware Indicators List",
+		"hostlist.31.description": "Merkkejä Android- ja iOS-käyttöjärjestelmien altistumisesta Stalkerware-sovelluksille."
+	},
+	{
+		"hostlist.32.name": "The NoTracking blocklist",
+		"hostlist.32.description": "The NoTracking blocklist on DNS-pohjainen suodatinlista mainosten, haittaohjelmien, tietojenkalastelun ja muun verkkojätteen estoon."
+	},
+	{
+		"hostlist.33.name": "Steven Black's List",
+		"hostlist.33.description": "Yhdistetty hosts-tiedosto (mainos- + haittaohjelmat)."
+	},
+	{
+		"hostlist.34.name": "HaGeZi's Normal Blocklist",
+		"hostlist.34.description": "Luuta - Puhdistaa Internetin ja suojaa yksityisyyttäsi! Estää mainokset, kytkökset, seurannan, mittarit, telemetrian, tietojenkalastelun, haittaohjelmat, huijaukset, väärennökset, kolikot ja muuta roskaa."
+	},
+	{
+		"hostlist.35.name": "HUN: Hufilter",
+		"hostlist.35.description": "Puolankielen Pi-hole-suodattimet."
+	},
+	{
+		"hostlist.36.name": "LIT: EasyList Lithuania",
+		"hostlist.36.description": "Tämä on (tällä hetkellä melko pieni ja vähän testattu) EasyList Lithuania -versio, joka on suunniteltu käytettäväksi verkkotunnuspohjaisten työkalujen kanssa."
+	},
+	{
+		"hostlist.37.name": "Ei Googlea",
+		"hostlist.37.description": "Estää kaikki Googleen liittyvät verkkotunnukset täysin (mukaan lukien YouTuben)."
+	},
+	{
+		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
+		"hostlist.39.description": "Pyrkii poistamaan sivustojen push-ilmoitukset. Yhdistää AdGuardin ponnahdussuodattimen yhteensopivat push-vastaiset säännöt sekä Fanboy's Notifications Blocking -listan."
+	},
+	{
+		"hostlist.40.name": "TUR: Turkish Ad Hosts",
+		"hostlist.40.description": "Tarvittava isäntätiedosto, jolla estetään seuranta- ja mahdollisesti mainosverkkojen käyttö yleisesti käytetyissä mobiilisovelluksissa (ja mahdollisesti verkkosivuissa) Turkissa."
+	},
+	{
+		"hostlist.41.name": "POL: CERT Polska List of malicious domains",
+		"hostlist.41.description": "CERT Polska käsittelee vaaratilanteita ja uhkia, jotka ovat peräisin tai kohdistuvat .pl-verkkotunnuksen järjestelmiin tai NASKin tai muun puolalaisen Internet-palveluntarjoajan verkkoon liitettyihin järjestelmiin."
+	},
+	{
+		"hostlist.42.name": "ShadowWhisperer's Malware List",
+		"hostlist.42.description": "Haitalliset ja tietojenkalastelusivustot, PUP:t, haittaohjelmat sekä selainkaapparit."
+	},
+	{
+		"hostlist.43.name": "ISR: EasyList Hebrew",
+		"hostlist.43.description": "Suodatinlista mainosten estoon hepreankielisillä sivustoilla."
+	},
+	{
+		"hostlist.44.name": "HaGeZi's Threat Intelligence Feeds",
+		"hostlist.44.description": "Parantaa suojasuta merkittävästi! Estää haittasisältöä, cryptokaappauksia, roskapostia, huijauksia ja tietojenkalastelua."
+	},
+	{
+		"hostlist.45.name": "HaGeZi's Allowlist Referral",
+		"hostlist.45.description": "Sallii (poistaa eston) sähköpostiviesteissä, hakutuloksissa yms. näkyviä kumppanuus- ja seurantaviittauslinkkejä."
+	},
+	{
+		"hostlist.46.name": "HaGeZi's Anti-Piracy Blocklist",
+		"hostlist.46.description": "Estää verkkosivustoja ja palveluita, joita käytetään pääasiassa tekijänoikeudella suojatun sisällön laittomaan jakeluun."
+	},
+	{
+		"hostlist.47.name": "HaGeZi's Gambling Blocklist",
+		"hostlist.47.description": "Estää uhkapelisisältöä."
+	},
+	{
+		"hostlist.48.name": "HaGeZi's Pro Blocklist",
+		"hostlist.48.description": "Iso luuta - Puhdistaa Internetin ja suojaa yksityisyyttäsi! Estää mainoksia, kytköksiä, seurantoja, tilastointia, telemetriaa, tietojenkalastelua, haittasisältöä, huijauksia, väärennöksiä, mainausta ja muuta roskaa."
+	},
+	{
+		"hostlist.49.name": "HaGeZi's Ultimate Blocklist",
+		"hostlist.49.description": "Teholakaisukone - Puhdistaa Internetin tiukasti ja suojaa yksityisyyttäsi! Estää mainoksia, kytköksiä, seurantoja (+viitetietoja), tilastointia, telemetriaa, tietojenkalastelua, haittasisältöä, huijauksia, ilmaishostauksia, väärennöksiä, mainausta ja muuta roskaa."
+	},
+	{
+		"hostlist.50.name": "uBlock₀ filters – Badware risks",
+		"hostlist.50.description": "Sivustoille, joiden on todistettu altistavan käyttäjiään mm. kirjautumistietojen yms. varkauteen jotavien mainos-, roska- ja haittaohjelmien asennukselle. Vähimmäistavoite on varmistaa, että käyttäjää varoitetaan mahdollisista riskeistä."
+	},
+	{
+		"hostlist.51.name": "HaGeZi's Pro++ Blocklist",
+		"hostlist.51.description": "Lakaisukone - Puhdistaa Internetin ja suojaa yksityisyyttäsi! Estää mainoksia, kytköksiä, seurantoja, tilastointia, telemetriaa, tietojenkalastelua, haittasisältöä, huijauksia, väärennöksiä, mainausta ja muuta roskaa."
+	},
+	{
+		"hostlist.52.name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass",
+		"hostlist.52.description": "Estää DNS:n ohitusmenetelmiä, salatun DNS:n, VPN- ja TOR-yhteyksiä sekä välityspalvelimia. Ohituksen estoa ei taata."
+	},
+	{
+		"hostlist.53.name": "AWAvenue Ads Rule",
+		"hostlist.53.description": "Taistelee Adblock-syntaksin avulla erilaisia Android-sovellusten sisältämiä mainonta-SDK:ita vastaan verkkotasolla estäen niitä latautumasta."
+	},
+	{
+		"hostlist.54.name": "HaGeZi's DynDNS Blocklist",
+		"hostlist.54.description": "Estää dynaamiset DNS-palvelut niiden mahdolliselta väärinkäytön vuoksi mm. tietojenkalastelukampanjoissa."
+	},
+	{
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "Estää tunnettuja ilmaisia palveluita, jotka jakavat käyttäjien sisällön ohessa myös haitallista sisältöä."
+	},
+	{
+		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
+		"hostlist.56.description": "Eniten väärinkäytetyt ylätason verkkotunnukset. Koostettu HaGeZista, Yokoffingista, DandelionSproutista ja SpamHAUSista."
+	},
+	{
+		"hostlist.59.name": "AdGuard DNS Popup Hosts -suodatin",
+		"hostlist.59.description": "Suodatin sisältää säännöt uuteen ikkunaan avautuville sivustoille, jotka koostuvat AdGuard-, EasyList- ja ABPindo-suodattimista ja on parannettu yhteensopivuuden vuoksi DNS-tason ponnahdusikkunoiden eston kanssa."
+	},
+	{
+		"hostlist.60.name": "HaGeZi's Xiaomi Tracker Blocklist",
+		"hostlist.60.description": "Estää Xiaomin alkuperäisen laajakaistaseurannan, joka seuraa toimintaasi."
+	},
+	{
+		"hostlist.61.name": "HaGeZin Samsung Tracker Blocklist",
+		"hostlist.61.description": "Estää Samsungin alkuperäiset laajakaistaseurantalaitteet, jotka seuraavat toimintaasi."
+	},
+	{
+		"hostlist.62.name": "Ukrainan suojaussuodatin",
+		"hostlist.62.description": "Suodattaa ukrainalaisten kansalaisten kohteena olevat haitalliset web-resurssit (tietojenkalastelu, online-huijaukset, haittaohjelmat jne.)."
+	},
+	{
+		"hostlist.63.name": "HaGeZi's Windows/Office Tracker Blocklist",
+		"hostlist.63.description": "Estää Windows/Office natiivit laajakaistaseurantalaitteet, jotka seuraavat aktiivisuuttasi."
+	},
+	{
+		"hostlist.64.name": "1Hosts (Pro)",
+		"hostlist.64.description": "Lista ärsyttävien mainosten, seurantapalveluiden ja haittaohjelmien estämiseksi. Tiukka versio: sisältää minimaalisesti taukoja, priorisoi yksityisyyttä ja suojausta (mainosten estäminen) UX:n yli, esim. estää `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Estää Vivon alkuperäiset laajakaistaseurannat, jotka seuraavat toimintaasi."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Estää OPPO:n ja Realmen alkuperäiset laajakaistaseurannat, jotka seuraavat toimintaasi."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Estää Applen alkuperäiset laajakaistaseurannat, jotka seuraavat toimintaasi."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Estää URL-lyhentäjät."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Estää analytiikkaan, diagnostiikkaan, mittareihin, sijaintiin ja julkisen IP:n tunnistamiseen liittyvät verkkotunnukset."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Aggressiivinen versio - maksimaalinen esto uusia yksityisyysuhkia vastaan. Voi (toisinaan) häiritä laillisia sivustoja tai palveluita."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "DNS Rebind Protection on suojausmekanismi, joka estää hyökkääjiä manipuloimasta DNS-vastauksia ja yrittämästä saada verkkotunnuksen käyttämään yksityisiä tai paikallisia IP-osoitteita. Tämä estää haitallisten komentosarjojen pääsyn sisäisiin verkkoihin DNS-uudelleensidontahyökkäysten kautta."
+	}
+]

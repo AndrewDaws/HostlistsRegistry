@@ -1,0 +1,266 @@
+[
+	{
+		"hostlist.1.name": "AdGuard DNS filter",
+		"hostlist.1.description": "Zoznam pozostáva z niekoľkých filtrov (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList a EasyPrivacy) a je zjednodušený, aby bol lepšie kompatibilný s blokovaním reklám na úrovni DNS."
+	},
+	{
+		"hostlist.3.name": "Peter Lowe's Blocklist",
+		"hostlist.3.description": "Zoznam blokov s názvami hostiteľov reklamných a sledovacích serverov"
+	},
+	{
+		"hostlist.4.name": "Zoznam Danyho Pollocka",
+		"hostlist.4.description": "Zoznam na blokovanie reklám a zabránenie sledovaniu používateľov"
+	},
+	{
+		"hostlist.5.name": "OISD Blocklist Small",
+		"hostlist.5.description": "Zoznam na blokovanie reklám a sledovačov. Uprednostňuje funkčnosť pred blokovaním."
+	},
+	{
+		"hostlist.6.name": "Zoznam reklamných blokov hernej konzoly Dandelion Sprout",
+		"hostlist.6.description": "Zoznam na blokovanie reklám na herných konzolách, ktoré používajú AdGuard Home"
+	},
+	{
+		"hostlist.7.name": "Blokovací zoznam Smart-TV od Perflyst a Dandelion Sprout",
+		"hostlist.7.description": "Zoznam na zabránenie odosielania metadát inteligentných televízorov dodávateľovi a na blokovanie reklám v aplikáciách a filmových službách"
+	},
+	{
+		"hostlist.8.name": "NoCoin Filter List",
+		"hostlist.8.description": "Zoznam na blokovanie ťažby kryptomien v prehliadači"
+	},
+	{
+		"hostlist.9.name": "Veľký zoznam webových stránok napadnutých škodlivým softvérom",
+		"hostlist.9.description": "Zoznam webových lokalít, ktoré sú napadnuté malvérom, ransomvérom alebo trójskymi koňmi"
+	},
+	{
+		"hostlist.10.name": "Blokovací zoznam podvodov od DurableNapkin-a",
+		"hostlist.10.description": "Zoznam na blokovanie nedôveryhodných webových lokalít"
+	},
+	{
+		"hostlist.11.name": "Malicious URL Blocklist (URLHaus)",
+		"hostlist.11.description": "Zoznam blokovaných škodlivých webových stránok na základe výpisu databázy Abuse.ch URLhaus"
+	},
+	{
+		"hostlist.12.name": "Zoznam Anti-Nalware od Dandelion Sprout",
+		"hostlist.12.description": "Dandelion Sprout's Anti-Malware List (filtrácia DNS v aplikáciách AdGuard Home, AdGuard pre Android a AdGuard pre Windows)"
+	},
+	{
+		"hostlist.13.name": "NOR: Dandelion Sprouts nordiske filtre",
+		"hostlist.13.description": "Dandelion Sprout's Nordic Filters (pre AdGuard Home a pre DNS filtráciu AdGuard pre Android/Windows)."
+	},
+	{
+		"hostlist.14.name": "POL: Polish filters for Pi-hole",
+		"hostlist.14.description": "Poľské filtre pre Pi-hole."
+	},
+	{
+		"hostlist.15.name": "KOR: YousList",
+		"hostlist.15.description": "Zoznam na blokovanie reklám hlavne na kórejských webových stránkach"
+	},
+	{
+		"hostlist.16.name": "VNM: ABPVN List",
+		"hostlist.16.description": "Zoznam na blokovanie reklám na vietnamských webových stránkach"
+	},
+	{
+		"hostlist.17.name": "SWE: švédsky Frellwitov súbor Hosts",
+		"hostlist.17.description": "Zoznam na blokovanie reklám, sledovania, podvodov a malvéru hlavne na švédskych webových stránkach"
+	},
+	{
+		"hostlist.18.name": "Phishing Army",
+		"hostlist.18.description": "Blokovací zoznam na filtráciu phishingových domén"
+	},
+	{
+		"hostlist.19.name": "IRN: PersianBlocker list",
+		"hostlist.19.description": "Optimálny a rozsiahly zoznam na blokovanie reklám a sledovačov na stránkach v perzskom jazyku"
+	},
+	{
+		"hostlist.20.name": "MKD: Macedónsky blokovací zoznam Pi-hole",
+		"hostlist.20.description": "Zoznam na blokovanie reklám na macedónskych webových stránkach"
+	},
+	{
+		"hostlist.21.name": "CHN: anti-AD",
+		"hostlist.21.description": "Zoznam na blokovanie reklám v čínskej oblasti. Zameriava sa na ochranu súkromia."
+	},
+	{
+		"hostlist.22.name": "IDN: ABPindo",
+		"hostlist.22.description": "Filter doplnený do zoznamu EasyList na blokovanie reklám na indonézskych a malajzijských webových stránkach"
+	},
+	{
+		"hostlist.23.name": "WindowsSpyBlocker – Hosts špionážne pravidlá",
+		"hostlist.23.description": "Zoznam na blokovanie špehovania a sledovania v systéme Windows"
+	},
+	{
+		"hostlist.24.name": "1Hosts (Lite)",
+		"hostlist.24.description": "Zoznam na blokovanie otravných reklám, sledovacích programov a škodlivého softvéru. Vyvážená verzia: nastav a zabudni, neobmedzuje používateľskú skúsenosť."
+	},
+	{
+		"hostlist.25.name": "KOR: List-KR DNS",
+		"hostlist.25.description": "Verzia DNS List-KR, filtra pre webové stránky v kórejskom jazyku"
+	},
+	{
+		"hostlist.26.name": "TUR: turk-adlist",
+		"hostlist.26.description": "Zoznam na blokovanie reklám a otravných prvkov na tureckých webových stránkach"
+	},
+	{
+		"hostlist.27.name": "OISD Blocklist Big",
+		"hostlist.27.description": "Zoznam na blokovanie reklám a sledovačov. Uprednostňuje funkčnosť pred blokovaním. Riziko nesprávneho blokovania je vyššie ako v malej verzii OISD Blocklist."
+	},
+	{
+		"hostlist.29.name": "CHN: AdRules DNS List",
+		"hostlist.29.description": "Zoznam na blokovanie reklám v čínskej oblasti"
+	},
+	{
+		"hostlist.30.name": "Zoznam blokovaných URL adries na neoprávnené získavanie údajov (PhishTank a OpenPhish)",
+		"hostlist.30.description": "Zoznam blokovaných phishingových webových stránok na základe zoznamov PhishTank a OpenPhish"
+	},
+	{
+		"hostlist.31.name": "Zoznam indikátorov Stalkerware",
+		"hostlist.31.description": "Indikátory kompromitácie aplikácií Stalkerware pre Android a iOS."
+	},
+	{
+		"hostlist.32.name": "Zoznam blokovaní NoTracking",
+		"hostlist.32.description": "Zoznam blokovaní NoTracking je zoznam založený na DNS pre blokovanie reklám, malvéru, phisingu a iného online odpadu."
+	},
+	{
+		"hostlist.33.name": "Zoznam Stevena Blacka",
+		"hostlist.33.description": "Zjednotený súbor hosts (adware + malware)."
+	},
+	{
+		"hostlist.34.name": "HaGeZi's Normal Blocklist",
+		"hostlist.34.description": "Metla - Čistí internet a chráni vaše súkromie! Blokuje reklamy, partnerské, sledovacie, metrické, telemetrické, phishingové, malvérové, podvodné, falošné, mincové a iné šmejdy."
+	},
+	{
+		"hostlist.35.name": "HUN: Hufilter",
+		"hostlist.35.description": "Poľské filtre pre Pi hole."
+	},
+	{
+		"hostlist.36.name": "LIT: EasyList Lithuania",
+		"hostlist.36.description": "Toto je (v súčasnosti dosť malá a málo testovaná) verzia EasyList Lithuania navrhnutá na použitie s nástrojmi založenými na doménach."
+	},
+	{
+		"hostlist.37.name": "Žiadny Google",
+		"hostlist.37.description": "Úplne blokuje všetky domény súvisiace s Google (vrátane YouTube)."
+	},
+	{
+		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
+		"hostlist.39.description": "Cieľom je zamedziť \"push\" notofikácie na stránkach. Kombinuje vhodné pravidlá z AdGuard Popups Filter's anti-push sekcii a Fanboy's Notifications Blocking List."
+	},
+	{
+		"hostlist.40.name": "TUR: Turkish Ad Hosts",
+		"hostlist.40.description": "Súbor hostiteľa potrebný na zablokovanie sledovacích a prípadne reklamných sietí v bežne používaných mobilných aplikáciách (a prípadne webových stránkach) v Turecku."
+	},
+	{
+		"hostlist.41.name": "POL: CERT Polska List of malicious domains",
+		"hostlist.41.description": "CERT Polska sa zaoberá incidentmi a hrozbami, ktoré majú pôvod alebo sú zamerané na systémy v doméne .pl alebo sú pripojené k sieti NASK alebo iného poľského poskytovateľa internetu."
+	},
+	{
+		"hostlist.42.name": "ShadowWhisperer's Malware List",
+		"hostlist.42.description": "Škodlivé stránky, PUP, malvér, únoscovia prehliadača, phishingové stránky"
+	},
+	{
+		"hostlist.43.name": "ISR: EasyList v hebrejčine",
+		"hostlist.43.description": "Zoznam na blokovanie reklám v hebrejčine."
+	},
+	{
+		"hostlist.44.name": "HaGeZi's Threat Intelligence Feeds",
+		"hostlist.44.description": "Výrazne zvyšuje bezpečnosť! Blokuje malvér, kryptografický útok, spam, podvod a phishing."
+	},
+	{
+		"hostlist.45.name": "HaGeZi's Allowlist Referral",
+		"hostlist.45.description": "Tento zoznam odblokuje partnerské a sledovacie referenčné odkazy, ktoré sa zobrazujú v e-mail správach, výsledkoch vyhľadávania atď."
+	},
+	{
+		"hostlist.46.name": "HaGeZi's Anti-Piracy Blocklist",
+		"hostlist.46.description": "Blokuje webové lokality a služby, ktoré sa používajú najmä na nelegálne šírenie obsahu chráneného autorskými právami."
+	},
+	{
+		"hostlist.47.name": "HaGeZi's Gambling Blocklist",
+		"hostlist.47.description": "Blokuje obsah hazardných hier."
+	},
+	{
+		"hostlist.48.name": "HaGeZi's Pro Blocklist",
+		"hostlist.48.description": "Big broom - Čistí internet a chráni vaše súkromie! Blokuje reklamy, pridružené služby, sledovanie, metriky, telemetriu, phishing, malvér, podvody, falzifikáty, mince a iné blbosti."
+	},
+	{
+		"hostlist.49.name": "HaGeZi's Ultimate Blocklist",
+		"hostlist.49.description": "Ultimate Sweeper - Prísne čistí internet a chráni vaše súkromie! Blokuje reklamy, affiliate, sledovanie (+ odporúčanie), metriky, telemetriu, phishing, malware, podvod, bezplatného hostiteľa, falošné, mince a iné blbosti."
+	},
+	{
+		"hostlist.50.name": "uBlock₀ filtre – riziká škodlivého softvéru",
+		"hostlist.50.description": "Pre zdokumentované stránky, ktoré vystavujú používateľov riziku inštalácie adware/crapware/malware, krádeže prihlasovacích údajov atď. Účelom je aspoň zabezpečiť, aby bol používateľ varovaný pred rizikami, ktoré ho čakajú."
+	},
+	{
+		"hostlist.51.name": "HaGeZi's Pro++ Blocklist",
+		"hostlist.51.description": "Sweeper - agresívne čistí internet a chráni Vaše súkromie! Blokuje reklamy, pridružené služby, sledovanie, metriky, telemetriu, phishing, malvér, podvody, falzifikáty, mince a iné blbosti."
+	},
+	{
+		"hostlist.52.name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass",
+		"hostlist.52.description": "Zabraňuje metódam obchádzania DNS, blokuje šifrované DNS, VPN, TOR, proxy servery. Zabránenie obchádzaniu nie je zaručené."
+	},
+	{
+		"hostlist.53.name": "Pravidlo reklám AWAvenue",
+		"hostlist.53.description": "Použite syntax Adblock na boj proti rôznym reklamným SDK v aplikáciách pre Android na úrovni siete, zabráňte ich načítaniu."
+	},
+	{
+		"hostlist.54.name": "HaGeZi's DynDNS Blocklist",
+		"hostlist.54.description": "Blokuje dynamické služby DNS na ochranu pred škodlivým použitím v kampaniach typu phishing a iných."
+	},
+	{
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "Zablokuje známe bezplatné hostiteľské servery, ktoré prostredníctvom používateľského obsahu hostia aj škodlivý softvér, aby sa zabránilo používaniu týchto hostiteľov na škodlivé účely."
+	},
+	{
+		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
+		"hostlist.56.description": "Najčastejšie zneužívané domény najvyššej úrovne, zlúčené z HaGeZi, Yokoffing, DandelionSprout a SpamHAUS."
+	},
+	{
+		"hostlist.59.name": "Filter AdGuard DNS Popup Hosts",
+		"hostlist.59.description": "Filter obsahuje pravidlá pre stránky, ktoré sa otvárajú v novom okne, zložené z filtrov AdGuard, EasyList, ABPindo a sú vylepšené pre kompatibilitu s blokovaním automaticky otváraných okien na úrovni DNS."
+	},
+	{
+		"hostlist.60.name": "Blokovací zoznam Xiaomi Tracker od HaGeZi",
+		"hostlist.60.description": "Blokuje nativné sledovače Xiaomi, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.61.name": "Blokovací zoznam sledovačov Samsung od HaGeZi",
+		"hostlist.61.description": "Blokuje nativné sledovače Samsung, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.62.name": "Ukrajinský bezpečnostný filter",
+		"hostlist.62.description": "Filtruje nebezpečné webové zdroje (phishing, online podvody, malware atď.) cielené na ukrajinských občanov."
+	},
+	{
+		"hostlist.63.name": "Zoznam blokovaných položiek sledovania systému Windows/Office od HaGeZi",
+		"hostlist.63.description": "Blokuje natívne širokopásmové sledovače systému Windows/Office, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.64.name": "1Hosts (Pro)",
+		"hostlist.64.description": "Zoznam na blokovanie otravných reklám, sledovacích programov a malvéru. Prísna verzia: má minimálne prerušenia, uprednostňuje súkromie a bezpečnosť (blokovanie reklám) pred UX, napr. blokuje `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "Blokovací zoznam sledovačov Vivo od HaGeZi",
+		"hostlist.65.description": "Blokuje natívne širokopásmové sledovače Vivo, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.66.name": "Blokovací zoznam sledovačov OPPO a Realme od HaGeZi",
+		"hostlist.66.description": "Blokuje nativné sledovače OPPO a Realme, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.67.name": "Blokovací zoznam sledovačov Apple od HaGeZi",
+		"hostlist.67.description": "Blokuje natívne širokopásmové sledovače Apple, ktoré sledujú Vašu aktivitu."
+	},
+	{
+		"hostlist.68.name": "Blokovací zoznam skracovačov URL adries od HaGeZiho",
+		"hostlist.68.description": "Blokuje skracovače URL adries."
+	},
+	{
+		"hostlist.69.name": "Zoznam sledovania ShadowWhisperer",
+		"hostlist.69.description": "Blokuje domény súvisiace s analytikou, diagnostikou, metrikami, polohou a detekciou verejných IP adries."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Agresívna verzia – maximálne blokovanie nových hrozieb pre súkromie. Môže (občas) narušiť fungovanie legitímnych stránok alebo služieb."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "DNS Rebind Protection je bezpečnostný mechanizmus, ktorý bráni útočníkom manipulovať s odpoveďami DNS s cieľom preložiť doménu na súkromné alebo lokálne IP adresy, čím blokuje škodlivým skriptom prístup k interným sieťam prostredníctvom útokov DNS rebinding."
+	}
+]
