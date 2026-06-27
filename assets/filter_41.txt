@@ -1,12 +1,31 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.71
+! Version: 1.1.53.72
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-27T11:36:04.180Z
+! Last modified: 2026-06-27T13:37:58.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||wondehumor.cyou^
+||pixelblogom.shop^
+||www.yasndikk.shop^
+||curveliving.cyou^
+||restorationsnarrow.lol^
+||gatheringpistachio.bond^
+||oferta782394.click^
+||ifeort943732.shop^
+||230129h8h57.xyz^
+||tejesolution.click^
+||cifazi.com^
+||batikbag.shop^
+||espugriott.cyou^
+||smart94381239.shop^
+||t43ih4582739h5.xyz^
+||2010g9h84.cfd^
+||prywatne32532865.xyz^
+||sponerituf.cyou^
+||xclubmy.com^
 ||bry.hpj.mybluehost.me^
 ||nancysapp.shop^
 ||dpd.paycore-24.cfd^
@@ -16,10 +35,8 @@
 ||tejeuniverse.fit^
 ||zebra-rabat.shop^
 ||jacquardjump.shop^
-||performancesearly.xclubmy.com^
 ||kdeba.refixt.com^
 ||oddlab.degenchest.com^
-||chroniclesteady.xclubmy.com^
 ||www.swarovski-polska.pl^
 ||yhundredr.ghhaba.com^
 ||nahukjhahiaioira.site^
@@ -106916,6 +106933,7 @@
 ||veqdmsbl.info^
 ||pl-oferta7236911.icu^
 ||pl-oferta909597465.sbs^
+||olx.pl78329oferta932342.cfd^
 ||vitopsbarb.homes^
 ||quantumtrust-app.com^
 ||kuciditedhijeno.cloud^
@@ -106923,6 +106941,7 @@
 ||pl-827124.cfd^
 ||pl-5712.pl^
 ||pl8923459oferta9324.icu^
+||olx.5105918j.cfd^
 ||discupostp.pro^
 ||shoevault.top^
 ||radicrinve.world^
@@ -106981,6 +107000,7 @@
 ||haxyewafrohike.cloud^
 ||pl-oferta24901839.sbs^
 ||pl-7272625525262262fga5.sbs^
+||allegro.5101298-109j.cyou^
 ||incanesfil.world^
 ||vaboxotumu.cloud^
 ||ratinricon.rest^
@@ -107005,29 +107025,6 @@
 ||finzeratixo.com^
 ||ife918270-a.cyou^
 ||515151s99s.cyou^
+||olx.510919x8u.cfd^
 ||pl-oferta775292969.sbs^
 ||8958jjoo2ofert1.cyou^
-||natpanudlimot.cloud^
-||5101298-109j.cyou^
-||immediateamrix.net^
-||trafficupx.click^
-||immediate-alrex.net^
-||allegrolokalnie.992389238523.sbs^
-||pl78329oferta932342.cfd^
-||07594-dt0912.sbs^
-||bitexgasapp.net^
-||randank.click^
-||5198s517uj1s0.cyou^
-||7398-xaai.cyou^
-||decrebedso.rest^
-||5105918j.cfd^
-||monaccopul.homes^
-||v9j6ad.icu^
-||69287ayaya.cyou^
-||avenixio-app.com^
-||impadraddo.world^
-||terosorti.world^
-||intakbioge.homes^
-||510919x8u.cfd^
-||pl-oferta8473057.cfd^
-||glokoreledmask.net^
