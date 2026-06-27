@@ -1,12 +1,56 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.67
+! Version: 1.1.53.68
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-27T03:17:15.422Z
+! Last modified: 2026-06-27T05:26:00.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||puroforma.shop^
+||intraradio.cyou^
+||autocracoo.cyou^
+||relacjezlatarni.xyz^
+||netpla.cyou^
+||tunnemolla.cyou^
+||www.saway-shoe.co^
+||norzelo.vip^
+||rolledxexpose.storiesoftech.com^
+||ozkaryapisistemleri.com^
+||pseudcello.cyou^
+||oblitbewar.cyou^
+||riammpedan.cyou^
+||qojscxmy.shop^
+||kronikamiejskowa.top^
+||squalunpor.cyou^
+||finance99-vel76.sbs^
+||swampsboll.cyou^
+||309238h75.shop^
+||hhgi3488g2.xyz^
+||smar9y5478723.xyz^
+||quartzacircle.paymyroll.com^
+||loopstand.paymyroll.com^
+||silkyunif.cfd^
+||sharesee.info^
+||initiengine.thetmjtrick.com^
+||tewznvqlka.shop^
+||windmtop.click^
+||bundlekiwi.lol^
+||instancesdeep.sloanlyfans.com^
+||gooditwist.rois-soleil.com^
+||sitaglobe.rois-soleil.com^
+||tejegiaztl.club^
+||badbgiant.cyou^
+||giftsym.danielconesa.com^
+||shapescasual.seemsnerdy.com^
+||foundpoint.danielconesa.com^
+||tejegtphnb.top^
+||quickchain.info^
+||beigeimpa.seemsnerdy.com^
+||fartherview.whiterosecleaning.com^
+||ogrow.best^
+||programytall.info^
+||earlyqueen.sbs^
 ||bih4837h4h93.shop^
 ||damoilecca.cyou^
 ||plainjade.info^
@@ -15,7 +59,6 @@
 ||sorrichrom.cyou^
 ||podgladperonowy.info^
 ||bluemnkey.com^
-||allegro.309238h75.shop^
 ||biezacezmurow.top^
 ||arterallic.cyou^
 ||tejegxjdlo.click^
@@ -106980,21 +107023,3 @@
 ||fehepiwlarovuhu.world^
 ||jurihji.world^
 ||nikonolihopvigu.world^
-||bujuni.online^
-||allegrolokalnie.pl6748934.cfd^
-||zexeu.net^
-||vinted.005382.vu^
-||teawinel.info^
-||tnoazxqhwl.info^
-||techpetl.info^
-||alebilet.pl-oferta962033-playstation-5-fat.sbs^
-||vinted.pl6748934.cfd^
-||alebilet.pl6748934.cfd^
-||annuaaggri.pro^
-||filoaerbor.homes^
-||sprawricon.world^
-||cunevelassecep.world^
-||gakewikzi.cloud^
-||dudapmocupo.world^
-||zicajavizimyo.cloud^
-||gahifinini.cloud^
