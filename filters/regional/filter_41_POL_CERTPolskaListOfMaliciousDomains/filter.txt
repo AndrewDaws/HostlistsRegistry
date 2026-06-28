@@ -1,12 +1,26 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.76
+! Version: 1.1.53.77
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T16:42:45.528Z
+! Last modified: 2026-06-28T17:32:28.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||vgbygbrx.r.us-east-1.awstrack.me^
+||www.bosepolska.com^
+||macron-polska.pl^
+||poloredikjh.com^
+||luliporst.com^
+||sequeludif.cyou^
+||allegrolokalnie.lokalna-ofeta19872192.sbs^
+||olx.paycore-fast24.xyz^
+||systefun.djvipe.com^
+||allegrolokalnie.oferta34681.shop^
+||arranwhisp.cyou^
+||morivsvani.cyou^
+||wazny-portalu.cfd^
+||konto-subskrypcja.sbs^
 ||vastpulsenets.com^
 ||mydocumentvault-s3.es^
 ||ofeta-1413.sbs^
@@ -106943,15 +106957,3 @@
 ||pl-718935.cfd^
 ||www.akouw.com^
 ||pl-oferta5347255-playstation-5-fat.sbs^
-||pl-oferta5173964.pl^
-||ss677999.cyou^
-||vutoxegajektedpa.cloud^
-||allegro.aj299219.sbs^
-||reformwealthprotocol.com^
-||51510s9a8.sbs^
-||peccaammog.rest^
-||zincaspost.world^
-||chinazesgames.top^
-||aiebilet.conformation-1929.shop^
-||allegrolokalne.conformation-1929.shop^
-||xn--albilet-b9a.conformation-1929.shop^
