@@ -1,9 +1,9 @@
 !
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Version: 1.0.17.36
+! Version: 1.0.17.37
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-06-27T09:03:16.852Z
+! Last modified: 2026-06-28T21:10:52.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -751,6 +751,7 @@
 ||adtrack.voicestar.com^
 ||adtraction.com^
 ||adtrade.net^
+||adtrk1.com^
 ||adultadvertising.com^
 ||adv-adserver.com^
 ||adv.donejty.pl^
@@ -779,6 +780,7 @@
 ||advertmarket.com^
 ||advertmedia.de^
 ||advertpro.ya.com^
+||advertracker.com^
 ||advertserve.com^
 ||advertwizard.com^
 ||advideo.uimserv.net^
@@ -834,7 +836,6 @@
 ||airpush.com^
 ||aistat.net^
 ||ak0gsh40.com^
-||alchemist.go2cloud.org^
 ||alclick.com^
 ||alenty.com^
 ||alexa-sitestats.s3.amazonaws.com^
@@ -1751,6 +1752,7 @@
 ||go.scmagazine.com^
 ||go.xlirdr.com^
 ||go2affise.com^
+||go2cloud.org^
 ||godseedband.com^
 ||goingplatinum.com^
 ||goldstats.com^
@@ -3200,6 +3202,7 @@
 ||track.unear.net^
 ||track.vcdc.com^
 ||track.viewdeos.com^
+||track.wewilltrcku.com^
 ||track1.viewdeos.com^
 ||trackalyzer.com^
 ||trackedlink.net^
@@ -3209,7 +3212,10 @@
 ||tracker.colatv88xb.cc^
 ||tracker.icerocket.com^
 ||tracker.mmdlv.it^
+||tracker.optin-lead.com^
 ||tracker.samplicio.us^
+||tracking.adstrategysites.com^
+||tracking.casheddy.com^
 ||tracking.cybertips.uk^
 ||tracking.epicgames.com^
 ||tracking.hyros.com^
@@ -3222,6 +3228,7 @@
 ||tracking.netalerts.io^
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
+||tracking.p-l-m.com^
 ||tracking.wetter.at^
 ||tracking01.walmart.com^
 ||tracking101.com^
