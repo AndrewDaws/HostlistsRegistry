@@ -1,12 +1,20 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.83
+! Version: 1.1.53.84
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T22:28:43.435Z
+! Last modified: 2026-06-28T23:30:25.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||finalpromjoy.com^
+||coronrinfr.cyou^
+||ninijoinfor.com^
+||hadjilacon.cyou^
+||trailgo.top^
+||1002h9h.xyz^
+||23-0948230-9r23.baby^
+||smar3465.shop^
 ||lokalne-4333452.sbs^
 ||cedaly.info^
 ||forrefpok.com^
