@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.42
+! Version: 1.0.98.43
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-06-28T21:11:01.337Z
+! Last modified: 2026-06-28T22:28:19.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -21618,7 +21618,6 @@
 ||fopperylockful.qpon^
 ||fopxicajsprkh.site^
 ||foqfievhzvbjo.com^
-||forabomasnowan.com^
 ||forbearphysics.com^
 ||forbearsnob.com^
 ||forbesresistread.com^
@@ -48395,7 +48394,6 @@
 ||static.fidgiant.com^
 ||static.foremedia.net^
 ||static.frownedand-bid.com^
-||static.gaomaer.cn^
 ||static.globalsun.io^
 ||static.goodgamer.gg^
 ||static.greedygame.com^

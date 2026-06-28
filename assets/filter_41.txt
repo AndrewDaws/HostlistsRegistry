@@ -1,12 +1,22 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.82
+! Version: 1.1.53.83
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T21:29:43.786Z
+! Last modified: 2026-06-28T22:28:43.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||lokalne-4333452.sbs^
+||cedaly.info^
+||forrefpok.com^
+||deragsfitt.cyou^
+||1029h843h.shop^
+||1945jkk.shop^
+||patriadont.cyou^
+||prywatne823912.baby^
+||043893478.lol^
+||urbanpulsen.shop^
 ||unwilequas.cyou^
 ||zakupomat.shop^
 ||acculinsol.cyou^
@@ -106875,32 +106885,3 @@
 ||xegasyi.world^
 ||joxjefak.cloud^
 ||sirenejjovozovki.cloud^
-||chroniclepulsehub.pro^
-||heartconsu.world^
-||evwod.pakl.pl^
-||joinugloria.top^
-||pl-728134.cfd^
-||my.turnpaylen.space^
-||pl-smart-oferta984034.sbs^
-||allegrolokalniepl.oferta9736.icu^
-||tossfit.click^
-||zonfhev65anki.mocha.app^
-||luxlofesipixmi.cloud^
-||planyprivatevideos.cyou^
-||allegrolokalnie.oferta-1435903-proponowane-dla-ciebie.icu^
-||shaahidon2.12hp.ch^
-||zabki.albertheiin.online^
-||allegrolokalnie.oferta-1334903-proponowane-dla-ciebie.icu^
-||allegrolokalnie.924848615.cfd^
-||allegrolokalnie.oferta-1734318-proponowane-dla-ciebie.icu^
-||allegrolokalnie.pl-012934.rest^
-||allegrolokalnie.921856415.cfd^
-||allegrolokalnie.pl-oferta131231.sbs^
-||medictrone.world^
-||leeladefer.pro^
-||destrtarta.casa^
-||pl-907521.icu^
-||pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs^
-||pl-oferta3107145.pl^
-||pl-oferta9620333-sprzedam-rtx-4070-tu-zotac.sbs^
-||pl-826255473gwfqdqdsb16514133qqytq7.sbs^
