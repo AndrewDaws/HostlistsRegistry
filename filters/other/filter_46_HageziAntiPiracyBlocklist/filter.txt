@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.79
+! Version: 1.0.25.80
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-06-28T14:40:12.322Z
+! Last modified: 2026-06-28T19:35:39.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2725,6 +2725,7 @@
 ||altadefinizionegratis.link^
 ||altadefinizionegratis.live^
 ||altadefinizionegratis.living^
+||altadefinizionegratis.me^
 ||altadefinizionegratis.monster^
 ||altadefinizionegratis.news^
 ||altadefinizionegratis.onl^

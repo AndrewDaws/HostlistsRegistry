@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.40
+! Version: 1.0.98.41
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-06-28T18:33:34.779Z
+! Last modified: 2026-06-28T19:35:29.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1561,7 +1561,6 @@
 ||6v5lljx5tj283h.rest^
 ||6vspt720xf.com^
 ||6w4ix4bxz1.com^
-||6wtznnfc58nofw166.cfd^
 ||6x59axt21.com^
 ||6x6iyrnym5uqpi.rest^
 ||6xu7at70ok.com^
@@ -1590,7 +1589,6 @@
 ||7250xdj0x.com^
 ||728e89c437.1270533dea.com^
 ||72hdgb5o.de^
-||72o59nujkjqlq179wpo.cfd^
 ||72qv9fhgm.com^
 ||72xh073u9.com^
 ||730fcb332f.com^
@@ -1886,7 +1884,6 @@
 ||8h6oiw0uo.com^
 ||8h7j79qxm.com^
 ||8hx7k0211.com^
-||8hy98hxknwimg15teo4g9zflniz4c.rest^
 ||8iav2fuiy.com^
 ||8inhjmd.usefathom.com^
 ||8j1f0af5.de^
@@ -8846,7 +8843,6 @@
 ||behelddialectextract.com^
 ||beheldsled.com^
 ||behindcanary.com^
-||beholdsresinsimprevu.cfd^
 ||behoneyono.com^
 ||beigedevotedcockpit.com^
 ||beijing.buzhi5.com^
@@ -8900,7 +8896,6 @@
 ||beneficial-airport.pro^
 ||beneficial-shape.com^
 ||benefitanna.com^
-||benesfumous.cfd^
 ||benevolencecompromisefaint.com^
 ||beniluuxen.com^
 ||bennetguarantee.com^
@@ -9938,9 +9933,7 @@
 ||brackedignotus.cyou^
 ||bracketauthorizedportray.com^
 ||bradleyincorrect.com^
-||bragidylismtooken.cyou^
 ||bragkixa.in^
-||brahmsflidge.com^
 ||braidsagria.com^
 ||brainberries.co^
 ||brainlyads.com^
@@ -10283,7 +10276,6 @@
 ||buckumoore.com^
 ||buckweeklyrecording.com^
 ||buctqfwodwbt.com^
-||buddhiknutty.com^
 ||buddlesnomial.cfd^
 ||budgedsnavvle.com^
 ||budgeencodeunions.com^
@@ -13265,7 +13257,6 @@
 ||corrupt-comfort.com^
 ||corrupt-peak.com^
 ||corruptionburlylawsuit.com^
-||corsesmascots.qpon^
 ||corsiepeones.cyou^
 ||coryphstoma.com^
 ||cosetengarb.com^
@@ -13609,7 +13600,6 @@
 ||creamssicsite.com^
 ||creamy-recover.com^
 ||creamymouth.com^
-||creasecortege.cfd^
 ||creasereturndisplayed.com^
 ||creatablegluesurvival.com^
 ||creationpartnershipputrescent.com^
@@ -19168,7 +19158,6 @@
 ||enmusubimail000.com^
 ||ennhtjzkuhjjw.online^
 ||ennxeslzxsfyb.space^
-||enolatethurm.shop^
 ||enormousgrievedsquall.com^
 ||enosblurter.com^
 ||enot.fyi^
@@ -20366,7 +20355,6 @@
 ||falcon.executeprogram.com^
 ||falcon.rowanmanning.com^
 ||falcon.useinsider.com^
-||falconduties.shop^
 ||falcopeacing.com^
 ||falhcegbmvooc.site^
 ||falkwo.com^
@@ -20631,7 +20619,6 @@
 ||featurelockout.com^
 ||febeb.xyz^
 ||febflqfojuqdqm.com^
-||febriletanzy.shop^
 ||februarybogus.com^
 ||februaryinjectionproudly.com^
 ||februaryparent.com^
@@ -20719,7 +20706,6 @@
 ||ferdarius.com^
 ||feriassaimiri.com^
 ||fermolo.info^
-||ferncrawmtimist.cyou^
 ||ferntravelleddeduct.com^
 ||ferocitycandour.com^
 ||ferret.ecvan.io^
@@ -21717,7 +21703,6 @@
 ||forward81.net^
 ||forwardfishermanbidding.com^
 ||forwarnbervie.cyou^
-||forwarnjigging.qpon^
 ||forworksyconus.com^
 ||forzubatr.com^
 ||fosfrgpcqy.com^
@@ -24286,7 +24271,6 @@
 ||gyooocelofurv.store^
 ||gyoqtcogunavk.site^
 ||gypjdmigbouth.website^
-||gypsousalamo.cyou^
 ||gypsyairplanereign.com^
 ||gypsyproducing.com^
 ||gypsytriggerscrazy.com^
@@ -25604,7 +25588,6 @@
 ||hps.pornpics.com^
 ||hpsatusskaszi.site^
 ||hpsbpqwawzpwf.space^
-||hpthoght.qpon^
 ||hptysnhexzndy.website^
 ||hpvcrluqolote.website^
 ||hpwjlcgoaxla.com^
@@ -25807,7 +25790,6 @@
 ||humoristshamrockzap.com^
 ||humorousorderedeconomics.com^
 ||humpdecompose.com^
-||humpingunfoggy.cfd^
 ||humro.site^
 ||humsoolt.net^
 ||humto.xyz^
@@ -26204,7 +26186,6 @@
 ||iccku.com^
 ||iccvjzhpfolzj.space^
 ||icdirect.com^
-||icebergvetoed.com^
 ||icebxgkpn.com^
 ||icecaptifter.com^
 ||icelessbogles.com^
@@ -29206,7 +29187,6 @@
 ||kaleidoscopic-coast.pro^
 ||kaleidoscopicoffer.pro^
 ||kaleidoscopictouch.com^
-||kalesrussiaschuln.cyou^
 ||kalganscope.com^
 ||kalstats.kaltura.com^
 ||kalzuragzfi.in^
@@ -29593,7 +29573,6 @@
 ||kiomthavsruuk.online^
 ||kiosked.com^
 ||kipvptyusewoq.space^
-||kirmewoisin.cyou^
 ||kirujh.com^
 ||kispmoobnkk.in^
 ||kissbaketurpentine.com^
@@ -30937,7 +30916,6 @@
 ||licfmjuqoatiz.website^
 ||licluumkehiwi.store^
 ||lidburger.com^
-||lidosscote.cfd^
 ||lidsaich.net^
 ||lidtcctobkneu.website^
 ||liduvxoyivocr.space^
@@ -31462,7 +31440,6 @@
 ||localsnaughty.com^
 ||localytics.com^
 ||locatedcontemn.com^
-||locatiocorms.com^
 ||lockdownoncomingdistinctly.com^
 ||locked-link.com^
 ||lockedyetoffence.com^
@@ -34937,7 +34914,6 @@
 ||myghwfdo.com^
 ||mygjunfjozcxz.online^
 ||myijgzvgluvai.site^
-||myiosiskutch.shop^
 ||mykydlznkanfk.online^
 ||mylot.com^
 ||mymap.icu^
@@ -37998,7 +37974,6 @@
 ||oueltdoqctddl.online^
 ||ouepihbzwdvrj.space^
 ||ouflupanin.cfd^
-||oughtsantral.shop^
 ||ougnflauhyluf.online^
 ||ouhgvifdh.com^
 ||ouhnituc.com^
@@ -38146,7 +38121,6 @@
 ||ovngwowapygbl.site^
 ||ovnudogmtcypg.online^
 ||ovnwwuohwxis.in^
-||ovonicscalumetdiquat.cyou^
 ||ovozxiftkxwtg.online^
 ||ovpukbvfluhnw.site^
 ||ovret.com^
@@ -38620,14 +38594,12 @@
 ||parasiteoutdoorsmix.com^
 ||parasolcrimefactory.com^
 ||paraveronline.com^
-||parbatekolkozyimblaze.qpon^
 ||parcelconsists.com^
 ||parched-director.pro^
 ||parched-mail.com^
 ||pardetheezan.com^
 ||pareilgipons.qpon^
 ||parentsjobquote.com^
-||pargetagape.cyou^
 ||paripartners.ru^
 ||parisjeroleinpg.com^
 ||parissommite.qpon^
@@ -39677,7 +39649,6 @@
 ||placidityelite.com^
 ||placiditylever.com^
 ||pladnauqfy.com^
-||plagaestilb.cyou^
 ||plain-plane.com^
 ||plainfeelings.com^
 ||plainpatient.pro^
@@ -40178,7 +40149,6 @@
 ||poshmixture.pro^
 ||poshorondino.cfd^
 ||poshozxm.com^
-||positactual.cyou^
 ||positional.ai^
 ||positive-ads.com^
 ||positive-movie.pro^
@@ -41138,7 +41108,6 @@
 ||pulseadnetwork.com^
 ||pulsemgr.com^
 ||pulseonclick.com^
-||pulseskerbed.qpon^
 ||pulyxlgvrlqco.space^
 ||puma.islingtonmecc.org.uk^
 ||pummelstarish.cyou^
@@ -43456,7 +43425,6 @@
 ||restartad.com^
 ||restedconnectionsympathetic.com^
 ||resteddiabetepocket.com^
-||restepkeet.cyou^
 ||restlesscompeldescend.com^
 ||restorepushed.com^
 ||restrainfannylimb.com^
@@ -45075,7 +45043,6 @@
 ||rzefgjtircyuv.space^
 ||rzeuizwtvteer.online^
 ||rzewgczctigqx.online^
-||rzh5u3vtfke4l7t.rest^
 ||rzjdsm7tgz.com^
 ||rzlszgljghrwq.site^
 ||rzneekilff.com^
@@ -45806,7 +45773,6 @@
 ||scruzeugroid.cyou^
 ||scubaseverely.com^
 ||scuddlenudnik.com^
-||scufferdamme.qpon^
 ||scukeknekbomd.website^
 ||sculptorhomeworkpersecute.com^
 ||scurra.space^
@@ -49498,7 +49464,6 @@
 ||swatad.com^
 ||swatbeneficial.com^
 ||swatledgesling.com^
-||swaverlimps.cfd^
 ||swaw.cn^
 ||swbbtzshzxsve.space^
 ||swbihztgbtqcs.space^
@@ -50215,7 +50180,6 @@
 ||tarzansaminate.cfd^
 ||tasgxk4ia6.com^
 ||tasktrivialaggregated.com^
-||tassiesbedawee.cfd^
 ||tastedaftknowledge.com^
 ||tastejapan.life^
 ||tastemynews.com^
@@ -52405,7 +52369,6 @@
 ||tripsisvellums.com^
 ||tripsthorpelemonade.com^
 ||trissinted.com^
-||tritboxers.qpon^
 ||tritetongue.com^
 ||triumphantthingsreading.com^
 ||triumphcommodity.com^
@@ -53544,7 +53507,6 @@
 ||ultracdn.top^
 ||ultramercial.com^
 ||ultrasoundpurchase.com^
-||ululantofftype.cfd^
 ||uluuggxnhrxord.com^
 ||ulvantamal.shop^
 ||ulvofrestbsjn.com^
@@ -55043,7 +55005,6 @@
 ||vibrantmedia.com^
 ||vibrantscale.com^
 ||vibtrvfiegdpi.site^
-||vicaryhicatee.com^
 ||vicecomradecompare.com^
 ||viceoptionsrattle.com^
 ||vicesus.com^
