@@ -1,12 +1,14 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.74
+! Version: 1.1.53.75
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T14:58:16.682Z
+! Last modified: 2026-06-28T15:34:05.017Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||theskyloom.shop^
+||dww.pilny-informacja.sbs^
 ||gridwavegate.com^
 ||collaepaxi.cyou^
 ||acetiramif.cyou^
@@ -106908,6 +106910,7 @@
 ||ravegteged.cloud^
 ||pozevime.cloud^
 ||howwisesiru.world^
+||allegrolokalnie.conformation-1929.shop^
 ||ornitincap.casa^
 ||poyici.world^
 ||lipusu.cloud^
@@ -106925,6 +106928,9 @@
 ||peccaammog.rest^
 ||zincaspost.world^
 ||chinazesgames.top^
+||aiebilet.conformation-1929.shop^
+||allegrolokalne.conformation-1929.shop^
+||xn--albilet-b9a.conformation-1929.shop^
 ||ipta.aygroup.app^
 ||ipko-weryfikacja-36199293-pl.stackstaging.com^
 ||klientainfo.net^
@@ -106950,5 +106956,3 @@
 ||pl-6852789.icu^
 ||conformation-122.shop^
 ||conformation-123.shop^
-||allegro.51519sja99.cfd^
-||conformation-1929.shop^
