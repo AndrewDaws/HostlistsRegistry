@@ -35,17 +35,24 @@ jobs:
         run: yarn compose
 
       - name: Commit & Push changes
-        uses: actions-js/push@v1.5
         if: github.ref == 'refs/heads/main' && github.repository == 'AdguardTeam/HostlistsRegistry'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          message: "skip ci: auto-build"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "skip ci: auto-build"
+          git push
 
   notify:
     name: Send Slack notification on failure
     runs-on: ubuntu-latest
     needs: build
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     # Run even if the build job failed, but only for our own repo
     if:
       ${{
@@ -63,11 +70,24 @@ jobs:
         )
       }}
     steps:
-      - uses: 8398a7/action-slack@v3
-        with:
-          status: failure
-          fields: workflow,repo,message,commit,author,eventName,ref,job
-          job_name: Build Hostlists Registry
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      - name: Notify Slack
+        if: ${{ env.SLACK_WEBHOOK_URL != '' }}
+        run: |
+          SHORT_SHA="${GITHUB_SHA::7}"
+          RUN_URL="https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          COMMIT_URL="https://github.com/${GITHUB_REPOSITORY}/commit/${GITHUB_SHA}"
+          PAYLOAD=$(jq -n \
+            --arg text ":no_entry: Failed GitHub Actions" \
+            --arg workflow "$GITHUB_WORKFLOW" \
+            --arg repo "$GITHUB_REPOSITORY" \
+            --arg ref "$GITHUB_REF" \
+            --arg event "$GITHUB_EVENT_NAME" \
+            --arg sha "$SHORT_SHA" \
+            --arg commit_url "$COMMIT_URL" \
+            --arg run_url "$RUN_URL" \
+            '{text:$text, blocks:[
+              {type:"section", text:{type:"mrkdwn", text:":no_entry: *Failed GitHub Actions*"}},
+              {type:"context", elements:[{type:"mrkdwn", text:"*workflow:* \($workflow)\n*repo:* \($repo)\n*ref:* \($ref)\n*event:* \($event)\n*commit:* <\($commit_url)|\($sha)>\n*run:* <\($run_url)|Build Hostlists Registry>"}]}
+            ]}'
+          )
+          curl -sS -X POST -H 'Content-Type: application/json' -d "$PAYLOAD" "$SLACK_WEBHOOK_URL"

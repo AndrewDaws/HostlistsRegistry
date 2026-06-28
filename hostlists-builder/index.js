@@ -2,11 +2,13 @@
 
 const path = require('path');
 const fs = require('fs');
+const dns = require('dns');
 const md5 = require('md5');
 const dayjs = require('dayjs');
 const hostlistCompiler = require('@adguard/hostlist-compiler');
 const mastodonServerlistCompiler = require('./mastodon');
 const { listDirs, writeFile, readFile, DeferredRunner } = require('./utils/io');
+const { withRetries } = require('./utils/retry');
 const Revision = require('./utils/revision');
 const TagsMetadataUtils = require('./utils/tags');
 const replaceExpires = require('./utils/expires');
@@ -136,6 +138,12 @@ const loadLocales = async function (dir) {
 };
 
 async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
+  // Prefer IPv4 for outgoing connections. CI runners sometimes have flaky or
+  // filtered IPv6 egress, which leads to fast ETIMEDOUT errors for hosts that
+  // resolve to both A and AAAA records. IPv4 is still tried first while IPv6
+  // remains available as a fallback.
+  dns.setDefaultResultOrder('ipv4first');
+
   const filtersMetadata = [];
   const filtersMetadataDev = [];
   const filterKeyValidator = filterKeyValidatorFactory();
@@ -175,10 +183,13 @@ async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
         revision.setVersionCandidate();
         revision.setTimeUpdatedCandidate();
 
-        let hostlistCompiled = await hostlistCompiler({
-          ...hostlistConfiguration,
-          version: revision.getVersionCandidate(),
-        });
+        let hostlistCompiled = await withRetries(
+          () => hostlistCompiler({
+            ...hostlistConfiguration,
+            version: revision.getVersionCandidate(),
+          }),
+          `filter ${metadata.filterId}`,
+        );
 
         if (!metadata.trusted) {
           // Remove $dnsrewrite rules if the filter is not trusted.
