@@ -1,12 +1,26 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.75
+! Version: 1.1.53.76
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T15:34:05.017Z
+! Last modified: 2026-06-28T16:42:45.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||vastpulsenets.com^
+||mydocumentvault-s3.es^
+||ofeta-1413.sbs^
+||oysho-polska.pl^
+||marcokhan.shop^
+||diafrunsch.cyou^
+||discountzzzf.sale^
+||inpolst.hjgo4so3.sbs^
+||form.nice345.com^
+||cntower.cc^
+||sciupbuone.cyou^
+||sitecorenet.site^
+||thevintagevessel.shop^
+||wauuljvh.shop^
 ||theskyloom.shop^
 ||dww.pilny-informacja.sbs^
 ||gridwavegate.com^
@@ -6888,7 +6902,6 @@
 ||ukcopperbrook.com^
 ||gjyrn.com^
 ||allegrolokalnie.k4rvkck.sbs^
-||www.oysho-polska.pl^
 ||inpolst.val26vu6.sbs^
 ||zisosfowernajdosf.site^
 ||shareroom-housestay9175.com^
@@ -106167,6 +106180,7 @@
 ||elegantwear.top^
 ||goodspark.top^
 ||furnitureonline-pl.shop^
+||www.ipko-weryfikacja-36199293-pl.stackstaging.com^
 ||autocristu.my^
 ||asbesbehav.pro^
 ||horredilun.my^
@@ -106889,11 +106903,21 @@
 ||www.vonscarberry.com^
 ||kyrealotter.com^
 ||catabrindi.today^
+||olx.conformation-122.shop^
+||allegrolokalne.conformation-122.shop^
+||aiebilet.conformation-123.shop^
 ||immordisad.world^
 ||entreautoi.casa^
 ||mobilcarci.casa^
 ||ballplay.buzz^
 ||ironicrealism.click^
+||allegrolokalnie.pl-910072.icu^
+||allegrolokalnie.conformation-123.shop^
+||allegro.conformation-122.shop^
+||allegrolokainie.conformation-122.shop^
+||vinted.conformation-123.shop^
+||xn--albilet-b9a.conformation-123.shop^
+||alebilet.conformation-123.shop^
 ||metrorepri.world^
 ||moja-paczka.ckulymo.cfd^
 ||mv2swk.lat^
@@ -106931,28 +106955,3 @@
 ||aiebilet.conformation-1929.shop^
 ||allegrolokalne.conformation-1929.shop^
 ||xn--albilet-b9a.conformation-1929.shop^
-||ipta.aygroup.app^
-||ipko-weryfikacja-36199293-pl.stackstaging.com^
-||klientainfo.net^
-||ecombase.top^
-||interstellarwaveai.net^
-||travapolys.world^
-||allebilet.conformation-124.shop^
-||immediate20lexi.com^
-||sbrodtrans.world^
-||pl-910072.icu^
-||pl-oferta885017299.sbs^
-||immediateblazent.net^
-||ducecumul.world^
-||9523827ssa1.sbs^
-||mydisneyplushome.com^
-||antenocchi.pro^
-||lasufmibiru.world^
-||instant-renova-app.com^
-||framehub.click^
-||vlnteb0nden.digital^
-||51510x988.cyou^
-||pl-789266.icu^
-||pl-6852789.icu^
-||conformation-122.shop^
-||conformation-123.shop^
