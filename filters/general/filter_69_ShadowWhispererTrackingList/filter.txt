@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.51
+! Version: 1.0.3.52
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-26T20:41:04.716Z
+! Last modified: 2026-06-28T14:40:04.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,096
-# Updated: 6/26/2026  15:26 (3:26 PM CST)
+# Domains: 115,121
+# Updated: 6/28/2026  00:34 (12:34 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2432,6 +2432,7 @@
 ||acdc-direct.office.com^
 ||acdc.toolineo.de^
 ||a-cdn.babylist.com^
+||acds-events.adobe.io^
 ||acdzg.fright-rags.com^
 ||acecounter.com^
 ||a.celsoazevedo.com^
@@ -16624,6 +16625,7 @@
 ||api.invictusjoias.com.br^
 ||api.iobb.com.br^
 ||api.ip6.org.il^
+||api.ipinfo.io^
 ||apiip.net^
 ||api.ipsybr.com.br^
 ||api.irmaosnails.com^
@@ -17042,6 +17044,7 @@
 ||apm.okd.liberty.edu^
 ||apmplus.volces.com^
 ||apm-proxy.app.elstc.co^
+||apm.qwant.com^
 ||apms5.com^
 ||apnanalytics.com^
 ||apollo-pixel.production-public.tubi.io^
@@ -17201,6 +17204,7 @@
 ||apps.scrollx.io^
 ||apps-shopify.ipblocker.io^
 ||appstair.com^
+||app-statistics.puzzel.com^
 ||appstats-a.akamaihd.net^
 ||appstrcking.com^
 ||app.swipepages.com^
@@ -19327,6 +19331,7 @@
 ||browse4you.com^
 ||browsee.io^
 ||browseranalytic.com^
+||browser-fp.production.linktr.ee^
 ||browserhawk.com^
 ||browser-info.api.thehotline.us^
 ||browser-intake-ap1-datadoghq.com^
@@ -21323,6 +21328,7 @@
 ||client-errors.overwolf.com^
 ||client-eventing-production01.cengage.info^
 ||client-events.gambinoslot.com^
+||client-events-ingress.bookbub.com^
 ||clientgear.com^
 ||client-log.box.com^
 ||client-logger.beta.salemove.com^
@@ -33853,6 +33859,7 @@
 ||godvd.cleansimpleeats.com^
 ||go.eitrmsummit.com^
 ||go.element3health.com^
+||go.flocksafety.com^
 ||gogds.colehaan.co.uk^
 ||goget-daasity.com^
 ||gogn.gallup.is^
@@ -37571,6 +37578,7 @@
 ||highinspace.de^
 ||highorderanalytics.com^
 ||hightouch.com^
+||hightouch-events.com^
 ||hightouch.io^
 ||hightr4ffic.com^
 ||hiido.com^
@@ -38112,6 +38120,7 @@
 ||id.banxmgmt.com^
 ||idbus.trupeer.ai^
 ||id.camilakurdian.com^
+||id.creativecrochetcorner.com^
 ||id.db4devs.com.br^
 ||iddkr.portmeirion.com^
 ||idealcx.com.au^
@@ -40850,6 +40859,7 @@
 ||kqjfn.magfast.com^
 ||kqmja.michaeltoddbeauty.com^
 ||kqpol.heroesvillains.com^
+||k.qwant.com^
 ||kqzamd.com^
 ||kr1taf8j4.com^
 ||krainaznizek.pl^
@@ -51114,6 +51124,7 @@
 ||mc.yandex.uz^
 ||mczbf.com^
 ||mdata.sgkswiss.ch^
+||md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws^
 ||m.delltechnologies.com^
 ||mdemk.sokolovelaw.com^
 ||mdentss.yopagomenos.co^
@@ -54505,6 +54516,7 @@
 ||meuplano.unimedcentrorondonia.coop.br^
 ||mezereon.com^
 ||mezereon.net^
+||mezmo.com^
 ||m-factor.com^
 ||m.fantomas.design^
 ||mfelo.opositiv.com^
@@ -59135,6 +59147,7 @@
 ||mno.hkshop.com.bd^
 ||m.notestothesoul.org^
 ||mn-pbox-525.top^
+||mn.qwant.com^
 ||mnrtf.bowlersmart.com^
 ||mntn.com^
 ||mntr.cafecito.app^
@@ -62111,6 +62124,7 @@
 ||pagestats.win^
 ||pages.venkel.com^
 ||pages.zenefits.com^
+||pageview-analytics-worker.support-67d.workers.dev^
 ||pageview.events^
 ||page.your.hesta.com.au^
 ||page.your-stage.hesta.com.au^
@@ -62576,6 +62590,7 @@
 ||ph.voice.ai^
 ||phygital-insights.com^
 ||phyon.communipay.net^
+||p.hyperdash.com^
 ||physicalbikes.com^
 ||phz4dtrk.com^
 ||pi.0xbb.xyz^
@@ -69348,6 +69363,7 @@
 ||podph.mielleorganics.com^
 ||podscribe.com^
 ||podsights.com^
+||podtrac.com^
 ||podtrac.net^
 ||poeticpackage.com^
 ||pogbd.suzannesfashions.ca^
@@ -69949,6 +69965,7 @@
 ||psbl.tcw.de^
 ||psb.marshlecdn.com^
 ||psbt.transdeliver.com^
+||pscrb.fm^
 ||ps.ecosia.org^
 ||pse.gabor.com^
 ||psetu.citybonfires.com^
@@ -71056,6 +71073,7 @@
 ||recombee.com^
 ||recommend.9gag.com^
 ||recommendationengine.googleapis.com^
+||recommendations-sdk.adobe.io^
 ||recommenddoor.com^
 ||recommendifyapp.com^
 ||recommend.pro^
@@ -71420,6 +71438,7 @@
 ||report.alhalalcosmetics.de^
 ||report-api.alireviews.io^
 ||reportbuilder.net^
+||report.cloud.tenda.com.cn^
 ||report.datamints.com^
 ||report.deutsche-digitale-bibliothek.de^
 ||report.hubshout.com^
@@ -85788,6 +85807,7 @@
 ||sp.freep.com^
 ||sp.funandnews.de^
 ||sp.fussballfieber.de^
+||spfy-pxl.archive-digger.com^
 ||sp.genial.ly^
 ||spghr.com^
 ||sp.gilt.com^
@@ -93630,6 +93650,7 @@
 ||stat.cncenter.cz^
 ||stat.coco-and-co.com^
 ||stat.coeurdeveil.fr^
+||statcollector.sidearmsports.com^
 ||stat.colorfinale.com^
 ||stat.componio.net^
 ||stat.compta-online.com^
@@ -101979,6 +102000,7 @@
 ||stats.videofizz.com^
 ||stats.videomaker.me^
 ||stats.videopong.net^
+||stats.vidrock.ru^
 ||stats.viewnet.dk^
 ||stats.vigokv.de^
 ||stats.viguierjust.com^
@@ -111728,6 +111750,7 @@
 ||wce-frog.wix.com^
 ||wcs.naver.com^
 ||wcs.naver.net^
+||wct-2.com^
 ||wct.compari.se^
 ||wct.coolgadgetsinsider.com^
 ||wctr.aures.ag^
@@ -112736,6 +112759,7 @@
 ||wordnerds.ai^
 ||workableachiever.com^
 ||workdrive-metricslogs-uswest2.s3.amazonaws.com^
+||workmagic.io^
 ||workoperation.com^
 ||workwearfreesample.com^
 ||workwonders.hallstar.com^
@@ -113404,6 +113428,7 @@
 ||xyz.dinkusa.com^
 ||xyz.kokkensvinhus.dk^
 ||xyz.najkolobezky.sk^
+||xyz.parksleepfly.com^
 ||xzb1hc7l.com^
 ||xzwtxo.nurse-senka.jp^
 ||y0ovqtzh.com^

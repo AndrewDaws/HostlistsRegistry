@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.93
+! Version: 1.0.20.94
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-26T20:41:33.176Z
+! Last modified: 2026-06-28T14:40:32.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -5296,6 +5296,7 @@
 ||bariletacos.com^
 ||barisderin.com^
 ||barkeightroad.com^
+||barkequilibrium.com^
 ||barkersceleb.com^
 ||barlear.ru^
 ||barleyconsequently.com^
@@ -10446,6 +10447,7 @@
 ||cupboardgold.com^
 ||cupidfortress.com^
 ||cupidirresolute.com^
+||cupidityconnect.com^
 ||cupidleisureblender.com^
 ||cupidrapidlygalactic.com^
 ||cupidrecession.com^
@@ -17204,6 +17206,7 @@
 ||free-daily-job-alerts.com^
 ||freedailymanualstab.com^
 ||freedailytip.com^
+||free-dating4you.com^
 ||freedatingexposed.com^
 ||freedefinitionnow.com^
 ||free-desktop-dancer.software^
@@ -18297,6 +18300,7 @@
 ||girlsforcum.com^
 ||girls-fuck-dudes.com^
 ||girlsfuckdudes.com^
+||girls-games.org^
 ||girlshereu.net^
 ||girls-nearby.com^
 ||girlssohorny.com^
@@ -24851,6 +24855,7 @@
 ||matchmeldonline.online^
 ||matchradar.online^
 ||matchtypepatter.com^
+||matelotsmokish.cyou^
 ||materialisticconstitution.com^
 ||materialsresemblanceinstruct.com^
 ||materialszone.com^
@@ -26068,6 +26073,7 @@
 ||mrktrecord11.com^
 ||mrmnc.com^
 ||mrmronthwll.com^
+||mrqy68bk48znu3gb8zt2p9wvel1m.cfd^
 ||mrte.ch^
 ||msblame.com^
 ||msdashboardonline.com^
@@ -38848,6 +38854,7 @@
 ||tiptoeskilldetectives.com^
 ||tirage-tarot-rapide.com^
 ||tireconnateunion.com^
+||tiredamazingly.com^
 ||tiremanraisers.top^
 ||tirepoliticsspeedometer.com^
 ||tirequicker.com^
