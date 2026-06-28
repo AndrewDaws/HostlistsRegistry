@@ -1,12 +1,21 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.77
+! Version: 1.1.53.78
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T17:32:28.910Z
+! Last modified: 2026-06-28T18:34:06.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||239h4594.shop^
+||vinted.234890h945.xyz^
+||headlinepulselive.com^
+||fopolorews.com^
+||gladmustyri.cyou^
+||bredkiolopo.com^
+||grsfranchisedevelopment.com^
+||allegrolokalnie.lokalna-ofera8993484.sbs^
+||4892k67.lol^
 ||vgbygbrx.r.us-east-1.awstrack.me^
 ||www.bosepolska.com^
 ||macron-polska.pl^
@@ -140,7 +149,6 @@
 ||sallyhomespace.com^
 ||rinsoleggi.cyou^
 ||thesilvermeadow.shop^
-||olx-9564371.grsfranchisedevelopment.com^
 ||i4iyxt.cfd^
 ||upzjmrjc.shop^
 ||biezacezplacu.top^
@@ -106914,46 +106922,3 @@
 ||allegrolokalnie.oferta383723649323.sbs^
 ||cab.ibex-limited.com^
 ||j5qtmf.bond^
-||www.vonscarberry.com^
-||kyrealotter.com^
-||catabrindi.today^
-||olx.conformation-122.shop^
-||allegrolokalne.conformation-122.shop^
-||aiebilet.conformation-123.shop^
-||immordisad.world^
-||entreautoi.casa^
-||mobilcarci.casa^
-||ballplay.buzz^
-||ironicrealism.click^
-||allegrolokalnie.pl-910072.icu^
-||allegrolokalnie.conformation-123.shop^
-||allegro.conformation-122.shop^
-||allegrolokainie.conformation-122.shop^
-||vinted.conformation-123.shop^
-||xn--albilet-b9a.conformation-123.shop^
-||alebilet.conformation-123.shop^
-||metrorepri.world^
-||moja-paczka.ckulymo.cfd^
-||mv2swk.lat^
-||www.paratonline.com^
-||pseudieroc.pro^
-||sewpiwefipupsam.world^
-||silerutimasidoc.cloud^
-||nusatlaru.world^
-||pressmelt.cfd^
-||mojerachunki.com^
-||quantumedex20app.com^
-||sindralvox.top^
-||wowisepnu.world^
-||ravegteged.cloud^
-||pozevime.cloud^
-||howwisesiru.world^
-||allegrolokalnie.conformation-1929.shop^
-||ornitincap.casa^
-||poyici.world^
-||lipusu.cloud^
-||klientainfos.net^
-||stremdigri.casa^
-||pl-718935.cfd^
-||www.akouw.com^
-||pl-oferta5347255-playstation-5-fat.sbs^
