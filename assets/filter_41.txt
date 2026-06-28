@@ -1,12 +1,21 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.79
+! Version: 1.1.53.80
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T19:35:56.590Z
+! Last modified: 2026-06-28T20:34:15.473Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||feruribe.com^
+||zakupisko.shop^
+||bambirech.cyou^
+||handichili.cyou^
+||form.markestrategia.com^
+||paldeny.com^
+||spropesume.cyou^
+||o1otl1p1-v988.b4ycfn.top^
+||234890h945.xyz^
 ||riassparse.cyou^
 ||ofeta-142233.sbs^
 ||alebilet.oferta58.lat^
@@ -16,7 +25,6 @@
 ||spiavscasa.cyou^
 ||smart9438237.xyz^
 ||239h4594.shop^
-||vinted.234890h945.xyz^
 ||headlinepulselive.com^
 ||fopolorews.com^
 ||gladmustyri.cyou^
@@ -106892,33 +106900,3 @@
 ||pl-oferta3107145.pl^
 ||pl-oferta9620333-sprzedam-rtx-4070-tu-zotac.sbs^
 ||pl-826255473gwfqdqdsb16514133qqytq7.sbs^
-||allegrolokalnie.pl-84729045.cfd^
-||alettkoumi.casa^
-||newbrushes.click^
-||mojedisney-payments.com^
-||allegrolokalnie.pl-8232345.sbs^
-||sizeer.sale-shop.sbs^
-||www.coachchristennyson.com^
-||allegrolokalnie.pl-93578345.cfd^
-||allegrolokalnie.pl-oferta67793456.icu^
-||pl-3528741.icu^
-||pl.sdosecmpo.shop^
-||superpharm.kruidvats-discounts.mom^
-||ppeppcoo00-pl.sbs^
-||yawnecixuxageh.world^
-||paintinreality.digital^
-||cssrayzz.xyz^
-||allegrolokalnie.pl-6723457899.icu^
-||shakeproapp.com^
-||lotukordave.cloud^
-||vegetricam.pro^
-||neurisoggh.world^
-||pl-7458142.icu^
-||pl-5748532.icu^
-||allegrolokalnie.pl-987983.rest^
-||allegrolokalnie.oferta-1634412-proponowane-dla-ciebie.icu^
-||allegrolokalnie.pl-firmowe-77163.sbs^
-||allegrolokalnie.pl-firmowe-18821.icu^
-||allegrolokalnie.pl-458996734.cfd^
-||allegrolokalnie.oferta-1535413-proponowane-dla-ciebie.icu^
-||pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs^
