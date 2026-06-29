@@ -1,12 +1,24 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.93
+! Version: 1.1.53.94
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T17:53:22.107Z
+! Last modified: 2026-06-29T18:50:44.567Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||domoshopik.shop^
+||open-p.jdevcloud.com^
+||zabka.2h56.xyz^
+||libidfrutt.cyou^
+||secihti.com^
+||162616.click^
+||domisfera.shop^
+||avenari.lovable.app^
+||pixelcraftf.shop^
+||coedustall.cyou^
+||85767125125.click^
+||aktualnosci24.space^
 ||pl-ofertafirmowa845jhjx8n4f.click^
 ||lnqpptco-hzcup.h1gwyg.casa^
 ||tevehxplrv.help^
@@ -106962,21 +106974,3 @@
 ||1n8ost.y8mdhb.cyou^
 ||visprozz.buzz^
 ||allegrolokalnie.oferta459831.sbs^
-||mojespotifyfaktura.com^
-||klientas.net^
-||allegrolokalnie.pl-299456.cfd^
-||allegrolokalnie.pl-1688345.sbs^
-||allegrolokalnie.pl-093108.rest^
-||allegrolokalnie.104388237948120.sbs^
-||gubermiche.world^
-||helpful-environment-820901.framer.app^
-||sopracoesi.world^
-||allegrolokalnie.pl-50392.rest^
-||glamwardrobe.top^
-||krnapinna.my^
-||hidifeyebiro.cloud^
-||spotifybilling.com^
-||pl-902451.cfd^
-||wolxcvheyl.info^
-||woodnewsl.info^
-||worldgloball.info^
