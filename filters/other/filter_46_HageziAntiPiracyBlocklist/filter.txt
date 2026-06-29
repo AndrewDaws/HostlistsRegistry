@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.81
+! Version: 1.0.25.82
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-06-29T10:43:02.472Z
+! Last modified: 2026-06-29T19:38:50.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -23,7 +23,6 @@
 ||atrack-asia-s1.114913.xyz^
 ||chihaya-heroku.120181311.xyz^
 ||ettv.123unblock.world^
-||tracker.1h.is^
 ||t.213891.xyz^
 ||t-backup.213891.xyz^
 ||crack.21m.net^
@@ -106,7 +105,6 @@
 ||mkvcinemasmovies.bio.link^
 ||moviesmod.bio.link^
 ||tracker.birkenwald.de^
-||tracker.bitcoinindia.space^
 ||tracker.bitcomet.net^
 ||tracker.bittalk.org^
 ||tracker.bittor.pw^
@@ -710,7 +708,6 @@
 ||47.ip-51-68-199.eu^
 ||ns349743.ip-91-121-106.eu^
 ||speedtest.iperson.xyz^
-||tracker.iperson.xyz^
 ||v2.iperson.xyz^
 ||tracker.ipfsscan.io^
 ||api.ipv4online.uk^
@@ -10968,7 +10965,6 @@
 ||l33t-raws.org^
 ||la-breiya-lordfilms.ru^
 ||la-breya-lordfilm3.ru^
-||la-cale.space^
 ||la123movies.com^
 ||labaia.ws^
 ||labtor.tv^
@@ -26350,7 +26346,6 @@
 ||strimsy.top^
 ||strmd.link^
 ||strmup.to^
-||strumyk.cfd^
 ||strumyk.cv^
 ||strumyk.help^
 ||strumyk.in^
