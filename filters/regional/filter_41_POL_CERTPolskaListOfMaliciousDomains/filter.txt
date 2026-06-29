@@ -1,12 +1,22 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.96
+! Version: 1.1.53.97
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T20:43:08.806Z
+! Last modified: 2026-06-29T21:36:27.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||form.nawpxp.com^
+||ltcbbdwe.shop^
+||inpostfreshs.sbs^
+||supreme-lavender-t9nd7q0w.edgeone.dev^
+||ofertivo.shop^
+||hagensdogcare.com^
+||www.novastreamg.shop^
+||mitizcasco.cyou^
+||notice.xzjy88.com^
+||sassacesti.cyou^
 ||wedgee.brestelbucar.com^
 ||161251.click^
 ||allegrolokalnie.pl-oferta8192309.shop^
@@ -106886,6 +106896,7 @@
 ||tocovital.my^
 ||benzinorma.world^
 ||lacrischel.my^
+||allegrolokalnie.pl-257458.icu^
 ||allegro-lokalnie.pl-452387.icu^
 ||allegro-lokalnie.pl-24312.icu^
 ||5ftfete6.lat^
@@ -106940,33 +106951,3 @@
 ||wwdwdatel.info^
 ||ycypvjvl.info^
 ||xfgfsojwvrl.info^
-||servintlupdtlockedaccmangespaymenbay.dehme.com^
-||moja-paczka.bowizelo.sbs^
-||sprinovers.my^
-||allegrolokalnie.zakup89075.top^
-||pl-257458.icu^
-||jerrislopp.pro^
-||obliqvocal.world^
-||blairstownszx.info^
-||visfoxzz.click^
-||phpjoyz.top^
-||allegrolokalnie.pl-9863126.top^
-||nodefoxz.click^
-||uxjoyzzy.click^
-||allegrolokalnie.74945.vu^
-||argent-online2025.com^
-||9wknj2w.icu^
-||allegrolokalnie.pl99198.cfd^
-||musescene.buzz^
-||ppqpc.icu^
-||myspotify-app.com^
-||pepco.zsjunxuan.com^
-||ristacomba.my^
-||assegamphi.world^
-||pl-items-6712467123-macbook-pro-16-2019.cfd^
-||yayhcil.info^
-||wwuarifl.info^
-||xsoyuvl.info^
-||ynqknrqyl.info^
-||xxlykqil.info^
-||xikxhowswl.info^
