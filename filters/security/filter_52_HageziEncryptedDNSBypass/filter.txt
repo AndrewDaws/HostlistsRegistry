@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.47
+! Version: 1.0.26.48
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-06-28T14:40:51.944Z
+! Last modified: 2026-06-29T10:43:37.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6841,6 +6841,7 @@
 ||nwea.veriler.com^
 ||virtualenglish.verolook.com^
 ||jahyussif.verymad.net^
+||ohttp.prod.via.google^
 ||cludenxenibyte.viar3d.com^
 ||ilovenirb.viar3d.com^
 ||mathteacher.viar3d.com^
@@ -14452,6 +14453,7 @@
 ||ralveno.ru^
 ||ramivo.ru^
 ||rammerhead.org^
+||randomdomain.shop^
 ||rankedmc.win^
 ||ranqigaibiao.com^
 ||rapidcdn.click^
