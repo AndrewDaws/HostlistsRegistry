@@ -1,12 +1,31 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.84
+! Version: 1.1.53.85
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-28T23:30:25.049Z
+! Last modified: 2026-06-29T01:13:19.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||x5rv7mq.skin^
+||espiavitti.cyou^
+||profikonekt.ahczcy.com^
+||kikoopoasoaiwweweoisd.site^
+||manageupdateuseridamzhjfgfud.jdhdandiakarna.com^
+||strausszz.pro^
+||gasauiodaidsoadisd.site^
+||uktodaynews.ink^
+||atecus.info^
+||massedisle.cyou^
+||pompeignos.cyou^
+||ematr.nauzsagalore.com^
+||hypotwall.best^
+||allegrolokalnie.oferta20494719495828495.shop^
+||sport-vip.shop^
+||vekids.shop^
+||straussdiscountstorevip-a.shop^
+||vinifcoequ.cyou^
+||systemsrace.nauzsagalore.com^
 ||finalpromjoy.com^
 ||coronrinfr.cyou^
 ||ninijoinfor.com^
@@ -106859,37 +106878,3 @@
 ||islamnostr.pro^
 ||barcoendoc.casa^
 ||pl-2851541526kwhwttwh027262292621f.sbs^
-||wiginithecokofsi.world^
-||trhsavrixapp.com^
-||exurbvesic.casa^
-||viralpulsewire.pro^
-||allegrolokalnie.zakup789560.click^
-||semiotitol.casa^
-||destrbasto.pro^
-||firex21capital.com^
-||rifreringr.world^
-||rinteechog.casa^
-||allegrolokalnie.pl-7753124.top^
-||pl-2547415.icu^
-||levileca.world^
-||zolletrist.world^
-||pointdenon.pro^
-||oferta5774377.pl^
-||pl-8541527.icu^
-||pl-3524875.icu^
-||voxurosejil.cloud^
-||yunirezxotevu.cloud^
-||vebpozixo.world^
-||wiyodaviwumukke.cloud^
-||lemfeporosumogna.cloud^
-||deyubuhixufe.cloud^
-||wubelanatajejleg.world^
-||siruka.cloud^
-||nadanagebxax.world^
-||vafumgejewjuru.world^
-||geragoyo.world^
-||povidisduzgeyuz.cloud^
-||hinsusufhaya.world^
-||xegasyi.world^
-||joxjefak.cloud^
-||sirenejjovozovki.cloud^
