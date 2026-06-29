@@ -1,19 +1,36 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.98
+! Version: 1.1.53.99
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T22:29:47.071Z
+! Last modified: 2026-06-29T23:27:51.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||novastreamg.shop^
+||klepivo.shop^
+||allegrolokalnie.lokalna-ofera634002.shop^
+||rappiscodi.cyou^
+||norvexa241.com^
+||wyjatkowabielizna.com^
+||impunatten.cyou^
+||tejedeltacon.luxe^
+||bpstfi-www-frontend-fyceda5z8-bpstfi-tfc.vercel.app^
+||rigriorbit.cyou^
+||roncainvid.cyou^
+||allegrolokalnie.oferta27198703.shop^
+||requiscroc.cyou^
+||tevemxqlrw.shop^
+||pl-42.sbs^
+||pl-86255449.click^
+||oferta87851858.click^
+||pl-oferta5jfc4dd4x.click^
 ||form.nawpxp.com^
 ||ltcbbdwe.shop^
 ||inpostfreshs.sbs^
 ||supreme-lavender-t9nd7q0w.edgeone.dev^
 ||ofertivo.shop^
 ||hagensdogcare.com^
-||www.novastreamg.shop^
 ||mitizcasco.cyou^
 ||notice.xzjy88.com^
 ||sassacesti.cyou^
@@ -106922,6 +106939,3 @@
 ||rubyddevz.click^
 ||visprozz.xyz^
 ||excfoxz.click^
-||44wgve.icu^
-||02jnwh.icu^
-||eosla.pl^
