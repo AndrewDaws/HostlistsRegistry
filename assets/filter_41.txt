@@ -1,12 +1,61 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.91
+! Version: 1.1.53.92
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T14:28:22.560Z
+! Last modified: 2026-06-29T16:21:59.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||scapiarrog.cyou^
+||8wn3mxz.skin^
+||pl-u1gyf.sbs^
+||amlwerifex.onl^
+||qelmiurani.info^
+||tlkio.it.com^
+||terewsnlru.top^
+||domelivo.shop^
+||urbnfarm.com^
+||allegrolokalnie.72362.click^
+||pelleinvol.cyou^
+||acchirths.cyou^
+||burjufashion.com^
+||sinotruckmarmara.com^
+||mtpxknta.shop^
+||tereqozmrc.shop^
+||tejesilverte.click^
+||atemicorp.com^
+||oak-leather.shop^
+||futureinsightwire.com^
+||terezpjqaf.shop^
+||spillbisog.cyou^
+||garantivizem.org^
+||eobuwieshoppl.com^
+||strefanova.shop^
+||ingilteredenkapinda.com^
+||esotoyedek.com^
+||check-konta.vercel.app^
+||drseyhanorak.com^
+||distedavimistanbul.com^
+||nextgenerationportal.com^
+||turinter.info^
+||tereuxphqc.luxe^
+||manomconcu.cyou^
+||lacasadelredroom.com^
+||mystatepremium.com^
+||tereuxphqc.work^
+||tereqpdjmn.beer^
+||gemimarketim.net^
+||oncartroads.vip^
+||northwavefocusq.info^
+||damilolaadewuyi.com^
+||globalfuturedispatch.com^
+||kahlenaplants.com^
+||pl-oferta9837392.sbs^
+||hydroshifa.shop^
+||emo29.com^
+||measensor.com^
+||esozlesme.net^
 ||unbelivably.com^
 ||aitradingfree.ru^
 ||sahibindenkira.com^
@@ -106931,25 +106980,3 @@
 ||allegrolokalnie.pl-firmowe-77513.sbs^
 ||blurrmitic.my^
 ||fakturaklientapolska.com^
-||allegrolokalnie.oferta-1454417-proponowane-dla-ciebie.icu^
-||presslegna.my^
-||id2390.pl^
-||lavande-coinpulse-app.com^
-||www.apparel-online.shop^
-||stafeprecl.world^
-||pseuddisse.pro^
-||pl-901806.cfd^
-||linkedverycase396.site^
-||akhlasubaf.pro^
-||w8hbeg.icu^
-||htmlfit.click^
-||allegrolokalnie.oferta-1854413-proponowane-dla-ciebie.icu^
-||y1w7uk.icu^
-||allegrolokalnie.oferta-1254317-proponowane-dla-ciebie.icu^
-||pedalpiana.my^
-||pl-91890602.icu^
-||mojespotify-polska.com^
-||redacteurbusinessplan.com^
-||xo3chb.cyou^
-||allegrolokalnie.oferta-1654312-proponowane-dla-ciebie.icu^
-||pseudescha.world^

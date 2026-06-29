@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.94
+! Version: 1.0.20.95
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-28T14:40:32.420Z
+! Last modified: 2026-06-29T16:22:04.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -548,6 +548,7 @@
 ||2a3d18deb0.com^
 ||2a4722f5ee.com^
 ||2a9dbc9963.com^
+||2aa502e2fe.com^
 ||2ab7df2de3.com^
 ||2ab91613ab.com^
 ||2ace95e2ce.com^
@@ -623,6 +624,7 @@
 ||2shrt.com^
 ||2track.info^
 ||2u4c.com^
+||2vnrjqgl6jlmf3.cfd^
 ||2ww.me^
 ||2yd.eu^
 ||3009e36989.com^
@@ -1279,6 +1281,7 @@
 ||6bc1f4d014.com^
 ||6bgaput9ullc.com^
 ||6c32ad026d.com^
+||6c77d90eb7.com^
 ||6c9c74ad54.com^
 ||6c9eed1c74.com^
 ||6ca9278a53.com^
@@ -1442,6 +1445,7 @@
 ||7b98c550d1.com^
 ||7ba3fa4259.com^
 ||7bb072c1e1.com^
+||7bd10d8411.com^
 ||7bd9a61155.com^
 ||7bkzlyfvl.com^
 ||7c13b412e9.com^
@@ -7477,6 +7481,7 @@
 ||ca5f66c8ef.com^
 ||ca6d30883b.com^
 ||ca6dbde75a.com^
+||cabalsneuk.qpon^
 ||cabaskieye.com^
 ||cabbagereporterpayroll.com^
 ||cabinbennet.com^
@@ -8694,6 +8699,7 @@
 ||clawinfection.com^
 ||clayacts.com^
 ||clayballast.com^
+||clckfltr.com^
 ||clckz.com^
 ||cldirplarimo.com^
 ||clean-2-clean.club^
@@ -18579,6 +18585,7 @@
 ||gogosearch.co^
 ||go-go.tech^
 ||gogotower5.xyz^
+||gogpusley.qpon^
 ||gogt.pw^
 ||gogussoch.net^
 ||goincognitosearch.com^
@@ -22526,6 +22533,7 @@
 ||jquery.sbs^
 ||jr6h.monster^
 ||jrg-news2.club^
+||jrpkizae.com^
 ||jruoq.click^
 ||jsfir.cyou^
 ||jsgoodcode.com^
@@ -23695,6 +23703,7 @@
 ||limitlessoptcoffin.com^
 ||limitlessstare.com^
 ||limitlesssubcf.com^
+||limitscompelledmint.com^
 ||limitsfuel.com^
 ||limitspat.com^
 ||limitsreasonablebrag.com^
@@ -38157,6 +38166,7 @@
 ||tdsinto.com^
 ||tdsjsext.com^
 ||tdsshark.xyz^
+||teacakehobbedniall.cfd^
 ||teacherhamish.com^
 ||teacherobjectionstolerant.com^
 ||teachingquince.icu^
