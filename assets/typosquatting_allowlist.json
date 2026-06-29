@@ -90,6 +90,10 @@
       "exceptions": [ "incogni.com" ]
     },
     {
+      "domain": "isc.org",
+      "exceptions": [ "isc2.org", "isc3.org" ]
+    },
+    {
       "domain": "kick.com",
       "exceptions": [ "kink.com" ]
     },
