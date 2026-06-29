@@ -1,12 +1,48 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.86
+! Version: 1.1.53.87
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T03:21:39.490Z
+! Last modified: 2026-06-29T05:45:11.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||frizimyelo.cyou^
+||adivaslarg.cyou^
+||traderstransfer.custom-writings.com^
+||direcrific.cyou^
+||alebiletoferta5.cyou^
+||texedevelo.click^
+||unharacqua.cyou^
+||cropvlower.xdsmart.com^
+||vshow.cyou^
+||ytouc.soylon.com^
+||lpict.nauzsagalore.com^
+||creatorcyan.soylon.com^
+||combimante.cyou^
+||broccolisetu.cirah.com^
+||facetsstrike.click^
+||kiwiyequal.cfd^
+||thickint.forum^
+||chaptersprovide.promiedosapp.com^
+||otarilinol.cyou^
+||cogitestiv.cyou^
+||autolproge.cyou^
+||sgnacclly.cyou^
+||editmixed.turnyourshiparound.com^
+||kupitano.shop^
+||csim120.top^
+||zanvaro.com^
+||stuelspect.cyou^
+||fhmbvmlk.shop^
+||splendidraisin.thetmjtrick.com^
+||stravaggru.cyou^
+||postiinvil.cyou^
+||juioaiidosdiosfifsosd.site^
+||bhsfusfiufsisfosd.site^
+||vitogpx.com^
+||ytytythdfiszdjssd.site^
+||boontoor.com^
 ||x5rv7mq.skin^
 ||espiavitti.cyou^
 ||profikonekt.ahczcy.com^

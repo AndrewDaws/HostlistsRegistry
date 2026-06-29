@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.52
+! Version: 1.0.3.53
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-28T14:40:04.035Z
+! Last modified: 2026-06-29T05:44:50.845Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,121
-# Updated: 6/28/2026  00:34 (12:34 AM CST)
+# Domains: 115,131
+# Updated: 6/29/2026  00:39 (12:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -49,6 +49,7 @@
 ||11antsanalytics.com^
 ||11ants.com^
 ||11b6n4ty2x3.taxliencode.com^
+||11ctch.com^
 ||11d3b762.b-cdn.net^
 ||1201588661.platinum.com^
 ||1218655806.creamyfabrics.com^
@@ -19540,6 +19541,7 @@
 ||bxbtbf.msccruises.no^
 ||bx.eiyanlens.com^
 ||bxnjdj.spinneys.com^
+||bxtag.com^
 ||by4b2trk.com^
 ||bydata.com^
 ||byerley.ch^
@@ -19769,6 +19771,7 @@
 ||capi.aspiresmiles.co.uk^
 ||capi.atrium-kirchenau.ch^
 ||capi.autocoach.nl^
+||capi-automation.s3.us-east-2.amazonaws.com^
 ||capi.autosender.shop^
 ||capi.babycarebangladesh.com^
 ||capi.babycentricbd.store^
@@ -24627,6 +24630,7 @@
 ||d2u9nuq84jlbj2.cloudfront.net^
 ||d2uglmb8pm5fx2.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
+||d2uum8dec56mmi.cloudfront.net^
 ||d2v1eccllptgg1.cloudfront.net^
 ||d2vm9nxdt27gdz.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
@@ -29248,6 +29252,7 @@
 ||d.palplast.de^
 ||d.parkett-schliff.de^
 ||d.patogupirkti.lt^
+||d.paypal.com^
 ||dp.barclaycardus.com^
 ||dp.barclaysus.com^
 ||d.p.bareminerals.com^
@@ -33598,6 +33603,7 @@
 ||g.grupos.passageirodeprimeira.com^
 ||ggsst.gravity-global.com^
 ||ggveg.creatinegummies.com^
+||gg.vevor.com^
 ||ggvjk.beginhealth.com^
 ||g.gwpro.io^
 ||ggyaxis.com^
@@ -45750,6 +45756,7 @@
 ||m-4.eu^
 ||m4zoxtrcea1k.controlconceptsusa.com^
 ||m5gfm7trk.com^
+||m6-211026f8a25b42c08fc190458268b30e.ecs.us-east-2.on.aws^
 ||m6d.com^
 ||m6jklqw4as.com^
 ||m6r.eu^
@@ -72695,6 +72702,7 @@
 ||r.tevasamorir.co^
 ||rtf-40-netred.top^
 ||rtg2trk.com^
+||rtgs.aimroas.com^
 ||rtg.wewomedia.com^
 ||r.thailandmail.aptinet.com^
 ||rtlog.byteoversea.com^
@@ -78600,6 +78608,7 @@
 ||sgtm.fix-pv.com^
 ||sgtm.fixshop.at^
 ||sgtm.fix-shop.fr^
+||sgtm.flagandbanner.com^
 ||sgtm.flagstang.dk^
 ||sgtm.flewd.com^
 ||sgtm.flipitfactory.com^
@@ -109265,6 +109274,7 @@
 ||trk.upte-cwa.org^
 ||trk.us1.leadfwd.app^
 ||trk.visioncard.com.br^
+||trkwwtarget.com^
 ||trk.yworks.com^
 ||tr.line.me^
 ||trljnk.frankandeileen.com^
