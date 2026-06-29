@@ -1,12 +1,52 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.87
+! Version: 1.1.53.88
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T05:45:11.572Z
+! Last modified: 2026-06-29T08:01:18.153Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||wilhedenit.cyou^
+||dziennikportalow.info^
+||glycogest.com^
+||echozskweru.pro^
+||gurolepic.com^
+||jdmparca.com^
+||konyaharf.com^
+||doniesieniazmuru.xyz^
+||tl.lb1vso.sbs^
+||n3ecowapdmsa.com^
+||impuzatone.cyou^
+||islimmakine.com^
+||poolsystemco.com^
+||misfasbull.cyou^
+||kronikawejscia.xyz^
+||okutdernegi.org^
+||theglavora.shop^
+||oppgame.com^
+||buythisdomain.net^
+||lrz.ebt.mybluehost.me^
+||vacvcayuidololo.site^
+||rassefusti.cyou^
+||zakatekdom.com^
+||form.fayebeline.com^
+||sklepotron.shop^
+||glosyzparkowych.pro^
+||rammopiagg.cyou^
+||theamberpath.shop^
+||thewestgrove.shop^
+||soffrspicu.cyou^
+||rivendellknight.site^
+||repreexoca.cyou^
+||pulsklatkowiec.top^
+||portallatarniowy.pro^
+||ngzsuakr.shop^
+||dziennikpodworkow.info^
+||coralkspirit.courses^
+||blateingiu.cyou^
+||pl-open-wp.wpdevcloud.com^
+||domostrefa.shop^
 ||frizimyelo.cyou^
 ||adivaslarg.cyou^
 ||traderstransfer.custom-writings.com^
@@ -106883,29 +106923,3 @@
 ||nirldemor.world^
 ||rimpopseud.casa^
 ||vescipazzi.pro^
-||admin-extranet-mail.com^
-||abadanonline.com^
-||markmcmurray.com^
-||astraomoge.world^
-||monitcarca.casa^
-||teamwgronc.world^
-||panarcadianfederation.com^
-||spronistal.world^
-||astroaggec.pro^
-||x-trader-aiplatform.com^
-||fumigmiria.casa^
-||zegini.world^
-||pl-574862.icu^
-||allegrolokalnie.pl-2851541526kwhwttwh027262292621f.sbs^
-||lezziaffas.world^
-||pagarcorru.pro^
-||sattvpiegh.casa^
-||nitrimelan.world^
-||avgaffiliates.com^
-||cheroenhal.pro^
-||matteprede.casa^
-||docs.kpis.ae^
-||lisoccamit.world^
-||livenewsdigestnow.live^
-||latesttrendstories.live^
-||worldinsidestory.live^
