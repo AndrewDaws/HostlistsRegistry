@@ -1,12 +1,40 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.92
+! Version: 1.1.53.93
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T16:21:59.465Z
+! Last modified: 2026-06-29T17:53:22.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||pl-ofertafirmowa845jhjx8n4f.click^
+||lnqpptco-hzcup.h1gwyg.casa^
+||tevehxplrv.help^
+||juredeerfilo.com^
+||pl-ofertafirmowa746heu6feh.cfd^
+||marketero.shop^
+||istorvene.cyou^
+||koipoiopierptoirepeti.site^
+||vtdtbiea.shop^
+||pl-9394274.click^
+||olx.paycore-wplata.shop^
+||tezotomasyon.com^
+||cagliembri.cyou^
+||oo1t1lxp1mod-ne61.h1gwyg.casa^
+||sr8tt.lb1vso.sbs^
+||bafkreif47ebftby53sqjgmvfhrj3ur4bcaq2q5zearckb4fdkwvoef5v2m.ipfs.inbrowser.link^
+||ofertoria.shop^
+||postiunaci.cyou^
+||pl-ofertafirmowa94nf87f.click^
+||72362.click^
+||kupimora.shop^
+||triplehigher.lol^
+||stellarhivef.shop^
+||xarivontel.com^
+||overrasses.cyou^
+||futurepulsewire.com^
+||dev1-eronis.poweredbywasabibeta.com^
+||kiloreders.com^
 ||scapiarrog.cyou^
 ||8wn3mxz.skin^
 ||pl-u1gyf.sbs^
@@ -16,7 +44,6 @@
 ||terewsnlru.top^
 ||domelivo.shop^
 ||urbnfarm.com^
-||allegrolokalnie.72362.click^
 ||pelleinvol.cyou^
 ||acchirths.cyou^
 ||burjufashion.com^
@@ -76,7 +103,6 @@
 ||webkatowice.weebly.com^
 ||allegrolokalnie.lokalna-ofeta6534636.cyou^
 ||newageyard.com^
-||www.stellarhivef.shop^
 ||skleporia.shop^
 ||vataninsesi.com^
 ||tarihiyakin.com^
@@ -106954,29 +106980,3 @@
 ||wolxcvheyl.info^
 ||woodnewsl.info^
 ||worldgloball.info^
-||spapademot.my^
-||investpro-ai-app.net^
-||allegrolokalnie.oferta-1354316-proponowane-dla-ciebie.icu^
-||www.mwironworks.com^
-||pelukgorusasuhu.world^
-||etransferinteractdeposit.com^
-||pl-0190722.icu^
-||9whg2g.icu^
-||pl-01271.pl^
-||moja-paczka.hylizekar.bond^
-||servintlaccmangelockedverifymawydvasyhvdyw.hdalprintorders.au^
-||pl-3726251huhuwgav18526kwbatvw176151bh7.sbs^
-||addirdisro.world^
-||allegrolokalnie.pl-oferta523421.cfd^
-||pl-oferta9190762.icu^
-||6bcw.net^
-||woodcodel.info^
-||wnoitpfguil.info^
-||wsbdeegpql.info^
-||worldstartupl.info^
-||worldcatl.info^
-||woodfilml.info^
-||worldstarl.info^
-||allegrolokalnie.pl-firmowe-77513.sbs^
-||blurrmitic.my^
-||fakturaklientapolska.com^

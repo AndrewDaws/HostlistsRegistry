@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.95
+! Version: 1.0.20.96
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-29T16:22:04.224Z
+! Last modified: 2026-06-29T17:53:26.180Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -25608,6 +25608,7 @@
 ||mmysearchup.com^
 ||mn230126pb.com^
 ||mnaor.com^
+||mnbasd77.com^
 ||mnbuy.com^
 ||mndx1.com^
 ||mni20trk.com^
@@ -26752,6 +26753,7 @@
 ||ncptracks5.com^
 ||ncptracks6.com^
 ||ncvyu4dhj.com^
+||ndamywifecons.com^
 ||ndbign.com^
 ||ndejhe73jslaw093.com^
 ||ndforhewasinlo.org^
@@ -29194,6 +29196,7 @@
 ||pantryscratched.com^
 ||pantsthanks.com^
 ||panyear.space^
+||panyinadiingsin.com^
 ||paperfluke.com^
 ||papershorty.com^
 ||paperworkresemblancegangster.com^
