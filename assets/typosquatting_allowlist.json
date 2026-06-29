@@ -6,6 +6,10 @@
   ],
   "domains": [
     {
+      "domain": "action1.com",
+      "exceptions": [ "action.com" ]
+    },
+    {
       "domain": "ahcdn.com",
       "exceptions": [ "afcdn.com" ]
     },
@@ -86,6 +90,10 @@
       "exceptions": [ "incogni.com" ]
     },
     {
+      "domain": "isc.org",
+      "exceptions": [ "isc2.org", "isc3.org" ]
+    },
+    {
       "domain": "kick.com",
       "exceptions": [ "kink.com" ]
     },
@@ -131,7 +139,7 @@
     },
     {
       "domain": "seel.com",
-      "exceptions": [ "seek.com" ]
+      "exceptions": [ "seek.com", "setel.com" ]
     },
     {
       "domain": "sling.com",
