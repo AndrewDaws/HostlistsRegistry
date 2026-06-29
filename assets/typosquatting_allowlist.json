@@ -6,6 +6,10 @@
   ],
   "domains": [
     {
+      "domain": "action1.com",
+      "exceptions": [ "action.com" ]
+    },
+    {
       "domain": "ahcdn.com",
       "exceptions": [ "afcdn.com" ]
     },
