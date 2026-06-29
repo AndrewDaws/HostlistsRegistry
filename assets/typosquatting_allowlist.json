@@ -135,7 +135,7 @@
     },
     {
       "domain": "seel.com",
-      "exceptions": [ "seek.com" ]
+      "exceptions": [ "seek.com", "setel.com" ]
     },
     {
       "domain": "sling.com",
