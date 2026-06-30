@@ -1,12 +1,14 @@
 !
 ! Title: KOR: List-KR DNS
 ! Description: A DNS version of List-KR, a filter for websites in the Korean language
-! Version: 1.0.15.76
+! Version: 1.0.15.77
 ! Homepage: https://github.com/List-KR/List-KR
-! Last modified: 2026-06-14T23:34:44.482Z
+! Last modified: 2026-06-30T05:32:35.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||awesomeclick.co.kr^
+||optbeacon.net^
 ||api.adapi.co.kr^
 ||adv.imadrep.co.kr^
 ||delivery.pryzmads.com^

@@ -1,12 +1,22 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.1
+! Version: 1.1.54.2
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T03:18:11.465Z
+! Last modified: 2026-06-30T05:32:42.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||koritrafu.cyou^
+||archsdisch.cyou^
+||vintagevessel.shop^
+||zipolpolit.cyou^
+||ristusubbi.cyou^
+||encomarroc.cyou^
+||texejzxqra.shop^
+||arvado.shop^
+||vomigbxa.shop^
+||lokalna-ofera978889237.sbs^
 ||avowrmoopni.cyou^
 ||riscorisco.cyou^
 ||sussuscara.cyou^
@@ -106256,6 +106266,7 @@
 ||magherisos.world^
 ||sbarbbotto.world^
 ||courlserie.world^
+||allegrolokalnie.877239458023.cfd^
 ||eboniipocr.com^
 ||lucasrinetti.com^
 ||spitsmelli.world^
@@ -106874,27 +106885,10 @@
 ||pl-smart43534.sbs^
 ||pl-smart234423.sbs^
 ||pl-smart84901.sbs^
+||allegrolokalnie.oferta-90161.icu^
 ||pl-smart65535.sbs^
 ||pl-smart93712.sbs^
 ||pl-smart10893.sbs^
 ||pl-smart68302.sbs^
+||allegro.oferta-90161.icu^
 ||pl-smart67029.sbs^
-||dataprox.top^
-||wageritra.pro^
-||ecoenergyh.info^
-||techupdateh.info^
-||travelmaph.info^
-||wellnesswaveh.info^
-||oferta-90161.icu^
-||shop.seughg.top^
-||rediarg11.com^
-||soniqueepoch.com^
-||elariontrophies.com^
-||citypulsehubpro.com^
-||allegrolokalnie.plad2gskajs11xk.icu^
-||877239458023.cfd^
-||noddefoxz.click^
-||digitalguideh.info^
-||hdsykfdr3fs.icu^
-||oqdtmm.short.gy^
-||oxlvpl.wx1hef.icu^
