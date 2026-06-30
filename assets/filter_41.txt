@@ -1,12 +1,19 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.12
+! Version: 1.1.54.13
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T19:40:54.483Z
+! Last modified: 2026-06-30T20:45:57.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||supernoviyd.com^
+||julit1x.com^
+||tererbxpou.help^
+||tejechainlin.help^
+||patripalin.cyou^
+||orbimap.site^
+||texelxmqra.help^
 ||allegrolokalnie.ofeta-19733.sbs^
 ||allegro.ofeta-19733.sbs^
 ||finance97-impedit15.sbs^
@@ -106982,18 +106989,3 @@
 ||secfoxz.com^
 ||allegrolokalnie.pl-87831245.top^
 ||ezebras.icu^
-||allegrolokalnie.048523.vu^
-||squamdatag.world^
-||updtaeaccntswebappsecureaccihkijdhfgkjsdertdrfh.pcanomali9.biz.id^
-||pl-3524751.icu^
-||abbonalpin.world^
-||pl325235oferta02342.sbs^
-||pl-7746529jshshutmmwyg99028640ulupuqt8.sbs^
-||eligibility-check.cb90092.com^
-||malencrimi.world^
-||piridpolmo.world^
-||conformation302.shop^
-||allegrolokalnie.pl-978645564.cfd^
-||pl-852139.cfd^
-||allegrolokalnie.32938487234882.cfd^
-||pl-oferta674892.sbs^
