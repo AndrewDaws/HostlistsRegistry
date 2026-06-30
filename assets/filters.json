@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.71.13",
+			"version": "1.0.71.14",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-06-30T16:51:16+0000"
+			"timeUpdated": "2026-06-30T18:46:21+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -172,14 +172,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.18.79",
+			"version": "1.0.18.80",
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-06-30T03:17:43+0000"
+			"timeUpdated": "2026-06-30T18:46:36+0000"
 		},
 		{
 			"filterKey": "hagezi_pro++",
@@ -294,14 +294,14 @@
 				111
 			],
 			"languages": [],
-			"version": "1.0.6.94",
+			"version": "1.0.6.95",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt",
 			"timeAdded": "2025-08-12T08:33:05+0000",
-			"timeUpdated": "2026-06-30T17:42:07+0000"
+			"timeUpdated": "2026-06-30T18:46:42+0000"
 		},
 		{
 			"filterKey": "no_google",
@@ -910,14 +910,14 @@
 				101
 			],
 			"languages": [],
-			"version": "1.1.54.10",
+			"version": "1.1.54.11",
 			"homepage": "https://cert.pl/posts/2020/03/ostrzezenia_phishing/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"subscriptionUrl": "https://hole.cert.pl/domains/v2/domains_adblock.txt",
 			"timeAdded": "2023-03-07T15:01:58+0000",
-			"timeUpdated": "2026-06-30T17:42:29+0000"
+			"timeUpdated": "2026-06-30T18:46:58+0000"
 		},
 		{
 			"filterKey": "ISR_easyList_hebrew",

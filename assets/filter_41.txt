@@ -1,12 +1,30 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.10
+! Version: 1.1.54.11
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T17:42:34.825Z
+! Last modified: 2026-06-30T18:47:02.442Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||jarekjanosz.info093872.pl^
+||rjmibprn.shop^
+||kafadancafe.com^
+||rebenidrat.cyou^
+||orivelanth.com^
+||ddps.vividvibess.shop^
+||nextgenerationdigest.com^
+||tereqpdjmn.shop^
+||tererjdvla.luxe^
+||terevmlkri.help^
+||solanalchi.cyou^
+||terehfjlap.yoga^
+||olx.orridino.cfd^
+||notice.hnsrbm.com^
+||archbt.com^
+||julita137.com^
+||julita1.com^
+||krixavolta.com^
 ||spesaleala.cyou^
 ||weryplace.onl^
 ||qtfutwdz.shop^
@@ -106979,16 +106997,3 @@
 ||pl-oferta896542.sbs^
 ||cicchlecca.pro^
 ||cattoepigr.world^
-||aggrecacio.pro^
-||allegrolokalnie.oferty-1246741-proponowane-dla-ciebie.icu^
-||lnpost.kinadik324.sbs^
-||guantyenge.world^
-||drmartenssport.myshoplaza.com^
-||rubyjoyz.click^
-||jysk.cosibellasale.sbs^
-||reserver-me-app.com^
-||allegro-lokalnie.pl-98047.icu^
-||pl-6714.cfd^
-||smartlivingh.info^
-||forefchera.pro^
-||scanncosim.world^
