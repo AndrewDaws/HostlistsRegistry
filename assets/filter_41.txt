@@ -1,12 +1,68 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.6
+! Version: 1.1.54.7
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T13:44:01.769Z
+! Last modified: 2026-06-30T15:00:53.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||pack93sfyre.xyz^
+||canispartners.com^
+||3dfilaland.com^
+||tererbxpou.top^
+||tereqhxwna.wiki^
+||terezwqntk.wiki^
+||han-platform.com^
+||allegrolokalnie.pls3kfrfdarf1xk.sbs^
+||kaannotebook.com^
+||vermoxai.top^
+||musuredujkpo.com^
+||safirjet.com^
+||ukmaplegrovepoint.com^
+||ekotarla.com^
+||adalyahotelsbliss.com^
+||e3yapi.com^
+||veedolturkiye.com^
+||ombridedic.cyou^
+||acutuswealth.com^
+||albuswealth.com^
+||anserwealth.com^
+||bulutfashion.com^
+||makiorganik.shop^
+||aimeydan.com^
+||terevmlkri.beer^
+||terebxolzi.fit^
+||terekcvmru.fit^
+||terefhsyap.club^
+||terehfjlap.help^
+||tereqhxwna.shop^
+||terevmlkri.work^
+||allegrolokalnie.yb0-13921.cyou^
+||allegrolokalnie.oferta81739283829377320.shop^
+||allegrolokalnie.732315pr.top^
+||terebxolzi.club^
+||endosovers.cyou^
+||finance94-facere99.sbs^
+||hallioutqu.cyou^
+||livaro.shop^
+||investcreations.com^
+||allegrolokalnie.xoferta.cyou^
+||allegrolokalnie.732314re.top^
+||allegrolokalnie.pl-63262.icu^
+||allegrolokalnie.701743643814.xyz^
+||terefkzodm.ink^
+||terefhsyap.shop^
+||teretlmqpi.fit^
+||ukashfieldlane.com^
+||ukrivercrestway.com^
+||compassbizdirectory.com^
+||avidusholdings.com^
+||aemuluscapital.com^
+||avexiswealth.com^
+||avococapital.com^
+||calthapartners.com^
+||anguisgroup.com^
 ||fudelua.pro^
 ||pl-oferta2946470.click^
 ||brestelbucar.com^
@@ -106899,20 +106955,3 @@
 ||premiumpolska.com^
 ||pl-6543224.icu^
 ||amboncontr.world^
-||310xpjdc.net^
-||todyrsv.com^
-||admin-secure-access-1579ed59.base44.app^
-||id9203.pl^
-||avvinnevya.world^
-||managwebappsecureacconshwkseryhgkuj346tdfg.pcanomali6.biz.id^
-||scalvrossi.my^
-||rubidevz.top^
-||excfitzz.click^
-||send.edsperu.com^
-||158-23-56-18.cprapid.com^
-||allegrolokalnie.004852.vu^
-||pl-smart09872.sbs^
-||cup-dost.shop^
-||74-242-216-117.cprapid.com^
-||sfalslingu.world^
-||pl-oferta21371.icu^
