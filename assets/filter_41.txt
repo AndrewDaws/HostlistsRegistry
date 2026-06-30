@@ -1,12 +1,47 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.7
+! Version: 1.1.54.8
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T15:00:53.718Z
+! Last modified: 2026-06-30T15:58:58.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||notice.hd-hologram.com^
+||opscar.net^
+||7w32uuh.skin^
+||duvarkagidi.store^
+||ilferroonstrada.net^
+||satunal.net^
+||otoshop34.com^
+||safkenevir.com^
+||alphasanaksoy.com^
+||authwebmailclientconsentsmanageallp.vercel.app^
+||sulphrispo.cyou^
+||3dniz.com^
+||bronzaccan.cyou^
+||nowtekstil.shop^
+||alebiletofertaa.sbs^
+||allegrolokalnie.kategorie-pozostale-3184212.cyou^
+||allegrolokalnie.lokalna-ofeta1987692.sbs^
+||allegrolokalnie.lokalna-ofeta3233.sbs^
+||allegrolokalnie.pl-oferta9374164.click^
+||dentalimplantnisantasi.com^
+||celularenote.com.br^
+||4loyalman.com^
+||hidayetcamii.com^
+||tereqazxwp.beer^
+||teretgbnso.click^
+||terekcvmru.work^
+||terekcvmru.ink^
+||terezgwnmi.ink^
+||olx-pl.ytgabe.icu^
+||ulusalyapayzeka.com^
+||terefkzodm.club^
+||capitulumgroup.com^
+||teretlmqpi.yoga^
+||barbawealth.com^
+||fluffy-alpaca-edb8cc.netlify.app^
 ||pack93sfyre.xyz^
 ||canispartners.com^
 ||3dfilaland.com^
@@ -106949,9 +106984,3 @@
 ||conformation-129.shop^
 ||premium-polska.com^
 ||ol-xpaczka.kinadik324.sbs^
-||warehousezone.org^
-||nrcam.com^
-||trendyoutfits.top^
-||premiumpolska.com^
-||pl-6543224.icu^
-||amboncontr.world^
