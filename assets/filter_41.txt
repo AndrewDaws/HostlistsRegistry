@@ -1,12 +1,39 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.13
+! Version: 1.1.54.14
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T20:45:57.325Z
+! Last modified: 2026-06-30T21:38:00.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||harslrifor.cyou^
+||pyzsp.com^
+||shoesoutletstore.com^
+||xneyx.com^
+||iyskeud.shop^
+||aldishop.avloria.shop^
+||evanoz.shop^
+||aldius-store.oklahomabalti.com^
+||ritualsonline.shop^
+||wetorx.com^
+||vipspecialoffers.shop^
+||shop-choice.de^
+||karllagerfeld.beer^
+||usaldi-sale.aclturalwowear.com^
+||playld-auth-mimzy.soundandshinesolutions.cv^
+||ofeta-30503333.sbs^
+||ofeta-19733.sbs^
+||allegrolokalnie.85742.lat^
+||allegrolokalnie.67743.lat^
+||allegrolokalnie.pl76703.top^
+||allegrolokalnie.oferta816301730272937292.xyz^
+||allegrolokalnie.letnie-okazje238745715.cyou^
+||allegrolokalnie.smart-92562.cfd^
+||allegrolokalnie.letnie-okazje746132786.cyou^
+||allegrolokalnie.lqn49nm392ns.sbs^
+||allegrolokalnie.y94182.cyou^
+||allegrolokalnie.oferta6710823919371027.shop^
 ||supernoviyd.com^
 ||julit1x.com^
 ||tererbxpou.help^
@@ -14,8 +41,6 @@
 ||patripalin.cyou^
 ||orbimap.site^
 ||texelxmqra.help^
-||allegrolokalnie.ofeta-19733.sbs^
-||allegro.ofeta-19733.sbs^
 ||finance97-impedit15.sbs^
 ||allictosol.cyou^
 ||dovik.shop^
@@ -106978,14 +107003,3 @@
 ||pl-kategorie843626747071273.sbs^
 ||pl-479382290.cfd^
 ||schusakoas.world^
-||allegrolokalnie.pl-3165256.pro^
-||treasurecoastpsychiatric.com^
-||alerturbanpulse.com^
-||allegrolokalnie.oferta54865-pl.sbs^
-||sechubzzy.top^
-||allegrolokalnie.pl-2034294904930.sbs^
-||ritosspett.world^
-||allegrolokalniepl.oferta8639.icu^
-||secfoxz.com^
-||allegrolokalnie.pl-87831245.top^
-||ezebras.icu^
