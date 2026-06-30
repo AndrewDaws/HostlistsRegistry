@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.83
+! Version: 1.0.25.84
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-06-30T09:17:48.754Z
+! Last modified: 2026-06-30T16:51:46.448Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1855,7 +1855,6 @@
 ||123moviesz.link^
 ||123moviesz.nl^
 ||123moviesz.run^
-||123moviesz.sbs^
 ||123movieszfree.org^
 ||123movieszhub.com^
 ||123netflix.club^
@@ -21870,6 +21869,7 @@
 ||mp4movie.me^
 ||mp4moviez.football^
 ||mp4moviezhub.xyz^
+||mp4sc.xyz^
 ||mp4se.xyz^
 ||mp4soup.com^
 ||mp4space.com^
