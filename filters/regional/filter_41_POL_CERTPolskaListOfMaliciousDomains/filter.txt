@@ -1,12 +1,51 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.3
+! Version: 1.1.54.4
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T07:31:49.203Z
+! Last modified: 2026-06-30T09:18:01.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||ivory-hem.shop^
+||allegrolokalnie.pl-4729483.shop^
+||projeagi.com^
+||health.sale-shop.top^
+||discuspian.cyou^
+||www.maplehurst.online^
+||thornbury.online^
+||redwick.online^
+||www.kalinkally.com^
+||alert.liandakj.com^
+||staveley.online^
+||caresure.uno^
+||81-sports.shopvora.top^
+||jcqbatmq.shop^
+||dpd.corepay-24.sbs^
+||ovaro.shop^
+||bramford.site^
+||8w3ge.hair^
+||allegrolokalnie.pl-66261.icu^
+||allegrolokalnie.pl-6593.click^
+||allegrolokalnie.oferta826391601739.cfd^
+||allegrolokalnie.pl-7483948.shop^
+||thecloudnest.shop^
+||ciaccphosp.cyou^
+||polujdf3wi.shop^
+||faktyzperonu.xyz^
+||wheezizznggleeks.info^
+||allegrolokalnie.438zimq41.click^
+||allegrolokalnie.pl-681623867.xyz^
+||allegrolokalnie.pl-oferta684938.shop^
+||overmsusti.cyou^
+||allarerioc.cyou^
+||allegrolokalnie.pl74582.top^
+||nowinyzbramy.info^
+||echozblokowych.pro^
+||verify-alert.vercel.app^
+||allegrolokalnie.qnm013tndas32.sbs^
+||avtsklep.com^
+||ldftsfk.icu^
 ||verify-support.vercel.app^
 ||pomoc-konto.vercel.app^
 ||allegrolokalnie.732315rr.top^
@@ -106839,32 +106878,3 @@
 ||nodefixz.xyz^
 ||framekey.buzz^
 ||disindanni.world^
-||olx.pl-smart65535.sbs^
-||uifoxzz.click^
-||verification.mlcrosoft0nllne.com^
-||gavilunrid.pro^
-||allegrolokalnie.pl-smart43534.sbs^
-||uihubzzy.top^
-||notocdirim.my^
-||gls-group-pl-7.top^
-||allegro.pl-smart65535.sbs^
-||excfitzzy.buzz^
-||cryptoguideh.info^
-||gls-group-pl-6.top^
-||pl-smart83712.sbs^
-||allegro.oferta-4295512.icu^
-||escubconce.pro^
-||bastielett.world^
-||booking.app-guestdata.com^
-||uxprozz.top^
-||smyksalepl.sbs^
-||pyhubzz.top^
-||allegrolokalnie.oferta-4295512.icu^
-||olx.oferta-4295512.icu^
-||pl-smart75930.sbs^
-||allegrolokalnie.pl-smart65535.sbs^
-||pl-smart26712.sbs^
-||greenrootsh.info^
-||sands-hildesheim.de^
-||mangivicit.my^
-||insapriaff.world^
