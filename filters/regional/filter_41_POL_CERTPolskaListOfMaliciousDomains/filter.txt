@@ -1,12 +1,24 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.53.99
+! Version: 1.1.54.0
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-29T23:27:51.481Z
+! Last modified: 2026-06-30T01:08:43.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||sopradisli.cyou^
+||notice.onlinepreorder.com^
+||allegro-powiadomienia.shop^
+||desolriacc.cyou^
+||ponzeorgas.cyou^
+||larinsebat.cyou^
+||marketivo.shop^
+||www.quik-silver-polska.pl^
+||kfeell.fungalhealth.com^
+||fumagcirco.cyou^
+||www.binkbottlepolska.com^
+||858185215.click^
 ||novastreamg.shop^
 ||klepivo.shop^
 ||allegrolokalnie.lokalna-ofera634002.shop^
@@ -106701,6 +106713,7 @@
 ||739h3jh33.cyou^
 ||smyk-promo.top^
 ||smykplonline.shop^
+||allegrolokalnie.pl-4715746.icu^
 ||1927hs819873j18w2.cfd^
 ||01hs7819681bdh1973891.cfd^
 ||89475.vu^
@@ -106900,42 +106913,3 @@
 ||ipercsemim.world^
 ||baritpreve.my^
 ||ventrsprol.my^
-||globalpulsehubpro.com^
-||cstkd7s.icu^
-||ochnikfashios.shop^
-||expressmediabreak.pro^
-||flashcityhubpro.com^
-||6wdb436h5guz7zo5ygby5aft4q0yqfhj.lambda-url.eu-west-3.on.aws^
-||yogayogal.info^
-||gohira.info^
-||yxesfuhl.info^
-||trackfinanceworld.com^
-||tocovital.my^
-||benzinorma.world^
-||lacrischel.my^
-||allegrolokalnie.pl-257458.icu^
-||allegro-lokalnie.pl-452387.icu^
-||allegro-lokalnie.pl-24312.icu^
-||5ftfete6.lat^
-||fundfoundry-app.net^
-||zupupdiki.world^
-||urterblarn.world^
-||dailymomentumnews.pro^
-||gpt5-lispro-platform.com^
-||6834634.cyou^
-||pl-5742186.icu^
-||pl-4715746.icu^
-||pl-4157468.icu^
-||cleanfutureh.info^
-||datahavenh.info^
-||bookbarnh.info^
-||wanderwaveh.info^
-||allegrolokalnie.pl-3126784.pro^
-||allegrolokalnie.pl-903195.rest^
-||allegrolokalnie.pl-7063125.top^
-||allegrolokalnie.oferta2178392.sbs^
-||debugjoyz.xyz^
-||preprocess.buzz^
-||rubyddevz.click^
-||visprozz.xyz^
-||excfoxz.click^

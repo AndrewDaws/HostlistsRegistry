@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.51
+! Version: 1.0.98.52
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-06-29T23:27:30.014Z
+! Last modified: 2026-06-30T01:08:15.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -44959,7 +44959,6 @@
 ||storage-ad.com^
 ||storageimagedisplay.com^
 ||storagerecurrent.com^
-||store-api.mumuglobal.com^
 ||store4porn.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storelog.kode.co.kr^
