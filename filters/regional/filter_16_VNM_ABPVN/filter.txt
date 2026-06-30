@@ -1,9 +1,9 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.41
+! Version: 1.0.17.42
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-06-29T08:01:09.740Z
+! Last modified: 2026-06-30T11:09:04.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -15359,6 +15359,7 @@
 0.0.0.0 fusionquest.com
 0.0.0.0 futcceabr.com
 0.0.0.0 futurehybrid.tech
+0.0.0.0 fvmfdzpwbm.com
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 fxx5.com
@@ -15618,6 +15619,7 @@
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 ieyipznx.art
 0.0.0.0 ifa.tube8live.com
+0.0.0.0 ih.charvetseedful.shop
 0.0.0.0 ih.serosaetoher.shop
 0.0.0.0 ihhqwaurke.com
 0.0.0.0 iifvcfwiqi.com
@@ -15867,6 +15869,7 @@
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 lfalfehuq.com
 0.0.0.0 lfeorrzkua.com
+0.0.0.0 lfezjmxldv.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lfvvhemghapw.com
 0.0.0.0 lidburger.com

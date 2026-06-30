@@ -1,12 +1,65 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.4
+! Version: 1.1.54.5
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T09:18:01.725Z
+! Last modified: 2026-06-30T11:09:12.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||stretaeop.cyou^
+||securityoauthroundcubewebmailsessio.vercel.app^
+||www.robzak.click^
+||palm-stitch.shop^
+||2j4h3h.hair^
+||188tyesy.vercel.app^
+||primesim.online^
+||ozelguncikolata.com^
+||serendiptyless.pro^
+||korvello.shop^
+||allegrolokalnie.pl70241.top^
+||spellstrav.cyou^
+||bozzodivol.cyou^
+||pulchritudinousd.top^
+||executiveworkstation.com^
+||denizlivertigo.com^
+||altaytrading.com^
+||ratemonline.com^
+||techartadverts.com^
+||siemreapangkorsitewide.com^
+||petfrisson.com^
+||augustbalicleaning.com^
+||yeiporu-agencia.com^
+||elifmeslekedindirme.com^
+||reprimand-suave-almighty.ngrok-free.dev^
+||pomoc-techniczne.vercel.app^
+||getfast.median-pt.xyz^
+||lidyaglobalcapital.com^
+||yerliturist.store^
+||nexusemlak.com^
+||adalyablisshotel.com^
+||newsfin.live^
+||lapisan.cfd^
+||allegrolokalnie.pl-92726161982143zamowienie836252816.lat^
+||bionstack.site^
+||socraz.net^
+||zenithhglow.shop^
+||mynewsup.com^
+||go.robzak.click^
+||sangustrut.cyou^
+||loggial.com^
+||wavebaseunit.site^
+||checkerson2.nport.link^
+||service-support.byethost31.com^
+||splitklimauzmani.com^
+||kerostationery.com^
+||heranavm.com^
+||alebilet.pl-oferta3891461.click^
+||alebilet.oferta3959264838.shop^
+||allegrolokalnie.pl-oferta3891461.click^
+||milepbulle.cyou^
+||kronikadziennowa.xyz^
+||zabrinajacksonphotography.com^
 ||ivory-hem.shop^
 ||allegrolokalnie.pl-4729483.shop^
 ||projeagi.com^
@@ -106847,34 +106900,3 @@
 ||allegro.plad2gskajs11xk.icu^
 ||cleanjoy.buzz^
 ||mojespotify-app.com^
-||prejoyzz.buzz^
-||gls-group-pl-9.top^
-||moyeurt.weebly.com^
-||gls-group-pl-8.top^
-||visdayzz.buzz^
-||alebilet.74945.vu^
-||sqlprozz.buzz^
-||debugrayz.xyz^
-||webmailauthtsya5d5dfauthnotify.s3.eu-central-4.ionoscloud.com^
-||inconazzur.my^
-||uidevhub.top^
-||allegro.pl-smart93712.sbs^
-||nteraptix.dyneapp.sbs^
-||incalrival.pro^
-||denor.top^
-||sportworldh.info^
-||traveinver.world^
-||dimenelimi.my^
-||gls-group-pl-0.top^
-||rubyhubz.buzz^
-||sqlkeyz.click^
-||datamaxz.top^
-||1hvv2t3.icu^
-||0wj2yhh.lat^
-||83ewje6.lat^
-||sdfgfdgh.icu^
-||drogerienatura.pleinnl.sbs^
-||upcroovers.world^
-||nodefixz.xyz^
-||framekey.buzz^
-||disindanni.world^
