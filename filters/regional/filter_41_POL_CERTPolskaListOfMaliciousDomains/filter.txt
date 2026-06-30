@@ -1,12 +1,27 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.15
+! Version: 1.1.54.16
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T22:33:56.854Z
+! Last modified: 2026-06-30T23:34:24.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||retrodiffu.cyou^
+||allegrolokalnie.lokalne-ofeta7927.cfd^
+||perfiriven.cyou^
+||finance93-ratione36.sbs^
+||annebebekmarket.com^
+||xenohub.shop^
+||extrarovig.cyou^
+||allegrolokalnie.oferta294827495728zvsh3958.shop^
+||allegrolokalnie.pl-909897942.click^
+||lucivspave.cyou^
+||allegrolokalnie.y8714264.lol^
+||allegrolokalnie.pl-63142.icu^
+||allegrolokalnie.732315rp.top^
+||allegrolokalnie.10384823475.xyz^
+||ofeta-9543.sbs^
 ||harslrifor.cyou^
 ||pyzsp.com^
 ||shoesoutletstore.com^
