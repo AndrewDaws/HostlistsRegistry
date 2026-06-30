@@ -1,12 +1,35 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.9
+! Version: 1.1.54.10
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-06-30T16:51:59.570Z
+! Last modified: 2026-06-30T17:42:34.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||spesaleala.cyou^
+||weryplace.onl^
+||qtfutwdz.shop^
+||inpolst.al2k1s.cfd^
+||transferistanbulairports.com^
+||inpolst.al2k1s.sbs^
+||ianausten.com^
+||tjylhp.com^
+||vortexlabs.shop^
+||barbarahomespace.com^
+||icloudservice.mailsecu.co^
+||kuaffor.com^
+||provosuper.cyou^
+||cold-shape-b00d.jennifergonzalezbqax93422.workers.dev^
+||allegrolokalnie.81076544225.xyz^
+||nexarilvo.com^
+||indescope.site^
+||arramunave.cyou^
+||tererbxpou.beer^
+||tereqhxwna.luxe^
+||tereqhxwna.yoga^
+||terezpjqaf.fit^
+||terefhsyap.click^
 ||dncshoes.co^
 ||disfatopco.cyou^
 ||tererbxpou.fit^
@@ -106969,16 +106992,3 @@
 ||smartlivingh.info^
 ||forefchera.pro^
 ||scanncosim.world^
-||www.lidlgroups.com^
-||rogerszoe.shop^
-||webappsecureaccontswebvakjghkjdfg3dfgh.pcanomali7.biz.id^
-||uikeyzz.top^
-||idealrdeb.world^
-||tabulrichi.world^
-||ravviimpom.pro^
-||spotify--premium.com^
-||olx.shop-skrill2.cfd^
-||dashboat.cc^
-||pl-6552674.icu^
-||pydayzz.com^
-||pl-smart62910.sbs^
