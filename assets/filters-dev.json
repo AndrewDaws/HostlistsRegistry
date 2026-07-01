@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.71.25",
+			"version": "1.0.71.26",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-01T18:48:01+0000"
+			"timeUpdated": "2026-07-01T20:40:49+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -742,14 +742,14 @@
 				108
 			],
 			"languages": [],
-			"version": "1.0.17.92",
+			"version": "1.0.17.93",
 			"homepage": "https://anti-ad.net/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"subscriptionUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-06-28T20:34:08+0000"
+			"timeUpdated": "2026-07-01T20:41:22+0000"
 		},
 		{
 			"filterKey": "IDN_abpindo",
