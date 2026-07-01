@@ -1,12 +1,27 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.29
+! Version: 1.1.54.30
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T20:19:48.287Z
+! Last modified: 2026-07-01T21:37:37.232Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||bizuubizuu.shop^
+||allegro.smart9438312023.shop^
+||accountstatushelp.com^
+||personaldevice.casa^
+||allegrolokalnie.mn19sba7g3na7s.sbs^
+||gls-groceurro.com^
+||serbfd.com^
+||4ribjevnkfdclsx.com^
+||thefieldevent.com^
+||account.notipoland.com^
+||notice.reception-eu4428.com^
+||zuhigyf.pro^
+||urbanhvibe.shop^
+||www.pyzyflakigorace.mom^
+||32844.click^
 ||www.ricksowens.pl^
 ||kiopaooisdodiassdioai.site^
 ||nahyaioosfoafusfif.site^
@@ -106974,25 +106989,3 @@
 ||googdkzzfl.com^
 ||www.furniture-pl.shop^
 ||ogloszenie-51888.sbs^
-||xn--albilet-b9a.pl-smart6712412.cfd^
-||alebilet.pl-smart6712412.cfd^
-||vinted.pl-smart6712412.cfd^
-||allebilet.pl-smart6712412.cfd^
-||aiebilet.pl-smart6712412.cfd^
-||allegrolokalne.pl-smart6712412.cfd^
-||allegrolokainie.pl-smart6712412.cfd^
-||allegro.pl-smart6712412.cfd^
-||allegrolokalnie.pl-smart6712412.cfd^
-||olx.pl-smart6712412.cfd^
-||olx.pl-smart91824812.cfd^
-||xn--albilet-b9a.pl-smart91824812.cfd^
-||vinted.pl-smart91824812.cfd^
-||allebilet.pl-smart91824812.cfd^
-||allegro.pl-smart91824812.cfd^
-||allegrolokalne.pl-smart91824812.cfd^
-||alebilet.pl-smart91824812.cfd^
-||allegrolokalnie.pl-smart91824812.cfd^
-||allegrolokainie.pl-smart91824812.cfd^
-||aiebilet.pl-smart91824812.cfd^
-||webappsecureaaconshiwquyw43tsdg234sdhs.pccanomali4.biz.id^
-||santander-pl.top^
