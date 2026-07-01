@@ -1,12 +1,74 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.22
+! Version: 1.1.54.23
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T11:13:25.824Z
+! Last modified: 2026-07-01T13:07:44.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||thedewfield.shop^
+||rower-top.shop^
+||dunyamarinemakine.com^
+||6p7o5o.skin^
+||frugononju.cyou^
+||lumarendo.shop^
+||feedback-pomocowa.vercel.app^
+||tejemindgrid.shop^
+||dissosbrec.cyou^
+||poczta.eiimwne.icu^
+||cityparking.mqxtrvl.ink^
+||cityparking.oqmvtrxl.club^
+||cityparking.uqxtrmv.club^
+||cityparking.opqzvtn.club^
+||kiolsofogpogodgidgoigd.site^
+||3o4l4o2h.skin^
+||ujdudioguisfidfugiudgidgf.site^
+||pitbullwestcoast.xyz^
+||destekmedikal.com^
+||harrowmoss.vip^
+||jonemoo.pro^
+||ekjrvnfdlscmx.com^
+||allegrolokalnie.lokalna-ofera89994872.sbs^
+||yksdeneme.com^
+||aurelionolive.com^
+||pickrise.shop^
+||usurpscadr.cyou^
+||gazetefestivaltv.com^
+||dalindankurutma.com^
+||svsqevvtgvfra.site^
+||begoplastik.com^
+||ukhighlandmeadow.com^
+||zypero.shop^
+||ofeta-59345.shop^
+||tejealpinecl.yoga^
+||affagheter.cyou^
+||allegrolokalnie.oferta20483947382948483938484928383.shop^
+||abonament-dostep.pl^
+||rehaatabey.com^
+||errgfeb.icu^
+||form.reception-eu6043.com^
+||olx.lokalna-ofera89994873.sbs^
+||trendoo.shop^
+||zdrowy.org^
+||saffronturkey.com^
+||bulutgiyim.online^
+||ukpinehollowpark.com^
+||5p4ko5.skin^
+||dogubostan.com^
+||panlivo.shop^
+||genelanestezi.com^
+||tejebetacirc.club^
+||kavaro.shop^
+||zirkonyumistanbul.com^
+||allegrolokalnie.pl-ticketnumber52841.lat^
+||ukoakridgegarden.com^
+||ukbrookstoneview.com^
+||yogapl.club^
+||ol-xpaczka.kl1o32p.cyou^
+||piffesetar.cyou^
+||1hvbh2.skin^
+||gualeechin.cyou^
 ||allegrolokalnie.pl-oferta297397.click^
 ||allegrolokalnie.732315re.top^
 ||allegrolokalnie.oferta1862926291602629162.xyz^
@@ -41,7 +103,6 @@
 ||yemekburda.com^
 ||ukspringfieldgrove.com^
 ||trendovira.shop^
-||companyadjust.rehaatabey.com^
 ||28slotthailand.com^
 ||ulahaus.com^
 ||fitnes.gdsfchina.com^
@@ -49,10 +110,8 @@
 ||sovrestupi.cyou^
 ||aveniraipl.com^
 ||dailyoffershop.vip^
-||jenny.rehaatabey.com^
 ||id-c1oud.com^
 ||olx.opponte.icu^
-||sapphireorange.rehaatabey.com^
 ||ukmeadowbrookhub.com^
 ||ukwestbrooklane.com^
 ||rocemani.com^
@@ -106789,19 +106848,8 @@
 ||f29f22j28.cfd^
 ||lankemusic.world^
 ||sokemdueli.world^
+||olx.plsd9hshgss15xk.icu^
 ||stspl.info^
 ||jubralestis.info^
 ||narendramodiachievements.com^
 ||09876tyg5.cfd^
-||collelocki.world^
-||plad5ashsas12xk.icu^
-||639g83gj3.cfd^
-||hk494h.cyou^
-||plad2sshsgs18xk.icu^
-||plad2sshsgs12xk.icu^
-||7d71h9d9710371jd9912j.us^
-||plsd9hshgss15xk.icu^
-||31-098765rf.cyou^
-||pediccrani.world^
-||papinbobbi.world^
-||lillianmiller.shop^
