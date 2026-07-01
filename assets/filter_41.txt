@@ -1,12 +1,38 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.26
+! Version: 1.1.54.27
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T17:41:33.598Z
+! Last modified: 2026-07-01T18:48:48.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||autoryzowanyogrod.com^
+||newswiretodayonline.com^
+||reportingnetworknow.com^
+||newsportalsdaily.com^
+||kuchynemlejnek.pro^
+||wydawnictwoelements.shop^
+||apostasportugaltop.com^
+||smart-oferta893888921.sbs^
+||fighterspors.shop^
+||neriosifosfiworieroi.site^
+||rovenx.shop^
+||cpexoyde.shop^
+||ytythfisfisufusuidfufsfooi.site^
+||fagocscocu.cyou^
+||aakarshan.ch^
+||visionaryworldnews.com^
+||infinitetechjournal.com^
+||digitalvisiondaily.com^
+||pl-oferta5y53f44a.cfd^
+||worldinnovationdaily.com^
+||digitalfuturereport.com^
+||capamneou.com^
+||segodnyalyem.com^
+||nexterachronicle.com^
+||techfrontiernews.com^
+||beyondtechreport.com^
 ||gdsfchina.com^
 ||cocopandadeal.sbs^
 ||ytgabe.icu^
@@ -106969,11 +106995,3 @@
 ||finanmunic.homes^
 ||zahnarzt-assistenzstelle.de^
 ||pl-768245.cfd^
-||leninnitro.homes^
-||sakyby.com^
-||veridfyssavc.b-cdn.net^
-||sdsoloshop.com^
-||olx.dealcompleted.icu^
-||sensorgenbio.com^
-||cavitordin.pro^
-||kirghlingu.homes^
