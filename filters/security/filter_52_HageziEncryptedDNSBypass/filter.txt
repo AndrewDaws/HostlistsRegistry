@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.49
+! Version: 1.0.26.50
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-06-29T19:39:23.212Z
+! Last modified: 2026-07-01T09:19:25.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -61,7 +61,6 @@
 ||donutdevcodingeducation.1copa.com^
 ||vpn.1xtrm.com^
 ||adhome.2011101.xyz^
-||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||vps.202316.xyz^
 ||canvas.2028.cl^
 ||dns.23-4.cn^
@@ -7265,7 +7264,6 @@
 ||1323.world^
 ||1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com^
 ||134744072.work^
-||13fwvc7ka.online^
 ||147258.uk^
 ||14921004.xyz^
 ||14cde95fc53beee0cb9b4275410fe14b.top^
@@ -7919,6 +7917,7 @@
 ||aoxvpn666.com^
 ||aoxvpnapp.com^
 ||apache-iv.com^
+||apfgexfusion.com^
 ||api-gogles.com^
 ||api-tel.xyz^
 ||api999.com^
@@ -10383,6 +10382,7 @@
 ||fiberproxy.net^
 ||fiberproxy.us^
 ||fidelius.top^
+||fifaworldcupfreelivewatchtemporary.xyz^
 ||figcat.cc^
 ||figdon.com^
 ||figure.run^
