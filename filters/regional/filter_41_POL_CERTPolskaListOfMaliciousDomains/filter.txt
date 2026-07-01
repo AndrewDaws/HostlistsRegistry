@@ -1,12 +1,58 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.27
+! Version: 1.1.54.28
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T18:48:48.621Z
+! Last modified: 2026-07-01T19:37:52.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||newsinsightbureau.com^
+||reportjunctionlive.com^
+||instantnewsbriefdaily.com^
+||frictionlesssales.com^
+||p2vn8kr.hair^
+||tarifasmile.com^
+||northsignales.com^
+||nuoyitong.com^
+||globalorefinders.com^
+||201.p2loot-it.shop^
+||101.press2lo.shop^
+||aerfeg.icu^
+||tijiandashi.com^
+||vftewfsdfescdsanharen-nl.sbs^
+||boozybrowser.com^
+||paymyroll.com^
+||symplgamesdataserver.com^
+||whiterosecleaning.com^
+||seemsnerdy.com^
+||rois-soleil.com^
+||danielconesa.com^
+||yosekastationery.live^
+||notice.hotel-eu5723.com^
+||worldtechinsight.com^
+||globalfuturewire.com^
+||futurepulsenews.com^
+||coreevisionmedia.com^
+||ofeta-62941432.shop^
+||pl-id-2383.shop^
+||custom-writings.com^
+||thetmjtrick.com^
+||sloanlyfans.com^
+||promiedosapp.com^
+||twofoldfashion.com^
+||soylon.com^
+||turnyourshiparound.com^
+||nauzsagalore.com^
+||fungalhealth.com^
+||pl-oferta3891461.click^
+||h1gwyg.casa^
+||lb1vso.sbs^
+||reseioffic.cyou^
+||primefutureupdates.com^
+||zasasmioaiodisdosdsfi.site^
+||futuresignalmedia.com^
+||9dz.qa15xem.wiki^
 ||autoryzowanyogrod.com^
 ||newswiretodayonline.com^
 ||reportingnetworknow.com^
@@ -52,12 +98,10 @@
 ||sffaetethythhubo-be.sbs^
 ||sale-kruidvat.top^
 ||debijenkorfs.help^
-||sizeer.vftewfsdfescdsanharen-nl.sbs^
 ||provalky.info^
 ||allegrolokalnie.paye-927.lol^
 ||thankkks.com^
 ||prorvenc.info^
-||obelink.vftewfsdfescdsanharen-nl.sbs^
 ||umbredisco.cyou^
 ||falciaceti.cyou^
 ||forsamomen.cyou^
@@ -771,9 +815,7 @@
 ||splitklimauzmani.com^
 ||kerostationery.com^
 ||heranavm.com^
-||alebilet.pl-oferta3891461.click^
 ||alebilet.oferta3959264838.shop^
-||allegrolokalnie.pl-oferta3891461.click^
 ||milepbulle.cyou^
 ||kronikadziennowa.xyz^
 ||zabrinajacksonphotography.com^
@@ -831,12 +873,10 @@
 ||allegrolokalnie.oferta81729173991.click^
 ||domanova.shop^
 ||brainnuvol.cyou^
-||perfumeria.vftewfsdfescdsanharen-nl.sbs^
 ||amberroute.shop^
 ||roundcubewebmailupgrade77435.s3.us-east-2.amazonaws.com^
 ||allegrolokalnie.j7eifisjsodi35idsdidaie.sbs^
 ||twoja-ofera888946563.sbs^
-||ccc.vftewfsdfescdsanharen-nl.sbs^
 ||impolriacc.cyou^
 ||verbasorna.cyou^
 ||norveta-continuity.lovable.app^
@@ -868,7 +908,6 @@
 ||larinsebat.cyou^
 ||marketivo.shop^
 ||www.quik-silver-polska.pl^
-||kfeell.fungalhealth.com^
 ||fumagcirco.cyou^
 ||www.binkbottlepolska.com^
 ||858185215.click^
@@ -923,7 +962,6 @@
 ||85767125125.click^
 ||aktualnosci24.space^
 ||pl-ofertafirmowa845jhjx8n4f.click^
-||lnqpptco-hzcup.h1gwyg.casa^
 ||tevehxplrv.help^
 ||juredeerfilo.com^
 ||pl-ofertafirmowa746heu6feh.cfd^
@@ -935,8 +973,6 @@
 ||olx.paycore-wplata.shop^
 ||tezotomasyon.com^
 ||cagliembri.cyou^
-||oo1t1lxp1mod-ne61.h1gwyg.casa^
-||sr8tt.lb1vso.sbs^
 ||bafkreif47ebftby53sqjgmvfhrj3ur4bcaq2q5zearckb4fdkwvoef5v2m.ipfs.inbrowser.link^
 ||ofertoria.shop^
 ||postiunaci.cyou^
@@ -1095,8 +1131,6 @@
 ||poczta-pl.auybet.icu^
 ||balenciaga-polska.pl^
 ||caldreven.online^
-||ghr.lb1vso.sbs^
-||oiogl1xp1-33jf-dem.h1gwyg.casa^
 ||tereqozmrc.ink^
 ||freesmaiol.cyou^
 ||sportnovias.sbs^
@@ -1223,7 +1257,6 @@
 ||jdmparca.com^
 ||konyaharf.com^
 ||doniesieniazmuru.xyz^
-||tl.lb1vso.sbs^
 ||n3ecowapdmsa.com^
 ||impuzatone.cyou^
 ||islimmakine.com^
@@ -1257,33 +1290,26 @@
 ||domostrefa.shop^
 ||frizimyelo.cyou^
 ||adivaslarg.cyou^
-||traderstransfer.custom-writings.com^
 ||direcrific.cyou^
 ||alebiletoferta5.cyou^
 ||texedevelo.click^
 ||unharacqua.cyou^
 ||cropvlower.xdsmart.com^
 ||vshow.cyou^
-||ytouc.soylon.com^
-||lpict.nauzsagalore.com^
-||creatorcyan.soylon.com^
 ||combimante.cyou^
 ||broccolisetu.cirah.com^
 ||facetsstrike.click^
 ||kiwiyequal.cfd^
 ||thickint.forum^
-||chaptersprovide.promiedosapp.com^
 ||otarilinol.cyou^
 ||cogitestiv.cyou^
 ||autolproge.cyou^
 ||sgnacclly.cyou^
-||editmixed.turnyourshiparound.com^
 ||kupitano.shop^
 ||csim120.top^
 ||zanvaro.com^
 ||stuelspect.cyou^
 ||fhmbvmlk.shop^
-||splendidraisin.thetmjtrick.com^
 ||stravaggru.cyou^
 ||postiinvil.cyou^
 ||juioaiidosdiosfifsosd.site^
@@ -1301,14 +1327,12 @@
 ||atecus.info^
 ||massedisle.cyou^
 ||pompeignos.cyou^
-||ematr.nauzsagalore.com^
 ||hypotwall.best^
 ||allegrolokalnie.oferta20494719495828495.shop^
 ||sport-vip.shop^
 ||vekids.shop^
 ||straussdiscountstorevip-a.shop^
 ||vinifcoequ.cyou^
-||systemsrace.nauzsagalore.com^
 ||finalpromjoy.com^
 ||coronrinfr.cyou^
 ||ninijoinfor.com^
@@ -1723,11 +1747,9 @@
 ||dicolcavil.cyou^
 ||theshankyard.shop^
 ||echozpodmorza.pro^
-||triumphantbig.boozybrowser.com^
 ||promescoll.cyou^
 ||donnadiaz.shop^
 ||wearandlayer.shop^
-||goalscube.symplgamesdataserver.com^
 ||vaudioz.cfd^
 ||storiesoftech.com^
 ||yasamdanrenkler.com^
@@ -1746,12 +1768,9 @@
 ||noblevest.shop^
 ||sballassag.cyou^
 ||orangeloc.mylawyerglendale.com^
-||unittemp.boozybrowser.com^
 ||faktyzprzystani.info^
 ||echoprzystankow.xyz^
 ||kronikaskwerkowa.top^
-||rtidex.sloanlyfans.com^
-||tcont.whiterosecleaning.com^
 ||puroforma.shop^
 ||intraradio.cyou^
 ||autocracoo.cyou^
@@ -1772,26 +1791,15 @@
 ||309238h75.shop^
 ||hhgi3488g2.xyz^
 ||smar9y5478723.xyz^
-||quartzacircle.paymyroll.com^
-||loopstand.paymyroll.com^
 ||silkyunif.cfd^
 ||sharesee.info^
-||initiengine.thetmjtrick.com^
 ||tewznvqlka.shop^
 ||windmtop.click^
 ||bundlekiwi.lol^
-||instancesdeep.sloanlyfans.com^
-||gooditwist.rois-soleil.com^
-||sitaglobe.rois-soleil.com^
 ||tejegiaztl.club^
 ||badbgiant.cyou^
-||giftsym.danielconesa.com^
-||shapescasual.seemsnerdy.com^
-||foundpoint.danielconesa.com^
 ||tejegtphnb.top^
 ||quickchain.info^
-||beigeimpa.seemsnerdy.com^
-||fartherview.whiterosecleaning.com^
 ||ogrow.best^
 ||programytall.info^
 ||earlyqueen.sbs^
@@ -1799,7 +1807,6 @@
 ||damoilecca.cyou^
 ||plainjade.info^
 ||humpla.stanmao.com^
-||gearpre.whiterosecleaning.com^
 ||sorrichrom.cyou^
 ||podgladperonowy.info^
 ||bluemnkey.com^
@@ -1809,7 +1816,6 @@
 ||harmonizedtiny.homes^
 ||passagesplus.mom^
 ||euchrdrear.cyou^
-||nanofdate.custom-writings.com^
 ||commeaguzz.cyou^
 ||xaxcybz.com^
 ||nordpostapp.tempurl.host^
@@ -1971,7 +1977,6 @@
 ||kenzabet.com^
 ||velox-key.site^
 ||finance99-provident82.sbs^
-||winnerwond.promiedosapp.com^
 ||lnteria.icu^
 ||poczta-pl.oimemt.icu^
 ||pharm-pl.shop^
@@ -2161,7 +2166,6 @@
 ||inpost.paiycore-24.xyz^
 ||podgladwiesci24.info^
 ||inpost.paycore-24.sbs^
-||narrowichestnut.twofoldfashion.com^
 ||bpowerz.deunaprende.com^
 ||speaknot.shop^
 ||adamdarrell.shop^
@@ -2179,7 +2183,6 @@
 ||bafkreif4ddvbrmtp2uaaw56vku2vw2kusgcxehzieb5bcqdigsfiwpdcqa.ipfs.inbrowser.link^
 ||estraraste.cyou^
 ||prolutattl.cyou^
-||eobuwie.vftewfsdfescdsanharen-nl.sbs^
 ||dominoza.shop^
 ||immordisco.cyou^
 ||pedesembol.cyou^
@@ -2731,8 +2734,6 @@
 ||opane.bond^
 ||dpearlg.topcasinossite.com^
 ||buildersrope.roomkrakow.com^
-||techniquestaste.twofoldfashion.com^
-||smoothdes.fungalhealth.com^
 ||doublefoc.biz^
 ||oeras.buzz^
 ||ranchpeta.beauty^
@@ -4784,8 +4785,6 @@
 ||suspismarg.cyou^
 ||lokalna-oferta1824739122.sbs^
 ||ofeta3484762-kat78239845.shop^
-||declarise.danielconesa.com^
-||velvetypart.rois-soleil.com^
 ||zillteprefi.cyou^
 ||inpolst.dh43o9.sbs^
 ||2025052922144612146957.onamaeweb.jp^
@@ -11775,7 +11774,6 @@
 ||tererswjzk.shop^
 ||tedzxrqpla.xyz^
 ||tejecoxnol.cyou^
-||iboldu.turnyourshiparound.com^
 ||polradar24.xyz^
 ||tereqepkra.club^
 ||zoknawnocy.xyz^
@@ -36933,7 +36931,6 @@
 ||bavaria-tech.com^
 ||paczzka3466723.cyou^
 ||paczka.bimnid.icu^
-||agentcinstant.sloanlyfans.com^
 ||lumora-scrub.com^
 ||nocalsolo.com^
 ||helphumanityorg.com^
@@ -39474,7 +39471,6 @@
 ||efecambalkon.net^
 ||forelocksfawwlls.info^
 ||1mnpost.t6erly.casa^
-||laughide.symplgamesdataserver.com^
 ||adanaobjektifhaber.com^
 ||rizzaarrub.cyou^
 ||daovzx.icu^
@@ -106991,7 +106987,3 @@
 ||903847.vu^
 ||recover-signer.com^
 ||ad-news.news^
-||tjileunfool.2ix.de^
-||finanmunic.homes^
-||zahnarzt-assistenzstelle.de^
-||pl-768245.cfd^

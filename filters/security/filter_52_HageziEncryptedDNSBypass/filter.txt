@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.50
+! Version: 1.0.26.51
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-01T09:19:25.896Z
+! Last modified: 2026-07-01T19:38:13.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -69,10 +69,6 @@
 ||dns.240527.xyz^
 ||college-pathway.rakunan-h.ed.jp.24x7.hk^
 ||educational-site.24x7.hk^
-||bbcincheecks.26252526.xyz^
-||quizzesandworksheets.26252526.xyz^
-||sophie-fulton.26252526.xyz^
-||when-sophie-gets-angry.26252526.xyz^
 ||doh003.280blocker.net^
 ||skynet.2bsafe.info^
 ||proxy.2d.su^
@@ -101,10 +97,8 @@
 ||dns.3wv.de^
 ||dns.4-the.win^
 ||vpn.4-the.win^
-||904523.404.mn^
 ||ababaershop67thatscostaquartar.404.mn^
 ||notfound-google.404.mn^
-||speedineedthis7475.404.mn^
 ||doh.42l.fr^
 ||bannana.web-doge.42web.io^
 ||ns1.4netguides.org^
@@ -7405,7 +7399,6 @@
 ||55780358.xyz^
 ||55aktnolkvuoctxitm.online^
 ||55gms.com^
-||55gms.store^
 ||55laomao.com^
 ||57824.com^
 ||583838.xyz^
