@@ -1,12 +1,33 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.17
+! Version: 1.1.54.18
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T01:13:57.357Z
+! Last modified: 2026-07-01T03:19:44.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||beloraeduni.info^
+||allegrolokalnie.oferta3948374838394.shop^
+||tevecvpmrw.help^
+||turameylion.pro^
+||finance93-praesentium61.sbs^
+||trampesibi.cyou^
+||videosfloor.tirtawr.com^
+||gozyro.shop^
+||insureshealth.info^
+||stabumyxoe.cyou^
+||airlidl.shop^
+||novazap.blog^
+||pupetconde.cyou^
+||hydrcurve.site^
+||buzzecorse.cyou^
+||dibucinsal.cyou^
+||constoltra.cyou^
+||sconcdisfo.cyou^
+||tejegxgmhlu.ink^
+||paranscard.cyou^
+||playauth-core-sing.soundandshinesolutions.cv^
 ||dzoimeoo.shop^
 ||ritemecuad.cyou^
 ||cacophonyless.info^
@@ -106676,10 +106697,3 @@
 ||magherisos.world^
 ||sbarbbotto.world^
 ||courlserie.world^
-||allegrolokalnie.877239458023.cfd^
-||eboniipocr.com^
-||lucasrinetti.com^
-||spitsmelli.world^
-||sbrigstacc.world^
-||pervacombi.world^
-||phasetinti.world^

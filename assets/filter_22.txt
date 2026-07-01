@@ -1,9 +1,9 @@
 !
 ! Title: IDN: ABPindo
 ! Description: Filter complementary to EasyList for blocking ads on Indonesian and Malaysian websites
-! Version: 1.0.14.71
+! Version: 1.0.14.72
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2026-06-28T14:40:20.632Z
+! Last modified: 2026-07-01T03:19:38.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -99,6 +99,7 @@
 ||afbcashidr.com^
 ||auredzeon.com^
 ||baliadv.com^
+||bondeddarkenedswerve.com^
 ||brand.ad^
 ||caribanner.bid^
 ||dairouzy.net^
@@ -120,6 +121,7 @@
 ||sebar.idblognetwork.com^
 ||shqbsdjatunl.com^
 ||sumberiklan.com^
+||villainoussession.com^
 ||vkwaeo.com^
 ||wk.locatiocorms.com^
 ||yllix.com^
