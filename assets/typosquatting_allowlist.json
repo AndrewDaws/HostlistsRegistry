@@ -74,6 +74,10 @@
       "exceptions": [ "dngroup.com" ]
     },
     {
+      "domain": "dssott.com",
+      "exceptions": [ "cssott.com" ]
+    },
+    {
       "domain": "gap.com",
       "exceptions": [ "galp.com" ]
     },
