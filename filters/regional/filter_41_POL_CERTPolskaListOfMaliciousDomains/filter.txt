@@ -1,13 +1,73 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.24
+! Version: 1.1.54.25
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T15:06:49.580Z
+! Last modified: 2026-07-01T16:53:44.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
-||allhis.perfusionistjobs.com^
+||bafkreidyx2uswi3gwkjwum6tqsoo5idvpkd7exuetrettt2bjsh2baal7e.ipfs.inbrowser.link^
+||s1211447.ha023.t.mydomain.zone^
+||thantyhn.com^
+||capsulereact.site^
+||sogardens.shop^
+||6wi9u2yr.hair^
+||amlwerifex.com^
+||1tf23.hair^
+||2h3k4k.skin^
+||gwesr526-jandme729.woodedreview.su^
+||perfusionistjobs.com^
+||fskym.com^
+||h7g4f3jfv.xyz^
+||infeuselle.cyou^
+||lyveo.shop^
+||stellarfgarge.shop^
+||kordonbalikpisiricisigaziemir.com^
+||urbogymr-pl.shop^
+||seriousabeta.best^
+||fsymmdnp.shop^
+||bwvclmzi.shop^
+||ccc-pln.shop^
+||kettlebrass.vip^
+||indivshamo.cyou^
+||thansts.com^
+||accessionalcovvunterstains.info^
+||ocybero.bocageeks.com^
+||faverolla.wixsite.com^
+||incanmuser.cyou^
+||canadovskiy.com^
+||ayahuascasortxxhopterist.info^
+||shoes-ccc.shop^
+||tejerapidweb.beer^
+||zasamiokoidosfisofifsof.site^
+||pay9873.lol^
+||dpdpl.top^
+||laxabou.pro^
+||allegrolokalnie.lokal-ofery293849.shop^
+||airemakehome.com^
+||canadsky.com^
+||shopveliro.shop^
+||keyoso.top^
+||zeltorivah.com^
+||chipcart.info^
+||uzmangruplama.com^
+||credasakiooslofisofposfofs.site^
+||happylong.bocageeks.com^
+||isinpiri.com^
+||erediricon.cyou^
+||pronerla.info^
+||promikve.info^
+||probivep.info^
+||estheticdentistryturkiye.com^
+||nantaban.com^
+||stayaviation.com^
+||2tutasarim.com^
+||proregvix.info^
+||allegrolokalnie.ofera-lokalna6843981.shop^
+||rosalinwedding.com^
+||mennica-krajowa.pl^
+||amberbloom.shop^
 ||kouvian.shop^
 ||hazefieldwall.vip^
 ||acilkarot.com^
@@ -61,7 +121,6 @@
 ||sebnemkara.com^
 ||commeincor.cyou^
 ||biaapowpriirwdopsof.site^
-||designknut.perfusionistjobs.com^
 ||pitbullwestcoast.shop^
 ||indisbisto.cyou^
 ||tejeyellowne.club^
@@ -106910,18 +106969,3 @@
 ||democfabul.homes^
 ||cumoclong.vercel.app^
 ||growgenbio.com^
-||punctclise.homes^
-||allegrolokalnie.836210.vu^
-||olx.zamnr-763851.it.com^
-||impepvacuo.homes^
-||immeusuper.homes^
-||provial.cl^
-||allegro.fi3f83fy3hu7.cyou^
-||mybagshop.top^
-||www.integisok.com^
-||kitgarden.digital^
-||underunder.pro^
-||cristposta.world^
-||disneypluscom-vi7nwej2kz.live-website.com^
-||rituals.ink^
-||eschiuasi.world^
