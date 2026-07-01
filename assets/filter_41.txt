@@ -1,12 +1,40 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.25
+! Version: 1.1.54.26
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T16:53:44.258Z
+! Last modified: 2026-07-01T17:41:33.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||gdsfchina.com^
+||cocopandadeal.sbs^
+||ytgabe.icu^
+||clicks-za.help^
+||shoesaleday.shop^
+||outdeo.shop^
+||bocageeks.com^
+||trekpleister-nl.sbs^
+||1t2tgf.skin^
+||4u0w8r.hair^
+||5wj9ue0r.hair^
+||saltamocke.cyou^
+||signalchronicle.com^
+||tavorix.shop^
+||vrixentalo.com^
+||sale-shop.top^
+||sffaetethythhubo-be.sbs^
+||sale-kruidvat.top^
+||debijenkorfs.help^
+||sizeer.vftewfsdfescdsanharen-nl.sbs^
+||provalky.info^
+||allegrolokalnie.paye-927.lol^
+||thankkks.com^
+||prorvenc.info^
+||obelink.vftewfsdfescdsanharen-nl.sbs^
+||umbredisco.cyou^
+||falciaceti.cyou^
+||forsamomen.cyou^
 ||bafkreidyx2uswi3gwkjwum6tqsoo5idvpkd7exuetrettt2bjsh2baal7e.ipfs.inbrowser.link^
 ||s1211447.ha023.t.mydomain.zone^
 ||thantyhn.com^
@@ -33,7 +61,6 @@
 ||indivshamo.cyou^
 ||thansts.com^
 ||accessionalcovvunterstains.info^
-||ocybero.bocageeks.com^
 ||faverolla.wixsite.com^
 ||incanmuser.cyou^
 ||canadovskiy.com^
@@ -53,7 +80,6 @@
 ||chipcart.info^
 ||uzmangruplama.com^
 ||credasakiooslofisofposfofs.site^
-||happylong.bocageeks.com^
 ||isinpiri.com^
 ||erediricon.cyou^
 ||pronerla.info^
@@ -150,7 +176,6 @@
 ||smatapalaf.cyou^
 ||adriancooks.com^
 ||gryxxshoes.store^
-||saway.shoesaleday.shop^
 ||snowsqualld.top^
 ||thepureharbor.shop^
 ||pretermissibbon.info^
@@ -262,7 +287,6 @@
 ||trendovira.shop^
 ||28slotthailand.com^
 ||ulahaus.com^
-||fitnes.gdsfchina.com^
 ||stradivariuspolska.pl^
 ||sovrestupi.cyou^
 ||aveniraipl.com^
@@ -312,7 +336,6 @@
 ||kosewsajhsdiduasjdaud.site^
 ||nahakalodikdiddd.site^
 ||sondaammor.cyou^
-||cosibella-pl.clicks-za.help^
 ||4k5ko5.skin^
 ||com-4529252.sbs^
 ||wavesdigital.sbs^
@@ -329,7 +352,6 @@
 ||prequriacc.cyou^
 ||allegrolokalnie.lokalna-2190.sbs^
 ||weevilican.cyou^
-||biedronka.sale-shop.top^
 ||phagshapa.sustainleenergy.info^
 ||fieldwallhaze.vip^
 ||zyvo24.shop^
@@ -526,7 +548,6 @@
 ||terekcvmru.work^
 ||terekcvmru.ink^
 ||terezgwnmi.ink^
-||olx-pl.ytgabe.icu^
 ||ulusalyapayzeka.com^
 ||terefkzodm.club^
 ||capitulumgroup.com^
@@ -666,7 +687,6 @@
 ||texelpxvnra.click^
 ||robzak.click^
 ||cle5q1.webwave.dev^
-||cosibella.cocopandadeal.sbs^
 ||www.replexor.com^
 ||allegrolokalnie.oferta017391937292927.cfd^
 ||caccitronf.cyou^
@@ -734,7 +754,6 @@
 ||ivory-hem.shop^
 ||allegrolokalnie.pl-4729483.shop^
 ||projeagi.com^
-||health.sale-shop.top^
 ||discuspian.cyou^
 ||www.maplehurst.online^
 ||thornbury.online^
@@ -986,7 +1005,6 @@
 ||mydpd.eimiru.cc^
 ||zakupelloo.shop^
 ||ebrutpr.com^
-||empik.sale-kruidvat.top^
 ||aloyetisustam.com^
 ||telnespiom.cyou^
 ||dbsrilwf.shop^
@@ -1075,7 +1093,6 @@
 ||ukmeadowstonehub.com^
 ||cropppl-sale.shop^
 ||terebxolzi.top^
-||doz.sale-shop.top^
 ||edirneotomasyon.com^
 ||democvagra.cyou^
 ||weryplace.com^
@@ -1102,7 +1119,6 @@
 ||straominim.cyou^
 ||sklepikon.shop^
 ||biogtzgx.shop^
-||ccc.debijenkorfs.help^
 ||hawsde324-changes.industrialplane.su^
 ||waveprobase.com^
 ||securityoauthwebmailclientauthentic-nu.vercel.app^
@@ -1123,8 +1139,6 @@
 ||wavekit.site^
 ||obfuscateddump.info^
 ||accavalter.cyou^
-||perfumeria.sffaetethythhubo-be.sbs^
-||ccc.sffaetethythhubo-be.sbs^
 ||fuwpyeot.shop^
 ||goturnuvasi.net^
 ||arabaparcacin.com^
@@ -1854,7 +1868,6 @@
 ||anyma-bilet-pl.com^
 ||sefa7.com^
 ||aspaytr.com^
-||ezebra.outdeo.shop^
 ||synchrotone.com^
 ||learndevelopsucceed.org^
 ||kioipoeriosfiosd.site^
@@ -7432,7 +7445,6 @@
 ||texekplzxn.club^
 ||inghistati.cyou^
 ||wtrakcieprzechodzeniaprzezsienie.xyz^
-||doz.trekpleister-nl.sbs^
 ||ulookomiuyd.site^
 ||podsluchane24.info^
 ||thealpacawool.shop^
@@ -106965,7 +106977,3 @@
 ||sensorgenbio.com^
 ||cavitordin.pro^
 ||kirghlingu.homes^
-||sgrafinfus.pro^
-||democfabul.homes^
-||cumoclong.vercel.app^
-||growgenbio.com^
