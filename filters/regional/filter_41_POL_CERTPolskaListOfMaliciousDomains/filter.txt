@@ -1,12 +1,78 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.21
+! Version: 1.1.54.22
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T09:19:05.625Z
+! Last modified: 2026-07-01T11:13:25.824Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||allegrolokalnie.pl-oferta297397.click^
+||allegrolokalnie.732315re.top^
+||allegrolokalnie.oferta1862926291602629162.xyz^
+||senuyapi.com^
+||emeaopacademy.org^
+||teknosabtaksi.com^
+||trucidogaga.cyou^
+||nowe-29-o6-26.click^
+||antpatent.com^
+||p2core.com^
+||buryautoserwis.mom^
+||velvanora.shop^
+||ewolucijapolish.site^
+||xasalopopoaposoosapo.site^
+||ewolucijapolska.site^
+||groveplate.com^
+||ukrosehillpoint.com^
+||ewolucijapl.site^
+||polgoupquantre.com^
+||ukmillstonepark.com^
+||eimzanes.com^
+||noraemlak.com^
+||zasasaudoffosisfosf.site^
+||ukfoxglovefield.com^
+||laradentalvip.com^
+||aycarrental.com^
+||masajuiksioosposo.site^
+||takitrendi.com^
+||ukfairviewgrove.com^
+||techbeyin.net^
+||ukredwoodvalley.com^
+||yemekburda.com^
+||ukspringfieldgrove.com^
+||trendovira.shop^
+||companyadjust.rehaatabey.com^
+||28slotthailand.com^
+||ulahaus.com^
+||fitnes.gdsfchina.com^
+||stradivariuspolska.pl^
+||sovrestupi.cyou^
+||aveniraipl.com^
+||dailyoffershop.vip^
+||jenny.rehaatabey.com^
+||id-c1oud.com^
+||olx.opponte.icu^
+||sapphireorange.rehaatabey.com^
+||ukmeadowbrookhub.com^
+||ukwestbrooklane.com^
+||rocemani.com^
+||kosewfavajuikaiioidiad.site^
+||qadrs.com^
+||ochnikdeal.sbs^
+||droger1enatura.sbs^
+||allegrolokalnie.pl-589128599.sbs^
+||shopmelina.shop^
+||zabka.1mn2.xyz^
+||ukbirchwoodplace.com^
+||urcdknsecew.com^
+||ukelmwoodcross.com^
+||lingopar.com^
+||najuytiroiskdjsfiosf.site^
+||ghermdimes.cyou^
+||kokojikijhjsdgisofopi.site^
+||dessibiocc.cyou^
+||brickyardbloom.vip^
+||kocaagamakina.com^
 ||ukwillowcreekview.com^
 ||rvbiedsnksa.com^
 ||nrvdmewsa.com^
@@ -106739,12 +106805,3 @@
 ||pediccrani.world^
 ||papinbobbi.world^
 ||lillianmiller.shop^
-||mischincor.world^
-||spenddisse.world^
-||quantumgate.biz^
-||ygbkapgx.com^
-||monogglyox.world^
-||rtpres02.com^
-||polvix-kartix-biz17-selmon-hasrix-sp18ct12-bt2.pages.dev^
-||uncouruzzo.world^
-||antercamun.world^

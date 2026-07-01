@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.71.21
+! Version: 1.0.71.22
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-01T09:18:26.118Z
+! Last modified: 2026-07-01T11:12:35.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8383,6 +8383,7 @@ vkcdnservice.appspot.com^
 ||ablybeastssarcastic.com^
 ||ablyguaranteeusage.com^
 ||abmkupxixavk.in^
+||abmqhxjpunrxy.online^
 ||abnkaidvayjmu.space^
 ||abnormalitylovingmammal.com^
 ||aboardstepbugs.com^
@@ -9411,6 +9412,7 @@ vkcdnservice.appspot.com^
 ||ahort.xyz^
 ||ahowxrqijvvwm.space^
 ||ahqbumkf.in^
+||ahrhhrsbdx.com^
 ||ahrhxdoudmngm.space^
 ||ahrrxaidcghsb.site^
 ||ahscdn.com^
@@ -9532,6 +9534,7 @@ vkcdnservice.appspot.com^
 ||ajzupjfxoddqz.love^
 ||ak-is2.net^
 ||akahpvdbdmwdu.website^
+||akcmqgehvften.online^
 ||akcorigiudwgm.site^
 ||akdbr.com^
 ||akdnhszqeqasz.store^
@@ -10824,6 +10827,7 @@ vkcdnservice.appspot.com^
 ||aypgkxgnetnxd.site^
 ||ayrequeasy.cyou^
 ||ayujucfsngjvl.space^
+||ayuteefrhwkml.online^
 ||ayuyublipped.com^
 ||ayvpzajhrscsw.website^
 ||ayyegtlbnqown.space^
@@ -11803,6 +11807,7 @@ vkcdnservice.appspot.com^
 ||bjadelkrmufem.space^
 ||bjakku.com^
 ||bjdgzffnutlqs.site^
+||bjdnqdbmktbhm.website^
 ||bjdsmnjybmjdl.site^
 ||bjgjunljwykym.space^
 ||bjjky.cfd^
@@ -12142,6 +12147,7 @@ vkcdnservice.appspot.com^
 ||bolsterate.net^
 ||boltepse.com^
 ||boltsafeway.cfd^
+||bombicbonita.shop^
 ||bombingdwt.qpon^
 ||bomborasling.qpon^
 ||bomdog.com^
@@ -12678,6 +12684,7 @@ vkcdnservice.appspot.com^
 ||bugs2022.com^
 ||bugscrawled.com^
 ||bugweedsnary.cfd^
+||buhhrcekgaspp.space^
 ||buhjusvf.in^
 ||buiimifrliflc.website^
 ||buildnaq91.site^
@@ -15115,6 +15122,7 @@ vkcdnservice.appspot.com^
 ||ctwmcd.com^
 ||ctwmed.com^
 ||ctxclwykznvzt.online^
+||ctxkfeyjbgcnv.space^
 ||ctyhodypm.com^
 ||ctysfzudaoqlf.online^
 ||ctyywrvwlffgc.online^
@@ -15357,6 +15365,7 @@ vkcdnservice.appspot.com^
 ||cyiatzkksmibj.site^
 ||cyihpbij6yfqqh.cfd^
 ||cyiihoobjuxlx.space^
+||cylinder502.net^
 ||cylindrical-good.pro^
 ||cylindrical-occasion.com^
 ||cylindrical-suggestion.com^
@@ -16265,6 +16274,7 @@ vkcdnservice.appspot.com^
 ||diqjitlusjki.com^
 ||dirbvattydams.site^
 ||direcompulsion.com^
+||direct-push.com^
 ||direct-specific.com^
 ||directaclick.com^
 ||directdexchange.com^
@@ -19400,6 +19410,7 @@ vkcdnservice.appspot.com^
 ||fglee.com^
 ||fgllllfedeltb.website^
 ||fgnvnqsoqehlp.space^
+||fgogvhrrwslfk.online^
 ||fgoqfrzcwdmrh.online^
 ||fgqymntnqmcby.website^
 ||fgqyxgbqfxyot.website^
@@ -20211,6 +20222,7 @@ vkcdnservice.appspot.com^
 ||freshideasflow.com^
 ||freshlymaunge.cfd^
 ||freshmanhow.com^
+||frezero.net^
 ||frgmpqsctzels.site^
 ||frhaelmqfuudc.website^
 ||frhcqkaqcqldu.space^
@@ -20458,6 +20470,7 @@ vkcdnservice.appspot.com^
 ||futureads.io^
 ||futureus.com^
 ||fuwin.cyou^
+||fuwyswmhjrsbl.online^
 ||fuybwvvhmdtrh.website^
 ||fuzljyclpqlbv.online^
 ||fv9y4lpixpghw3757oq7.cfd^
@@ -20746,6 +20759,7 @@ vkcdnservice.appspot.com^
 ||gauotyfrryrtl.website^
 ||gaupingeyewink.com^
 ||gaupsaur.xyz^
+||gaurianwingtip.cyou^
 ||gauricbehale.qpon^
 ||gauvaiho.net^
 ||gauzeexterminatesupervise.com^
@@ -20980,6 +20994,7 @@ vkcdnservice.appspot.com^
 ||gfhhghnduzqiq.site^
 ||gfkfqilsulylx.website^
 ||gfkgmbwjfoem.com^
+||gfnywjhoezyps.space^
 ||gfoqmtwpoodsy.space^
 ||gforthemoonheap.org^
 ||gfpxw.com^
@@ -24097,6 +24112,7 @@ vkcdnservice.appspot.com^
 ||indulgencelate.com^
 ||indulgencemolly.com^
 ||indulgenceslangringer.com^
+||indulinpentailhews.cfd^
 ||indulinrayful.com^
 ||indultsoupon.qpon^
 ||industries100.com^
@@ -31371,6 +31387,7 @@ vkcdnservice.appspot.com^
 ||ocfzcwlruvdwg.website^
 ||ochdbjgbkommn.website^
 ||ochersculmen.shop^
+||ochredravin.qpon^
 ||ochringnondark.cfd^
 ||ochxpgojofbgk.space^
 ||ocimummckay.shop^
@@ -33577,6 +33594,7 @@ vkcdnservice.appspot.com^
 ||playmmogames.com^
 ||playockdarned.qpon^
 ||playonlinegames.space^
+||playpenlanital.qpon^
 ||playsnourishbag.com^
 ||playstream.media^
 ||playstretch.host^
@@ -34291,6 +34309,7 @@ vkcdnservice.appspot.com^
 ||processestheycod.com^
 ||processingcontinuediligence.com^
 ||processingnettleremiss.com^
+||processlayoutreality.com^
 ||processors801.net^
 ||processorsinlake.net^
 ||processorsoutash.net^
