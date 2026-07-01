@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.15.38
+! Version: 1.0.15.39
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-26T20:41:16.608Z
+! Last modified: 2026-07-01T05:42:01.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1219,6 +1219,7 @@
 ||tchatche.com^
 ||teamo.ru^
 ||teendatingplanet.com^
+||teendatingsite.net^
 ||tennesseeflirt.com^
 ||tennisdating.org^
 ||thaicupid.com^

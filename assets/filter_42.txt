@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.96
+! Version: 1.0.20.97
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-06-29T17:53:26.180Z
+! Last modified: 2026-07-01T05:42:14.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -79,6 +79,7 @@
 ||05fa754f24.com^
 ||05j.net^
 ||060jinbo.com^
+||0618b93770.com^
 ||0628ba07b4.com^
 ||0645405ef4.com^
 ||067f87da09.com^
@@ -1545,6 +1546,7 @@
 ||80w19v.cn^
 ||81015449c0.com^
 ||8111f7e70e.com^
+||811b27ab9f.com^
 ||813256c799.com^
 ||813c214a4e.com^
 ||8162f6c343.com^
@@ -2236,6 +2238,7 @@
 ||academyenrage.com^
 ||acalynephe.com^
 ||acam.link^
+||acararithetic.com^
 ||accahurkaru.com^
 ||accanallop.com^
 ||accdbpasswordrecovery.com^
@@ -2315,6 +2318,7 @@
 ||accordinglysaddleknew.com^
 ||accorduntiltramp.com^
 ||accossnabb.com^
+||accostdubbeh.com^
 ||accountand.ru^
 ||accountantflowerrespiration.com^
 ||accountantpacketassail.com^
@@ -5014,6 +5018,7 @@
 ||b3bdc7e743.com^
 ||b3beca4e4a.com^
 ||b3c8cc8e2b.com^
+||b3d20e1c1e.com^
 ||b3e0c0eb4d.com^
 ||b3g00dn0w.xyz^
 ||b3h5.christmas^
@@ -9815,6 +9820,7 @@
 ||coolnews4.xyz^
 ||coolpagecup.com^
 ||coolpdfreader.com^
+||coolportalai.my^
 ||coolriverwalk.com^
 ||coolsearches.com^
 ||coolshadowtrail.com^
@@ -11825,6 +11831,7 @@
 ||datapls.net^
 ||datatechdrift.com^
 ||datatracker.online^
+||date4sex.pro^
 ||date4sexx.net^
 ||date4you.net^
 ||dateadvisor.com^
@@ -12072,6 +12079,7 @@
 ||deboisedivel.com^
 ||debrikon.com^
 ||debriscousin.com^
+||debsue.com^
 ||debtclearus.com^
 ||debtdispleaseboss.com^
 ||debtsabjure.com^
@@ -13046,6 +13054,7 @@
 ||discreetsearcher.com^
 ||discrepancyabsolution.com^
 ||discrepancydazzlespanner.com^
+||discretionarraignment.com^
 ||discretioningratitudeadvisedly.com^
 ||discretionterrace.com^
 ||discretiontinge.com^
@@ -14650,6 +14659,7 @@
 ||elitemaisvisual.com.br^
 ||eliteoftokens.com^
 ||elitescepticalchastisement.com^
+||elites-honeyonline.com^
 ||elitistcompensationstretched.com^
 ||elitistpuffy.com^
 ||elitistrawirresistible.com^
@@ -14862,6 +14872,7 @@
 ||endorseunemploymentreadiness.com^
 ||endowmentoverhangutmost.com^
 ||endowsuinal.com^
+||endsdaggleschass.cfd^
 ||endtrk.com^
 ||enduranceabjureplains.com^
 ||enduranceappropriate.com^
@@ -15090,6 +15101,7 @@
 ||erizoturdine.shop^
 ||ermitric.com^
 ||ernieblinddisoriented.com^
+||erniefilaree.shop^
 ||ernienursery.com^
 ||ernments.xyz^
 ||ernorvious.com^
@@ -15974,6 +15986,7 @@
 ||fauvekintra.com^
 ||favorcollations.com^
 ||favoritedawn.com^
+||favorit.work^
 ||favorscenes.com^
 ||favourableafter.com^
 ||favourableindependenthemp.com^
@@ -18336,6 +18349,7 @@
 ||gl0a7loeki02do.com^
 ||gl0w-4rtis4n.xyz^
 ||gl1nk.com^
+||glacierfamilyvivid.com^
 ||glaciertab.com^
 ||glaciervivid.com^
 ||gladiatorbiz.com^
@@ -19248,6 +19262,7 @@
 ||h47lntrk.com^
 ||h4ciujg.com^
 ||h54k.homes^
+||h7le2r6t2c7o7i5hxyce587z.cfd^
 ||h8235.cn^
 ||h8pq.shop^
 ||h9uq.shop^
@@ -20175,6 +20190,7 @@
 ||hiresplinter.com^
 ||hiringought.com^
 ||hi.ru^
+||hirugdil.com^
 ||hisexercisewall.cyou^
 ||hishighwaymotivate.sbs^
 ||hisjetfood.space^
@@ -27240,6 +27256,7 @@
 ||news-torojo.com^
 ||newstrackr.co^
 ||news-tureka.com^
+||newsuggest.com^
 ||newsunads.com^
 ||news-universe1.xyz^
 ||news-universe2.xyz^
@@ -27904,6 +27921,7 @@
 ||nutshellseclude.com^
 ||nutshellsusceptiblesophomore.com^
 ||nutshellurl.com^
+||nuttierputtoo.cyou^
 ||nuttinghoised.com^
 ||nuttyuptodate.com^
 ||nuvanayoga.com^
@@ -28748,6 +28766,7 @@
 ||otherwiserustyvenomous.com^
 ||otherwisewho.shop^
 ||otmsrv.com^
+||otoadom.com^
 ||ottimosoft1.com^
 ||otujnc3js.com^
 ||otwexplain.com^
@@ -30982,6 +31001,7 @@
 ||prmtracks.com^
 ||pro100.game^
 ||proadprovider.net^
+||proappify.my^
 ||probablyusualcontraction.com^
 ||probationmeasuresstripes.com^
 ||probe-portal.com^
@@ -32041,6 +32061,7 @@
 ||ragecodliver.com^
 ||raggedapproaching.com^
 ||raggedstriking.com^
+||ragiscafila.rest^
 ||ragitpaid.com^
 ||raglanyakking.com^
 ||ragneklein.com^
@@ -37556,6 +37577,7 @@
 ||sumosearch.net^
 ||sunbirdcs.com^
 ||sunburgh.com^
+||sundatingwoman.com^
 ||sundayjournal2.xyz^
 ||sundaymagazine2.xyz^
 ||sundaynews2.xyz^
@@ -38897,6 +38919,7 @@
 ||tkbo.com^
 ||tkdami.net^
 ||tkg8bc5d.com^
+||tkpopa.cfd^
 ||tl2giutrk.com^
 ||tl58.ru^
 ||tliveradiopro.com^
