@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.81
+! Version: 1.0.18.82
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-30T22:33:32.729Z
+! Last modified: 2026-07-01T01:13:32.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3330,6 +3330,7 @@
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.daytonjaxx.com
 0.0.0.0 www.dealresponse.com
+0.0.0.0 www.dealshaat.com
 0.0.0.0 www.dealsrate.com
 0.0.0.0 www.deashi.com
 0.0.0.0 www.defailermu.com
@@ -3350,6 +3351,7 @@
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
 0.0.0.0 www.dorminvaders.com
+0.0.0.0 www.downmass.com
 0.0.0.0 www.drivegoals.com
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
