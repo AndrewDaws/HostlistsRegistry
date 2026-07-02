@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.39
+! Version: 1.0.5.40
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-01T19:38:14.054Z
+! Last modified: 2026-07-02T11:54:40.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1645,7 +1645,6 @@
 ||appp.fyi^
 ||appscross.com^
 ||appsfly.co^
-||appsko.ca^
 ||appurl.io^
 ||appwhats.in^
 ||apsense.cc^

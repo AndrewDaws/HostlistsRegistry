@@ -1,12 +1,39 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.38
+! Version: 1.1.54.39
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T11:00:05.529Z
+! Last modified: 2026-07-02T11:54:18.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||cartdaily.shop^
+||sciugtatar.cyou^
+||gymyogapl.shop^
+||shopboswell.live^
+||hasartespit.online^
+||m2fztm.casa^
+||o1ot11xp1mod-zs2x.m3tvan.sbs^
+||oiol5clpl-tst-qt93.m3tvan.sbs^
+||olx.iuaube.icu^
+||naturalbasket.capital^
+||dext.capital^
+||rinzamelon.cyou^
+||syrfgm.com^
+||kiololakadioadsdoaak.site^
+||velvet-thread.shop^
+||wydawnictwoelements.com^
+||brightchimeziealo.wixsite.com^
+||sofusbedding.com^
+||lazajuy.pro^
+||tinbeacon.vip^
+||trendchoice.shop^
+||hotel.validation-rooms13.com^
+||garbuophic.cyou^
+||swiftalora.shop^
+||quxexl.com^
+||benvenutishoes.store^
+||goodsvanta.shop^
 ||beffanodesign.com^
 ||cosibella.kickse.sbs^
 ||vsedayutwin.com^
@@ -107107,16 +107134,3 @@
 ||incusantep.homes^
 ||www.outletdeals.shop^
 ||markucumul.pro^
-||www.douglassperfumy-pl.com^
-||lnjan.com^
-||emergunion.homes^
-||orbatridon.pro^
-||redupgloss.homes^
-||ricanvagin.homes^
-||spiettenut.pro^
-||santander-pl-6.top^
-||invenrisor.homes^
-||visagmulot.homes^
-||istersatur.pro^
-||myspotify.app^
-||santander-pl-5.top^

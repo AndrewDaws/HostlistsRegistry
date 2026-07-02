@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.52
+! Version: 1.0.26.53
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-02T09:13:10.633Z
+! Last modified: 2026-07-02T11:54:39.950Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -486,7 +486,6 @@
 ||buy.artweb.website^
 ||resolver.as203038.net^
 ||doh.asagiri.moe^
-||grgrgrkeepcalmkeepcalm.asatid12.ir^
 ||doh.asecdns.com^
 ||dot.asecdns.com^
 ||midgard.asguardian.de^
@@ -506,7 +505,6 @@
 ||goofygoober.atamanco.eu^
 ||ieatmonsters.atamanco.eu^
 ||overcloaked.atamanco.eu^
-||pulsewire.atamanco.eu^
 ||next.atomix.in^
 ||vps.atomix.in^
 ||dohtrial.att.net^
@@ -7951,7 +7949,6 @@
 ||ark.to^
 ||ark-vpn.com^
 ||arnsvr.site^
-||arrives.run^
 ||artclass.lol^
 ||artclass.site^
 ||artemis.bar^
@@ -7985,7 +7982,6 @@
 ||astrillcn.com^
 ||astrilldownloads.com^
 ||astrilljiasu.com^
-||astrilljsvpn.com^
 ||astrillvpnapp.com^
 ||astroutercn.com^
 ||astrovpn.co^

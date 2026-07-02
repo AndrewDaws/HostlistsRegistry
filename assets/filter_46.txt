@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.88
+! Version: 1.0.25.89
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-02T09:12:37.871Z
+! Last modified: 2026-07-02T11:53:59.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3217,7 +3217,6 @@
 ||appzworld.com^
 ||aprilga.beer^
 ||aptoide.com^
-||apunka.games^
 ||apunkagames.com^
 ||apunkagames.cyou^
 ||apunkagames.icu^
@@ -30113,6 +30112,7 @@
 ||watchwrestling.la^
 ||watchwrestling24.net^
 ||watermage-lordfilm.ru^
+||waterpump41.world^
 ||wawa-mania.ws^
 ||wawacity.blue^
 ||wawacity.ec^
