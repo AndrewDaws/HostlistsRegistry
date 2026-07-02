@@ -1,12 +1,73 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.48
+! Version: 1.1.54.49
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T20:33:56.193Z
+! Last modified: 2026-07-02T21:30:08.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||dianehunt.shop^
+||finance29-ut55.sbs^
+||zelton.shop^
+||crocidecol.cyou^
+||notice.info-eu3830.com^
+||finance23-velit44.sbs^
+||allegrolokalnie.lokalna-ofera75758723.shop^
+||summerspecialoffer-eu.shop^
+||ukaldi.shop^
+||ukairconditioner.shop^
+||rinfipreca.cyou^
+||nhuojitc.shop^
+||snicha.apscarpetcleaning.info^
+||searchitbetter.com^
+||newscastlab.com^
+||lokalna-ofera74764345.sbs^
+||booking.romalive2026.net^
+||parjhptat.shop^
+||shoeoutleteu.shop^
+||nr-943854.click^
+||kocvian.shop^
+||hot-offers.eu^
+||novirqua.shop^
+||premiumstyleoutlet.shop^
+||reserve.eu7488-info.com^
+||isoapdisodsiskfosfa.site^
+||homelento.shop^
+||brighthomedeals.shop^
+||deal-pulse.de^
+||reserve.eu0983-room.com^
+||dfrxc.shop^
+||velniirs.shop^
+||com-439252.sbs^
+||aldi-uk.denrdskiwearllc.com^
+||ukaldi-sale.bleceflannel.com^
+||shopaldiuk.textiletrfend.com^
+||aldius-market.urbandenimlab.com^
+||us-aldistore.bloomstitchllc.com^
+||uk-aldi.athleticpulsellc.com^
+||shopaldi-us.vintagegtique.com^
+||shopaldi-us.thesdmedvelvet.com^
+||sale-usaldi.predppylofers.com^
+||aldius-shop.crispcollar.com^
+||ravelinora.shop^
+||cochltellu.cyou^
+||stalcosklep.store^
+||jximo.shop^
+||bluepage-getbadgefree.com^
+||relapath.top^
+||ari2zdi2.cyou^
+||sdogavangh.cyou^
+||routb.cyou^
+||tejehexagrid.fit^
+||tejegammaloo.luxe^
+||cedowealth.com^
+||tejeearthnet.beer^
+||cervuswealth.com^
+||cisiumholdings.com^
+||nr-237433.click^
+||captowealth.com^
+||ofeta01239.sbs^
 ||comportowealth.com^
 ||quickcasauto.com^
 ||tonspintg.com^
@@ -41013,7 +41074,6 @@
 ||historicalnesyyses.info^
 ||ausddcultates.info^
 ||21c7cdbe.diabetes-bewegung.de^
-||climbrnasty.searchitbetter.com^
 ||caanalyticsdobs.com^
 ||invoice.program-accounts-agency.com^
 ||trance-scholars.com^
@@ -107298,6 +107358,3 @@
 ||pl-019862.icu^
 ||allegrolokalnie.pl-468945670.icu^
 ||stearncommunlty.com^
-||allegrolokalnie.pl-89361245.cc^
-||mybillingspotifypremium.com^
-||quantumtrust-system.com^
