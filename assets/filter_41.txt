@@ -1,12 +1,37 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.35
+! Version: 1.1.54.36
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T05:26:17.200Z
+! Last modified: 2026-07-02T07:19:01.277Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||filtercha.info^
+||kexon.shop^
+||inertprote.cyou^
+||vetravo.shop^
+||goodszena.shop^
+||urbogymo-pl.shop^
+||blhldrre.shop^
+||velmari.vip^
+||corsealien.cyou^
+||gihiwa.com^
+||vioramt2.com^
+||urbanridgepressn.info^
+||vayrex.shop^
+||trimearris.cyou^
+||phospsucci.cyou^
+||perqalunzov.pro^
+||yormetaqra.top^
+||offerdora.shop^
+||travekiona.com^
+||actinomoge.cyou^
+||loporeddo.site^
+||monokilok.site^
+||goodsdora.shop^
+||deltalxkpsu.info^
+||account.compliance.vu^
 ||cabotademp.cyou^
 ||eltro.shop^
 ||undiavaste.cyou^
@@ -107041,14 +107066,3 @@
 ||parabscrip.homes^
 ||www.tarflow.shop^
 ||impost.help^
-||sguerunint.pro^
-||regrespign.pro^
-||intertrasc.homes^
-||lingeanate.homes^
-||necrabasif.homes^
-||confotomog.pro^
-||avviningem.pro^
-||castrsnu.homes^
-||magnehonor.pro^
-||www.evelinsaul.com^
-||pl-oferta16171.cfd^
