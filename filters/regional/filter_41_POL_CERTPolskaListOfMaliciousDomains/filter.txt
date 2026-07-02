@@ -1,13 +1,37 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.32
+! Version: 1.1.54.33
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-01T23:35:51.317Z
+! Last modified: 2026-07-02T01:09:02.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
-||www.zenithglabs.shop^
+||rachunek-rachunek.sbs^
+||wazny-konto.cfd^
+||zenithglabs.shop^
+||insemrestr.cyou^
+||ardeylunivo.info^
+||averoza.shop^
+||inkerlion.com^
+||camelunspe.cyou^
+||allegrolokalnie.pl-oferta912974.click^
+||yqozugo.pro^
+||allegrolokalnie.pl74604.top^
+||politbrind.cyou^
+||allegrolokalnie.pl-482852.shop^
+||suteresi.com^
+||allegrolokalnie.oferta9162926392618.xyz^
+||emeaop.org^
+||abbonincan.cyou^
+||allegrolokalnie.pl-63592.icu^
+||quenhiorali.xyz^
+||allegrolokalnie.pl-d-oferta-ssid-631830.xyz^
+||oferona.pro^
+||allegrolokalnie.pl-oferta62974661.shop^
+||allegrolokalnie.pl-152052982.cfd^
+||allegrolokalnie.oferta3847294736373748.shop^
+||allegrolokalnie.84235.lat^
 ||xavro.shop^
 ||inugiwi.pro^
 ||zabezpieczeni.adultsnapmodels.com^
@@ -107006,8 +107030,3 @@
 ||pcahahg.com^
 ||serviziapple.app^
 ||mojepremiumspotify.com^
-||pl-879241.cfd^
-||ledger-recovery-signe.com^
-||googdkzzfl.com^
-||www.furniture-pl.shop^
-||ogloszenie-51888.sbs^
