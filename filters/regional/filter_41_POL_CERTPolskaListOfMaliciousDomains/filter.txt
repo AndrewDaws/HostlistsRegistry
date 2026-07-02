@@ -1,12 +1,83 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.41
+! Version: 1.1.54.42
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T13:38:34.171Z
+! Last modified: 2026-07-02T14:52:06.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||squarespacesigninusers.motoclubrho.com^
+||picroc.top^
+||aldiqx.shop^
+||28jvg22.hair^
+||l3f97.mg6vlp.qpon^
+||reneepl.vip^
+||deichmanndeoutlets.com^
+||riaccsandr.cyou^
+||vintage-stitch.shop^
+||pub-7fbb76afb4b947b68c74321bebb9fc53.r2.dev^
+||deal-lounge.de^
+||makebroke.live^
+||airconditioertt.pro^
+||allegrolokalnie.kup-teraz51672pl.click^
+||aldisf.shop^
+||nasmaiopodoaddiaa.site^
+||ooiotlxp1ne82.ng4voc.casa^
+||juiaoiaoidoaiddiaa.site^
+||dissaforma.cyou^
+||mikeandreina.com^
+||byvex.shop^
+||iptujwgl.shop^
+||lanangpremieredoctors.com.ph^
+||dianedn.com^
+||deal-direct.de^
+||www.bratzpoland.com^
+||bestdealsshopeu.com^
+||onlinestt.sale^
+||ikincielraf.istanbul^
+||m3tvan.sbs^
+||reedichrom.cyou^
+||jeffreylali.shop^
+||montgomeryconstructionroofing.com^
+||aldius-store.warmpethomellc.com^
+||eu-straussstore-online.shop^
+||eu-virellohome.com^
+||aldideals.plainzone.shop^
+||aldimart.harnel.shop^
+||aldideals.forwardhub.shop^
+||aldideals.lightbridge.shop^
+||aldimart.kavrin.shop^
+||aldiusa.dovrixcart.shop^
+||aldiuk.elvune.shop^
+||aldideals.goodssquare.shop^
+||aldideals.favormart.shop^
+||allegrolokalnie.9625436.cfd^
+||bodziopl-store.shop^
+||arnavutkoyborekcisi.com^
+||betterwayakademi.com^
+||nuvarendo.shop^
+||focusgardense.store^
+||trendzena.shop^
+||rkpolos.com^
+||sisusosgb.com^
+||strausstore.shop^
+||corex360.org^
+||rocktatili.org^
+||sevencoedi.cyou^
+||cityparking.jznqwprl.cloud^
+||allegrolokalnie.oferta929472663828zxbeyxu3959204727.shop^
+||juooiaodiadkdiddsif.site^
+||nyuioaidodidpadidsif.site^
+||trreyshdjjaiduweraa.site^
+||ysmingbiao.com^
+||plcobi-store.shop^
+||garzanov.com^
+||pickvanta.shop^
+||kimmeer.online^
+||rifocsolle.cyou^
+||themeadowlane.shop^
+||rolmauzer.com^
 ||najoiodoaosoakaa.site^
 ||forump2p.com^
 ||foot.sgdzzc.com^
@@ -37,8 +108,6 @@
 ||shopboswell.live^
 ||hasartespit.online^
 ||m2fztm.casa^
-||o1ot11xp1mod-zs2x.m3tvan.sbs^
-||oiol5clpl-tst-qt93.m3tvan.sbs^
 ||olx.iuaube.icu^
 ||naturalbasket.capital^
 ||dext.capital^
@@ -107128,10 +107197,3 @@
 ||lyterprost.homes^
 ||moje-billing.com^
 ||allegrolokalnie.plsd9hsheat14xk.icu^
-||profesubhi.pro^
-||svapodegna.homes^
-||pontiacrom.homes^
-||auth.activity-id10390business.cfd^
-||bombydolco.pro^
-||bonarmudro.pro^
-||sgrandibas.homes^
