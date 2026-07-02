@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.21
+! Version: 1.0.21.22
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-01T05:42:12.045Z
+! Last modified: 2026-07-02T05:26:17.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -38,6 +38,7 @@
 ||airupnederlands.com^
 ||airupsrbija.com^
 ||aizipai.cn^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -293,7 +294,6 @@
 ||freedom-5g.com^
 ||friday89.com^
 ||friday99.com^
-||fridaylocalmanager.duckdns.org^
 ||frostgoddess.com^
 ||fuehrungszeugnis-service.de^
 ||fullview.pl^
@@ -312,7 +312,6 @@
 ||gearhomies.com^
 ||gearhuman.com^
 ||gearstastic.com^
-||gearver.com^
 ||geekupdates.notion.site^
 ||geldencosmeticos.com^
 ||gemlis.com^
@@ -467,7 +466,6 @@
 ||lucidtiger.com^
 ||luckyhomie.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -579,6 +577,7 @@
 ||nip9.com^
 ||nip98.com^
 ||nirvezal.com^
+||nlepfpteg.com^
 ||nofotballshop.com^
 ||nonofy.com^
 ||norfotball.com^
@@ -628,6 +627,7 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
+||phirussacmush.net^
 ||pinjamanelit.top^
 ||pinjamanrupiah.xyz^
 ||pinjamteman.top^
@@ -662,7 +662,6 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
@@ -706,7 +705,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -766,11 +764,13 @@
 ||tamed-exotics.com^
 ||tartannewzealand.myshopify.com^
 ||tbao684tryo.com^
+||tdgrop168.vip^
 ||teezill.com^
 ||telegramweb.vercel.app^
 ||telemarktalk.com^
 ||tencheckit.org^
 ||terverystaio.info^
+||teslacase.org^
 ||teslatime.net^
 ||the-north-face.gr^
 ||theeaglebrand.company.site^
@@ -802,6 +802,7 @@
 ||trivo.uk^
 ||trkucibqy.com^
 ||tromselementbygg.no^
+||tsla-stock.com^
 ||turtleclient.xyz^
 ||twiiiter.com^
 ||twinsbio.com^
@@ -815,8 +816,10 @@
 ||ultrasonica.info^
 ||uni-swap.online^
 ||unifully.com^
+||uniswap-paladium-claim.run^
 ||uniswap.host^
 ||uniswap.ro^
+||uniswap7.work^
 ||uniswapagent.com^
 ||uniswapai.xyz^
 ||uniswapapp.xyz^
@@ -886,6 +889,7 @@
 ||whbinder.com^
 ||wikeb.com^
 ||wintexfashions.com^
+||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
 ||wp3.xyz^

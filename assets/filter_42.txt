@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.97
+! Version: 1.0.20.98
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-01T05:42:14.883Z
+! Last modified: 2026-07-02T05:26:20.141Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22384,6 +22384,7 @@
 ||jetengine.be^
 ||jetski-search.com^
 ||jetztkonvertieren.com^
+||jeucado.com^
 ||jewdombenin.com^
 ||jewellercorpulentquickie.com^
 ||jewellertuesdaydisillusion.com^
