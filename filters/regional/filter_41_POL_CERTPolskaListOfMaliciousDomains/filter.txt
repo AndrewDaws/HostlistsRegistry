@@ -1,12 +1,23 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.45
+! Version: 1.1.54.46
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T17:37:32.586Z
+! Last modified: 2026-07-02T18:37:35.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||appart-checks.com^
+||twojemazury.com^
+||phelvoraix.com^
+||aurevix-clarity.lovable.app^
+||notipoland.com^
+||kickse.sbs^
+||antiixeran.cyou^
+||limited-offer.sbs^
+||zenmello.shop^
+||zakupello.shop^
+||cukurovahaberajansi.net^
 ||paludmoles.cyou^
 ||focusgardense.shop^
 ||domocraft.shop^
@@ -205,7 +216,6 @@
 ||benvenutishoes.store^
 ||goodsvanta.shop^
 ||beffanodesign.com^
-||cosibella.kickse.sbs^
 ||vsedayutwin.com^
 ||weoapdoadpaeopaodiaok.site^
 ||ruxen.shop^
@@ -263,10 +273,8 @@
 ||telezsag.com^
 ||bnmsail.weebly.com^
 ||exaltcucko.cyou^
-||drogerienatura.kickse.sbs^
 ||allegrolokalnie.oferta3858294727494727.click^
 ||qumaccessories.com^
-||4fpl.limited-offer.sbs^
 ||tadimla.com^
 ||ogfoodandbeverageindustry.com^
 ||sonsahibiyim.com^
@@ -418,7 +426,6 @@
 ||serbfd.com^
 ||4ribjevnkfdclsx.com^
 ||thefieldevent.com^
-||account.notipoland.com^
 ||notice.reception-eu4428.com^
 ||zuhigyf.pro^
 ||urbanhvibe.shop^
@@ -107235,13 +107242,3 @@
 ||limbldisca.pro^
 ||webappsecureacconsstuiewrht3oitghjgssdfh4gds.npcanomali5.biz.id^
 ||macchdiffi.homes^
-||prefiwiret.pro^
-||lagnooblig.homes^
-||brightcanyon.biz^
-||allegrolokalnie.oferty-kategoria-popularne-14503671.sbs^
-||allegrolokalnie.oferty-kategoria-popularne-12503474.sbs^
-||allegrolokalnie.oferty-kategoria-popularne-16404681.sbs^
-||allegrolokalnie.pl-16774523.rest^
-||dttofurri.pro^
-||attovreinv.homes^
-||allegrolokalnie.oferty-kategoria-popularne-13503574.sbs^
