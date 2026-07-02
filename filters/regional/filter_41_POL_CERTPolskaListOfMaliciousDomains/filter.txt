@@ -1,12 +1,44 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.42
+! Version: 1.1.54.43
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T14:52:06.057Z
+! Last modified: 2026-07-02T15:51:55.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||nauadodjksdoaspoda.site^
+||poczta-pl.iujteyh.icu^
+||beylikduzupetkuafor.com^
+||infomulticulturaltravel.com^
+||sehr-isera.com^
+||suilverianyo.xyz^
+||adultsnapmodels.com^
+||finance20-odio37.sbs^
+||zentoravia.shop^
+||nuoisosfifossfosfdif.site^
+||bulloscate.cyou^
+||contacts.digitals.vu^
+||hufywoi.pro^
+||gymezei.pro^
+||nisantasidishekimi.com^
+||tikivi.world^
+||fintaverio.shop^
+||cartiva.club^
+||yielelix.site^
+||ukbrookfieldgate.com^
+||ng4voc.casa^
+||wantmorefresh.com^
+||jajaioodsopspaadod.site^
+||allegrolokalnie.kup-teraz63432421.shop^
+||kqm.mg6vlp.qpon^
+||finance27-consectetur57.sbs^
+||hiranovainsaat.com^
+||meublexo.shop^
+||caltravmenio.pro^
+||bedraboico.cyou^
+||luvqix.shop^
+||hollywoodsmilenisantasi.com^
 ||squarespacesigninusers.motoclubrho.com^
 ||picroc.top^
 ||aldiqx.shop^
@@ -23,7 +55,6 @@
 ||allegrolokalnie.kup-teraz51672pl.click^
 ||aldisf.shop^
 ||nasmaiopodoaddiaa.site^
-||ooiotlxp1ne82.ng4voc.casa^
 ||juiaoiaoidoaiddiaa.site^
 ||dissaforma.cyou^
 ||mikeandreina.com^
@@ -314,7 +345,6 @@
 ||allegrolokalnie.84235.lat^
 ||xavro.shop^
 ||inugiwi.pro^
-||zabezpieczeni.adultsnapmodels.com^
 ||celerida.com^
 ||notice.hotel-eu7503.com^
 ||semnourter.cyou^
@@ -31754,7 +31784,6 @@
 ||bad-girl.xyz^
 ||kuhamo.com^
 ||heeumiditiesbootstraps.info^
-||www.cartiva.club^
 ||claudiadeppe.shop^
 ||pge-home.wcj.ltd^
 ||sandratinant.shop^
@@ -107191,9 +107220,3 @@
 ||ottimnavig.homes^
 ||mismogiron.pro^
 ||allegrolokalnie.34ogvdsmcsake.sbs^
-||angiounder.homes^
-||presstrans.pro^
-||allegrolokalnie.pl-744531.cfd^
-||lyterprost.homes^
-||moje-billing.com^
-||allegrolokalnie.plsd9hsheat14xk.icu^
