@@ -1,12 +1,62 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.36
+! Version: 1.1.54.37
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T07:19:01.277Z
+! Last modified: 2026-07-02T09:12:53.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||bnmsail.weebly.com^
+||exaltcucko.cyou^
+||drogerienatura.kickse.sbs^
+||allegrolokalnie.oferta3858294727494727.click^
+||qumaccessories.com^
+||4fpl.limited-offer.sbs^
+||tadimla.com^
+||ogfoodandbeverageindustry.com^
+||sonsahibiyim.com^
+||roccoakademi.com^
+||kuvalahsapcnc.com^
+||tufart.com^
+||setrms.store^
+||aktywacja-konto.vercel.app^
+||furniplaza.shop^
+||bispacleo.com.br^
+||zolmeraqix.pro^
+||jarovdisam.cyou^
+||xeviro.shop^
+||brighthearthco.eu^
+||yeniverigayrimenkul.net^
+||pydfmm.com^
+||gmdinsaatdekorasyon.com^
+||prothostr.net^
+||tarafsec.com^
+||sektortasarim.com^
+||classic-loom.shop^
+||allegrolokalnie.pl-oferta76538.shop^
+||konto-dostep.vercel.app^
+||sso.otonnoto.n7pl.ink^
+||view-2t2qh0my3.rainbowmanseeyou.sbs^
+||shopfink.shop^
+||finkhome.shop^
+||cloudburstdump.top^
+||finkstudio.shop^
+||urbogyml-pl.shop^
+||rainstormty.pro^
+||chekbot.online^
+||ryzento.shop^
+||lirashome.com^
+||nibapee.pro^
+||contrdefra.cyou^
+||zebraverec.cyou^
+||gikicof.pro^
+||pitbull-pl.club^
+||downpourless.info^
+||hsuoxmsr.shop^
+||hyrventola.info^
+||icefallless.info^
+||sivelquarn.com^
 ||filtercha.info^
 ||kexon.shop^
 ||inertprote.cyou^
@@ -107035,34 +107085,3 @@
 ||staywus.com^
 ||santander-pl-1.top^
 ||klienta-appss.net^
-||myspotify.uk^
-||santander-pl-2.top^
-||sdinf.top^
-||cooptsheep.homes^
-||supindieta.pro^
-||divenviter.pro^
-||rammopolys.homes^
-||klienta-app.net^
-||findsmaps.store^
-||marezsado.pro^
-||ingemcavil.homes^
-||tornebucin.homes^
-||mahzoesist.homes^
-||dosimstypt.pro^
-||sacralatom.homes^
-||giravammar.homes^
-||fruitslogg.homes^
-||tendescorr.homes^
-||jansedesto.pro^
-||prevescler.pro^
-||declierbor.homes^
-||panchdogma.homes^
-||influfrott.pro^
-||scapugromm.pro^
-||prolononan.homes^
-||klienta-apps.net^
-||kexmobeves.pro^
-||rimedsilly.pro^
-||parabscrip.homes^
-||www.tarflow.shop^
-||impost.help^
