@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.84
+! Version: 1.0.18.85
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-02T01:08:36.262Z
+! Last modified: 2026-07-02T22:27:17.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1795,6 +1795,7 @@
 0.0.0.0 ecantal.fr
 0.0.0.0 ecirque.fr
 0.0.0.0 eckosport.fr
+0.0.0.0 ecommercegoodies.com
 0.0.0.0 edecideur.fr
 0.0.0.0 edisk.ukr.net.ssl2.in
 0.0.0.0 edmo.fr
