@@ -1,12 +1,63 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.47
+! Version: 1.1.54.48
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T19:34:44.121Z
+! Last modified: 2026-07-02T20:33:56.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||comportowealth.com^
+||quickcasauto.com^
+||tonspintg.com^
+||headbreakingnews.com^
+||czvji456fg.shop^
+||oq4rrv.casa^
+||logicriapp.cyou^
+||allegrolokalnie.pl-85223.click^
+||koladanormf.com^
+||galamap.site^
+||fragnet.site^
+||amber-weave.shop^
+||kynovista.site^
+||veoturk.com^
+||orviaavrasya.com^
+||froundeliha.info^
+||allegrolokalnie.238823.click^
+||misty-rice-351b.subhamoy09111989.workers.dev^
+||a1j2k3.cyou^
+||page87936.shop^
+||notice.order-eu7672.com^
+||turchrizza.cyou^
+||prorelgo.info^
+||poczta-pl.uyqwer.icu^
+||clienspartners.com^
+||chalybscapital.com^
+||cautescapital.com^
+||catervawealth.com^
+||capilluscapital.com^
+||capaxpartners.com^
+||componogroup.com^
+||caudaholdings.com^
+||circumwealth.com^
+||cessatioholdings.com^
+||armawealth.com^
+||commendogroup.com^
+||celeberholdings.com^
+||lokalna-ofeta592054.shop^
+||arduuspartners.com^
+||allegrolokalnie.pl6162826862.shop^
+||comptusholdings.com^
+||probiqes.info^
+||comitiumcapital.com^
+||allegrolokalnie.pl-oferta26847690.sbs^
+||complectuscapital.com^
+||aggheguast.cyou^
+||commodusholdings.com^
+||beatusholdings.com^
+||clavusholdings.com^
+||causapartners.com^
+||caruswealth.com^
 ||comespartners.com^
 ||noviydenca.com^
 ||reserve.eu7852-info.com^
@@ -107250,7 +107301,3 @@
 ||allegrolokalnie.pl-89361245.cc^
 ||mybillingspotifypremium.com^
 ||quantumtrust-system.com^
-||allegrolokalniepl.oferta9402.icu^
-||allegrolokalnie.pl-567883457.icu^
-||allegrolokalnie.oferty-kategoria-popularne-15504681.sbs^
-||allegrolokalnie.pl-78653154.pro^
