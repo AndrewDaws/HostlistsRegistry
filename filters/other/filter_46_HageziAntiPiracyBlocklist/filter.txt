@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.89
+! Version: 1.0.25.90
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-02T11:53:59.407Z
+! Last modified: 2026-07-02T19:34:28.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1695,6 +1695,7 @@
 ||123movies9.fun^
 ||123movies9.hair^
 ||123movies9.nl^
+||123movies9.one^
 ||123movies9.rest^
 ||123movies9.skin^
 ||123movies9.surf^
@@ -3351,7 +3352,6 @@
 ||audiostuff.ro^
 ||audiotracer.com^
 ||audiozonetorrents.com^
-||auraplus-streams.buzz^
 ||auratorrent.pl^
 ||aurorabird6.live^
 ||australianmovies.net^
@@ -3425,7 +3425,6 @@
 ||bahubalys-lordfilm.ru^
 ||baibako.tv^
 ||bainmatch.com^
-||baixar.club^
 ||baixarfilmetorrent.com^
 ||baixarfilmetorrent.net^
 ||baixarpremium.net^
@@ -3488,7 +3487,6 @@
 ||batmanstream.cc^
 ||batmanstream.info^
 ||batmanstream.online^
-||batmanstream.vip^
 ||batmanstream.watch^
 ||batstream.tv^
 ||bayernstream.com^
@@ -3584,17 +3582,13 @@
 ||berlinn-lordfilms.ru^
 ||berlinskaya-zhara-lordfilm.lol^
 ||berllin-lordfilms.ru^
-||besprincipnye-lordfilm.com^
 ||besprintsipnyye-lordfilm.ru^
 ||besslavnye-ublyudki-lordfilm.buzz^
 ||bessmertnaya-gvardiya-lordfilm.ru^
-||bessonnaya-noch-lordfilm.fun^
 ||besstydniki-lordfilm.buzz^
-||besstydniki-lordfilm.fun^
 ||besstydniki-lordfilm.ru^
 ||besstyyzhie-lordfilm.ru^
 ||besstyzhie-lordfilm.com^
-||besstyzhie-lordfilm.fun^
 ||besstyzhie-lordfilm.top^
 ||besstyzhie-lordfilm3.ru^
 ||besstyzhie-lordfilme.ru^
@@ -3691,7 +3685,6 @@
 ||bintube.com^
 ||bintv.net^
 ||binzb.com^
-||biografi-lordfilm.fun^
 ||bioscopeblog.net^
 ||biotech-cdmo-gedeonrichter.com^
 ||biotorrents.net^
@@ -3804,7 +3797,6 @@
 ||blagie-znamenia-lordfilms.ru^
 ||blagie-znameniya-lordfilm.top^
 ||blagie-znameniya-lordfilm3.ru^
-||blagiye-znameniya-lordfilm.fun^
 ||blague-znameniya-lordfilm.ru^
 ||blagye-znamenia-lordfilm.ru^
 ||blazingtorrent.xyz^

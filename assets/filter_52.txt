@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.53
+! Version: 1.0.26.54
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-02T11:54:39.950Z
+! Last modified: 2026-07-02T19:35:08.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -511,20 +511,16 @@
 ||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
-||www.securly.com.australianwildharvest.com^
 ||know.data.yarsuvat.av.tr^
 ||vanheim.ff.avast.com^
 ||vpn-sd.ff.avast.com^
 ||vpn.avg.tools.avast.com^
-||adguard.avavd.ru^
 ||vps.avc.cx^
 ||dnstx.axhy.cc^
 ||chris-liu-lovesgooning.axiomait.pro^
 ||galaxv6-is-never-comming-out.axsetubal.pt^
 ||visit-portugal.axsetubal.pt^
-||z.axsetubal.pt^
 ||dns.axto.me^
-||dns.aykanbacaksoy.de^
 ||adguard.ayrespace.cc^
 ||adguard2.ayrespace.cc^
 ||home.azagra.dev^
@@ -569,32 +565,6 @@
 ||node3.b4el.ru^
 ||dns.b612.me^
 ||dns.b72.com^
-||education.babushkamail.com^
-||education1082.babushkamail.com^
-||education123.babushkamail.com^
-||education12897.babushkamail.com^
-||education13232.babushkamail.com^
-||education14195.babushkamail.com^
-||education15257.babushkamail.com^
-||education18968.babushkamail.com^
-||education19066.babushkamail.com^
-||education21336.babushkamail.com^
-||education23400.babushkamail.com^
-||education23695.babushkamail.com^
-||education25932.babushkamail.com^
-||education26144.babushkamail.com^
-||education27423.babushkamail.com^
-||education29217.babushkamail.com^
-||education30974.babushkamail.com^
-||education31880.babushkamail.com^
-||education32550.babushkamail.com^
-||education32619.babushkamail.com^
-||education4391.babushkamail.com^
-||education5394.babushkamail.com^
-||education6353.babushkamail.com^
-||education6833.babushkamail.com^
-||education7035.babushkamail.com^
-||education9588.babushkamail.com^
 ||205.209.125.106.backname.io^
 ||158.69.222.114.backname.io^
 ||66.23.193.126.backname.io^
@@ -643,7 +613,6 @@
 ||92-38-177-17.backname.io^
 ||frogeh.bacongamz.net^
 ||alumn.tests.bad.mn^
-||franzosen.bad.mn^
 ||spaceis.bad.mn^
 ||dns.bad-taste.app^
 ||filter.badbotdev.xyz^
@@ -654,13 +623,8 @@
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||dns.baishiyuan.cn^
-||education.balalaikamail.com^
 ||adguard.baltes.info^
 ||about.baltimorefellowship.org^
-||hint.bamastuff.com^
-||trig.bamastuff.com^
-||trigg.bamastuff.com^
-||triggg.bamastuff.com^
 ||www.securly.com.bangerade.us^
 ||10.bangerade.us^
 ||atmyhouse.bangerade.us^
@@ -671,7 +635,6 @@
 ||fasthistory.baodacn.cn^
 ||ghyust.baodacn.cn^
 ||stellaralgebra.baodacn.cn^
-||lemonlimesuckers.barabesta.is^
 ||lifeline.barabesta.is^
 ||welovemath89.barabesta.is^
 ||learnaboutbillclinton.barellagirl.com^
@@ -682,12 +645,7 @@
 ||tacobelljobs.bastaff.ru^
 ||we-hate-school.bastaff.ru^
 ||home.basthorst.eu^
-||desmos.edu.baumgardner.us^
 ||i.hate.fink.baumgardner.us^
-||haha-no.one-knows.how.to.make-links.baumgardner.us^
-||fern-is.nice.baumgardner.us^
-||bun.s.baumgardner.us^
-||gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us^
 ||4.baumgardner.us^
 ||67.baumgardner.us^
 ||garden.baumgardner.us^
@@ -7996,7 +7954,6 @@
 ||atsilva.link^
 ||attractoverall.com^
 ||atvsh.ir^
-||auberge78.site^
 ||auraclient.com^
 ||aurevia.ru^
 ||auronsvr.site^
@@ -8464,7 +8421,6 @@
 ||bienna.ru^
 ||bigdih.shop^
 ||bigdihuptheahh.buzz^
-||bigjimmy.xyz^
 ||bigma.org^
 ||bigmoney.cc^
 ||bigquerycdn.com^
@@ -8474,7 +8430,6 @@
 ||bingojiasu.com^
 ||biolabshop.cc^
 ||biolicious.online^
-||birgerboy.com^
 ||bit01-mfivuot8.top^
 ||bit02-u6bgppq7.top^
 ||bitaqwlx.com^

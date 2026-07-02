@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.40
+! Version: 1.0.5.41
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-02T11:54:40.499Z
+! Last modified: 2026-07-02T19:35:08.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1759,7 +1759,6 @@
 ||aww.al^
 ||awwurl.com^
 ||awy.to^
-||axees.ir^
 ||axiom.link^
 ||axios.link^
 ||axo.li^
