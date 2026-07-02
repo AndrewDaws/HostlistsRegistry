@@ -1,12 +1,22 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.50
+! Version: 1.1.54.51
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T22:27:42.617Z
+! Last modified: 2026-07-02T23:29:27.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||onlygoldenplots.com^
+||akl2k3.cyou^
+||darunavelo.xyz^
+||pinkdunique.best^
+||stampunfur.cyou^
+||savsspover.cyou^
+||allegrolokalnie.pl-24338.sbs^
+||moveloria.shop^
+||ol-xpaczka.kl1o32p.sbs^
+||nr-93278434.click^
 ||giallgrazi.cyou^
 ||soniariberi.com^
 ||m3salon.holy.jp^
@@ -26132,7 +26142,6 @@
 ||lumacmodif.cyou^
 ||complsputt.cyou^
 ||berrybroa.click^
-||bronzebre.onlygoldenplots.com^
 ||textunusual.cfd^
 ||characterdifferent.cfd^
 ||vibevsd.online^
@@ -107351,9 +107360,3 @@
 ||olonixis-app.net^
 ||spot-4x-viar.com^
 ||bit-40-bumex.net^
-||pl-099106.icu^
-||allegrolokalnie.pl-9887565.cfd^
-||allegrolokalnie.pl-6873142.rest^
-||shoecorner.top^
-||vastogainlux.net^
-||homlasales.shop^
