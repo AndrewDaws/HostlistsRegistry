@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS Popup Hosts filter
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
-! Version: 1.0.18.35
+! Version: 1.0.18.36
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-02T10:59:35.510Z
+! Last modified: 2026-07-02T12:47:39.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -406,6 +406,7 @@
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gensonal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||get-gx.net^$dnsrewrite=ad-block.dns.adguard.com
+||getdirectbonus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||getsthis.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gkrtmc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gmmads.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -684,6 +685,7 @@
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||staysafeonlinetoday.com^$dnsrewrite=ad-block.dns.adguard.com
 ||steerensout.net^$dnsrewrite=ad-block.dns.adguard.com
+||stopads-now.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stortla.com^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stsbih.com.ba^$dnsrewrite=ad-block.dns.adguard.com
@@ -764,6 +766,7 @@
 ||want-some-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder.online^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder3.com^$dnsrewrite=ad-block.dns.adguard.com
+||we-offer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||webfanclub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||webmedrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wetrackgames.com^$dnsrewrite=ad-block.dns.adguard.com
