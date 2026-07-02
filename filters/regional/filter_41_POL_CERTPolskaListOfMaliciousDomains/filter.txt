@@ -1,12 +1,24 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.43
+! Version: 1.1.54.44
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T15:51:55.835Z
+! Last modified: 2026-07-02T16:41:44.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||bej82nwneo.shop^
+||erste.centrum24pl.com^
+||alebilet.z0ms7oferta.lat^
+||currentaffairsdeskm.top^
+||northtrailw.site^
+||elderlawlv.info^
+||bayeracreative.com^
+||trevixa.vip^
+||stasigarbe.cyou^
+||golvuenarwi.pro^
+||oylozmqp.shop^
+||doriomavuel.info^
 ||nauadodjksdoaspoda.site^
 ||poczta-pl.iujteyh.icu^
 ||beylikduzupetkuafor.com^
@@ -107208,15 +107220,3 @@
 ||allegrolokalnie.pl-urzadzenia-23728.icu^
 ||scoiaappro.homes^
 ||allegrolokalnie.pl-89456214.cam^
-||allegrolokalnie.43kvdjxsjsoe.sbs^
-||sgaseammoi.pro^
-||disompolys.homes^
-||shantepollard.info^
-||mybillingpremium.com^
-||pl-73912.cfd^
-||allegrolokalnie.ogl0szenie795183.top^
-||allegrolokalnie.p728x2630px834412.us^
-||dissenebbi.pro^
-||ottimnavig.homes^
-||mismogiron.pro^
-||allegrolokalnie.34ogvdsmcsake.sbs^
