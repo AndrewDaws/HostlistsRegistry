@@ -1,12 +1,48 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.44
+! Version: 1.1.54.45
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T16:41:44.986Z
+! Last modified: 2026-07-02T17:37:32.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||paludmoles.cyou^
+||focusgardense.shop^
+||domocraft.shop^
+||www.solvecaptcha.help^
+||eddomsmele.cyou^
+||brixanovo.shop^
+||qumhome.com^
+||hermedigoz.cyou^
+||sunhunchan.com^
+||trixanvelo.com^
+||mg6vlp.qpon^
+||allegrolokalnie.lokalna-ofeta2435666.shop^
+||ostasthrea.cyou^
+||karrovenilo.pro^
+||ukwillowridgehub.com^
+||inpolst.kln3h2.click^
+||olumdegorei.xyz^
+||obedibanch.cyou^
+||lokalna-ofeta904488884.shop^
+||accudunlib.cyou^
+||3ikj3vg22.hair^
+||quovaledo.shop^
+||6e3u48e6.hair^
+||6j7hvg2.hair^
+||4p4ork4.hair^
+||iraqbitumenpn.com^
+||iprenure.com^
+||2h7h3bw.hair^
+||mqf1hc9zyz.topluckyplayuk.com^
+||5w4e6.hair^
+||proseamman.cyou^
+||holosfak.com^
+||4l44vg22.hair^
+||gadgetears.com^
+||jidbpota.shop^
+||khareed-lay.com^
 ||bej82nwneo.shop^
 ||erste.centrum24pl.com^
 ||alebilet.z0ms7oferta.lat^
@@ -43,7 +79,6 @@
 ||wantmorefresh.com^
 ||jajaioodsopspaadod.site^
 ||allegrolokalnie.kup-teraz63432421.shop^
-||kqm.mg6vlp.qpon^
 ||finance27-consectetur57.sbs^
 ||hiranovainsaat.com^
 ||meublexo.shop^
@@ -55,7 +90,6 @@
 ||picroc.top^
 ||aldiqx.shop^
 ||28jvg22.hair^
-||l3f97.mg6vlp.qpon^
 ||reneepl.vip^
 ||deichmanndeoutlets.com^
 ||riaccsandr.cyou^
@@ -107211,12 +107245,3 @@
 ||dttofurri.pro^
 ||attovreinv.homes^
 ||allegrolokalnie.oferty-kategoria-popularne-13503574.sbs^
-||lidlsl.shop^
-||allegrolokalnie.pl-8756234567.icu^
-||ovoviintin.pro^
-||frameiubil.pro^
-||ringebumbl.homes^
-||help.activityid36120business.cfd^
-||allegrolokalnie.pl-urzadzenia-23728.icu^
-||scoiaappro.homes^
-||allegrolokalnie.pl-89456214.cam^
