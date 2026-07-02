@@ -1,12 +1,69 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.37
+! Version: 1.1.54.38
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T09:12:53.096Z
+! Last modified: 2026-07-02T11:00:05.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||beffanodesign.com^
+||cosibella.kickse.sbs^
+||vsedayutwin.com^
+||weoapdoadpaeopaodiaok.site^
+||ruxen.shop^
+||juioapidodidaodaia.site^
+||elvaniq.shop^
+||evadidispi.cyou^
+||cavylo.com^
+||cityparking.opmvxql.cyou^
+||namsanaopoodiaok.site^
+||globalyeg.com^
+||buceiffc.shop^
+||godunns.shop^
+||pecijiy.pro^
+||wloveme.shop^
+||homevivo.shop^
+||summer-band-6669.michaeljonesnpfi46132.workers.dev^
+||hellomarelbo.store^
+||nasauiaodoidsaddd.site^
+||shantuiankara.com^
+||thrasher.linktomejmp.info^
+||giocahuggi.cyou^
+||rowove.info^
+||hotel.validation-rooms12.com^
+||axeladams.shop^
+||predenonun.cyou^
+||loplaodadiadldak.site^
+||radilabs.site^
+||inpolst.sl3kf2.click^
+||1shorten24.cyou^
+||yildizciftligi.com^
+||demisrispa.cyou^
+||cityparking.hpznwlqr.cloud^
+||teyvxx.webwave.dev^
+||sprocketcopper.vip^
+||cityparking.eqpltmn.club^
+||allegrolokalnie.tflpl-produkt.sbs^
+||kivex.shop^
+||tupeemvmeste.com^
+||finkinteriors.shop^
+||thevenvora.shop^
+||lovelyvole.autos^
+||heididahl.shop^
+||aurora-leap.com^
+||flusnews.ru^
+||gardendomowy.shop^
+||garden-homes.shop^
+||lytrona-sync.com^
+||juialopadiidadoaia.site^
+||ezebrawin.shop^
+||faktyzogrodow.xyz^
+||gym-glamours.shop^
+||aged-wind-5169.jenniferwilsonxbvl85491.workers.dev^
+||wardmleodi.cyou^
+||serrasurpa.cyou^
+||telezsag.com^
 ||bnmsail.weebly.com^
 ||exaltcucko.cyou^
 ||drogerienatura.kickse.sbs^
@@ -107063,25 +107120,3 @@
 ||istersatur.pro^
 ||myspotify.app^
 ||santander-pl-5.top^
-||litogunres.pro^
-||sabsdistr.homes^
-||divultipic.pro^
-||bombespolv.pro^
-||strimidole.homes^
-||diesiimbro.pro^
-||scialinabi.pro^
-||riposritas.homes^
-||ichguculpr.homes^
-||frequcarru.homes^
-||barraoutfa.homes^
-||comiapelag.pro^
-||quattmunic.homes^
-||seguirdad.es^
-||santander-pl-3.top^
-||maniaimbar.pro^
-||stornmolal.homes^
-||wahehcnido.homes^
-||spuretosca.homes^
-||staywus.com^
-||santander-pl-1.top^
-||klienta-appss.net^
