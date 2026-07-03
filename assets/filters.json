@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.26.49",
+			"version": "1.1.26.50",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-03T18:34:28+0000"
+			"timeUpdated": "2026-07-03T19:33:26+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.98.74",
+			"version": "1.0.98.75",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-03T15:42:46+0000"
+			"timeUpdated": "2026-07-03T19:33:41+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -826,14 +826,14 @@
 				108
 			],
 			"languages": [],
-			"version": "1.0.37.66",
+			"version": "1.0.37.67",
 			"homepage": "https://github.com/Cats-Team/AdRules",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-03T14:50:56+0000"
+			"timeUpdated": "2026-07-03T19:33:58+0000"
 		},
 		{
 			"filterKey": "HUN_hufilter",
