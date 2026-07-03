@@ -1,12 +1,50 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.55
+! Version: 1.1.54.56
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T05:23:20.412Z
+! Last modified: 2026-07-03T07:15:26.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||goodsrise.shop^
+||stalcom-pl.shop^
+||drakso.shop^
+||pl98329859754.cfd^
+||guaiarigua.cyou^
+||pl0197602.cfd^
+||update-address.usct.ccwu.cc^
+||navuerolita.info^
+||smykbaby.euvip.online^
+||goldnetinternet.com^
+||qc7.od3maf.top^
+||juliebrowninteriors.com^
+||duranepoli.pro^
+||incocphene.cyou^
+||purnyagole.pro^
+||houseofseris.com^
+||jysks.outlets-sales.com^
+||tejewavegate.luxe^
+||stalcosklep.top^
+||merchant.cart8915.rest^
+||abrivolaren.info^
+||s55.page59276.shop^
+||4k3ij5hu.skin^
+||finance29-dolorem6.sbs^
+||vettosinci.cyou^
+||finance22-ipsum42.sbs^
+||ethnohurghada.com^
+||miscovergo.cyou^
+||otalmerodin.pro^
+||flarsi.shop^
+||ambiecanoe.cyou^
+||urbanmeble.shop^
+||talmoor.online^
+||murnak.shop^
+||dornwyck.online^
+||calweropdimr.info^
+||imbusmovim.cyou^
+||degnecresy.cyou^
 ||vaporfasci.cyou^
 ||plomik.shop^
 ||wordpress-1643793-6526980.cloudwaysapps.com^
@@ -107383,18 +107421,3 @@
 ||penetdeman.pro^
 ||inabigesit.pro^
 ||unsymsobba.homes^
-||pl-oferta6521785.sbs^
-||thousandtgrateful.whoispavel.com^
-||tfouuuu-laamok-apoos.codeanyapp.com^
-||guitarworldh.info^
-||pianohubh.info^
-||brandinghubh.info^
-||actorzoneh.info^
-||socialmediaworldh.info^
-||videomakersh.info^
-||cinemaloversh.info^
-||drumzoneh.info^
-||pl-smart27491.sbs^
-||pl-smart63720.sbs^
-||pl-smart08371.sbs^
-||pl-smart72020.sbs^
