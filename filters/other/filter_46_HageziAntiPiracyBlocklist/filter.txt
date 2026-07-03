@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.93
+! Version: 1.0.25.94
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-03T11:52:44.848Z
+! Last modified: 2026-07-03T20:30:36.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3275,6 +3275,7 @@
 ||arrow-strelae-lordfilm.ru^
 ||arrow-strelas-lordfilm.ru^
 ||arrows-lordfilm.ru^
+||arrowtv.net^
 ||arrowu-lordfilm.ru^
 ||arrr.xyz^
 ||arteenz.com^
@@ -3425,6 +3426,7 @@
 ||b2s-share.com^
 ||b98.tv^
 ||baberepublic.com^
+||babfilm.com^
 ||baby-beamup.club^
 ||babystreaming.com^
 ||backrooms-lordfilm.ru^
@@ -4754,6 +4756,7 @@
 ||cinefreak.top^
 ||cinefun.co^
 ||cinehd.app^
+||cinehdplus.biz^
 ||cinehub24.com^
 ||cinema24.tv^
 ||cinemaapk.com^
@@ -5022,7 +5025,6 @@
 ||cotapers.org^
 ||cottnya-lordfilms.ru^
 ||couchtuner.cloud^
-||couchtuner.show^
 ||couchtuner.space^
 ||couchtuner0.com^
 ||courseclub.me^
@@ -5075,7 +5077,6 @@
 ||crackloader.com^
 ||crackmykey.com^
 ||crackmymac.com^
-||cracknbastreams.com^
 ||cracknest.com^
 ||cracknet.net^
 ||cracknews.com^
@@ -5177,7 +5178,6 @@
 ||crosstowntorrents.org^
 ||crotorrents.com^
 ||crownbit.cc^
-||cruscros.me^
 ||cruzing.xyz^
 ||cryptowarez.info^
 ||crystal-warez.in^
@@ -8022,6 +8022,7 @@
 ||fullmoviewatch.co^
 ||fullmoviewatchonline.com^
 ||fullmoviez.live^
+||fullmoviez.xyz^
 ||fullpcsoftware.com^
 ||fullprogramlarindir.com^
 ||fullreleasez.com^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.42
+! Version: 1.0.5.43
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-03T03:13:50.297Z
+! Last modified: 2026-07-03T20:31:07.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -209,7 +209,6 @@
 ||natura.com.vc^
 ||onelink.com.do^
 ||readystart.com.au^
-||red1.com.br^
 ||rocketlink.com.br^
 ||short.com.vn^
 ||shortlink.com.au^
@@ -925,6 +924,7 @@
 ||0bs.de^
 ||0i.is^
 ||0ln.eu^
+||0mjgn0m.site^
 ||0o.lv^
 ||0rl.cc^
 ||0rz.tw^
@@ -3845,7 +3845,6 @@
 ||gurl.pro^
 ||gurl.to^
 ||gw.ie^
-||gxh1yqz2v.xyz^
 ||gyanilinks.com^
 ||gym.sh^
 ||gyntekbusiness.com^

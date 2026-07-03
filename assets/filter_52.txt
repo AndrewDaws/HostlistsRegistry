@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.57
+! Version: 1.0.26.58
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-03T11:53:15.088Z
+! Last modified: 2026-07-03T20:31:07.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1847,8 +1847,6 @@
 ||evilajhbbgboiii.wiltscomputers.co.uk^
 ||agh.workfordemo.co.in^
 ||endis.worldoflighting.co.za^
-||akanethegoat.worldoflights.co.za^
-||fweeeeeisawesome.worldoflights.co.za^
 ||10bestvpn.co.uk^
 ||accessvpn.co.uk^
 ||akashiro.co.id^
@@ -1910,7 +1908,6 @@
 ||craft.atom.codekit.org^
 ||dns.coderoria.com^
 ||editor.codingwizard.website^
-||fun-math.algebra.coffeeon.me^
 ||putanythinghere.coffeeon.me^
 ||4y5t.coke0.cc^
 ||jpdns.cola16.app^
@@ -1922,8 +1919,6 @@
 ||dns.7sec.com.br^
 ||mass.arts.agroinvestprojetos.com.br^
 ||boredombyjonas.allysports.com.ar^
-||fernbyjonas.allysports.com.ar^
-||jonasmadethisfr.allysports.com.ar^
 ||dns.alwynstudio.com.au^
 ||kdgnkjho4od8w40.americasnet.com.br^
 ||akari.anime.com.my^
@@ -1956,7 +1951,6 @@
 ||jjk.deltacompy.com.br^
 ||learninghub.deltacompy.com.br^
 ||gabogioa.destroyerkisscover.com.br^
-||how2math.destroyerkisscover.com.br^
 ||man.destroyerkisscover.com.br^
 ||dining.dipeshshahi.com.np^
 ||adguard.doranpierst.com.tr^
@@ -1968,7 +1962,6 @@
 ||adguard.gbrossi.com.br^
 ||gngstopblockinmyshi.geetabasyal.com.np^
 ||texasmatheducation.geetabasyal.com.np^
-||voidnrtowkr93urridudi.geetabasyal.com.np^
 ||espanol-de-la-class-4a.gitadhakal.com.np^
 ||btg.go4it.com.mx^
 ||imlearningmath.go4it.com.mx^
@@ -1984,13 +1977,6 @@
 ||dns.koretech.com.br^
 ||dnssp.koretech.com.br^
 ||arrakis.korolyzer.com.br^
-||fahhhhhhhhhhhhhhhhhh.kshitizkiran.com.np^
-||ilovesecurly.kshitizkiran.com.np^
-||imgooningtojacksongillrn.kshitizkiran.com.np^
-||jackyboo.kshitizkiran.com.np^
-||jackyboocomeback.kshitizkiran.com.np^
-||pooppoopopopo.kshitizkiran.com.np^
-||johannnnnnnny.kshitizpaudel.com.np^
 ||linuxarch11.lokprakashpandey.com.np^
 ||gah.lutyk.com.ar^
 ||learningcomesfirst.madhavkhanal.com.np^
@@ -2005,7 +1991,6 @@
 ||maroon.momentos.com.ar^
 ||someonereadingbook.see.motorwisemechanical.com.au^
 ||esgmemasigma.motorwisemechanical.com.au^
-||canlite.mymcreditos.com.ar^
 ||ddx.v2.nana.mza.com.ar^
 ||interstellar.nana.mza.com.ar^
 ||bleakly.mza.com.ar^
@@ -2015,7 +2000,6 @@
 ||dns.netraptor.com.au^
 ||vcsa.nextcomm.com.ar^
 ||dns.oceanprint.com.br^
-||sevenlaks.omprakashyadav.com.np^
 ||securesafea.openmouth.com.ar^
 ||mrcrossmathhelp.oresumodaopera.com.br^
 ||media.music.orienta.com.br^
@@ -2049,11 +2033,7 @@
 ||adg.spacework.com.mx^
 ||recap.arts.sumyk.com.br^
 ||art.sunilamaharjan.com.np^
-||r4ne-fern-2.suwal.com.np^
 ||r4sele.suwal.com.np^
-||r4yne-endis-kydf.suwal.com.np^
-||r4yne-endis-rvaht.suwal.com.np^
-||r4yne-galaxy.suwal.com.np^
 ||informatica.subject.learn.syscodeinformatica.com.ar^
 ||booking.traveling.com.ar^
 ||edu.ts-me.com.my^
@@ -2085,18 +2065,15 @@
 ||i-kuailian.com.cn^
 ||i-ready.com.de^
 ||ib-kuailian.com.cn^
-||ixl.com.de^
 ||kuai-fan.com.cn^
 ||kuailian-coc.com.cn^
 ||kuailian-dlxz.com.cn^
-||kuailian-it.com.cn^
 ||kuailian0.com.cn^
 ||kuailianccn.com.cn^
 ||kuailiancns.com.cn^
 ||kuailiang.com.cn^
 ||kuailianlinea.com.cn^
 ||kuailianvp.com.cn^
-||letvpn.com.cn^
 ||lothuscorp.com.br^
 ||n-kuailian.com.cn^
 ||nordvpn.com.br^
@@ -2136,7 +2113,6 @@
 ||dns1.conne.net^
 ||dns.connect.fail^
 ||dns.consoro.eu^
-||vmi2604183.contaboserver.net^
 ||dns.containerpi.com^
 ||mathnotes.contem.bz^
 ||dns.controld.com^
@@ -2180,30 +2156,17 @@
 ||e.cpfrx.info^
 ||104-36-85-232.cprapid.com^
 ||doh.cq0.co^
-||aboot.blank.crabdance.com^
 ||crab-dance.com.crabdance.com^
 ||moc.ecnadbarc.crabdance.com^
-||ourschooliscool.bg.geekarouny.crabdance.com^
 ||la.manchaland.crabdance.com^
 ||graphicon.org.crabdance.com^
 ||yourname.chosen-domain.tld.crabdance.com^
 ||carmineandosvielarecool.crabdance.com^
-||cassiusthund.crabdance.com^
-||diddywasinnocent.crabdance.com^
-||diddywasinoccent.crabdance.com^
-||fahh.crabdance.com^
 ||ilovecalebg.crabdance.com^
 ||imbored.crabdance.com^
 ||jasper.crabdance.com^
-||joesproxy.crabdance.com^
-||kaidenb.crabdance.com^
 ||learningcreativethinking.crabdance.com^
-||lickingheights.crabdance.com^
-||maselivolovesscience.crabdance.com^
-||mroybtnd.crabdance.com^
 ||nrusimha.crabdance.com^
-||random12.crabdance.com^
-||utopiaunblocker.crabdance.com^
 ||clever.com.santi.craftleds.com^
 ||history.grade.cranbury.info^
 ||cool.creatyc.com^
@@ -2220,7 +2183,6 @@
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
 ||cryoutdome.cryodome.com^
-||googla.cryodome.com^
 ||dns.cryptomize.com^
 ||ae-agh1.dns.cryptroute.net^
 ||dns.crystalyx.net^
