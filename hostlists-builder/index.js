@@ -23,7 +23,9 @@ const SERVICES_FILE = 'services.json';
 
 const FILTERS_METADATA_FILE = 'filters.json';
 const FILTERS_METADATA_DEV_FILE = 'filters-dev.json';
+const FILTERS_METADATA_APPS_FILE = 'filters_apps.json';
 const FILTERS_I18N_METADATA_FILE = 'filters_i18n.json';
+const FILTERS_APPS_I18N_METADATA_FILE = 'filters_apps_i18n.json';
 
 const OUTPUT_DATE_FORMAT = 'YYYY-MM-DDTHH:mm:ssZZ';
 
@@ -146,6 +148,7 @@ async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
 
   const filtersMetadata = [];
   const filtersMetadataDev = [];
+  const filtersMetadataApps = [];
   const filterKeyValidator = filterKeyValidatorFactory();
   const deferredRunner = new DeferredRunner();
   const tagsMetadata = JSON.parse(await readFile(path.join(tagsDir, METADATA_FILE)));
@@ -256,6 +259,13 @@ async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
 
     if (metadata.environment === 'prod') {
       filtersMetadata.push(filterMetadata);
+
+      // A hand-picked subset of the production filters that is used by
+      // AdGuard apps (as opposed to AdGuard Home and AdGuard DNS which can
+      // deal with huge lists). Marked with "includeInApps" in metadata.json.
+      if (metadata.includeInApps) {
+        filtersMetadataApps.push(filterMetadata);
+      }
     }
 
     filtersMetadataDev.push(filterMetadata);
@@ -296,6 +306,20 @@ async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
   const filtersMetadataDevFile = path.join(assetsDir, FILTERS_METADATA_DEV_FILE);
   await writeFile(filtersMetadataDevFile, { filters: filtersMetadataDev, tags: tagsMetadata, groups: groupsMetadata });
 
+  // writes the metadata for the hand-picked filters that are used by AdGuard
+  // apps. Tags and groups are limited to the ones actually used by these
+  // filters.
+  const appsTagIds = new Set(filtersMetadataApps.flatMap((filter) => filter.tags));
+  const appsGroupIds = new Set(filtersMetadataApps.map((filter) => filter.groupId));
+  const tagsMetadataApps = tagsMetadata.filter((tag) => appsTagIds.has(tag.tagId));
+  const groupsMetadataApps = groupsMetadata.filter((group) => appsGroupIds.has(group.groupId));
+  const filtersMetadataAppsFile = path.join(assetsDir, FILTERS_METADATA_APPS_FILE);
+  await writeFile(filtersMetadataAppsFile, {
+    filters: filtersMetadataApps,
+    tags: tagsMetadataApps,
+    groups: groupsMetadataApps,
+  });
+
   // writes localizations for all filters, tags, etc
   const localizations = await loadLocales(localesDir);
   const filtersI18nFile = path.join(assetsDir, FILTERS_I18N_METADATA_FILE);
@@ -305,6 +329,20 @@ async function build(filtersDir, tagsDir, localesDir, assetsDir, groupsDir) {
     filters: localizations.filters,
   };
   await writeFile(filtersI18nFile, i18nMetadata);
+
+  // writes localizations limited to the filters, tags and groups that are
+  // present in the apps metadata file
+  const pickByIds = (localization, ids) => Object.fromEntries(
+    Object.entries(localization).filter(([id]) => ids.has(Number(id))),
+  );
+  const appsFilterIds = new Set(filtersMetadataApps.map((filter) => filter.filterId));
+  const filtersAppsI18nFile = path.join(assetsDir, FILTERS_APPS_I18N_METADATA_FILE);
+  const i18nMetadataApps = {
+    groups: pickByIds(localizations.groups, appsGroupIds),
+    tags: pickByIds(localizations.tags, appsTagIds),
+    filters: pickByIds(localizations.filters, appsFilterIds),
+  };
+  await writeFile(filtersAppsI18nFile, i18nMetadataApps);
 }
 
 module.exports = {

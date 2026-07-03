@@ -9,6 +9,7 @@
     "expires": "4 days",
     "displayNumber": 4,
     "environment": "prod",
+    "disabled": true,
     "tags": [
       "purpose:regional",
       "lang:pl"

@@ -9,6 +9,7 @@
   "expires": "4 days",
   "displayNumber": 4,
   "environment": "prod",
+  "includeInApps": true,
   "tags": [
     "purpose:general"
   ]

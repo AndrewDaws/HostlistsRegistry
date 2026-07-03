@@ -17,6 +17,7 @@ Some of these blocklists are automatically [converted](https://github.com/Adguar
 ## <a id="published"></a> Where Blocklists Are Published
 
 - [`filters.json`](https://adguardteam.github.io/HostlistsRegistry/assets/filters.json) contains all the blocklists added to the repo. `downloadURL` is the location of the re-hosted blocklist.
+- [`filters_apps.json`](https://adguardteam.github.io/HostlistsRegistry/assets/filters_apps.json) contains a minimal hand-picked subset of the blocklists that is used by AdGuard apps. Unlike AdGuard Home and AdGuard DNS, apps do not handle huge blocklists well, so only the lists marked with `includeInApps` in their `metadata.json` are included here. Its localizations are published in [`filters_apps_i18n.json`](https://adguardteam.github.io/HostlistsRegistry/assets/filters_apps_i18n.json).
 - [`services.json`](https://adguardteam.github.io/HostlistsRegistry/assets/services.json) is the meta-data of "Web Services". This is a part of the parental control functionality of AdGuard Home and AdGuard DNS.
 
 ## <a id="what-blocklists"></a> What Blocklists Can Be Added Here
@@ -52,7 +53,7 @@ To add a new filter, you need to:
   4. Create two files in this folder: `configuration.json` and `metadata.json`. The contents of these files are described below.
   5. In the file `locales/en/filters.json` add an object with the name and description of the filter according to the example added above.
 
-The files `/assets/filters.json` and `/assets/filters-dev.json` must not be edited manually.
+The files `/assets/filters.json`, `/assets/filters-dev.json`, `/assets/filters_apps.json`, and `/assets/filters_apps_i18n.json` must not be edited manually.
 
 ## <a id="filters-meta"></a> Filters Metadata
 
@@ -71,6 +72,10 @@ The files `/assets/filters.json` and `/assets/filters-dev.json` must not be edit
   - `expires` — filter's default expiration period
   - `displayNumber` — this number is used when AdGuard sorts available filters (GUI)
   - `environment` - either `dev` or `prod`. Only `prod` lists are available in AdGuard DNS.
+  - `includeInApps` - optional, boolean. If set to `true`, the list is included in `filters_apps.json`
+      and `filters_apps_i18n.json`, the minimal hand-picked index used by AdGuard apps. Only a few
+      moderately-sized, non-problematic lists should be marked with this flag as apps do not handle
+      huge blocklists well.
   - `disabled` - if set to `true`, the blocklist won't be updated.
   - `tags` — a list of [tags](#tags)
   - `trusted` - a flag that allows using `$dnsrewrite` rules for this filter. If the filter is not trusted, `$dnsrewrite` rules will be removed from the compiled filter.

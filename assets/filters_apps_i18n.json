@@ -1,0 +1,1218 @@
+{
+	"groups": {
+		"1": {
+			"ar": {
+				"name": "عام"
+			},
+			"be": {
+				"name": "Агульныя"
+			},
+			"bg": {
+				"name": "Общи"
+			},
+			"ca": {
+				"name": "Generals"
+			},
+			"da": {
+				"name": "General"
+			},
+			"de": {
+				"name": "Allgemein"
+			},
+			"en": {
+				"name": "General"
+			},
+			"es": {
+				"name": "General"
+			},
+			"fa": {
+				"name": "حالت عمومی"
+			},
+			"fi": {
+				"name": "Yleiset"
+			},
+			"fr": {
+				"name": "Général"
+			},
+			"he": {
+				"name": "כללי"
+			},
+			"hr": {
+				"name": "General"
+			},
+			"hu": {
+				"name": "General"
+			},
+			"id": {
+				"name": "Umum"
+			},
+			"it": {
+				"name": "Generale"
+			},
+			"ja": {
+				"name": "一般"
+			},
+			"ko": {
+				"name": "일반 목록"
+			},
+			"nl": {
+				"name": "Algemeen"
+			},
+			"no": {
+				"name": "Generelle"
+			},
+			"pl": {
+				"name": "Ogólne"
+			},
+			"pt": {
+				"name": "General"
+			},
+			"pt_BR": {
+				"name": "General"
+			},
+			"pt_PT": {
+				"name": "General"
+			},
+			"ru": {
+				"name": "Основные"
+			},
+			"sk": {
+				"name": "Všeobecné"
+			},
+			"sl": {
+				"name": "Splošni"
+			},
+			"sr": {
+				"name": "Opšta"
+			},
+			"sv": {
+				"name": "General"
+			},
+			"tr": {
+				"name": "General"
+			},
+			"uk": {
+				"name": "Загальні"
+			},
+			"vi": {
+				"name": "Tổng quan"
+			},
+			"zh": {
+				"name": "常规"
+			},
+			"zh_TW": {
+				"name": "一般的"
+			}
+		},
+		"4": {
+			"ar": {
+				"name": "الامان"
+			},
+			"be": {
+				"name": "Бяспека"
+			},
+			"bg": {
+				"name": "Сигурност"
+			},
+			"ca": {
+				"name": "Seguretat"
+			},
+			"da": {
+				"name": "Sikkerhed"
+			},
+			"de": {
+				"name": "Sicherheit"
+			},
+			"en": {
+				"name": "Security"
+			},
+			"es": {
+				"name": "Seguridad"
+			},
+			"fa": {
+				"name": "مسدودسازی بدافزار و فیشینگ"
+			},
+			"fi": {
+				"name": "Tietoturva"
+			},
+			"fr": {
+				"name": "Sécurité"
+			},
+			"he": {
+				"name": "אבטחה "
+			},
+			"hr": {
+				"name": "Sigurnost"
+			},
+			"hu": {
+				"name": "Biztonság"
+			},
+			"id": {
+				"name": "Keamanan"
+			},
+			"it": {
+				"name": "Sicurezza"
+			},
+			"ja": {
+				"name": "セキュリティ"
+			},
+			"ko": {
+				"name": "보안 목록"
+			},
+			"nl": {
+				"name": "Beveiliging"
+			},
+			"no": {
+				"name": "Sikkerhet"
+			},
+			"pl": {
+				"name": "Bezpieczeństwo"
+			},
+			"pt": {
+				"name": "Segurança"
+			},
+			"pt_BR": {
+				"name": "Segurança"
+			},
+			"pt_PT": {
+				"name": "Segurança"
+			},
+			"ru": {
+				"name": "Безопасность"
+			},
+			"sk": {
+				"name": "Bezpečnosť"
+			},
+			"sl": {
+				"name": "Varnost"
+			},
+			"sr": {
+				"name": "Bezbednost"
+			},
+			"sv": {
+				"name": "Säkerhet"
+			},
+			"tr": {
+				"name": "Güvenlik"
+			},
+			"uk": {
+				"name": "Безпека"
+			},
+			"vi": {
+				"name": "Chặn phần mềm độc hại và lừa đảo"
+			},
+			"zh": {
+				"name": "安全"
+			},
+			"zh_TW": {
+				"name": "安全性"
+			}
+		}
+	},
+	"tags": {
+		"1": {
+			"ar": {
+				"name": "عام",
+				"description": "القوائم التي تمنع التتبع والإعلان على معظم الأجهزة."
+			},
+			"be": {
+				"name": "General",
+				"description": "Спісы, якія блакуюць асочванне і рэкламу на большасці прылад."
+			},
+			"bg": {
+				"name": "General"
+			},
+			"da": {
+				"name": "General",
+				"description": "Lister til blokering af sporing og reklamer på de fleste enheder."
+			},
+			"de": {
+				"name": "Allgemeine",
+				"description": "Listen, die Tracking und Werbung auf den meisten Geräten sperren."
+			},
+			"en": {
+				"name": "General",
+				"description": "Lists that block tracking and advertising on most of the devices."
+			},
+			"es": {
+				"name": "General",
+				"description": "Listas que bloquean rastreadores y anuncios en la mayoría de los dispositivos."
+			},
+			"fa": {
+				"name": "General"
+			},
+			"fi": {
+				"name": "Yleiset",
+				"description": "Listat, jotka estävät seurannan ja mainokset useimmilla laitteilla."
+			},
+			"fr": {
+				"name": "General",
+				"description": "Listes qui bloquent le suivi et la publicité sur la plupart des appareils."
+			},
+			"he": {
+				"name": "כללי",
+				"description": "רשימות שחוסמות מעקב ופרסום ברוב המכשירים."
+			},
+			"hr": {
+				"name": "Općenito",
+				"description": "Popisi koji blokiraju pratitelje i oglase na većini uređaja."
+			},
+			"hu": {
+				"name": "General",
+				"description": "Olyan listák, amelyek blokkolják a nyomkövetést és a hirdetéseket a legtöbb eszközön."
+			},
+			"id": {
+				"name": "General",
+				"description": "Daftar yang memblokir pelacakan dan iklan di sebagian besar perangkat."
+			},
+			"it": {
+				"name": "Generale",
+				"description": "Elenchi per il blocco dei tracciatori e degli annunci sulla maggior parte dei dispositivi."
+			},
+			"ja": {
+				"name": "一般",
+				"description": "ほとんどのデバイスでトラッキングや広告をブロックするリストです。"
+			},
+			"ko": {
+				"name": "일반",
+				"description": "대부분의 기기에서 추적 및 광고를 차단하는 목록."
+			},
+			"nl": {
+				"name": "General",
+				"description": "Lijsten die het volgen en adverteren op de meeste apparaten blokkeren."
+			},
+			"no": {
+				"name": "Generelt"
+			},
+			"pl": {
+				"name": "General",
+				"description": "Listy, które blokują skrypty śledzące i reklamy na większości urządzeń."
+			},
+			"pt": {
+				"name": "General",
+				"description": "Listas que bloqueiam o monitorização e a publicidade na maioria dos dispositivos."
+			},
+			"pt_BR": {
+				"name": "General",
+				"description": "Listas que bloqueiam o rastreamento e a publicidade na maioria dos dispositivos."
+			},
+			"pt_PT": {
+				"name": "General",
+				"description": "Listas que bloqueiam o monitorização e a publicidade na maioria dos dispositivos."
+			},
+			"ru": {
+				"name": "Основные",
+				"description": "Списки, которые блокируют отслеживание и рекламу на большинстве устройств."
+			},
+			"sk": {
+				"name": "General",
+				"description": "Zoznamy, ktoré blokujú sledovanie a reklamu na väčšine zariadení."
+			},
+			"sl": {
+				"name": "General",
+				"description": "Seznami, ki zavirajo sledenje in oglaševanje na večini naprav."
+			},
+			"sr": {
+				"name": "General",
+				"description": "Lista koja blokira praćenja i reklame na većini uređaja."
+			},
+			"sv": {
+				"name": "General"
+			},
+			"tr": {
+				"name": "General",
+				"description": "Çoğu cihazda izlemeyi ve reklamları engelleyen listeler."
+			},
+			"uk": {
+				"name": "Загальні",
+				"description": "Фільтри, які блокують стеження та рекламу на більшості пристроїв."
+			},
+			"vi": {
+				"name": "General",
+				"description": "Bộ lọc chặn quảng cáo và theo dõi cho hầu hết các thiết bị."
+			},
+			"zh": {
+				"name": "常规",
+				"description": "在大多数设备上阻止跟踪和广告的列表."
+			},
+			"zh_TW": {
+				"name": "一般的",
+				"description": "封鎖大多數朝向裝置的追蹤和廣告之清單。"
+			}
+		},
+		"2": {
+			"ar": {
+				"name": "الامان",
+				"description": "القوائم المصممة خصيصًا لحظر المجالات الخبيثة والتصيد الاحتيالي والخداع."
+			},
+			"be": {
+				"name": "Бяспека",
+				"description": "Спісы, якія спецыялізуюцца на блакаванні шкодных праграм, фішынгавых ці махлярскіх даменаў."
+			},
+			"bg": {
+				"name": "Сигурност"
+			},
+			"da": {
+				"name": "Sikkerhed",
+				"description": "Lister designet specielt til at blokere ondsindede eller phishing-/svindel-domæner."
+			},
+			"de": {
+				"name": "Sicherheit",
+				"description": "Listen, die auf das Sperren von Malware, Phishing- oder betrügerischen Domains spezialisiert sind."
+			},
+			"en": {
+				"name": "Security",
+				"description": "Lists designed specifically to block malicious, phishing, and scam domains."
+			},
+			"es": {
+				"name": "Seguridad",
+				"description": "Listas diseñadas específicamente para bloquear dominios de malware, phishing y estafa."
+			},
+			"fa": {
+				"name": "مسدودسازی بدافزار و فیشینگ"
+			},
+			"fi": {
+				"name": "Tietoturva",
+				"description": "Tietojenkalastelu-, huijaus- ja muiden haitallisten verkkotunnusten estoon erikoistuneet listat."
+			},
+			"fr": {
+				"name": "Sécurité",
+				"description": "Listes créées spécifiquement pour bloquer les domaines malveillants, les hameçonneurs et les escrocs."
+			},
+			"he": {
+				"name": "אבטחה",
+				"description": "רשימות שמתוכננות במיוחד לחסום תחומים זדוניים, תחומי דיוג ותחומי הונאה."
+			},
+			"hr": {
+				"name": "Sigurnost",
+				"description": "Popisi posebno dizajnirani za blokiranje zlonamjernih domena, domena za krađu identiteta i prijevare."
+			},
+			"hu": {
+				"name": "Biztonság",
+				"description": "Kifejezetten a rosszindulatú, adathalász és átveréses domainek blokkolására tervezett listák."
+			},
+			"id": {
+				"name": "Blokir program berbahaya dan phishing",
+				"description": "Daftar yang dirancang khusus untuk memblokir domain berbahaya, phishing, dan scam."
+			},
+			"it": {
+				"name": "Sicurezza",
+				"description": "Elenchi progettati specificamente per bloccare domini malevoli, di phishing o truffa."
+			},
+			"ja": {
+				"name": "マルウェアやフィッシング詐欺をブロック",
+				"description": "フィッシング、詐欺、悪質なドメインをブロックするために設計された専用リストです。"
+			},
+			"ko": {
+				"name": "멀웨어, 피싱 차단",
+				"description": "악의적인 피싱 및 사기 도메인을 차단하도록 특별히 설계된 목록입니다."
+			},
+			"nl": {
+				"name": "Beveiliging",
+				"description": "Lijsten die speciaal zijn ontworpen om kwaadaardige, phishing- en oplichtingsdomeinen te blokkeren."
+			},
+			"no": {
+				"name": "Sikkerhet"
+			},
+			"pl": {
+				"name": "Bezpieczeństwo",
+				"description": "Listy zaprojektowane specjalnie do blokowania złośliwych, phishingowych i wyłudzających informacje domen."
+			},
+			"pt": {
+				"name": "Segurança",
+				"description": "Listas projetadas especificamente em bloquear domínios maliciosos, de phishing e fraude."
+			},
+			"pt_BR": {
+				"name": "Segurança",
+				"description": "Listas projetadas especificamente em bloquear domínios maliciosos, de phishing e fraude."
+			},
+			"pt_PT": {
+				"name": "Segurança",
+				"description": "Listas projetadas especificamente em bloquear domínios maliciosos, de phishing e fraude."
+			},
+			"ru": {
+				"name": "Безопасность",
+				"description": "Списки для блокировки вредоносных, фишинговых и мошеннических доменов."
+			},
+			"sk": {
+				"name": "Bezpečnosť",
+				"description": "Zoznamy určené špeciálne na blokovanie škodlivých, phishingových a podvodníckych domén."
+			},
+			"sl": {
+				"name": "Varnost",
+				"description": "Seznami, zasnovani posebej za zaviranje zlonamernih, lažnih in prevarantskih domen."
+			},
+			"sr": {
+				"name": "Bezbednost",
+				"description": "Lista specijalizovana za blokiranje štetnog softvera, štetnih i fišing domena."
+			},
+			"sv": {
+				"name": "Säkerhet"
+			},
+			"tr": {
+				"name": "Güvenlik",
+				"description": "Kötü amaçlı, kimlik avı ve dolandırıcılık amaçlı alan adlarını engellemek için özel olarak tasarlanmış listeler."
+			},
+			"uk": {
+				"name": "Безпека",
+				"description": "Фільтри, які спеціалізуються на блокуванні зловмисних програм, фішингу та шахрайських доменів."
+			},
+			"vi": {
+				"name": "Chặn phần mềm độc hại và lừa đảo",
+				"description": "Bộ lọc chuyên chặn các tên miền chứa mã độc và lừa đảo."
+			},
+			"zh": {
+				"name": "安全",
+				"description": "专用于拦截恶意软件、钓鱼或欺诈域名的列表。"
+			},
+			"zh_TW": {
+				"name": "安全性",
+				"description": "專門地旨在封鎖惡意、網路釣魚和詐騙的網域之清單。"
+			}
+		}
+	},
+	"filters": {
+		"1": {
+			"ar": {
+				"name": "مرشح AdGuard DNS",
+				"description": "قائمة مكونة من عدة فلاتر (فلتر AdGuard الأساسي وفلتر الوسائط الاجتماعية وفلتر الحماية من التتبع وفلتر إعلانات الجوال وفلتر EasyList و EasyPrivacy) وتم تبسيطها خصيصًا لتكون متوافقة بشكل أفضل مع حظر الإعلانات على مستوى DNS"
+			},
+			"be": {
+				"name": "Фільтр AdGuard DNS",
+				"description": "Спіс складаецца з некалькіх фільтраў (фільтр AdGuard Base, фільтр сацыяльных сетак, фільтр абароны ад адсочвання, фільтр мабільнай рэкламы, EasyList і EasyPrivacy) і спрошчаны спецыяльна для лепшай сумяшчальнасці з блакіроўкай рэкламы на ўзроўні DNS"
+			},
+			"bg": {
+				"name": "AdGuard Simplified domain names filter"
+			},
+			"ca": {
+				"name": "AdGuard DNS filtre"
+			},
+			"da": {
+				"name": "AdGuard DNS-filter",
+				"description": "Liste sammensat af flere forskellige filtre (AdGuard Basis-, Sociale Medie-, Sporingsbeskyttelses- og Mobilannoncefiltre, EasyList og EasyPrivacy) forenklet specifikt for bedre kompatibilitet med DNS-niveau adblocking"
+			},
+			"de": {
+				"name": "AdGuard DNS-Filter",
+				"description": "Die Liste besteht aus mehreren Filtern (AdGuard Basisfilter, Social-Media-Filter, Tracking-Schutz-Filter, Mobil Werbungsfilter, EasyList und EasyPrivacy) und wurde speziell vereinfacht, um eine bessere Kompatibilität mit Werbeblockern auf DNS-Ebene zu gewährleisten"
+			},
+			"en": {
+				"name": "AdGuard DNS filter",
+				"description": "List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking"
+			},
+			"es": {
+				"name": "Filtro DNS",
+				"description": "Lista compuesta por varios filtros (Filtro base, filtro de redes sociales, filtro de protección contra rastreo, filtro para anuncios móviles, EasyList y EasyPrivacy) y está simplificado específicamente para ser compatible con el bloqueo de anuncios a nivel DNS"
+			},
+			"fa": {
+				"name": "فیلتر نام دامنه ساده شده AdGuard"
+			},
+			"fi": {
+				"name": "AdGuardin DNS-suodatin",
+				"description": "Useista erillisistä suodattimista koostuva lista (AdGuardin vakiosuodatin, sosiaalisen median suodatin, seurantaestosuodatin, mobiilimainossuodatin, EasyList ja EasyPrivacy) ja tiivistetty erityisesti DNS-tason mainosestoon sopivammaksi"
+			},
+			"fr": {
+				"name": "Filtre AdGuard Noms de Domaine Simplifiés  (DNS).",
+				"description": "Liste composée de plusieurs filtres ( filtre AdGuard de base, filtre médias sociaux, filtre anti-suivi des URL, celui des publicités pour mobiles, EasyList et EasyPrivacy) et simplifiée spécifiquement pour être davantage compatible avec le blocage des annonces au niveau DNS"
+			},
+			"he": {
+				"name": "מסנן שמות תחום מופשטים של AdGuard",
+				"description": "רשימה שמורכבת מכמה מסננים (מסנן הבסיס של AdGuard, מסנן מדיה חברתית, מסנן הגנה מפני מעקב, מסנן פרסומות לניידים, EasyList ו־EasyPrivacy) ומופשט במיוחד כדי להיות תואם עם חסימת פרסומות ברמת DNS"
+			},
+			"hr": {
+				"name": "AdGuard DNS filtar",
+				"description": "Filtar je sastavljen od nekoliko drugih filtara (AdGuard Osnovni filtar, Filtar za društvene mreže, Filtar zaštite od praćenja, Filtar za mobilne oglase, EasyList i EasyPrivacy) i uz topojednostavljen da bi bio bolje kompatibilan sa blokiranjem oglasa na DNS razini."
+			},
+			"hu": {
+				"name": "AdGuard DNS szűrő",
+				"description": "A lista több szűrőből áll (AdGuard Alap szűrő, Social Media szűrő, Tracking Protection szűrő, Mobile Ads szűrő, EasyList és EasyPrivacy), és kifejezetten le van egyszerűsítve annak érdekében, hogy kompatibilis legyen a DNS-szintű hirdetésblokkolással"
+			},
+			"id": {
+				"name": "Penyaring nama domain yang disederhanakan AdGuard",
+				"description": "Daftar terdiri dari beberapa filter (Filter Dasar AdGuard, Filter Media Sosial, Filter Perlindungan Pelacakan, Filter Iklan Seluler, EasyList dan EasyPrivacy) dan disederhanakan secara khusus agar lebih kompatibel dengan pemblokiran iklan tingkat DNS"
+			},
+			"it": {
+				"name": "Filtro DNS di AdGuard",
+				"description": "Elenco composto da diversi filtri (filtro AdGuard di Base, filtro Social Media, filtro Protezione Anti-Monitoraggio, filtro per Dispositivi, EasyList ed EasyPrivacy); semplificato specificatamente per essere più compatibile con il filtraggio a livello di DNS"
+			},
+			"ja": {
+				"name": "AdGuard DNSフィルタ",
+				"description": "数フィルタ（AdGuardベースフィルタ、SNS用フィルタ、追跡防止フィルタ、モバイル広告フィルタ、EasyList、EasyPrivacy）で構成され、DNSレベルの広告ブロックとの互換性が向上するように簡素化されたフィルタです。"
+			},
+			"ko": {
+				"name": "AdGuard DNS 필터",
+				"description": "여러 필터 (AdGuard 기본 필터, 소셜 미디어 필터, 추적 방지 필터, 모바일 광고 필터, EasyList, EasyPrivacy) 를 포함하며, 특히 더 나은 DNS-레벨 필터링 호환을 위해 간소화 된 필터입니다."
+			},
+			"nl": {
+				"name": "AdGuard DNS-filter",
+				"description": "Lijst samengesteld uit verschillende filters (AdGuard Basisfilter, Sociale Mediafilter, Tracking Protectiefilter, Mobiele Advertentiefilter, EasyList en EasyPrivacy) en specifiek vereenvoudigd om beter compatibel te zijn met advertentieblokkering op DNS-niveau"
+			},
+			"no": {
+				"name": "AdGuards forenklede domenenavnfilter"
+			},
+			"pl": {
+				"name": "Filtr AdGuard DNS",
+				"description": "Lista złożona z kilku filtrów (filtr AdGuard Base, filtr Social Media, filtr Tracking Protection, filtr Mobile Ads, EasyList i EasyPrivacy) i uproszczona specjalnie po to, aby była lepiej kompatybilna z blokowaniem reklam na poziomie DNS"
+			},
+			"pt": {
+				"name": "Filtro para AdGuard DNS",
+				"description": "Lista com vários filtros (AdGuard, Redes Sociais, proteção contra rastreamento, dispositivos móveis, EasyList e EasyPrivacy). Também apresenta domínios simplificados para um melhor bloqueio de anúncios a nível de DNS"
+			},
+			"pt_BR": {
+				"name": "Filtro para AdGuard DNS",
+				"description": "Lista com vários filtros (AdGuard, Redes Sociais, proteção contra rastreamento, dispositivos móveis, EasyList e EasyPrivacy). Também apresenta domínios simplificados para um melhor bloqueio de anúncios a nível de DNS"
+			},
+			"pt_PT": {
+				"name": "Filtro para AdGuard DNS",
+				"description": "Lista com vários filtros (AdGuard, Redes Sociais, proteção contra rastreamento, dispositivos móveis, EasyList e EasyPrivacy). Também apresenta domínios simplificados para um melhor bloqueio de anúncios a nível de DNS"
+			},
+			"ru": {
+				"name": "DNS-фильтр",
+				"description": "Состоит из нескольких фильтров (Базовый фильтр AdGuard, Фильтр счётчиков и систем аналитики, Фильтр мобильной рекламы, EasyList и EasyPrivacy) и специально упрощён для лучшей совместимости с блокировкой рекламы на уровне DNS"
+			},
+			"sk": {
+				"name": "AdGuard DNS filter",
+				"description": "Zoznam pozostáva z niekoľkých filtrov (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList a EasyPrivacy) a je zjednodušený, aby bol lepšie kompatibilný s blokovaním reklám na úrovni DNS."
+			},
+			"sl": {
+				"name": "AdGuard Filter poenostavljenih imen domen",
+				"description": "Seznam je sestavljen iz več filtrov (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList in EasyPrivacy) in je posebej poenostavljen, da je bolje združljiv z zaviranje oglasov na ravni DNS"
+			},
+			"sr": {
+				"name": "AdGuard pojednostavljeni filter domena",
+				"description": "Filter sastavljen od nekoliko drugih filtera (AdGuard osnovni filter, filter društvenih mreža, filter za zaštitu od praćenja, filter mobilnih reklama, EasyList i EasyPrivacy) Ovo je posebno pojednostavljeno kako bi bilo bolje kompatibilno sa blokiranjem reklama na DNS nivou"
+			},
+			"sv": {
+				"name": "AdGuard DNS-filter"
+			},
+			"tr": {
+				"name": "AdGuard DNS filtresi",
+				"description": "AdGuard Temel filtresi, Sosyal Medya filtresi, İzleme Koruması filtresi, Mobil Reklam filtresi, EasyList ve EasyPrivacy gibi çeşitli filtrelerden oluşan ve DNS düzeyinde reklam engelleme ile daha iyi uyumlu olması için özel olarak sadeleştirilmiş liste"
+			},
+			"uk": {
+				"name": "DNS-фільтр AdGuard",
+				"description": "Фільтр, який складається з декількох інших фільтрів (Основного, Віджетів соцмереж, Захисту від стеження, Мобільної реклами, EasyList і EasyPrivacy) і певним чином спрощений задля кращої сумісності з блокуванням реклами на рівні DNS"
+			},
+			"vi": {
+				"name": "Bộ lọc tên miền đơn giản",
+				"description": "Danh sách được tạo từ nhiều bộ lọc khác nhau (Bộ lọc tiếng Anh, phương tiện mạng xã hội, phần mềm gián điệp, quảng cáo di động, EasyList và EasyPrivacy) và được đơn giản hoá để tương thích tốt hơn với việc chặn quảng cáo ở mức DNS"
+			},
+			"zh": {
+				"name": "AdGuard DNS 过滤器",
+				"description": "列表由多个过滤器（AdGuard 基础过滤器、社交媒体过滤器、跟踪保护过滤器、移动广告过滤器、EasyList 和 EasyPrivacy）组成，并专门优化以更好地兼容 DNS 级广告拦截"
+			},
+			"zh_TW": {
+				"name": "AdGuard DNS 過濾器",
+				"description": "由幾個的過濾器（AdGuard 基本過濾器、社群媒體過濾器、追蹤防護過濾器、行動廣告過濾器、EasyList 和 EasyPrivacy）所組成之過濾器，並被特別地簡化為與 DNS 層級的廣告封鎖更好地相容。"
+			}
+		},
+		"3": {
+			"ar": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "قائمة الحظر التي تحتوي على أسماء المضيفين لخوادم الإعلانات والتتبع"
+			},
+			"be": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Чорны спіс з імёнамі хастоў сервераў рэкламы і адсочвання"
+			},
+			"bg": {
+				"name": "Peter Lowe's Blocklist"
+			},
+			"ca": {
+				"name": "Peter Lowe's Blocklist"
+			},
+			"da": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Sortliste med værtsnavne for annonce- og sporingsservere"
+			},
+			"de": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blockliste mit Hostnamen von Werbe- und Tracking-Servern"
+			},
+			"en": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blocklist with hostnames of ad and tracking servers"
+			},
+			"es": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Lista de bloqueo con dominios de servidores de anuncios y rastreo"
+			},
+			"fa": {
+				"name": "Peter Lowe's Blocklist"
+			},
+			"fi": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Mainonta- ja seurantapalvelinten osoitteilla tapahtuva esto."
+			},
+			"fr": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Liste de blocage avec les noms d'hôte des serveurs de publicité et de suivi"
+			},
+			"he": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "חסימה עם שמות תחום של שרת פרסומות ושרת מעקב."
+			},
+			"hr": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blokiranje pomoću oglasnog poslužitelja i nazivi glavnog računala poslužitelja za praćenje."
+			},
+			"hu": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blokkolólista a hirdetési és nyomkövető szerverek hostneveivel"
+			},
+			"id": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Memblokir menggunakan hostname server iklan dan server pelacakan."
+			},
+			"it": {
+				"name": "Lista nera di Peter Lowe",
+				"description": "Elenco di blocco con i nomi host degli annunci e dei server di monitoraggio"
+			},
+			"ja": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "広告サーバーとトラッキングサーバーのホスト名を含むブロックリスト"
+			},
+			"ko": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "광고 및 추적 서버의 호스트 이름이 포함된 차단 목록입니다."
+			},
+			"nl": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blokkeerlijst met hostnamen van advertentie- en volgservers"
+			},
+			"no": {
+				"name": "Peter Lowe's Blocklist"
+			},
+			"pl": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blokowanie za pomocą nazw hostów serwerów reklam i serwerów śledzących."
+			},
+			"pt": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Lista de bloqueio com nomes de host de servidores de anúncios e monitorizamento"
+			},
+			"pt_BR": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Lista de bloqueio com nomes de host de servidores de anúncios e rastreamento"
+			},
+			"pt_PT": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Lista de bloqueio com nomes de host de servidores de anúncios e monitorizamento"
+			},
+			"ru": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Чёрный список рекламных и отслеживающих серверов"
+			},
+			"sk": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Zoznam blokov s názvami hostiteľov reklamných a sledovacích serverov"
+			},
+			"sl": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Seznam onemogočenih z imeni gostiteljev strežnikov za oglase in sledenje"
+			},
+			"sr": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Blokiranje imena servera reklama i servera praćenja."
+			},
+			"sv": {
+				"name": "Peter Lowe's Blocklist"
+			},
+			"tr": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Reklam ve izleme sunucularının ana makine adlarını içeren engel listesi"
+			},
+			"uk": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Фільтр блокування серверів реклами та стеження"
+			},
+			"vi": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "Chặn bằng các máy chủ quảng cáo và theo dõi."
+			},
+			"zh": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "广告和跟踪服务器主机名的黑名单"
+			},
+			"zh_TW": {
+				"name": "Peter Lowe's Blocklist",
+				"description": "廣告和追蹤伺服器主機名的封鎖清單"
+			}
+		},
+		"5": {
+			"ar": {
+				"name": "OISD Blocklist Small",
+				"description": "قائمة لمنع الإعلانات وأجهزة التتبع. يعطي الأولوية للوظائف على الحظر."
+			},
+			"be": {
+				"name": "OISD Blocklist Small",
+				"description": "Спіс для блакавання рэкламы і трэкераў. Аддае прыярытэт функцыянальнасці, а не блакіроўцы."
+			},
+			"da": {
+				"name": "OISD Blocklist Small",
+				"description": "Liste til blokering af annoncer og trackere Prioriterer funktionalitet over blokering."
+			},
+			"de": {
+				"name": "OISD Blocklist Small",
+				"description": "Liste zum Sperren von Werbung und Trackern. Gibt der Funktionalität den Vorrang vor dem Sperren."
+			},
+			"en": {
+				"name": "OISD Blocklist Small",
+				"description": "List for blocking ads and trackers. Prioritizes functionality over blocking."
+			},
+			"es": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista para bloquear anuncios y rastreadores. Prioriza la funcionalidad sobre el bloqueo."
+			},
+			"fi": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista mainosten ja seurantojen estoon. Painottaa eston sijaan toiminnallisuutta."
+			},
+			"fr": {
+				"name": "OISD Blocklist Small",
+				"description": "Liste pour bloquer les publicités et les traqueurs. Donne la priorité à la fonctionnalité plutôt qu'au blocage."
+			},
+			"he": {
+				"name": "OISD Blocklist Small",
+				"description": "חוסם פרסומות/עוקבנים ומתעדף תפקודיות על פני חסימה."
+			},
+			"hr": {
+				"name": "OISD Blocklist Small",
+				"description": "Blokira oglase/programe za praćenje i daje prednost funkcionalnosti u odnosu na blokiranje."
+			},
+			"hu": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista a hirdetések és nyomkövetők blokkolásához. A funkcionalitást helyezi előtérbe a blokkolással szemben."
+			},
+			"id": {
+				"name": "OISD Blocklist Small",
+				"description": "Memblokir iklan/pelacak dan memprioritaskan fungsi di atas pemblokiran."
+			},
+			"it": {
+				"name": "OISD Blocklist Small",
+				"description": "Elenco per il blocco di annunci e tracker. Privilegia la funzionalità rispetto al blocco."
+			},
+			"ja": {
+				"name": "OISD Blocklist Small",
+				"description": "広告とトラッカーをブロックするためのリスト。ブロック性能よりも機能性を優先します。"
+			},
+			"ko": {
+				"name": "OISD Blocklist Small",
+				"description": "광고 및 추적기를 차단하는 리스트입니다. 차단보다 작동을 우선시합니다."
+			},
+			"nl": {
+				"name": "OISD Blocklist Small",
+				"description": "Lijst voor het blokkeren van advertenties en volgers. Geeft prioriteit aan functionaliteit boven blokkering."
+			},
+			"no": {
+				"name": "OISD Blocklist Small"
+			},
+			"pl": {
+				"name": "OISD Blocklist Basic",
+				"description": "Blokuje reklamy/elementy śledzące i przedkłada funkcjonalność nad blokowanie."
+			},
+			"pt": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista para bloquear anúncios e monitorizadores. Prioriza a funcionalidade sobre o bloqueio."
+			},
+			"pt_BR": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista para bloquear anúncios e rastreadores. Prioriza a funcionalidade sobre o bloqueio."
+			},
+			"pt_PT": {
+				"name": "OISD Blocklist Small",
+				"description": "Lista para bloquear anúncios e monitorizadores. Prioriza a funcionalidade sobre o bloqueio."
+			},
+			"ru": {
+				"name": "OISD Blocklist Small",
+				"description": "Список для блокировки рекламы и трекеров. Приоритет функциональности над блокировкой."
+			},
+			"sk": {
+				"name": "OISD Blocklist Small",
+				"description": "Zoznam na blokovanie reklám a sledovačov. Uprednostňuje funkčnosť pred blokovaním."
+			},
+			"sl": {
+				"name": "OISD Blocklist Small",
+				"description": "Seznam za onemogočanje oglasov in sledilnikov. Prednost daje funkcionalnosti pred zaviranjem."
+			},
+			"sr": {
+				"name": "OISD Blocklist Small",
+				"description": "Blokira reklame i praćenja i prioritet je funkcionalnost umesto blokiranja."
+			},
+			"tr": {
+				"name": "OISD Blocklist Small",
+				"description": "Reklamları ve izleyicileri engelleme listesi. Engelleme yerine işlevselliğe öncelik verir."
+			},
+			"uk": {
+				"name": "OISD Blocklist Small",
+				"description": "Фільтр для блокування реклами та стеження. Пріоритет функціональності над блокуванням."
+			},
+			"vi": {
+				"name": "OISD Blocklist Small",
+				"description": "Chặn quảng cáo/theo dõi và ưu tiên hiệu năng hơn ngăn chặn."
+			},
+			"zh": {
+				"name": "OISD Blocklist Small",
+				"description": "用于拦截广告和跟踪器的列表。功能优先于拦截。"
+			},
+			"zh_TW": {
+				"name": "OISD Blocklist Small",
+				"description": "用於封鎖廣告和追蹤器的清單。功能優先於封鎖。"
+			}
+		},
+		"30": {
+			"ar": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "قائمة حظر مواقع التصيد الاحتيالي، استنادا إلى قوائم PhishTank وOpenPhish"
+			},
+			"be": {
+				"name": "Phishing URL Blocklist (PhishTank і OpenPhish)",
+				"description": "Блакаваны спіс фішынгавых сайтаў, заснаваны на спісах PhishTank і OpenPhish"
+			},
+			"da": {
+				"name": "Phishing URL-blokeringsliste (PhishTank og OpenPhish)",
+				"description": "Sortliste over phishing-websteder baseret på Phishtank- og Openphish-lister"
+			},
+			"de": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Blockliste von Phishing-Websites, basierend auf PhishTank- und OpenPhish-Listen"
+			},
+			"en": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Blocklist of phishing websites, based on PhishTank and OpenPhish lists"
+			},
+			"es": {
+				"name": "Phishing URL Blocklist (PhishTank y OpenPhish)",
+				"description": "Lista de bloqueo de sitios web de phishing, basada en las listas PhishTank y OpenPhish"
+			},
+			"fi": {
+				"name": "Phishing URL Blocklist (PhishTank ja OpenPhish)",
+				"description": "PhishTank- ja OpenPhish-listoihin perustuva estolista tietojenkalastelusivustoille."
+			},
+			"fr": {
+				"name": "Liste de blocage des URL d'hameçonnage (PhishTank et OpenPhish)",
+				"description": "Liste de blocage des sites Web d'hameçonnage basée sur les listes PhishTank et OpenPhish"
+			},
+			"he": {
+				"name": "רשימת חסימת כתובות אתרים של פישינג (PhishTank ו-OpenPhish)",
+				"description": "רשימת חסימה של אתרי פישינג, מבוססת על רשימות PhishTank ו-OpenPhish"
+			},
+			"hr": {
+				"name": "Popis blokiranih URL-ova za krađu identiteta (PhishTank i OpenPhish)",
+				"description": "Popis blokiranih web-mjesta za krađu identiteta koji se temelji na phishTank i OpenPhish popisima."
+			},
+			"hu": {
+				"name": "Adathalász URL tiltólista (PhishTank és OpenPhish)",
+				"description": "Adathalász webhelyek tiltólistája PhishTank és OpenPhish listák alapján"
+			},
+			"id": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Daftar blokir situs web phishing, berdasarkan daftar PhishTank dan OpenPhish"
+			},
+			"it": {
+				"name": "Phishing URL Blocklist (PhishTank e OpenPhish)",
+				"description": "Elenco di blocco degli siti Web di phishing, basato su elenchi PhishTank e OpenPhish"
+			},
+			"ja": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "PhishTankとOpenPhishのリストを基にしたフィッシングサイトのブロックリストです。"
+			},
+			"ko": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "PhishTank와 OpenPhish 목록에 기반한 피싱 웹 사이트를 차단하는 리스트입니다."
+			},
+			"nl": {
+				"name": "Phishing URL-blokkeerlijst (PhishTank en OpenPhish)",
+				"description": "Blokkeerlijst van phishing-websites, gebaseerd op de PhishTank- en OpenPhish-lijsten"
+			},
+			"pl": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Lista blokowanych stron phishingowych na podstawie list PhishTank i OpenPhish."
+			},
+			"pt": {
+				"name": "Lista de bloqueio de URL de phishing (PhishTank e OpenPhish)",
+				"description": "Lista de bloqueio de sítios de phishing, com base nas listas PhishTank e OpenPhish"
+			},
+			"pt_BR": {
+				"name": "Lista de bloqueio de URL de phishing (PhishTank e OpenPhish)",
+				"description": "Lista de bloqueio de sites de phishing, com base nas listas PhishTank e OpenPhish"
+			},
+			"pt_PT": {
+				"name": "Lista de bloqueio de URL de phishing (PhishTank e OpenPhish)",
+				"description": "Lista de bloqueio de sítios de phishing, com base nas listas PhishTank e OpenPhish"
+			},
+			"ru": {
+				"name": "Phishing URL Blocklist (PhishTank и OpenPhish)",
+				"description": "Чёрный список фишинговых сайтов, основанный на списках PhishTank и OpenPhish"
+			},
+			"sk": {
+				"name": "Zoznam blokovaných URL adries na neoprávnené získavanie údajov (PhishTank a OpenPhish)",
+				"description": "Zoznam blokovaných phishingových webových stránok na základe zoznamov PhishTank a OpenPhish"
+			},
+			"sl": {
+				"name": "Seznam onemogočenih URL-jev z lažnim predstavljanjem (PhishTank in OpenPhish)",
+				"description": "Seznam onemogočenih spletnih strani z lažnim predstavljanjem, ki temelji na seznamih PhishTank in OpenPhish"
+			},
+			"sr": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Blok lista phishing Web lokacija, zasnovana na PhishTank i OpenPhish listama"
+			},
+			"tr": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "PhishTank ve OpenPhish listelerine dayalı, kimlik avı sitelerin engel listesi"
+			},
+			"uk": {
+				"name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+				"description": "Блокування фішингових сайтів на основі фільтрів PhishTank та OpenPhish"
+			},
+			"vi": {
+				"name": "Danh sách chặn URL lừa đảo (PhishTank và OpenPhish)",
+				"description": "Danh sách chặn các trang web lừa đảo, dựa trên danh sách PhishTank và OpenPhish"
+			},
+			"zh": {
+				"name": "Phishing URL Blocklist（PhishTank 和 OpenPhish）",
+				"description": "基于 PhishTank 和 OpenPhish 列表的网络钓鱼网站黑名单"
+			},
+			"zh_TW": {
+				"name": "Phishing URL Blocklist（PhishTank and OpenPhish）",
+				"description": "基於 PhishTank 和 OpenPhish 清單的網路釣魚網站封鎖清單"
+			}
+		},
+		"34": {
+			"ar": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "مكنسة - تنظف الإنترنت وتحمي خصوصيتك! يحظر الإعلانات ، الشركات التابعة ، التتبع ، المقاييس ، القياس عن بعد ، التصيد الاحتيالي ، البرامج الضارة ، الاحتيال ، التزييف ، العملات المعدنية وغيرها من الفضلات."
+			},
+			"be": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Мятла - ачышчае Інтэрнэт і абараняе вашу канфідэнцыяльнасць! Блакуе рэкламу, філіялы, адсочванне, метрыкі, тэлеметрыю, фішынг, шкоднасныя праграмы, махлярства, падробку, манеты і іншае дзярмо."
+			},
+			"da": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom — Renser internet og beskytter fortrolighed! Blokerer reklamer, tilknytninger, tracking, målingssystemer, telemetri, phishing, malware, scam, fake, mønter og andet skrammel."
+			},
+			"de": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Säubert das Internet und schützt Ihre Privatsphäre. Blockiert Werbung, Affiliate, Tracking, Metriken, Telemetrie, Phishing, Malware, Betrug, Fälschungen, Coins und anderen Mist."
+			},
+			"en": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap."
+			},
+			"es": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - ¡Limpia el Internet y protege tu privacidad! Bloquea anuncios, afiliados, rastreo, métricas, telemetría, phishing, malware, estafas, falsificaciones, Coins y demás problemas."
+			},
+			"fa": {
+				"name": "HaGeZi's Normal Blocklist"
+			},
+			"fi": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Luuta - Puhdistaa Internetin ja suojaa yksityisyyttäsi! Estää mainokset, kytkökset, seurannan, mittarit, telemetrian, tietojenkalastelun, haittaohjelmat, huijaukset, väärennökset, kolikot ja muuta roskaa."
+			},
+			"fr": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Nettoie l'Internet et protège votre vie privée ! Bloque les publicités, les affiliations, le pistage, les mesures, la télémétrie, le phishing, les logiciels malveillants, les escroqueries, les faux, les pièces de monnaie et autres saloperies."
+			},
+			"he": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "מטאטא - מנקה את האינטרנט ומגן על הפרטיות שלך! חוסם מודעות, שותפים, מעקב, מדדים, טלמטריה, פישינג, תוכנות זדוניות, הונאה, זיוף, מטבעות ועוד שטויות."
+			},
+			"hr": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Metla - Čisti internet i štiti vašu privatnost! Blokira oglase, partnere, praćenje, metriku, telemetriju, krađu identiteta, zlonamjerni softver, prijevare, lažne, kovanice i ostalo sranje."
+			},
+			"hu": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Seprű - Tisztítja az internetet és védi a magánéletét! Blokkolja a hirdetéseket, a leányvállalatokat, a nyomon követést, a mutatókat, a telemetriát, az adathalászatot, a rosszindulatú programokat, az átverést, a hamisítványokat, az érméket és más szarokat."
+			},
+			"id": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Sapu - Membersihkan Internet dan melindungi privasi Anda! Memblokir Iklan, Afiliasi, Pelacakan, Metrik, Telemetri, Phishing, Malware, Penipuan, Palsu, Koin, dan Omong Kosong lainnya."
+			},
+			"it": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Pulisce Internet e protegge la vostra privacy! Blocca gli annunci, le affiliazioni, il tracciamento, le metriche, la telemetria, il phishing, il malware, le truffe, i falsi, le monete e altre schifezze."
+			},
+			"ja": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.　（訳：ほうきみたいに、インターネットを掃除してプライバシーを守ります！広告、アフィリエイト、トラッキング、メトリックス、テレメトリ、フィッシング、マルウェア、詐欺、偽物、コイン、その他のゴミをブロックします。）"
+			},
+			"ko": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "인터넷을 깨끗하게 하고 데이터를 보호합니다. 광고, 제휴, 추적, 메트릭, 원격 측정, 피싱, 멀웨어, 사기, 코인 및 기타를 차단합니다."
+			},
+			"nl": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Reinigt het internet en beschermt jouw privacy! Blokkeert advertenties, affiliate, volgers, statistieken, telemetrie, phishing, malware, oplichterij, nep, munten en andere onzin."
+			},
+			"no": {
+				"name": "HaGeZi's Normal Blocklist"
+			},
+			"pl": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Miotła - Czyści Internet i chroni Twoją prywatność! Blokuje reklamy, podmioty stowarzyszone, śledzenie, metryki, telemetrię, phishing, złośliwe oprogramowanie, oszustwa, podróbki, monety i inne bzdury."
+			},
+			"pt": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Limpa a Internet e protege a sua privacidade! Bloqueia anúncios, afiliados, rastreamento, métricas, telemetria, phishing, malware, fraudes, falsificações, coins e outros problemas."
+			},
+			"pt_BR": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Limpa a Internet e protege a sua privacidade! Bloqueia anúncios, afiliados, rastreamento, métricas, telemetria, phishing, malware, golpes, falsificações, coins e outros problemas."
+			},
+			"pt_PT": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - Limpa a Internet e protege a sua privacidade! Bloqueia anúncios, afiliados, rastreamento, métricas, telemetria, phishing, malware, fraudes, falsificações, coins e outros problemas."
+			},
+			"ru": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Очищает интернет и защищает ваши данные. Блокирует рекламу, партнёрские программы, трекинг, метрику, телеметрию, фишинг, вредоносные программы, мошенничество, фейки, коины и прочее."
+			},
+			"sk": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Metla - Čistí internet a chráni vaše súkromie! Blokuje reklamy, partnerské, sledovacie, metrické, telemetrické, phishingové, malvérové, podvodné, falošné, mincové a iné šmejdy."
+			},
+			"sl": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Metla - Čisti internet in varuje vašo zasebnost! Blokira oglase, podružnice, sledenje, meritve, telemetrijo, lažno predstavljanje, zlonamerno programsko opremo, prevare, ponaredke, kovance in drugo sranje."
+			},
+			"sr": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Ekstenzija za postojeće blokčein liste, moja lična crno-bela lista. Deblokira lažne pozitivne i referentne domene."
+			},
+			"sv": {
+				"name": "HaGeZi's Normal Blocklist"
+			},
+			"tr": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom - İnterneti temizler ve gizliliğinizi korur! Reklamları, satış ortaklığını, izlemeyi, ölçümleri, telemetriyi, kimlik avını, kötü amaçlı yazılımı, dolandırıcılığı, sahteciliği, kripto paraları ve diğer benzerlerini engeller."
+			},
+			"uk": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Очищає інтернет і захищає вашу конфіденційність! Блокує рекламу, партнерську програму, стеження, показники, телеметрію, фішинг, зловмисне програмне забезпечення, шахрайство, фейки тощо."
+			},
+			"vi": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Chổi - Dọn dẹp Internet và bảo vệ quyền riêng tư của bạn! Chặn quảng cáo, liên kết, theo dõi, số liệu, từ xa, lừa đảo, phần mềm độc hại, lừa đảo, giả mạo, tiền xu và những thứ tào lao khác."
+			},
+			"zh": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom 清洁互联网并保护隐私安全！拦截广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他垃圾。"
+			},
+			"zh_TW": {
+				"name": "HaGeZi's Normal Blocklist",
+				"description": "Broom 清潔網際網路並保護使用者的隱私！封鎖廣告、聯盟、跟踪、指標、遙測、網路釣魚、惡意軟體、詐騙、假貨、硬幣和其他垃圾。"
+			}
+		},
+		"53": {
+			"ar": {
+				"name": "قاعدة إعلانات AWAvenue",
+				"description": "يستخدم بناء جملة Adblock لمحاربة مجموعة متنوعة من SDKs الإعلانية في تطبيقات Android على مستوى الشبكة، مما يمنع تحميلها."
+			},
+			"da": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Brug Adblock-syntax til at bekæmpe forskellige reklame-SDK'er i Android-apps på netværksniveau og forhindre deres indlæsning."
+			},
+			"de": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Verwenden Sie die Adblock-Syntax, um verschiedene Werbe-SDKs in Android-Apps von der Netzwerkebene aus zu bekämpfen und sie am Laden zu hindern."
+			},
+			"en": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Uses Adblock syntax to fight against various advertising SDKs in Android apps on the network level, preventing them from loading."
+			},
+			"es": {
+				"name": "Regla de anuncios de AWAvenue",
+				"description": "Utiliza la sintaxis de Adblock para luchar contra varios SDK de publicidad en aplicaciones de Android desde el nivel de red, evitando que se carguen."
+			},
+			"fi": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Taistelee Adblock-syntaksin avulla erilaisia Android-sovellusten sisältämiä mainonta-SDK:ita vastaan verkkotasolla estäen niitä latautumasta."
+			},
+			"fr": {
+				"name": "Règle AWAvenue Ads Rule",
+				"description": "Utilise la syntaxe Adblock pour lutter contre divers SDK publicitaires dans les applications Android au niveau du réseau, en les empêchant de se charger."
+			},
+			"hr": {
+				"name": "AWAvenue Ads Pravilo",
+				"description": "Koristi Adblock sintaksu za borbu protiv različitih SDK-ova oglašavanja u Android aplikacijama na razini mreže, sprječavajući njihovo učitavanje."
+			},
+			"hu": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Az Adblock szintaxist használja az Android-alkalmazásokban található különböző hirdetési SDK-k ellen hálózati szinten, megakadályozva azok betöltését."
+			},
+			"id": {
+				"name": "Aturan Iklan AWAvenue",
+				"description": "Menggunakan sintaks Adblock untuk melawan berbagai SDK iklan di aplikasi Android pada tingkat jaringan, mencegahnya dimuat."
+			},
+			"it": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Usa la sintassi di Adblock per combattere vari SDK pubblicitari nelle applicazioni Android a livello di rete, impedendone il caricamento."
+			},
+			"ja": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Adblockシンタックスを使用して、ネットワークレベルでAndroidアプリの様々な広告SDKと戦い、それらが読み込まれるのを防ぎます。"
+			},
+			"ko": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Adblock 구문을 사용해 네트워크 수준에서 Android 앱의 다양한 광고 SDK에 맞서 불러오기를 방지합니다."
+			},
+			"nl": {
+				"name": "AWAvenue-advertentieregel",
+				"description": "Gebruikt Adblock-syntax om verschillende SDK's voor reclame in Android-apps te bestrijden vanaf het netwerkniveau en te voorkomen dat ze worden geladen."
+			},
+			"pl": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Używa składni Adblock do walki z różnymi pakietami SDK reklam w aplikacjach na Androida na poziomie sieci, uniemożliwiając ich ładowanie."
+			},
+			"pt": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Usa a sintaxe de bloqueio de anúncios para combater vários SDKs de publicidade em aplicativos Android no nível da rede, evitando que sejam carregados."
+			},
+			"pt_BR": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Usa a sintaxe do bloqueador de anúncios para combater vários SDKs de publicidade em aplicativos Android no nível da rede, evitando que sejam carregados."
+			},
+			"pt_PT": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Usa a sintaxe de bloqueio de anúncios para combater vários SDKs de publicidade em aplicativos Android no nível da rede, evitando que sejam carregados."
+			},
+			"ru": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Использует синтаксис Adblock для борьбы с рекламными SDK в приложениях на Android на сетевом уровне, предотвращая их загрузку."
+			},
+			"sk": {
+				"name": "Pravidlo reklám AWAvenue",
+				"description": "Použite syntax Adblock na boj proti rôznym reklamným SDK v aplikáciách pre Android na úrovni siete, zabráňte ich načítaniu."
+			},
+			"sl": {
+				"name": "Pravilo za oglase AWAvenue",
+				"description": "Uporablja sintakso Zaviralca oglasov za boj proti različnim oglaševalskim SDK-jem v aplikacijah Android na omrežni ravni, prepreči njihovo nalaganje."
+			},
+			"sr": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Koristi Adblock sintaksu za borbu protiv raznih reklamnih SDK-ova u Android aplikacijama na nivou mreže, sprečavajući ih da se učitaju."
+			},
+			"tr": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Android uygulamalarındaki çeşitli reklam SDK'larına karşı ağ düzeyinde savaşmak için Reklam söz dizimini kullanır ve bunların yüklenmesini engeller."
+			},
+			"uk": {
+				"name": "AWAvenue Ads Rule",
+				"description": "Використовує Adblock-синтаксис для боротьби з різними рекламними SDK у програмах Android на мережевому рівні, запобігаючи їхньому завантаженню."
+			},
+			"vi": {
+				"name": "Quy tắc quảng cáo AWAvenue",
+				"description": "Sử dụng những cú pháp của Adblock để chống lại đa dạng các SDK quảng cáo trong các ứng dụng Android ở cấp độ mạng, ngăn ngừa chúng được khởi chạy."
+			},
+			"zh": {
+				"name": "AWAvenue Ads Rule",
+				"description": "使用 Adblock 语法从网络层面对抗 Android 应用中的各种广告 SDK，阻止其加载。"
+			},
+			"zh_TW": {
+				"name": "AWAvenue Ads Rule",
+				"description": "使用 Adblock 語法從網路層面對抗 Android 應用中的各種廣告 SDK，阻止其載入。"
+			}
+		}
+	}
+}

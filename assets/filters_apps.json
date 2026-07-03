@@ -1,0 +1,117 @@
+{
+	"filters": [
+		{
+			"filterKey": "adguard_dns_filter",
+			"filterId": 1,
+			"groupId": 1,
+			"name": "AdGuard DNS filter",
+			"deprecated": false,
+			"description": "List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking",
+			"tags": [
+				1
+			],
+			"languages": [],
+			"version": "1.0.71.40",
+			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
+			"expires": 345600,
+			"displayNumber": 1,
+			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+			"timeAdded": "2014-06-30T10:56:55+0300",
+			"timeUpdated": "2026-07-03T13:59:02+0300"
+		},
+		{
+			"filterKey": "hagezi_multinormal",
+			"filterId": 34,
+			"groupId": 1,
+			"name": "HaGeZi's Normal Blocklist",
+			"deprecated": false,
+			"description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.",
+			"tags": [
+				1
+			],
+			"languages": [],
+			"version": "1.0.31.23",
+			"homepage": "https://github.com/hagezi/dns-blocklists",
+			"expires": 345600,
+			"displayNumber": 4,
+			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
+			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+			"timeAdded": "2023-07-14T15:53:26+0300",
+			"timeUpdated": "2026-07-03T14:52:25+0300"
+		},
+		{
+			"filterKey": "peter_lowe_list",
+			"filterId": 3,
+			"groupId": 1,
+			"name": "Peter Lowe's Blocklist",
+			"deprecated": false,
+			"description": "Blocklist with hostnames of ad and tracking servers",
+			"tags": [
+				1
+			],
+			"languages": [],
+			"version": "1.0.17.39",
+			"homepage": "https://pgl.yoyo.org/adservers/",
+			"expires": 345600,
+			"displayNumber": 3,
+			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
+			"subscriptionUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+			"timeAdded": "2021-12-21T12:31:18+0200",
+			"timeUpdated": "2026-07-03T19:39:26+0300"
+		},
+		{
+			"filterKey": "awavenue_ads_rule",
+			"filterId": 53,
+			"groupId": 1,
+			"name": "AWAvenue Ads Rule",
+			"deprecated": false,
+			"description": "Uses Adblock syntax to fight against various advertising SDKs in Android apps on the network level, preventing them from loading.",
+			"tags": [
+				1
+			],
+			"languages": [],
+			"version": "1.0.15.74",
+			"homepage": "https://awavenue.top/",
+			"expires": 1296000,
+			"displayNumber": 2,
+			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt",
+			"subscriptionUrl": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+			"timeAdded": "2023-11-07T17:20:33+0200",
+			"timeUpdated": "2026-06-15T17:19:40+0300"
+		},
+		{
+			"filterKey": "oisd_basic",
+			"filterId": 5,
+			"groupId": 1,
+			"name": "OISD Blocklist Small",
+			"deprecated": false,
+			"description": "List for blocking ads and trackers. Prioritizes functionality over blocking.",
+			"tags": [
+				1
+			],
+			"languages": [],
+			"version": "1.0.98.74",
+			"homepage": "https://oisd.nl/",
+			"expires": 345600,
+			"displayNumber": 4,
+			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
+			"subscriptionUrl": "https://small.oisd.nl/",
+			"timeAdded": "2021-12-21T12:31:18+0200",
+			"timeUpdated": "2026-07-03T18:42:46+0300"
+		}
+	],
+	"tags": [
+		{
+			"tagId": 1,
+			"keyword": "purpose:general"
+		}
+	],
+	"groups": [
+		{
+			"groupId": 1,
+			"groupName": "General",
+			"displayNumber": 1
+		}
+	]
+}
