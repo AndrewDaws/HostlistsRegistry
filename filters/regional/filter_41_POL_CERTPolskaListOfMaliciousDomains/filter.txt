@@ -1,12 +1,52 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.61
+! Version: 1.1.54.62
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T13:38:05.170Z
+! Last modified: 2026-07-03T14:51:04.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||masdesign.top^
+||alebilet.oferta63890.shop^
+||parasa-sp.com^
+||scaraifer.cyou^
+||terezlxkva.shop^
+||qerthameix.pro^
+||cartoriaq.shop^
+||terevndxsa.fit^
+||pyseojoket.com^
+||holistichealthyhive.com^
+||terecxojld.beer^
+||4j4ji5r.skin^
+||farracroni.cyou^
+||pl90489857532.cfd^
+||qivaro.shop^
+||focusgardenev.shop^
+||homestello.shop^
+||pl-cobistore.shop^
+||terezphklo.club^
+||terecxojld.wiki^
+||tereznsrka.yoga^
+||www.kimskrobe.shop^
+||mskskdopfisfofss.site^
+||macedonioarcher2-design.github.io^
+||brubecksports.shop^
+||zencora.shop^
+||verifyfanpage.com^
+||flax-weave.shop^
+||snow-cloth.shop^
+||inselesage.cyou^
+||salesorder.sbs^
+||polskiecentrumfinansowe.site^
+||rojipo.world^
+||intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev^
+||defrettyu.site^
+||mioaoskdoaspodda.site^
+||hottophot.com^
+||swereter.site^
+||sgerefinawys.site^
+||tereyaxhqn.work^
 ||stsfbrmg.shop^
 ||wavebasepro.com^
 ||klomir.shop^
@@ -107510,14 +107550,3 @@
 ||t2tfgvdv.lat^
 ||rintrerran.homes^
 ||pyrexcolou.homes^
-||wojasonline-pl.shop^
-||helloskygreen.com^
-||torgetnyheterna.se^
-||ragbits.info^
-||moccicampe.homes^
-||allegrolokalnie.oferty-kategoria-popularne-1644681.sbs^
-||allegrolokalnie.pl-85473945.cfd^
-||ammattetti.homes^
-||profidices.homes^
-||raggrfucat.homes^
-||gallichrom.homes^
