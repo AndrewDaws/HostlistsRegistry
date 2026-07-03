@@ -1,12 +1,45 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.62
+! Version: 1.1.54.63
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T14:51:04.417Z
+! Last modified: 2026-07-03T15:43:09.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||technologiaplsk.store^
+||loyalgoose.autos^
+||fujizu.world^
+||update-address.microsofs.ccwu.cc^
+||ade-germany-de.com^
+||terepdclws.yoga^
+||filase.world^
+||t2fvx.y30iji.sbs^
+||vinted.orderoto.net^
+||technologiapl.store^
+||www.zsnpkdah.shop^
+||ponebaoli.com^
+||notre-shop.mom^
+||vortix.vu^
+||saffron-forest.com^
+||ribalpsych.cyou^
+||tatbattery.com^
+||zorelvia.shop^
+||teretbxjna.fit^
+||intellectual-property-review-dp8cm75v8j31.edgeone.dev^
+||sawaysandals.shop^
+||check-my-violations2026.netlify.app^
+||glorti.shop^
+||tkczqhya.shop^
+||jjsioakdoadokddaoad.site^
+||oiotllxpl.pefo36da.shop^
+||oferta8571.click^
+||topdundapiz.com^
+||altasaude.com^
+||longlidseiw.com^
+||deksolerm.com^
+||talrstream.org^
+||bsjsidiosfifskfiosfii.site^
 ||masdesign.top^
 ||alebilet.oferta63890.shop^
 ||parasa-sp.com^
@@ -107546,7 +107579,3 @@
 ||da8jdr.cyou^
 ||allegrolokalnie.oferty-kategoria-popularne-145547.sbs^
 ||englialler.homes^
-||eschilanne.pro^
-||t2tfgvdv.lat^
-||rintrerran.homes^
-||pyrexcolou.homes^
