@@ -1,12 +1,34 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.59
+! Version: 1.1.54.60
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T11:52:58.049Z
+! Last modified: 2026-07-03T12:47:16.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||firmalegaladrianacruz.com^
+||stockholmsdvapinecenter.vu^
+||sk.zowipumedia.top^
+||mh.kasihodestore.top^
+||5lp5o5.hair^
+||lb.sigibistore.top^
+||lo.zaqegestore.top^
+||bastamedia.cyou^
+||terezlxkva.wiki^
+||stalcos.shop^
+||stalco-sklep.store^
+||smyk.outletsfree.com^
+||terefxmzra.fit^
+||sklep-kfd.coco-panda.life^
+||esimaspreg.cyou^
+||jiopoaodioadidoida.site^
+||ruvexa.shop^
+||alebilet.pl-oferta376293123.shop^
+||tererfhtpb.fit^
+||terevkpsma.wiki^
+||terexqylpa.ink^
+||terehpqgld.club^
 ||www.techniczna-szansa.cfd^
 ||mv.zaqegestore.top^
 ||alebilet.oferta23.lat^
@@ -107498,21 +107520,3 @@
 ||serpeabond.homes^
 ||kryptrumig.pro^
 ||aussiadizz.homes^
-||lentitonat.pro^
-||traseimmut.pro^
-||t19t1uth3381.cyou^
-||02982r772-f.sbs^
-||trustwallet.totalh.net^
-||intorcorte.homes^
-||rimpabouse.homes^
-||ottimalbeg.pro^
-||cystoimbal.homes^
-||diffainves.homes^
-||9t88t83ht37.cfd^
-||y3y33y303g9-10f.cyou^
-||po053292-201.sbs^
-||prot019282f-dd.cyou^
-||o09por3-1029.cfd^
-||faciogratt.pro^
-||toosiostra.pro^
-||bs2izv.lat^
