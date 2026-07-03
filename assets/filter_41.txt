@@ -1,12 +1,25 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.63
+! Version: 1.1.54.64
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T15:43:09.817Z
+! Last modified: 2026-07-03T16:36:24.975Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||ziajamarket.store^
+||aiutrassis.cyou^
+||jukichidoaoderkdweo.site^
+||ksdoiaikdikdadpadi.site^
+||teretnqksa.shop^
+||tererfhtpb.yoga^
+||scaricontr.cyou^
+||oferta383462.shop^
+||terecxojld.yoga^
+||support.newonlinebizng.info^
+||tereqvbnoy.beer^
+||teregqmrzy.help^
+||teretjvmna.help^
 ||technologiaplsk.store^
 ||loyalgoose.autos^
 ||fujizu.world^
@@ -107569,13 +107582,3 @@
 ||allegrolokalnie.oferty-kategoria-popularne-129847.sbs^
 ||palafspong.pro^
 ||2480uu.top^
-||corona-schnelltest-neuss.de^
-||lilyrivera.shop^
-||homlafashions.shop^
-||orbitgaze-core.cloud^
-||vinted.eu-market.sbs^
-||rizzeminer.homes^
-||allegrolokalnie.oferty-kategoria-popularne-135847.sbs^
-||da8jdr.cyou^
-||allegrolokalnie.oferty-kategoria-popularne-145547.sbs^
-||englialler.homes^
