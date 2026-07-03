@@ -1,12 +1,48 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.58
+! Version: 1.1.54.59
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T10:59:48.948Z
+! Last modified: 2026-07-03T11:52:58.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||www.techniczna-szansa.cfd^
+||mv.zaqegestore.top^
+||alebilet.oferta23.lat^
+||stalco-sklep.online^
+||tereqvbnoy.help^
+||tereqyjsmu.wiki^
+||oferta10700310.cfd^
+||teretgjvdo.beer^
+||terefxmzra.club^
+||terezphklo.beer^
+||tereznsrka.wiki^
+||elemanbilgibankasi.com^
+||n3.ia7mmi.casa^
+||deallyra.shop^
+||graploop.site^
+||tererfhtpb.beer^
+||oiorllpl-ya55.c8xvhr.sbs^
+||terecwmfju.fit^
+||pulspodjazdow.top^
+||qyvaro.shop^
+||ziajamarket.shop^
+||terevxntak.wiki^
+||bigetei.pro^
+||kioiiaoidkadiodaidakdai.site^
+||notice.info-eu6861.com^
+||login.univdjjisionnetworkslimited.vu^
+||decofino.shop^
+||pl-1296620.cfd^
+||sunlu-print.com^
+||ripetunsen.cyou^
+||services-customer.shop^
+||alperseninsaat.shop^
+||anatoliaberry.com^
+||veloxa-eye.site^
+||notino.outletsfree.com^
+||sonvera.vu^
 ||aparthost.com^
 ||tererfhtpb.wiki^
 ||terevrbnqt.beer^
@@ -107480,28 +107516,3 @@
 ||faciogratt.pro^
 ||toosiostra.pro^
 ||bs2izv.lat^
-||divispewag.pro^
-||vedrehiman.homes^
-||ay5oyc.lat^
-||d42kamamtsz6.korshonagro.com^
-||jysk.serviceeu.top^
-||nowe-03-01-26-pl.top^
-||jysk.julia-sale.shop^
-||anesttopl.pro^
-||jysks.sbs^
-||debeauty.info^
-||ciampillus.homes^
-||forniraggu.pro^
-||zeotrdemur.homes^
-||cresidisec.homes^
-||spregpesca.pro^
-||herbaunico.homes^
-||saccoingar.homes^
-||ricanentom.pro^
-||disquliter.pro^
-||postlaccre.pro^
-||amminpiang.homes^
-||ingagcontr.homes^
-||trachavvil.homes^
-||xenonplain.homes^
-||barbasopre.pro^

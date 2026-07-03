@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.56
+! Version: 1.0.26.57
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-03T09:12:14.076Z
+! Last modified: 2026-07-03T11:53:15.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1786,7 +1786,6 @@
 ||pihole.datamatter.co.za^
 ||adguard.discounthost.co.uk^
 ||sainttech.discountmarineequipment.co.nz^
-||www.dnsadguard.co.uk^
 ||dns.eliv.co.kr^
 ||gn-z11.franscois.co.za^
 ||dns.gayanalysing.co.uk^
@@ -1796,7 +1795,6 @@
 ||ag.hostme.co.il^
 ||ixl.math.hsf.co.za^
 ||hcpss.keriss.co.id^
-||sammyspawnedhotspot.keriss.co.id^
 ||dns.kloiber.co.at^
 ||dns2.kloiber.co.at^
 ||saudisdumb.lightingonline.co.za^
@@ -1865,7 +1863,6 @@
 ||diskcrmvpn.co.cc^
 ||englandproxy.co.uk^
 ||hax.co.id^
-||hidemyass.co.uk^
 ||insteadvpn.co.cc^
 ||justproxy.co.uk^
 ||lamnia.co.uk^
@@ -8909,7 +8906,6 @@
 ||cn-nord.info^
 ||cn-pc-kuailian.com^
 ||cnelectrictools.com^
-||cnlrdoxd.com^
 ||cns-kuailian.cn^
 ||cns-kuailian.com^
 ||cns-kuailian.net^
