@@ -1,12 +1,79 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.57
+! Version: 1.1.54.58
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T09:11:53.323Z
+! Last modified: 2026-07-03T10:59:48.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||aparthost.com^
+||tererfhtpb.wiki^
+||terevrbnqt.beer^
+||terehpqgld.work^
+||tererbwqna.help^
+||terecxojld.help^
+||terevkpsma.yoga^
+||ivipzzda.shop^
+||feyapyapi.com^
+||kioapodpdaoapddo.site^
+||terepdclws.luxe^
+||notinofree.com^
+||proflexlaser.com^
+||paganmodai.cyou^
+||gsruie4p2.shop^
+||tyqen.shop^
+||cortavo.shop^
+||kioiaospadoapdsos.site^
+||terezkvxan.shop^
+||pickglow.shop^
+||lasivau.com^
+||focusgardense.top^
+||www.eobuwisneakersy-pl.life^
+||fsagtursa.com^
+||cadaftsuiaorokia.com^
+||67fvcbejdskjx.com^
+||juyhauioiduakoa.com^
+||jahyanamusic.com^
+||wernerboyle.shop^
+||garvinkelstormvel.top^
+||vuzoceo.pro^
+||poczta-pomoc.netlify.app^
+||godebo.site^
+||dqsqp-vz44tst.c8xvhr.sbs^
+||lokalna-2809.sbs^
+||dispeinsi.cyou^
+||lopaoadlodaidaoa.com^
+||lopoasaskaodkadla.site^
+||simplebrookjournal.eu^
+||bvkedftyom.com^
+||urbogymt-pl.shop^
+||selanikborekcisi.com^
+||gersjkn3k3.shop^
+||alebilet.pl-oferta8387293123.shop^
+||clickjhub.com^
+||linen-house.shop^
+||pendikprime.com^
+||sklep-domwhisky.shop^
+||sklep-domwhisky.myshopify.com^
+||eseged.com^
+||asfisimpre.cyou^
+||freshberriescoffee.com^
+||pure7akademi.com^
+||pasogida.com^
+||uklakesidehaven.com^
+||update-address.uscu.ccwu.cc^
+||deryujsudofiilop.com^
+||qunexo.shop^
+||cvdrservrvsx.com^
+||abdicetnon.cyou^
+||pdwuf38hz.shop^
+||trixdock.site^
+||raddoaeaci.cyou^
+||ukcedarmeadowpark.com^
+||ukbrookhavenlane.com^
+||ukwestmeadowpark.com^
+||ukgreenfieldridge.com^
 ||property.search-checkins.com^
 ||pr1.fluxenta.ink^
 ||ukriverstonegate.com^
@@ -955,7 +1022,6 @@
 ||pretermissibbon.info^
 ||svsqegvfra.site^
 ||brucinbbsixoras.info^
-||allegrolokalnie.lokalna-2809.sbs^
 ||hyuyajjakfugdog.site^
 ||gytredasajiopoasid.site^
 ||kioidfoisofisdfodfigsf.site^
