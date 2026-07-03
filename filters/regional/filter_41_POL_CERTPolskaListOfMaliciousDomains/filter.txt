@@ -1,12 +1,51 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.56
+! Version: 1.1.54.57
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-03T07:15:26.297Z
+! Last modified: 2026-07-03T09:11:53.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||property.search-checkins.com^
+||pr1.fluxenta.ink^
+||ukriverstonegate.com^
+||ebhaar-es.com^
+||ukwillowfieldway.com^
+||ukelmridgeview.com^
+||catecarbor.cyou^
+||ochnikpl.store^
+||zorqia.shop^
+||ukstonefieldpark.com^
+||ukpinebrookplace.com^
+||ukoakstonecross.com^
+||kirederosol.com^
+||1nqp09ctp-3mnv.c8xvhr.sbs^
+||1nqpo7kp-mo88.c8xvhr.sbs^
+||zusymie.pro^
+||zumreteknoloji.com^
+||appleid.mailsecu.co^
+||nutriristr.cyou^
+||kfd.drmaxitt.top^
+||ulofleet.org^
+||au.lehmannofficial.com^
+||sadecekurye.com^
+||polskawkrotkichodcinkachczasu.info^
+||inpolst.kln3h2.lol^
+||potecaa.pro^
+||kipeviy.com^
+||foundationalconcepts.world^
+||lnqoppct-mo81.c8xvhr.sbs^
+||moryq.shop^
+||monopmima.cyou^
+||reserve.eu8106-info.com^
+||roomvista.shop^
+||falberonik.xyz^
+||zblokowegowychoduzwindyoczekujac.pro^
+||solparevik.pro^
+||od3maf.top^
+||pursepalisade.shop^
+||vetriscatt.cyou^
 ||goodsrise.shop^
 ||stalcom-pl.shop^
 ||drakso.shop^
@@ -17,7 +56,6 @@
 ||navuerolita.info^
 ||smykbaby.euvip.online^
 ||goldnetinternet.com^
-||qc7.od3maf.top^
 ||juliebrowninteriors.com^
 ||duranepoli.pro^
 ||incocphene.cyou^
@@ -107401,23 +107439,3 @@
 ||trachavvil.homes^
 ||xenonplain.homes^
 ||barbasopre.pro^
-||shop.wppwppl.shop^
-||www.bathuvip.shop^
-||wiseldisab.pro^
-||scorastras.homes^
-||marliveloc.homes^
-||sorpainzuc.pro^
-||eleggconso.homes^
-||sfiocvendo.homes^
-||ristivilis.homes^
-||andreosmos.homes^
-||handiceii.pro^
-||bloomingtales.ae^
-||klientfos.net^
-||riperrampo.pro^
-||borchrande.homes^
-||eredaturbu.homes^
-||partedisim.homes^
-||penetdeman.pro^
-||inabigesit.pro^
-||unsymsobba.homes^
