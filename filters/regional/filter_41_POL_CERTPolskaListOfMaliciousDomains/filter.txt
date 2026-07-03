@@ -1,19 +1,41 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.54.51
+! Version: 1.1.54.52
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-07-02T23:29:27.004Z
+! Last modified: 2026-07-03T00:54:28.399Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||triegacadi.cyou^
+||valylricos.cyou^
+||digieduco.com^
+||tejealpinecl.wiki^
+||nordevista.shop^
+||allegrolokalnie.9745417.cfd^
+||oferta8251.shop^
+||ycloventari.xyz^
+||dunaroevola.info^
+||byrenolivar.info^
+||ceormelidan.pro^
+||seraulaviony.info^
+||oferta57815810.shop^
+||pl-ogloszenia-firmowe-id883828.sbs^
+||oferta885215158.click^
+||signalroute.sbs^
+||oferta37654208.shop^
+||pl-85563.click^
+||pl-ogloszenia-firmowe-id8832383.click^
+||pl-83012.sbs^
+||pl-83712.sbs^
+||pl-24338.sbs^
+||infraartif.cyou^
 ||onlygoldenplots.com^
 ||akl2k3.cyou^
 ||darunavelo.xyz^
 ||pinkdunique.best^
 ||stampunfur.cyou^
 ||savsspover.cyou^
-||allegrolokalnie.pl-24338.sbs^
 ||moveloria.shop^
 ||ol-xpaczka.kl1o32p.sbs^
 ||nr-93278434.click^
