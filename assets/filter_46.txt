@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.90
+! Version: 1.0.25.91
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-02T19:34:28.065Z
+! Last modified: 2026-07-03T03:13:14.730Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -614,6 +614,8 @@
 ||ettv.g3g.fun^
 ||yuptracker.gaijinent.com^
 ||yuptracker-eu.gaijinent.com^
+||yuptracker-sa.gaijinent.com^
+||yuptracker-us.gaijinent.com^
 ||bt-tracker.gamexp.ru^
 ||tracker.gaytor.rent^
 ||hh.gbdev.io^
@@ -3878,7 +3880,6 @@
 ||bokashoka.com^
 ||bolly4u.bayern^
 ||bolly4u.cologne^
-||bolly4u.tube^
 ||bollyflix.army^
 ||bollyflix.baby^
 ||bollyflix.bond^
@@ -3889,7 +3890,6 @@
 ||bollyflix.faith^
 ||bollyflix.fish^
 ||bollyflix.fit^
-||bollyflix.frl^
 ||bollyflix.ist^
 ||bollyflix.life^
 ||bollyflix.med^
@@ -3898,7 +3898,6 @@
 ||bollyflix.online^
 ||bollyflix.pet^
 ||bollyflix.pro^
-||bollyflix.promo^
 ||bollyflix.pub^
 ||bollyflix.run^
 ||bollyflix.services^
@@ -3913,7 +3912,6 @@
 ||bollyflix4.com^
 ||bollyflixmovies.online^
 ||bollyflixpet.site^
-||bollyflixreview.com^
 ||bollywood.eu^
 ||bolmovies.com^
 ||bolnica-piit-lordfilm.ru^
@@ -3933,7 +3931,6 @@
 ||bonsaihd.fun^
 ||bonsaiprolink.shop^
 ||bonsaiprolink.site^
-||bonsaiprolink.space^
 ||boogiymans-lordfilm.ru^
 ||bookaudiobook.net^
 ||bookawarezone.digital^
@@ -3947,7 +3944,6 @@
 ||booktracker.org^
 ||boomep.com^
 ||boommovie.org^
-||booook.bond^
 ||boorn-lordfilm.ru^
 ||boostfluence.com^
 ||boot.lu^
@@ -3964,7 +3960,6 @@
 ||bootyou.net^
 ||bootytape.com^
 ||bootytorrents.com^
-||booxhare.xyz^
 ||born-lordfilm3.ru^
 ||borutois-lordfilm.ru^
 ||borutos-lordfilm.ru^
@@ -3985,7 +3980,6 @@
 ||box4k.com^
 ||boxbit.org^
 ||boxfilmes.net^
-||boxingstreams100.com^
 ||boxingusa.info^
 ||boxofficewatch.com^
 ||boxopus.com^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.54
+! Version: 1.0.26.55
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-02T19:35:08.503Z
+! Last modified: 2026-07-03T03:13:50.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -764,13 +764,6 @@
 ||dns.bofh.in^
 ||nana.rammer.boiso.ar^
 ||doh.boje8.me^
-||weklfjdas.asdklfj.bonded-game.com^
-||vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com^
-||ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com^
-||uytjhuyghbjkuiyhbjku.fghvhbvghjgj.bonded-game.com^
-||xcvscvgfdcdfg.rdfgcvbfcbv.bonded-game.com^
-||xcvjklesjdklfddsf.xcivuoirkjdkfds.bonded-game.com^
-||ytmusicub.bonded-game.com^
 ||adguard.bonis.de^
 ||adguard1.bonis.de^
 ||adguard2.bonis.de^
@@ -781,67 +774,25 @@
 ||dns4.bortus.io^
 ||doh.bortzmeyer.fr^
 ||cloudns.bosco.ovh^
-||m.athislife.bostoncareercounselor.com^
-||scien.ceislife.bostoncareercounselor.com^
-||s.cienceislife.bostoncareercounselor.com^
-||mathislif.e.bostoncareercounselor.com^
-||scienceislif.e.bostoncareercounselor.com^
-||scienc.eislife.bostoncareercounselor.com^
-||sci.enceislife.bostoncareercounselor.com^
 ||g.eometryislife.bostoncareercounselor.com^
 ||geom.etryislife.bostoncareercounselor.com^
-||mathisli.fe.bostoncareercounselor.com^
-||ddahmed.hi.bostoncareercounselor.com^
-||mat.hislife.bostoncareercounselor.com^
-||sc.ienceislife.bostoncareercounselor.com^
-||mathisl.ife.bostoncareercounselor.com^
-||scienceisl.ife.bostoncareercounselor.com^
 ||geometry.islife.bostoncareercounselor.com^
-||math.islife.bostoncareercounselor.com^
-||science.islife.bostoncareercounselor.com^
 ||geometryis.life.bostoncareercounselor.com^
-||mathis.life.bostoncareercounselor.com^
-||scienceis.life.bostoncareercounselor.com^
-||idk.lol-fr.bostoncareercounselor.com^
 ||geo.metryislife.bostoncareercounselor.com^
-||scie.nceislife.bostoncareercounselor.com^
 ||wwww.o.bostoncareercounselor.com^
 ||ge.ometryislife.bostoncareercounselor.com^
-||mathi.slife.bostoncareercounselor.com^
-||sciencei.slife.bostoncareercounselor.com^
-||ma.thislife.bostoncareercounselor.com^
-||areyousure.bostoncareercounselor.com^
 ||brightfuture.bostoncareercounselor.com^
-||choose-a-career.bostoncareercounselor.com^
-||college.bostoncareercounselor.com^
-||freedih.bostoncareercounselor.com^
-||frittledb.bostoncareercounselor.com^
-||frittledsocool.bostoncareercounselor.com^
 ||geometryislife.bostoncareercounselor.com^
 ||get.bostoncareercounselor.com^
 ||ihaveadream.bostoncareercounselor.com^
-||imboring.bostoncareercounselor.com^
-||jobfinder.bostoncareercounselor.com^
 ||jobs.bostoncareercounselor.com^
-||learning.bostoncareercounselor.com^
 ||learningaboutjob.bostoncareercounselor.com^
 ||library.bostoncareercounselor.com^
 ||login.bostoncareercounselor.com^
-||mathislife.bostoncareercounselor.com^
-||pluhh.bostoncareercounselor.com^
-||psecurly-by-void.bostoncareercounselor.com^
-||raven-new.bostoncareercounselor.com^
-||school.bostoncareercounselor.com^
-||scienceislife.bostoncareercounselor.com^
-||shadow-good.bostoncareercounselor.com^
-||solidlogic.bostoncareercounselor.com^
-||studystuff.bostoncareercounselor.com^
-||thatswhattheywantyoutothink.bostoncareercounselor.com^
 ||ultra.bostoncareercounselor.com^
 ||use.bostoncareercounselor.com^
 ||user.bostoncareercounselor.com^
 ||vcsaxinter.bostoncareercounselor.com^
-||pms-ssd1.bot.nu^
 ||pakupaku.bounceme.net^
 ||lenz.bouncers4rent.com^
 ||dns.bovat.net^
