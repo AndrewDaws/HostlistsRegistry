@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.43
+! Version: 1.0.5.44
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-03T20:31:07.537Z
+! Last modified: 2026-07-04T09:00:13.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2750,7 +2750,6 @@
 ||cuturl.com^
 ||cuturl.net^
 ||cutwin.com^
-||cutx.me^
 ||cutx.to^
 ||cutxly.com^
 ||cuty.io^
@@ -2788,7 +2787,6 @@
 ||dafire.cloud^
 ||daftar.mx^
 ||daftar.to^
-||daftar.tokyo^
 ||daftarhoki.live^
 ||dai.ly^
 ||dailym.ai^
@@ -2961,7 +2959,6 @@
 ||domixox.com^
 ||domlink.ink^
 ||doods.sbs^
-||doodsty.fun^
 ||doonor.com^
 ||dopice.sk^
 ||dopt.us^
