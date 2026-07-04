@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.80
+! Version: 1.0.98.81
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-04T13:34:52.858Z
+! Last modified: 2026-07-04T14:35:26.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1785,7 +1785,6 @@
 ||83b016defa.com^
 ||83c62d9964.com^
 ||84029188ab.339f59c980.com^
-||84067f6a2e.com^
 ||840withnetworks.net^
 ||84149f947f.065b6e69b5.com^
 ||841eda195c.com^
@@ -11168,7 +11167,6 @@
 ||cjgeqnxnxejet.space^
 ||cjgimadfnuztn.online^
 ||cjigqeziihjua.website^
-||cjikpufjlcxht.fun^
 ||cjkvtdxsdfpqc.website^
 ||cjlog.com^
 ||cjlph.com^
@@ -16624,7 +16622,6 @@
 ||dvv009j588zal.cloudfront.net^
 ||dvvndprgsjdni.store^
 ||dvvv9ld5b0.com^
-||dvwedvktkcsvw.vip^
 ||dvwovxmqzrnsb.space^
 ||dvwowtnmyluv4.cloudfront.net^
 ||dvxeqsgyabyvr.online^
@@ -16850,7 +16847,6 @@
 ||e3ba2130e2.com^
 ||e3eb4eq0v.com^
 ||e3j60qqdk.com^
-||e427d04a02.com^
 ||e43ef7f183.6a1e09565a.com^
 ||e45012be3a.bdbbdd2417.com^
 ||e4577d6fef.com^
@@ -19975,7 +19971,6 @@
 ||fourthinvestigation.com^
 ||fout.jp^
 ||fouxupoosccwp.space^
-||fovbxmvsgkhnl.icu^
 ||fovealkiters.com^
 ||fowl.teamyap.app^
 ||fowlpwlythika.space^
@@ -28332,7 +28327,6 @@
 ||loajawun.com^
 ||loathesparkledisperse.com^
 ||loathsomeboy.com^
-||loavouduleem.net^
 ||lobby-x.eu^
 ||loboclick.com^
 ||lobspqdzvfvrp.space^
@@ -45685,7 +45679,6 @@
 ||tj.video.qq.com^
 ||tjajxvdaqaywp.online^
 ||tjcgzjovllhtr.com^
-||tjepekenkccqi.online^
 ||tjfavx.icu^
 ||tjfot.com^
 ||tjfskxz0t6.com^
