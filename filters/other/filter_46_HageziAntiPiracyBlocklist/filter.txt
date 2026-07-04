@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.95
+! Version: 1.0.25.96
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-04T08:59:43.036Z
+! Last modified: 2026-07-04T19:32:31.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6431,13 +6431,11 @@
 ||efilmy.tv^
 ||egydead.ca^
 ||egydead.center^
-||egydead.fun^
 ||egydead.fyi^
 ||egydead.info^
 ||egydead.ink^
 ||egydead.live^
 ||egydead.me^
-||egydead.onl^
 ||egydead.org^
 ||egydead.pro^
 ||egydead.space^
@@ -6535,7 +6533,6 @@
 ||energy-torrent.com^
 ||eneyida.tv^
 ||eng101.ru^
-||engbookspdf.net^
 ||engplus.ru^
 ||enn-lordfilm3.ru^
 ||enola-holms-lordfilms.ru^
@@ -6572,7 +6569,6 @@
 ||esk.onl^
 ||esmeraldatorrent.com^
 ||espace-ekinoxe.com^
-||estrenoslatinos.com^
 ||esubmovie.net^
 ||eta-farforovaya-kykla-vlyubilas-lordfilm.ru^
 ||eternavt-lordfilm3.ru^
@@ -6607,7 +6603,6 @@
 ||europixhd.pro^
 ||europixhd.site^
 ||europixhd.top^
-||eurostream.cyou^
 ||eurostream4k.com^
 ||eurostream4k.site^
 ||eurostream4k.store^
@@ -6642,7 +6637,6 @@
 ||eurostreaming.games^
 ||eurostreaming.giving^
 ||eurostreaming.info^
-||eurostreaming.ink^
 ||eurostreaming.it^
 ||eurostreaming.life^
 ||eurostreaming.live^
@@ -6808,7 +6802,6 @@
 ||extratorrents.ch^
 ||extratorrents.it^
 ||extratorrentz2.xyz^
-||extreme-d0wn.com^
 ||extreme-down.in^
 ||extreme-down.io^
 ||extremebits.org^
@@ -6842,7 +6835,6 @@
 ||f1box.me^
 ||f1fullraces.com^
 ||f1sh.de^
-||f2movie.co^
 ||f2movies.to^
 ||f5movies.co^
 ||f5q.ru^
@@ -6873,7 +6865,6 @@
 ||fantastika-doramas-lordfilms.ru^
 ||fantastuc-foour-lordfilm.ru^
 ||fantastuka-lordfilm.ru^
-||fantasy-lordfilm.fun^
 ||fantasyanime.com^
 ||fantazzy-lordfilm.ru^
 ||fantocci-lordfilm3.ru^
@@ -6916,7 +6907,6 @@
 ||fbiwarning.online^
 ||fbox.to^
 ||fboxtv.com^
-||fboxz.to^
 ||fbr-lordfilm.fun^
 ||fbr-lordfilm3.ru^
 ||fbstream.tv^
@@ -7004,7 +6994,6 @@
 ||filetram.com^
 ||fileupload.pw^
 ||filewarez.tv^
-||filin-lordfilm.fun^
 ||filin-lordfilm.rest^
 ||film-2026-lordfilm.online^
 ||film-2026-lordfilm.ru^
@@ -7199,7 +7188,6 @@
 ||filmpertutti.ws^
 ||filmpertutti.xyz^
 ||filmplay.org^
-||filmplusapp.com^
 ||filmraja.com^
 ||filmrls.com^
 ||films-ddl.net^
@@ -7315,7 +7303,6 @@
 ||filmzenstream.tube^
 ||filmzevkim.com^
 ||filmzie.com^
-||filser.cc^
 ||fin101.online^
 ||fin101.ru^
 ||final-dastinations-lordfilm.ru^
@@ -7422,7 +7409,6 @@
 ||flemmix.my^
 ||flemmix.name^
 ||flemmix.one^
-||flemmix.online^
 ||flemmix.pics^
 ||flemmix.plus^
 ||flemmix.pro^
@@ -7501,9 +7487,6 @@
 ||flmsdown.net^
 ||flood.to^
 ||flowermangas.net^
-||flrlordfilm.ru^
-||fluxyrepacks.xyz^
-||flyembed.best^
 ||flynetbd.com^
 ||flywarez.info^
 ||fmhy.net^
@@ -7531,7 +7514,6 @@
 ||fmovies.mobi^
 ||fmovies.moe^
 ||fmovies.network^
-||fmovies.nz^
 ||fmovies.ooo^
 ||fmovies.org^
 ||fmovies.plus^
@@ -7570,7 +7552,6 @@
 ||fmovies-to.guru^
 ||fmovies-to.is^
 ||fmovies-to.org^
-||fmovies-too.com^
 ||fmovies-too.lol^
 ||fmovies-tv.cyou^
 ||fmovies-us.store^
@@ -7765,7 +7746,6 @@
 ||free-telecharger.surf^
 ||free-telecharger.top^
 ||free-telecharger.xyz^
-||free123movies.net^
 ||free123movies.org^
 ||free2read.cc^
 ||free4pc.org^
@@ -21451,6 +21431,7 @@
 ||megakino6.com^
 ||megakino7.com^
 ||megakino8.com^
+||megakino9.com^
 ||megakinohd2026.online^
 ||megakinox.top^
 ||megamanmaker.com^
@@ -29536,6 +29517,7 @@
 ||unblockedyou.com^
 ||unblocker.cc^
 ||unblocker.win^
+||unblockit.bid^
 ||unblockit.buzz^
 ||unblockit.bz^
 ||unblockit.cam^
@@ -29858,7 +29840,6 @@
 ||vegamovies.green^
 ||vegamovies.gripe^
 ||vegamovies.group^
-||vegamovies.hair^
 ||vegamovies.haus^
 ||vegamovies.help^
 ||vegamovies.hockey^
