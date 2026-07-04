@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.83
+! Version: 1.0.98.84
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-04T20:25:09.648Z
+! Last modified: 2026-07-04T21:22:55.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7198,7 +7198,6 @@
 ||atlas-upd.com^
 ||atlas1.krone.at^
 ||atlastwo.com^
-||atlatlstanks.qpon^
 ||atlbhrkdrcmxg.online^
 ||atmalinks.com^
 ||atmenttogether.org^
@@ -21366,7 +21365,6 @@
 ||glum-mortgage.com^
 ||glumrevenue.com^
 ||gluphordoweb.net^
-||glusidforwake.qpon^
 ||glutenmuttsensuous.com^
 ||gluvrkcvvldus.website^
 ||glvhvesvnp.com^
@@ -22069,7 +22067,6 @@
 ||guiltygoal.com^
 ||guiltyimpediment.com^
 ||guiltymince.com^
-||guimpegaspswaes.qpon^
 ||guineapig.espressive.com^
 ||guineapig.themenaffin.de^
 ||guitarinterim.com^
@@ -22718,7 +22715,6 @@
 ||hem41xm47.com^
 ||hemenindir.to^
 ||hemineedunks.com^
-||hemlinetaglet.cfd^
 ||hemnes.win^
 ||hemvcieezucdp.website^
 ||hemyn.site^
@@ -25905,7 +25901,6 @@
 ||jollyspring.com^
 ||jolmen.click^
 ||jolrfeqxyavvj.site^
-||joltscushawtaharah.cfd^
 ||jolugubqlnjce.site^
 ||jombfyktowaqp.space^
 ||jomistress.com^
@@ -38337,7 +38332,6 @@
 ||raxpeikufhiyp.site^
 ||raxsqlbokhscx.website^
 ||raxxkxvipsusz.site^
-||rayatcub.shop^
 ||rayjump.com^
 ||raymondtoaster.com^
 ||rayvirtual.com^
@@ -39066,7 +39060,6 @@
 ||revsci.net^
 ||revsharecash.com^
 ||revstats.com^
-||revulsekamao.cyou^
 ||revupads.com^
 ||revwneghofvae.online^
 ||rewarding-love.com^
