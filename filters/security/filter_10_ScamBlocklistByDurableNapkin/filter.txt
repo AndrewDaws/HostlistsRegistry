@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.24
+! Version: 1.0.21.25
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-04T05:22:08.695Z
+! Last modified: 2026-07-05T05:25:27.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -46,6 +46,7 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -195,11 +196,11 @@
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
 ||dleggere.com^
-||dogparadiseshop.com^
 ||dogparadisestore.com^
 ||doh-gov.ph^
 ||dohealths.com^
 ||dolystore.com^
+||dopestore.pl^
 ||drama-queen.cc^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -460,6 +461,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
+||lucysstyle.com^
 ||luxsgear.com^
 ||m.coinexeu.vip^
 ||maebl.com^
@@ -502,7 +504,6 @@
 ||navi100.com^
 ||navi11.com^
 ||navi12.com^
-||navi18.com^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
@@ -588,7 +589,6 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
-||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
@@ -614,7 +614,6 @@
 ||paradisevs.com^
 ||path2zillion.com^
 ||peekpok.com^
-||pekanbaru.one^
 ||penguinnow.com^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -700,7 +699,6 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
-||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -836,6 +834,7 @@
 ||uprising.kip.pro^
 ||ureashi.com^
 ||us99.pro^
+||uschse04.my03.com^
 ||uusilemmikki.com^
 ||valeofoodsgroup.com^
 ||validsteamkeys.com^
