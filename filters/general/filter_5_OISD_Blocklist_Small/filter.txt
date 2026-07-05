@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.90
+! Version: 1.0.98.91
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T10:47:14.029Z
+! Last modified: 2026-07-05T11:34:06.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -26462,7 +26462,6 @@
 ||katuhus.com^
 ||kaubapsy.com^
 ||kaudawwhwjllo.site^
-||kaushichie.net^
 ||kaushooptawo.net^
 ||kavanga.ru^
 ||kavblcvs.com^
@@ -28268,7 +28267,6 @@
 ||lmdysqcmtinre.online^
 ||lmeivxuejjbol.space^
 ||lmepbq.com^
-||lmepjztwwonxv.life^
 ||lmfbutkwjiiay.site^
 ||lmfpdpmkxgcix.site^
 ||lmftzfphbqbff.online^
@@ -29641,7 +29639,6 @@
 ||markswaitingrouge.com^
 ||marlin.firstline.org^
 ||marmaladestrikingcolourless.com^
-||marmoset.easycolour.app^
 ||marmoset.rocketlog.app^
 ||marmot.hippiemodernism.com^
 ||marmot.jfontana.fr^
