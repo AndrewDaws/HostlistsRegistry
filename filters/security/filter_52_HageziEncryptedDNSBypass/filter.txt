@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.61
+! Version: 1.0.26.62
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-05T09:09:28.466Z
+! Last modified: 2026-07-05T19:33:52.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3501,7 +3501,6 @@
 ||office.heimtec.com^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||dns.hellozhao.com^
-||novaenglish.help4bali.org^
 ||vibecoding.help4bali.org^
 ||need.helpforukraine.at^
 ||dns.henek.ru^
@@ -3549,7 +3548,6 @@
 ||cloud2.holzmannclouddns.de^
 ||kf.homework.kade.home.kg^
 ||dhchswi534.home.kg^
-||rebirthsanctuarychurch.home.kg^
 ||socolov.home.ro^
 ||vxdwsjxvde43.home.kg^
 ||rylan67imadethisguys.science.home-webserver.de^
@@ -3559,7 +3557,6 @@
 ||isolacje.homeip.net^
 ||adguard.homenetmedia.stream^
 ||adguard01.homepeter.de^
-||dns.hoody.com^
 ||schoolmath.hop.sh^
 ||dns.hopkinton.online^
 ||dns.hopsken.com^
@@ -3576,10 +3573,6 @@
 ||weloveschool.hornburst.com^
 ||dns.internal.hosmatic.com^
 ||v1552270.hosted-by-vdsina.ru^
-||duddybkus2983ridjsjsj.hosteriafutaleufu.cl^
-||guhlic1d.hosteriafutaleufu.cl^
-||keepernotero38eidhf.hosteriafutaleufu.cl^
-||madebyguh.hosteriafutaleufu.cl^
 ||making-more-kids-from-ur-mother.hosteriafutaleufu.cl^
 ||noah1.hosteriafutaleufu.cl^
 ||weloveyounoah.hosteriafutaleufu.cl^
@@ -3657,7 +3650,6 @@
 ||home.px.i81.ru^
 ||vasya-sad.px.i81.ru^
 ||vovale.px.i81.ru^
-||az.i81.ru^
 ||hr.i81.ru^
 ||vd.i81.ru^
 ||vpn.i81.ru^
@@ -3681,7 +3673,6 @@
 ||mask.icloud.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
-||qazwsxeedc.aldis.id.lv^
 ||skill.mass.mcdonnell.id.au^
 ||dns.pttien.id.vn^
 ||home.realldz.id.vn^
@@ -3702,46 +3693,30 @@
 ||gitea.sukon.idv.tw^
 ||cyliu.idv.tw^
 ||the.url.is.true.ifuckedhellokitty.com^
-||conquista.bonniee.ignorelist.com^
-||justjoshin.com.ignorelist.com^
 ||thiswebsiteispeak4life.com.ignorelist.com^
 ||0vercl0aked.ignorelist.com^
 ||babiesyui.ignorelist.com^
-||basha-is-the-genius.ignorelist.com^
-||canvastuhsd.ignorelist.com^
 ||cleverp0rtal.ignorelist.com^
 ||diddyscoming.ignorelist.com^
 ||doingthsforfunandcuzschoolisboring.ignorelist.com^
-||fahfahfah.ignorelist.com^
-||fahfahfahbigd.ignorelist.com^
-||fishstix.ignorelist.com^
 ||galaxyiscool.ignorelist.com^
-||gavinsblocked-test.ignorelist.com^
 ||geographystudyguide.ignorelist.com^
 ||learningscience.ignorelist.com^
 ||meeeow.ignorelist.com^
 ||phhs66.ignorelist.com^
 ||pleaseaddto.ignorelist.com^
 ||salmon.ignorelist.com^
-||samuel-and-toes.ignorelist.com^
 ||schoool.ignorelist.com^
 ||sigma10192011.ignorelist.com^
 ||test52139.ignorelist.com^
-||thecassius.ignorelist.com^
 ||uhhhhhh.ignorelist.com^
-||voidvoidyesyes.ignorelist.com^
-||whodagoat.ignorelist.com^
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
 ||hauntedman.iiiii.info^
-||learningwiki.iiiii.info^
-||plskillmeiworksohard.iiiii.info^
 ||dns.ikataruto.com^
 ||mnsvless.ikwb.com^
 ||forschoolonlyss.ilja.org^
-||2ndi38rufidhdiwu.ilogica-soluciones.cl^
 ||english.iloveyouxav.com^
-||login.ilsatimisoara.ro^
 ||youtube.imagetemplate.net^
 ||dns.imaicool.com^
 ||ad.imblien.com^
@@ -3770,12 +3745,9 @@
 ||un2026.indevs.in^
 ||zem.indevs.in^
 ||adblock.indianets.net^
-||doochachadoodoocha.inducort.com^
 ||dns.indybanipal.com^
 ||solve.howto.infinisa.com^
 ||wowie.infinityon.com^
-||baptism.info.gf^
-||chddschoolinfo.info.gf^
 ||dns.inforlogia.com^
 ||dns.infosec.xyz^
 ||chris-0.4-gpa-resources.infotechnology.com^
@@ -3844,10 +3816,8 @@
 ||type-v14.instadownloader.site^
 ||type-v5.instadownloader.site^
 ||type-v6.instadownloader.site^
-||type-v7.instadownloader.site^
 ||type-v8.instadownloader.site^
 ||type-v9.instadownloader.site^
-||www.securly.com.installgentoo.com^
 ||sigma.installgentoo.com^
 ||wildcard.instructure.site^
 ||math.intasarn.com^
@@ -10838,7 +10808,6 @@
 ||helmetreport.com^
 ||help-with-homework.org^
 ||helphideme.com^
-||helpmecheckthisout.help^
 ||helpmehide.net^
 ||hemmulix.eu^
 ||henryrealestatesmart.com^
@@ -10857,7 +10826,6 @@
 ||herzon.xyz^
 ||hetecn.com^
 ||hexmoria.ru^
-||hexo-music.ir^
 ||hexxitcompany.com^
 ||heysocks.com^
 ||heysocks.life^
@@ -11031,8 +10999,6 @@
 ||hidianbao.com^
 ||hidianchi.com^
 ||hidiandian.com^
-||hidingit.com^
-||hidx.name^
 ||hidxmx.name^
 ||hidxmy.info^
 ||hidxmy.name^
@@ -11227,7 +11193,6 @@
 ||hqzmxpta.com^
 ||hrf4hpcwvc8w.online^
 ||hriscanskaadventistickacrkva.com^
-||hrj939rzl.online^
 ||hrzn1.site^
 ||hshdytfp.com^
 ||hshh.org^
@@ -11266,7 +11231,6 @@
 ||hutao.cloud^
 ||hv8htsje.online^
 ||hvhcvwgd.com^
-||hvqeezqn.online^
 ||hwzccrxr.cc^
 ||hxd.name^
 ||hxg.info^
@@ -11285,7 +11249,6 @@
 ||hxy.name^
 ||hydroxide.wtf^
 ||hyeeypad.cc^
-||hykdwzgw.online^
 ||hyper0.xyz^
 ||hyperbea.my^
 ||hyperbyte.net^
@@ -11297,7 +11260,6 @@
 ||i-puppy.ru^
 ||i2p-projekt.de^
 ||i2pd.xyz^
-||i5d2kcibzp.online^
 ||iajee.com^
 ||ialcce2018.org^
 ||ianmwxbj.com^
@@ -11451,7 +11413,6 @@
 ||iriczcsx.com^
 ||ironsocket.com^
 ||irrelevant.cc^
-||is-a-fag.lol^
 ||iscsihost.org^
 ||ishark.com^
 ||isharkvpn.com^
