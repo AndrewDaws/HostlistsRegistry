@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.92
+! Version: 1.0.98.93
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T12:36:28.577Z
+! Last modified: 2026-07-05T13:35:37.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -31097,7 +31097,6 @@
 ||mqrqtvzwdl.com^
 ||mqszaiyafukar.online^
 ||mqunqwsyrw.com^
-||mquoemywissvp.tech^
 ||mqutibglqfjmq.website^
 ||mqwdgnbntkgen.space^
 ||mqxbtsawpuulc.store^
@@ -36098,7 +36097,6 @@
 ||powerlinks.com^
 ||powferads.com^
 ||powsnbzvggnpk.site^
-||powzers.lol^
 ||poxorfdldbzdr.online^
 ||poyc.cn^
 ||pozkbycypzgty.site^
@@ -44143,7 +44141,6 @@
 ||successfullyaileen.com^
 ||successorbuypatronize.com^
 ||suchanalytik.hideandsec.sh^
-||sucnaegzvbrhu.site^
 ||suctiondecade.com^
 ||suczjwsoelppw.site^
 ||sueivypeg.com^
@@ -44550,7 +44547,6 @@
 ||sync.programmatica.com^
 ||sync.shinobi.jp^
 ||sync.taboola.com^
-||syncclickflow.com^
 ||synccora.com^
 ||syndenizen.shop^
 ||syndicate.payloadz.com^
@@ -44942,7 +44938,6 @@
 ||tahtvvqhjnzgi.site^
 ||tahwox.com^
 ||taiiljyndvpii.website^
-||taikmhgkfngjx.today^
 ||taildisturbing.com^
 ||tailfoolproof.com^
 ||tailstories.biz^
