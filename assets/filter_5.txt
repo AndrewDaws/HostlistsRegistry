@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.95
+! Version: 1.0.98.96
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T15:31:18.817Z
+! Last modified: 2026-07-05T17:30:14.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -29024,7 +29024,6 @@
 ||lrvpquoavttir.site^
 ||lrwgmmuhrimpk.store^
 ||lrwprzvusazvh.website^
-||lrxzfherqqllp.site^
 ||lrziloubgdcfe.online^
 ||ls.srvcs.tumblr.com^
 ||lsbbtclkiwrdx.online^
@@ -29490,7 +29489,6 @@
 ||mainexpclkdir.com^
 ||mainos.pro^
 ||mainroll.com^
-||maintainconnection.co.in^
 ||maintaintournamentslick.com^
 ||mainting-minues.xyz^
 ||maio.jp^
@@ -47940,7 +47938,6 @@
 ||uj08lr3rv.com^
 ||uj2h8xm8w.com^
 ||ujdsaljmviudi.space^
-||ujdtnsgiagbxx.click^
 ||ujdvvfrqujgfl.space^
 ||ujfdbyebg.pro^
 ||ujfyzxfc01.com^
@@ -53393,7 +53390,6 @@
 ||yggtorrent.org^
 ||yggtorrent.support^
 ||yggtorrent.top^
-||ygimeqcpvbtci.rocks^
 ||ygimtxlxvzozz.space^
 ||ygkbhcnptdbgeru.com^
 ||ygkswbscgvukj.space^
