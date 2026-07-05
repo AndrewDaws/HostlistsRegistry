@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.45
+! Version: 1.0.5.46
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-04T19:32:59.562Z
+! Last modified: 2026-07-05T09:09:28.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -88,7 +88,6 @@
 ||ai.blendnow.com^
 ||s.block183.net^
 ||talk.bloomup.org^
-||ro.blox.com^
 ||shortener.blueeyestech.com^
 ||tu.bongobd.com^
 ||cdl.booksy.com^
@@ -3479,7 +3478,6 @@
 ||frli.net^
 ||frs.ink^
 ||fscu.net^
-||fstgo.to^
 ||fstrk.cc^
 ||fsu.ro^
 ||fsv.tf^
@@ -3606,13 +3604,11 @@
 ||getlickd.com^
 ||getlink.at^
 ||getlink.space^
-||getmovie.vip^
 ||getpcp.net^
 ||getrecipe.pro^
 ||getshort.in^
 ||getshorter.com^
 ||getsmallurl.com^
-||getsterlink.com^
 ||getthot.com^
 ||gettolink.net^
 ||getus.at^
