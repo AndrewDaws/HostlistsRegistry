@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.93
+! Version: 1.0.98.94
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T13:35:37.410Z
+! Last modified: 2026-07-05T14:36:26.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1230,7 +1230,6 @@
 ||555frombinary.com^
 ||55726zubo56686.com^
 ||557ma7bd9.com^
-||5608c7633c.com^
 ||5636bc7886.02672653a1.com^
 ||565ddd0acd.4c4a520279.com^
 ||56bfc388bf12.com^
@@ -7696,7 +7695,6 @@
 ||b7sw62.pingshu8.xyz^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b82q168jgj.com^
-||b84f93087e.com^
 ||b88a266bee.889dbee9c9.com^
 ||b8b4ix7bj.com^
 ||b8e2af647f.com^
@@ -17205,7 +17203,6 @@
 ||ef6f055a34.a54a8ff97b.com^
 ||efadfubcqalcr.club^
 ||efcmdpfbepeba.site^
-||effe2f62ae.com^
 ||effectivecpmcontent.com^
 ||effectivecpmgate.com^
 ||effectivecpmnetwork.com^
@@ -21281,7 +21278,6 @@
 ||glistenbutt.com^
 ||glitteringsinkingdefense.com^
 ||glizauvo.net^
-||glkbqoypclywz.space^
 ||glkjcdxmnjssm.online^
 ||glkmvagwntgde.website^
 ||gllogiubisccs.website^
