@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.98.89
+! Version: 1.0.98.90
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T09:08:51.580Z
+! Last modified: 2026-07-05T10:47:14.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -66,7 +66,6 @@
 ||0645405ef4.com^
 ||066b0fa5eb.64980aaffd.com^
 ||066b7e895c.com^
-||067f87da09.com^
 ||067oij53m.com^
 ||06aa7d6d80.com^
 ||06b36b4508.5813e74b18.com^
@@ -267,7 +266,6 @@
 ||12b500858d.com^
 ||12ezo5v60.com^
 ||12signup.com^
-||12xgetsready12.monster^
 ||12xlwin4m.com^
 ||12ybs41sa.com^
 ||12ypksztq.com^
@@ -820,7 +818,6 @@
 ||311ingreenhouse.com^
 ||3120jpllh.de^
 ||314gqd3es.de^
-||3163ba76f7.com^
 ||316feq0nc.de^
 ||317796hmh.de^
 ||318pmmtrp.de^
@@ -1473,7 +1470,6 @@
 ||6b8emvi3ya.com^
 ||6b902da043.com^
 ||6b9wbbjf5s.com^
-||6bcc158a9d.2f7f58d605.com^
 ||6bgaput9ullc.com^
 ||6buueioe.xyz^
 ||6by30.com^
@@ -4821,7 +4817,6 @@
 ||af-ad.co.uk^
 ||af.click.ru^
 ||af1tsjdta.com^
-||af305e6c77.com^
 ||af30ee9e36.com^
 ||af9550f443.c1db3bcb4b.com^
 ||afanglffjywuu.site^
@@ -7796,7 +7791,6 @@
 ||baj.fanwenzhan.com^
 ||bajreesunrose.qpon^
 ||bajyiflenzdxl.space^
-||bakaevzrmcqdo.global^
 ||bakersequaled.com^
 ||bakerstreet.uk.com^
 ||bakerstreetfinance.tv^
@@ -9160,7 +9154,6 @@
 ||bootstraplugin.com^
 ||bootyregisteredcleared.com^
 ||boowithout.com^
-||bopmsxjwjuwjj.click^
 ||bordeaux.futurecdn.net^
 ||bordermotivation.com^
 ||boreaddingobserve.com^
@@ -10437,7 +10430,6 @@
 ||ccrdcfkugujnl.space^
 ||ccshymxkbepsl.online^
 ||cctpyneuuiuwn.site^
-||ccuoqedyqvttq.tech^
 ||ccwqjgycmojrg.site^
 ||cd2bkmz3rz.com^
 ||cd2ef10dae.com^
@@ -13078,7 +13070,6 @@
 ||cutbpmobdpitn.website^
 ||cuterbond.com^
 ||cutescale.online^
-||cutiplpknfpbn.online^
 ||cutterbewilderedvile.com^
 ||cuttlefly.com^
 ||cutweedgarn.qpon^
@@ -15206,7 +15197,6 @@
 ||depleterefutation.com^
 ||deplorablefaintest.com^
 ||depmestiza.com^
-||depreciatorybollocksupkitchen.com^
 ||deprivationperkcorrectly.com^
 ||depriverippledecadence.com^
 ||depthsdeficitunited.com^
@@ -25887,7 +25877,6 @@
 ||joogaipseed.net^
 ||joograika.xyz^
 ||joohugreene.net^
-||jooinzvayqbih.rocks^
 ||jooiqfoclhybf.online^
 ||joojgpfnifpsd.space^
 ||jookaureate.com^
