@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.25
+! Version: 1.0.21.26
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-05T05:25:27.718Z
+! Last modified: 2026-07-06T05:33:55.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -191,7 +191,6 @@
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
-||dischargebackhanded.com^
 ||displaymovies.pl^
 ||distrochooser.snehit.dev^
 ||dkfodboldstore.com^
@@ -280,6 +279,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -439,9 +439,11 @@
 ||kontribusiuang.top^
 ||kopisusu.co.id^
 ||kra18.com^
+||kreditmudah.shop^
 ||kuyhaa.cc^
 ||lasercutjewelry.net^
 ||lds.xyz^
+||ledgers.network^
 ||lemstore.com^
 ||leonoremanry.sa.com^
 ||lericettedifrancy74.com^
@@ -461,9 +463,7 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
-||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -589,6 +589,7 @@
 ||official.olymptrade-my.com^
 ||officialkmspico.com^
 ||oflike.com^
+||ojlkimed.vip^
 ||okdebrid.com^
 ||oldcube.com^
 ||olive121407.studio.site^
