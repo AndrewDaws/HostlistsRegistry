@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.0
+! Version: 1.0.99.1
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-05T23:27:45.917Z
+! Last modified: 2026-07-06T00:58:11.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1240,7 +1240,6 @@
 ||57573zubo36833.com^
 ||577a3cfb8b.f014b13156.com^
 ||57f6508c2d.com^
-||57hh2n2kv573j34hok.rest^
 ||57l2ng6r91.com^
 ||57m2em0y.xyz^
 ||5812afc7cb.com^
@@ -8471,7 +8470,6 @@
 ||betads.xyz^
 ||betahit.click^
 ||betaoutinnovations.net^
-||beteelaboiling.cyou^
 ||betemolgar.com^
 ||beterrakionan.com^
 ||betgorebysson.club^
@@ -9327,7 +9325,6 @@
 ||brandnewapp.pro^
 ||brandreachsys.com^
 ||brandsmat.com^
-||brarowmannetbigwigs.cfd^
 ||brashstudiocrucial.com^
 ||brassstacker.com^
 ||brationalfilarded.com^
@@ -9728,7 +9725,6 @@
 ||buttondeeprootedbedside.com^
 ||buttontileaiming.com^
 ||butwehaveino.com^
-||butylicrinsing.qpon^
 ||buvhlspktqqoi.online^
 ||buwiibffvwhjs.online^
 ||buyer.dspx.tv^
@@ -10117,7 +10113,6 @@
 ||camel.warvik.no^
 ||cameradiminishunkind.com^
 ||cameraeuntruth.shop^
-||caminonattockdeturb.cfd^
 ||camliveshow.xyz^
 ||camomilegentlemennotable.com^
 ||camouflagemm.com^
@@ -15441,7 +15436,6 @@
 ||dial.rencontres-celibataires.info^
 ||dialergruf.cyou^
 ||dialling-abutory.com^
-||diameter94.com^
 ||diamylthills.shop^
 ||dianomi.com^
 ||diaperdollrelevant.com^
@@ -20512,7 +20506,6 @@
 ||fyovqgkrvoiyo.website^
 ||fyqvlsvraskhk.online^
 ||fyrsbckgi-c.global.ssl.fastly.net^
-||fyt7ehcmwjow5h4yvu.cfd^
 ||fytbadthewihr.store^
 ||fyxhvdyjwyilg.space^
 ||fyzfvrnfmtzxm.online^
@@ -21980,7 +21973,6 @@
 ||gtavnhoxf.com^
 ||gtbdhr.com^
 ||gtbvzopahlyts.website^
-||gtcpicnics.com^
 ||gtdwcttwvpxdn.online^
 ||gtfccewpo.com^
 ||gtghsgrneexou.website^
@@ -22067,7 +22059,6 @@
 ||guehsgqmawega.online^
 ||guekoe.icu^
 ||guestconspiracy.com^
-||gufferloliindan.cfd^
 ||gugent.xyz^
 ||gughkbhwynapy.website^
 ||guhmzgbwilvst.space^
@@ -23602,7 +23593,6 @@
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
 ||hustlereadcoffeehouse.com^
-||hutiaumbelgarring.qpon^
 ||hutmqkgdvayc.com^
 ||hutojzbran.com^
 ||hutteddyinfluenced.com^
@@ -31366,7 +31356,6 @@
 ||murlkkvdognpy.website^
 ||murphydrying.com^
 ||murvjwucldspc.space^
-||musangyacata.cyou^
 ||musclesaskewfeeding.com^
 ||musersrands.cfd^
 ||museumbodyguardappear.com^
@@ -31670,7 +31659,6 @@
 ||n6wxm.com^
 ||n730.timesunion.com^
 ||n7fyrdeen.com^
-||n7x9m2llqnpnlzn.rest^
 ||n818.timesherald.com^
 ||n8bpikx1mt.com^
 ||n906n29tm.com^
@@ -35280,7 +35268,6 @@
 ||pho.heo69.name^
 ||phobiabrule.cfd^
 ||phobpyorgiokc.space^
-||phocallegatosrondels.cfd^
 ||phoenix-adrunner.mycomputer.com^
 ||phognult.com^
 ||phomueguyyilv.store^
@@ -39277,7 +39264,6 @@
 ||ringerbaseballsilk.com^
 ||ringtonepartner.com^
 ||rinqgwqhyxozh.website^
-||rinserteiids.cyou^
 ||rio9s1zdpd.com^
 ||ripagitateway.com^
 ||ripe-heart.com^
@@ -39623,7 +39609,6 @@
 ||rotsurroundings.com^
 ||rottemuckna.com^
 ||rottencycle.com^
-||roubouhyokuts.cyou^
 ||roucoutaivers.com^
 ||roudoduor.com^
 ||rougefictionnoose.com^
@@ -40792,7 +40777,6 @@
 ||sagaciousexceptingrate.com^
 ||sagcelebration.com^
 ||sageanalyst.net^
-||saggarsabrook.qpon^
 ||saggrowledetc.com^
 ||saghandkerchief.com^
 ||sagierplugger.com^
@@ -42108,7 +42092,6 @@
 ||skadnetwork.singular.net^
 ||skadsdk.appsflyer.com^
 ||skadsdk.appsflyersdk.com^
-||skaldicclat.cfd^
 ||skarhkcpnjaky.website^
 ||skatetimprojects.com^
 ||skatolecloven.com^
@@ -44496,7 +44479,6 @@
 ||swan-swan-goose.com^
 ||swan.visualma.com^
 ||swanempower.com^
-||swarddename.shop^
 ||swarfamlikar.com^
 ||swarmjointarmchair.com^
 ||swarmpush.com^
@@ -45934,7 +45916,6 @@
 ||tluihoeadocjs.store^
 ||tlvbtryetgppha.com^
 ||tlvmedia.com^
-||tlwkfwnww.com^
 ||tlymkoakdd.com^
 ||tlzwfptcxztnx.space^
 ||tm-banners.gamingadult.com^
@@ -48375,7 +48356,6 @@
 ||unlockswervehustle.com^
 ||unlocky.org^
 ||unlocky.xyz^
-||unlookgossipy.cyou^
 ||unlousycrag.shop^
 ||unlsgohnfabkf.site^
 ||unltdentertainment.co^
@@ -50308,7 +50288,6 @@
 ||wakealibis.com^
 ||wakemansnooper.qpon^
 ||wakenleonist.com^
-||wakingsollya.cfd^
 ||walkeralacrityfavorite.com^
 ||wall.vgr.com^
 ||wallaby.cron.help^
