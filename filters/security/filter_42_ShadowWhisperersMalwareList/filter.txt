@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.20.98
+! Version: 1.0.20.99
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-02T05:26:20.141Z
+! Last modified: 2026-07-06T23:30:21.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1079,6 +1079,7 @@
 ||5608c7633c.com^
 ||569f43f295.com^
 ||56a76cb7c7.com^
+||56ac0d1497.com^
 ||56b1db5afb.com^
 ||56eed75dbe.com^
 ||5707f9766c.com^
@@ -2939,6 +2940,7 @@
 ||agitationfourthplug.com^
 ||agitationmedicdrug.com^
 ||agitationselfservice.com^
+||aglaiaazuline.cyou^
 ||agleafsaucy.world^
 ||agnateseric.com^
 ||agnolinposapavimenti.it^
@@ -5042,6 +5044,7 @@
 ||b5f1d2bb4d.com^
 ||b5j7.lol^
 ||b-5-shield.com^
+||b6587458ed.com^
 ||b67f1b04e9.com^
 ||b69b92742d.com^
 ||b6b822a0982b5df52c495e5f8368365ce6989241.ph^
@@ -5211,6 +5214,7 @@
 ||ballerswallet.com^
 ||balletsbeep.com^
 ||ballinghelonin.com^
+||ballingnanpie.cfd^
 ||ballisticforgotten.com^
 ||ballisticimpersonalpots.com^
 ||ballisticlitterusefully.com^
@@ -6118,6 +6122,7 @@
 ||birdeangioid.com^
 ||birdeyecherty.shop^
 ||birdgrasshopper.com^
+||birdpriceall.com^
 ||birdstab.xyz^
 ||birlersbhunder.com^
 ||birostorope49.anondns.net^
@@ -6751,6 +6756,7 @@
 ||brandyyank.com^
 ||brapancreaspuzzle.com^
 ||brasacquiet.com^
+||brashgrandchild.com^
 ||brashstudiocrucial.com^
 ||brasilschirrs.com^
 ||brasquebourse.com^
@@ -10287,6 +10293,7 @@
 ||criticismgodlessauthors.com^
 ||crittereasilyhangover.com^
 ||crizzelbelout.com^
+||crmared.com^
 ||crmerid.com^
 ||crntv.link^
 ||croakglanceskier.com^
@@ -10521,6 +10528,7 @@
 ||curvepatter.com^
 ||cushioncloselywarmth.com^
 ||cushionsofa.xyz^
+||cusiana-procked.com^
 ||cussosdisman.shop^
 ||custodycraveretard.com^
 ||customerablative.com^
@@ -11036,6 +11044,7 @@
 ||d27uz827y1nafd.cloudfront.net^
 ||d27x580xb9ao1l.cloudfront.net^
 ||d27x9po2cfinm5.cloudfront.net^
+||d285ff9533.com^
 ||d28bcu8ltt2bxh.cloudfront.net^
 ||d28g1fhp6rn9w3.cloudfront.net^
 ||d28k9nkt2spnp.cloudfront.net^
@@ -11884,6 +11893,7 @@
 ||datinggold.cz^
 ||datingiife.net^
 ||datingkoen.site^
+||datinglander.com^
 ||datinglifee.com^
 ||datinglive.net^
 ||datinglookup.top^
@@ -12618,6 +12628,7 @@
 ||device-safety.com^
 ||devicoffee.com^
 ||deviltwentiethcriteria.digital^
+||devilyquondam.cyou^
 ||devisalriffing.com^
 ||devisecircuitpatron.com^
 ||devisecuriously.com^
@@ -13881,6 +13892,7 @@
 ||dtpbt6teapmm3.cloudfront.net^
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtrwsre.shop^
+||dtsedge.com^
 ||dtsince.com^
 ||dtstesting.com^
 ||dtu2kitmpserg.cloudfront.net^
@@ -14081,6 +14093,7 @@
 ||dzhongrui.cn^
 ||dzhzp0zlnyoe8.cloudfront.net^
 ||dzr4v2ld8fze2.cloudfront.net^
+||dz.rheumicprofit.shop^
 ||dzs55b7slwyx.cloudfront.net^
 ||dzt3uyxd69um2.cloudfront.net^
 ||dzu5p9pd5q24b.cloudfront.net^
@@ -15926,6 +15939,7 @@
 ||fastidiousilliteratehag.com^
 ||fastidiouso.com^
 ||fastincognitomode.com^
+||fastinglefties.qpon^
 ||fastinternet.mobi^
 ||fastjoins.com^
 ||fastklick.biz^
@@ -16227,6 +16241,7 @@
 ||ffszbrw34.com^
 ||fgpp.com^
 ||fh259by01r25.com^
+||fh-dxy.com^
 ||fhg2x9ek.com^
 ||fhgh9sd.com^
 ||fhhkrtrk.com^
@@ -17781,6 +17796,7 @@
 ||gaming-search.com^
 ||gamingweb.de^
 ||gamingwonderland.com^
+||gammaclown.com^
 ||gammatraffic.com^
 ||gamsrch.com^
 ||ganasalas.com^
@@ -17922,6 +17938,7 @@
 ||gemaricspieled.com^
 ||gemfowls.com^
 ||geminibugs.com^
+||geminidshotgun.top^
 ||geminiso.ru^
 ||gemkimya.com^
 ||gemverify.com^
@@ -18923,6 +18940,7 @@
 ||greatpcchoice.com^
 ||greatselections.co^
 ||greaudstudio.com^
+||grecerephaellotoses.qpon^
 ||greececolours.com^
 ||greecescreendream.com^
 ||greedbully.com^
@@ -21638,6 +21656,7 @@
 ||inhospitablechasestun.com^
 ||inhospitablemasculinerasp.com^
 ||inhospitableten.com^
+||inhouseclick.net^
 ||initdex.com^
 ||initialanyway.com^
 ||initialcolonial.com^
@@ -33448,6 +33467,7 @@
 ||roxyatenism.com^
 ||royalbetgiris.cfd^
 ||royalbgood.com^
+||royaldepotscrewdriver.com^
 ||royalfolders.com^
 ||royalrelentcorrespondence.com^
 ||royal-search.com^
@@ -36636,6 +36656,7 @@
 ||spiderhannahresidential.com^
 ||spidersprimary.com^
 ||spidertrippingwisplike.com^
+||spieredtireder.shop^
 ||spierswyted.com^
 ||spiffy-pen.com^
 ||spignutkawika.shop^
@@ -38192,6 +38213,7 @@
 ||tdsinto.com^
 ||tdsjsext.com^
 ||tdsshark.xyz^
+||te73zxl21o9qll88z2hr1yt1upij.cfd^
 ||teacakehobbedniall.cfd^
 ||teacherhamish.com^
 ||teacherobjectionstolerant.com^
@@ -39629,6 +39651,7 @@
 ||trk-consulatu.com^
 ||trk-convenire.com^
 ||trkcrlt.com^
+||trkdating.com^
 ||trk-deserunt.com^
 ||trkdml4.com^
 ||trkdml5.com^
@@ -42852,6 +42875,7 @@
 ||yourbot.club^
 ||yourbrolink4d.com^
 ||your-captcha.com^
+||yourchain.info^
 ||yourchances.net^
 ||yourclassifiedsnow.com^
 ||yourcommonfeed.com^
