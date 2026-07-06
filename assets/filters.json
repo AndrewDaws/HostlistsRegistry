@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.71.68",
+			"version": "1.0.71.69",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-06T17:06:14+0000"
+			"timeUpdated": "2026-07-06T18:44:20+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.26.97",
+			"version": "1.1.26.98",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-06T17:06:17+0000"
+			"timeUpdated": "2026-07-06T18:44:23+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -172,14 +172,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.18.86",
+			"version": "1.0.18.87",
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-06T17:06:31+0000"
+			"timeUpdated": "2026-07-06T18:44:37+0000"
 		},
 		{
 			"filterKey": "hagezi_pro++",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.99.5",
+			"version": "1.0.99.6",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-06T17:06:34+0000"
+			"timeUpdated": "2026-07-06T18:44:40+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -1031,14 +1031,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.41.38",
+			"version": "1.0.41.39",
 			"homepage": "https://phishing.army/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"subscriptionUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": "2023-07-19T22:24:59+0000",
-			"timeUpdated": "2026-07-06T11:37:18+0000"
+			"timeUpdated": "2026-07-06T18:45:14+0000"
 		},
 		{
 			"filterKey": "curben_phishing_filter",
