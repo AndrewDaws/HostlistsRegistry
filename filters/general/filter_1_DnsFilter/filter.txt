@@ -1,12 +1,14 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.71.66
+! Version: 1.0.71.67
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-06T13:23:58.367Z
+! Last modified: 2026-07-06T15:10:14.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||twigcrucialpal.com^
+||unalaskamiaskitewormproof.monster^
 ||buzzoola.com^
 ||untimely-proof.pro^
 ||delightlintlunatic.com^
@@ -15654,6 +15656,7 @@ vkcdnservice.appspot.com^
 ||daboovip.xyz^
 ||dabxucgukjf.in^
 ||daccroi.com^
+||dacoityyawnups.cyou^
 ||dadqcuxqdnecx.space^
 ||dadsats.com^
 ||dadsimz.com^
@@ -17786,6 +17789,7 @@ vkcdnservice.appspot.com^
 ||ebonizerebake.com^
 ||eboxgiwwapmri.online^
 ||eboxrcvjhxgcm.online^
+||ebrictycleric.cyou^
 ||ebrvjdndvkvek.space^
 ||ebsardfdabxhr.space^
 ||ebtwanvamfwwi.space^
@@ -20935,6 +20939,7 @@ vkcdnservice.appspot.com^
 ||galeodvern.qpon^
 ||galettevexedinguen.cfd^
 ||galikbrekkygreeter.cyou^
+||galileiplinker.qpon^
 ||galitaillevessels.cfd^
 ||gallantfamineana.com^
 ||galleonentopic.com^
@@ -24451,6 +24456,7 @@ vkcdnservice.appspot.com^
 ||indooritalian.com^
 ||indoorrobotsunnecessary.com^
 ||indoorsscoldbail.com^
+||inducestoiles.shop^
 ||indulgeassortmentdone.com^
 ||indulgencelate.com^
 ||indulgencemolly.com^
@@ -25635,6 +25641,7 @@ vkcdnservice.appspot.com^
 ||jkha742.xyz^
 ||jkheiyvgvjfwy.online^
 ||jkivksjqquguc.store^
+||jkjxrbojfcljp.site^
 ||jklfhxxmxjcqi.space^
 ||jklpy.com^
 ||jklxapwjjgyqb.space^
@@ -25730,6 +25737,7 @@ vkcdnservice.appspot.com^
 ||jochhumin.cyou^
 ||jockeyaloofefluky.qpon^
 ||jodcvjpnvcmua.website^
+||jodogcgopasds.site^
 ||jofddomgfztan.website^
 ||jofxpmbbyjxoo.website^
 ||jofzlmsbvfpld.website^
@@ -25987,6 +25995,7 @@ vkcdnservice.appspot.com^
 ||judicialphilosophical.com^
 ||judicialreaphealth.com^
 ||judiciousbarnacle.com^
+||judsosvhqpuio.online^
 ||judweeda.qpon^
 ||jufmgsnsjjcpk.site^
 ||jufqzounkpmjf.site^
@@ -26283,6 +26292,7 @@ vkcdnservice.appspot.com^
 ||kaubapsy.com^
 ||kaudawwhwjllo.site^
 ||kaushooptawo.net^
+||kauxgpqpbuxtl.online^
 ||kavanga.ru^
 ||kavblcvs.com^
 ||kavcapfpjbhpn.space^
@@ -26443,6 +26453,7 @@ vkcdnservice.appspot.com^
 ||keymovehostel.shop^
 ||keywordblocks.com^
 ||keywordsconnect.com^
+||kezlgfdvsawqv.website^
 ||kezsfgrilmbwi.store^
 ||kfbjqsqbvnmrj.site^
 ||kfeiovrksdezl.online^
@@ -26473,6 +26484,7 @@ vkcdnservice.appspot.com^
 ||kggnwgbrbawfg.space^
 ||kgguxnrwpqoif.site^
 ||kghzmesashlfi.space^
+||kgimudenwjylc.website^
 ||kgiqptmzhkidx.website^
 ||kgmikoqcisnib.site^
 ||kgmipfngmsypp.online^
@@ -31059,6 +31071,7 @@ vkcdnservice.appspot.com^
 ||njndkusublsuvld.com^
 ||njpwzgxksptql.website^
 ||njqwbjbgvupfm.website^
+||njrzqlulkauez.website^
 ||njsarhluoqxqo.store^
 ||njtbmyyhwjaxo.online^
 ||njufaubstlpar.space^
@@ -33815,6 +33828,7 @@ vkcdnservice.appspot.com^
 ||piasabagiveth.com^
 ||piazzaaiery.qpon^
 ||piberiiqzcegb.site^
+||pibikakrg.com^
 ||pic2host.icu^
 ||pichost24.club^
 ||pichost24.site^
@@ -36369,6 +36383,7 @@ vkcdnservice.appspot.com^
 ||ratitesbogging.com^
 ||ratpmvosvwfra.space^
 ||rattedaten.cyou^
+||rattednuncle.qpon^
 ||rattishandrewlemanea.qpon^
 ||rattledcareenssired.qpon^
 ||rattlekindergartencultivate.com^
@@ -36614,6 +36629,7 @@ vkcdnservice.appspot.com^
 ||recoverpresentationdriver.com^
 ||recoveryongoing.com^
 ||recrampwiped.com^
+||recreateoption.com^
 ||recreationducked.com^
 ||rectabother.qpon^
 ||rectangledevelopernewspapers.com^
@@ -37141,6 +37157,7 @@ vkcdnservice.appspot.com^
 ||rhinfyfqtvift.site^
 ||rhinoaffiliates.com^
 ||rhioslazjp.com^
+||rhizopiuniquezurich.cyou^
 ||rhizotasegue.com^
 ||rhizoteoutings.cfd^
 ||rhjuemstwodrh.space^
@@ -37155,6 +37172,7 @@ vkcdnservice.appspot.com^
 ||rhombicsomeday.com^
 ||rhousoasopersb.org^
 ||rhploidy.com^
+||rhpytfij.com^
 ||rhrppklpmx.com^
 ||rhstsudlojlai.space^
 ||rhubarbambassadorweep.com^
@@ -37554,6 +37572,7 @@ vkcdnservice.appspot.com^
 ||roowt5l491yq6hb2v.cfd^
 ||ropabcagapfvy.com^
 ||ropakkmnqyglf.site^
+||ropemeneyas.shop^
 ||ropesscrapeboutique.com^
 ||roqeke.xyz^
 ||roredi.com^
@@ -37828,6 +37847,7 @@ vkcdnservice.appspot.com^
 ||rumkinboilylased.cyou^
 ||rummagebowlingacheless.com^
 ||rummierencamp.qpon^
+||rummleio.qpon^
 ||rummyaffiliates.com^
 ||rumouruprising.com^
 ||rumperapasote.qpon^
@@ -42855,7 +42875,6 @@ vkcdnservice.appspot.com^
 ||twerpuveitic.com^
 ||twgtgpovwbqdy.website^
 ||twieriofyxkqe.space^
-||twigcrucialpal.com^
 ||twigwisp.com^
 ||twilightinspiredglands.com^
 ||twiltformyl.qpon^
@@ -45918,6 +45937,7 @@ vkcdnservice.appspot.com^
 ||wignosy.com^
 ||wigvceapsow.com^
 ||wigwamkykedegusts.cfd^
+||wigwamscoexert.qpon^
 ||wihbqmopoxatd.site^
 ||wihwzfypz.com^
 ||wiify84.net^
@@ -135842,6 +135862,7 @@ dlsdk.appsflyer.com^
 ||chaosmonitor.com^
 ||chargecracker.com^
 ||charmingplate.com^
+||chemistrycore.com^
 ||cherriescare.com^
 ||chessbranch.com^
 ||chesscolor.com^
