@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.88
+! Version: 1.0.18.89
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-06T20:43:20.086Z
+! Last modified: 2026-07-06T22:32:12.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2853,6 +2853,7 @@
 0.0.0.0 smicaval.fr
 0.0.0.0 smile-angel.com
 0.0.0.0 smosh.fr
+0.0.0.0 snapsonthehouse.com
 0.0.0.0 snscf.fr
 0.0.0.0 sociagil.fr
 0.0.0.0 societegernerale.fr

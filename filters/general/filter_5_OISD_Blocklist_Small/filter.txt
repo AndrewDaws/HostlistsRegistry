@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.7
+! Version: 1.0.99.8
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-06T21:35:39.944Z
+! Last modified: 2026-07-06T22:32:16.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1712,7 +1712,6 @@
 ||7nb71ub2xi.com^
 ||7nt9p4d4.de^
 ||7p5ruxflv0.com^
-||7pc9tqr7ulgx85f9hhnu9hf2mb33frc.rest^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||7q2701vx8e.com^
 ||7qi2.fowebsiqa.shop^
@@ -6215,7 +6214,6 @@
 ||android.bugly.qq.com^
 ||androidduvetscribble.com^
 ||androidstores.ru^
-||aneathyocked.shop^
 ||aneguftwymwfg.store^
 ||anelerheen.top^
 ||anemonew33.top^
@@ -8829,7 +8827,6 @@
 ||blackedlegated.qpon^
 ||blackedrisen.com^
 ||blackedsubjected.com^
-||blackeycontemn.cfd^
 ||blacklivesmatter1.org^
 ||blacknesscalculatorboxing.com^
 ||blacktri-a.akamaihd.net^
@@ -10378,7 +10375,6 @@
 ||cavvfjxabrffj.website^
 ||cawauwhod.top^
 ||cawfwcxxaacdg.site^
-||cayugascorded.cyou^
 ||cb.baidu.com^
 ||cb07whvmx.com^
 ||cb260f4651.com^
@@ -14898,7 +14894,6 @@
 ||dct.mango-office.ru^
 ||dcunkpgzsysvg.website^
 ||dcv4p460uqa46.cloudfront.net^
-||dcvssaited.com^
 ||dcwnhlzrvnlnj.website^
 ||dcwxhamq0.com^
 ||dczhbhtz52fpi.cloudfront.net^
@@ -17456,7 +17451,6 @@
 ||elatedcamera.com^
 ||elaydark.com^
 ||elbep.xyz^
-||elbwhatna.shop^
 ||elcineencasa.com^
 ||elclaq.icu^
 ||elcoastlinecall.com^
@@ -25830,7 +25824,6 @@
 ||jkmawumzebcim.space^
 ||jkmdfnarliyun.website^
 ||jkmjjjlah.com^
-||jkotxmc5j1iwji5muk9xxwmjvjcc2.cfd^
 ||jkpzthxjt.com^
 ||jkqiweqrxsieb.website^
 ||jksmaafnkdyni.store^
@@ -27565,7 +27558,6 @@
 ||largeconsulting.org^
 ||laridaetrionfo.top^
 ||larkinflate.com^
-||larlikeelses.cyou^
 ||larlymckense.com^
 ||larnox.info^
 ||larvapeasstretched.com^
@@ -31453,7 +31445,6 @@
 ||mutinedgunster.com^
 ||mutinousburyquestionable.com^
 ||mutipugly.com^
-||mutterschokervivary.qpon^
 ||muuxrbdsheuhg.space^
 ||muwmedia.com^
 ||muxc8wxhv.com^
@@ -34354,7 +34345,6 @@
 ||owchaavetonb.com^
 ||owcocjnvemjlo.com^
 ||owdefgcqhxtyf.store^
-||owedicing.cyou^
 ||owen.prolitteris.ch^
 ||owfijkhomxdfo.space^
 ||owhaptih.net^
@@ -35140,7 +35130,6 @@
 ||percentscalespoorly.com^
 ||perch.luckydiff.com^
 ||perchincomenotorious.com^
-||perchlief.cyou^
 ||percussivedrip.com^
 ||percussivetakelaunch.com^
 ||pereliaastroid.com^
@@ -38281,7 +38270,6 @@
 ||raejwfqcdketq.website^
 ||rafekunbi.com^
 ||raffleprotectionbow.com^
-||rafflesgrabby.shop^
 ||rafflisle.com^
 ||raffomfha.com^
 ||rafvertizing.crazygames.com^
