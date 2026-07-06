@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.4
+! Version: 1.0.99.5
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-06T13:24:22.699Z
+! Last modified: 2026-07-06T17:06:35.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4683,7 +4683,6 @@
 ||advocate420.fun^
 ||advolve.io^
 ||advombat.ru^
-||advp.apple.com^
 ||advp1.com^
 ||advp2.com^
 ||advp3.com^
@@ -13031,8 +13030,6 @@
 ||cuozzjtmcmcgd.online^
 ||cupbearergrowllurch.com^
 ||cupdyxvpmiqfc.space^
-||cupid.iqiyi.com^
-||cupid.ptqy.gitv.tv^
 ||cupidirresolute.com^
 ||cupidrecession.com^
 ||cupis-lady-dreampartner.com^
@@ -31235,6 +31232,7 @@
 ||msg.qy.net^
 ||msg.simeji.baidu.jp^
 ||msg.simeji.me^
+||msga.cupid.iqiyi.com^
 ||msgkxtqtodoji.rocks^
 ||msgose.com^
 ||msgpbwbfradny.website^
@@ -36759,6 +36757,7 @@
 ||proxima.midjourney.com^
 ||proximic.com^
 ||proximitywolvesselfless.com^
+||proxy.advp.apple.com^
 ||proxy.dzeio.com^
 ||proxy.optoutadserving.com^
 ||proxy.trysavvy.com^
@@ -44913,6 +44912,7 @@
 ||t7fv5mjt8i.com^
 ||t7h2otlhd.com^
 ||t7ywa5ai3.com^
+||t7z.cupid.ptqy.gitv.tv^
 ||t810.ctpost.com^
 ||t85itha3nitde.com^
 ||t8t8jyxsr.com^
