@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.25.99
+! Version: 1.0.26.0
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-06T09:31:26.223Z
+! Last modified: 2026-07-06T13:24:32.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7191,7 +7191,6 @@
 ||filmoflix.ltd^
 ||filmoflix.media^
 ||filmoflix.money^
-||filmoflix.one^
 ||filmoflix.page^
 ||filmoflix.pizza^
 ||filmoflix.shop^
@@ -11411,7 +11410,6 @@
 ||livetv.asia^
 ||livetv.ru^
 ||livetv.sx^
-||livetv-en.com^
 ||livetv706.me^
 ||livetv786.pro^
 ||livetv802.me^
@@ -11443,7 +11441,6 @@
 ||loffe414wil.com^
 ||logansmovies.com^
 ||loiflix.xyz^
-||lojawarez.com^
 ||lok-i-klyuch-lordfilm3.ru^
 ||lokerbi-v-poiskah-pravdy-lordfilm3.ru^
 ||loki-lordfilm.buzz^

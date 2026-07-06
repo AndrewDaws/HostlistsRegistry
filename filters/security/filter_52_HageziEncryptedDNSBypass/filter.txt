@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.63
+! Version: 1.0.26.64
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-06T09:31:59.543Z
+! Last modified: 2026-07-06T13:25:06.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4260,13 +4260,9 @@
 ||dns.lmir.info^
 ||10.ln7371.top^
 ||xm.ln7371.top^
-||www.itrsa.env.lntxbox.com^
 ||dns.lobbygod.com^
-||lunaralgebra.localization.ee^
 ||playernation.localization.ee^
 ||playernationorg.localization.ee^
-||shadow.localization.ee^
-||sixsveen2927e8iddj.localization.ee^
 ||history.lodgegomantak.org^
 ||flat.loisy.it^
 ||nas-fusion.loisy.it^
@@ -5953,6 +5949,7 @@
 ||us-proxy.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
+||us3-browse.startpage.com^
 ||dns.startupstack.tech^
 ||idea.graph.statboss.com^
 ||adguard.stealbit.com^
@@ -12270,7 +12267,6 @@
 ||lindsay.run^
 ||linghun999.com^
 ||link-vpn.mom^
-||linkideo.com^
 ||linkmefree.net^
 ||linkmetube.com^
 ||linquarivo.xyz^
