@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.47
+! Version: 1.0.5.48
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-05T19:33:52.698Z
+! Last modified: 2026-07-06T09:32:00.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -437,7 +437,6 @@
 ||go.lamotte.fr^
 ||bio.laormedia.com^
 ||url.lcisd.net^
-||direct.learnspread.io^
 ||go.liara.ir^
 ||l.linforme.com^
 ||app.linkpod.co^
@@ -1131,6 +1130,7 @@
 ||3dsecure.org^
 ||3ft.ca^
 ||3ind.com^
+||3k.pe^
 ||3kx.in^
 ||3le.ru^
 ||3lo.gy^
@@ -4356,7 +4356,6 @@
 ||jdem.cz^
 ||jdev.uk^
 ||jdp.am^
-||jeetbuzzlinks.com^
 ||jek.it^
 ||jelink.id^
 ||jellylink.com^
@@ -4410,7 +4409,6 @@
 ||joshbut.llc^
 ||joskale.me^
 ||joturl.com^
-||joy8.bond^
 ||joyoflanguages.online^
 ||jp22.net^
 ||jpeg.ly^
@@ -4715,7 +4713,6 @@
 ||less.al^
 ||lessnmore.net^
 ||lesterchan.net^
-||letsconnect.fun^
 ||letsharu.cc^
 ||letx.be^
 ||letz.kr^
