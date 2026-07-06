@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.49
+! Version: 1.0.5.50
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-06T13:25:07.193Z
+! Last modified: 2026-07-06T19:38:29.164Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4396,6 +4396,7 @@
 ||jnshort.com^
 ||jo.my^
 ||jobscity24.com^
+||jobsvb.in^
 ||jog690.org^
 ||join-id.info^
 ||joiner.co^
@@ -5363,7 +5364,6 @@
 ||magaus.net^
 ||magaus.org^
 ||magaus.xyz^
-||magicwlinks.com^
 ||magnet-mind.com^
 ||mah.to^
 ||maha77.site^
@@ -5410,7 +5410,6 @@
 ||matchurl.com^
 ||matei.org^
 ||mathmayr.com^
-||matmacakiem222.makeup^
 ||mattes.live^
 ||mattlamadvisory.org^
 ||mattos.design^
@@ -5552,7 +5551,6 @@
 ||millerreception.com^
 ||mimsee2020.com^
 ||min.bz^
-||minecraftparodileri.com^
 ||mineurl.top^
 ||minfier.com^
 ||mini-url.in^
@@ -9630,6 +9628,7 @@
 ||xdomain.io^
 ||xdu.me^
 ||xdxd.org^
+||xem.li^
 ||xemoday.com^
 ||xemthem.link^
 ||xenvn.com^
