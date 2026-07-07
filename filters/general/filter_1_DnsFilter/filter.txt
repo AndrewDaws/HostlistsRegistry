@@ -1,12 +1,13 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.71.74
+! Version: 1.0.71.75
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-07T05:25:31.255Z
+! Last modified: 2026-07-07T07:21:07.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||ski.leftnewsex.com^
 ||twigcrucialpal.com^
 ||unalaskamiaskitewormproof.monster^
 ||buzzoola.com^
@@ -7347,6 +7348,7 @@ vkcdnservice.appspot.com^
 ||2aefgbf.de^
 ||2b178ee32a.com^
 ||2b91f59493.com^
+||2b94vykm41cxve31k.cfd^
 ||2ba0f6361c.com^
 ||2bilxr9lu9pr1w3ctofg4xrgje9r.cfd^
 ||2bm37r6cgeq5r32y3j.cfd^
@@ -9498,6 +9500,7 @@ vkcdnservice.appspot.com^
 ||aigretcrispclimata.cyou^
 ||aiharsoreersu.net^
 ||aihryemflflsa.website^
+||aiilyhytauvirl.com^
 ||aiiyoosioydfm.website^
 ||aikdaibvdijmd.online^
 ||ailcloister.com^
@@ -17529,6 +17532,7 @@ vkcdnservice.appspot.com^
 ||dust-0001.delorazahnow.workers.dev^
 ||dustexhibition.com^
 ||dustinga.com^
+||dustourrenewer.qpon^
 ||dustourtollage.qpon^
 ||dustyrender.com^
 ||dusurmmklwjx.com^
@@ -17620,6 +17624,7 @@ vkcdnservice.appspot.com^
 ||dyberamlhynnd.website^
 ||dyblpgaiomtdv.online^
 ||dybutryvnbsxc.website^
+||dyebecktrotlet.cyou^
 ||dyefejywztloj.store^
 ||dyeingsbayamo.com^
 ||dygudhixkfwew.online^
@@ -20697,6 +20702,7 @@ vkcdnservice.appspot.com^
 ||ftrem.site^
 ||ftrrhvgrgfaqx.site^
 ||ftslrfl.com^
+||ftsucithdgvle.online^
 ||ftv-publicite.fr^
 ||ftvrm39rox222hj1y.cfd^
 ||ftwftsvmssggs.online^
@@ -20917,6 +20923,7 @@ vkcdnservice.appspot.com^
 ||fyt7ehcmwjow5h4yvu.cfd^
 ||fytbadthewihr.store^
 ||fytcghbblhxff.online^
+||fytvrytpipenx.space^
 ||fyxhvdyjwyilg.space^
 ||fyzfvrnfmtzxm.online^
 ||fyzoqppdyllsr.store^
@@ -21676,6 +21683,7 @@ vkcdnservice.appspot.com^
 ||gloumsee.net^
 ||gloutanacard.com^
 ||glovedmenaced.shop^
+||glovingaeolus.cyou^
 ||glowdot.com^
 ||glowersmktsklater.cfd^
 ||glowingnews.com^
@@ -22814,6 +22822,7 @@ vkcdnservice.appspot.com^
 ||hdbcode.com^
 ||hdbcome.com^
 ||hdbkell.com^
+||hdbknoologygoularo.cfd^
 ||hdbkome.com^
 ||hdbtop.com^
 ||hdbudbsujobyi.space^
@@ -26634,6 +26643,7 @@ vkcdnservice.appspot.com^
 ||khyfmsnsisblx.website^
 ||khzypcnfnkjqw.website^
 ||kiackeffuse.qpon^
+||kiackgold.cyou^
 ||kibxgtjvdfuw.com^
 ||kickhoistsuccess.com^
 ||kickishsilt.cfd^
@@ -26663,6 +26673,7 @@ vkcdnservice.appspot.com^
 ||kiltyfarris.qpon^
 ||kimberlite.io^
 ||kimnelpinkeys.cyou^
+||kinbootchatons.qpon^
 ||kind-credit.com^
 ||kindergartenharness.com^
 ||kindergartensurgeon.com^
@@ -27885,6 +27896,7 @@ vkcdnservice.appspot.com^
 ||limoidtrowane.cfd^
 ||limp-signal.pro^
 ||limping-reputation.pro^
+||limsytarascobatussi.qpon^
 ||limuluscaliliderange.qpon^
 ||limzizffmrkkc.online^
 ||linageswhippa.cfd^
@@ -28417,6 +28429,7 @@ vkcdnservice.appspot.com^
 ||lrqqsseldxksb.online^
 ||lrt38y3c8yhfwxutfx.cfd^
 ||lrtfiyldgsawj.website^
+||lruqoojiabeik.online^
 ||lrvpquoavttir.site^
 ||lrwgmmuhrimpk.store^
 ||lrwprzvusazvh.website^
@@ -28638,6 +28651,7 @@ vkcdnservice.appspot.com^
 ||lxndpxudyrqyy.online^
 ||lxnxlhvunpqik.site^
 ||lxockgcdbobzl.online^
+||lxrffyqkackjhg.com^
 ||lxrjjgzynzdzj.online^
 ||lxstat.com^
 ||lxtacluhwhcfy.site^
@@ -28795,6 +28809,7 @@ vkcdnservice.appspot.com^
 ||maginp.com^
 ||magistrateknock.com^
 ||magmatapiazine.cyou^
+||magnatejuicier.qpon^
 ||magnificentdeedsenses.com^
 ||magnificentmanlyyeast.com^
 ||magnificentsentence.pro^
@@ -29295,6 +29310,7 @@ vkcdnservice.appspot.com^
 ||mentioneartabphrygia.cyou^
 ||mentionideablit.com^
 ||mentorremark.com^
+||meonehjvoopxlj8pk.rest^
 ||meoqrkio.com^
 ||meowadvertising.com^
 ||mepuyu.xyz^
@@ -30103,6 +30119,7 @@ vkcdnservice.appspot.com^
 ||mplayeranyd.info^
 ||mpmlabizlyewq.website^
 ||mpmqzkienrxkm.website^
+||mpmyghhdwswio.site^
 ||mpniplgzpqmlx.website^
 ||mpnjigsicbtas.site^
 ||mpnkuwbbdqcvt.online^
@@ -31759,6 +31776,7 @@ vkcdnservice.appspot.com^
 ||nwzxjhuerbkxz.space^
 ||nx6wlhi7y7imki.rest^
 ||nxammcghvgoin.website^
+||nxanrbmkthjbh.online^
 ||nxethnjxkujoa.site^
 ||nxhkagcslidhv.website^
 ||nxiybblfblloz.online^
@@ -32295,6 +32313,7 @@ vkcdnservice.appspot.com^
 ||oko.net^
 ||okooiejsudbgk.space^
 ||okopeukasrsiha.org^
+||okopuhtgqgelr.space^
 ||okoulvuvtzurb.site^
 ||okouzrbnldmmz.site^
 ||okqefbozkgqvd.website^
@@ -35941,6 +35960,7 @@ vkcdnservice.appspot.com^
 ||qpetanezqhixk.website^
 ||qpfxfxdwnuxrd.space^
 ||qpgbxpuoepxyb.online^
+||qpiandexqprrq.space^
 ||qpizuvmta.com^
 ||qpknssnnidbkwja.com^
 ||qplywkhnlfyfy.online^
@@ -36080,6 +36100,7 @@ vkcdnservice.appspot.com^
 ||quakingthereafter.com^
 ||qualiclicks.com^
 ||qualificationgarland.com^
+||qualified-beach.pro^
 ||qualifiedact.com^
 ||qualifiedbillion.com^
 ||qualitiessnoutdestitute.com^
@@ -39051,6 +39072,7 @@ vkcdnservice.appspot.com^
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharethrough.com^
+||shariatpaulian.qpon^
 ||shariatshagbag.cyou^
 ||sharp-action.com^
 ||sharp-field.pro^
@@ -41033,6 +41055,7 @@ vkcdnservice.appspot.com^
 ||suzzpmzdxwqkr.space^
 ||svanleiss.cyou^
 ||svbakoarswdvw.site^
+||svbnswmatdtsp.space^
 ||svckenton.com^
 ||svefjebugn.com^
 ||svgvlmegeeysc.space^
@@ -41747,6 +41770,7 @@ vkcdnservice.appspot.com^
 ||tgjonodnifuxu.online^
 ||tgku676zvz6bqm5n8f81u9j5qri1f218nu.cfd^
 ||tgmbxplmlsclp.space^
+||tgpfyjvaaijan.site^
 ||tguyxzkrxgzqt.online^
 ||thackedmacaca.cyou^
 ||thackuprise.cyou^
@@ -46177,6 +46201,7 @@ vkcdnservice.appspot.com^
 ||winterbedroomauction.com^
 ||winterdistortkey.com^
 ||winterpraised.com^
+||wintqcf.com^
 ||wintrck.com^
 ||wintrifleromantic.com^
 ||winzessolicit.com^
@@ -47072,6 +47097,7 @@ vkcdnservice.appspot.com^
 ||xirmhojmjyldx.site^
 ||xirugcrbfagsb.space^
 ||xismhhxnxzfdj.online^
+||xisvaxzfyg.com^
 ||xitsievucdlde.space^
 ||xivledoyfnbjx.space^
 ||xivsgjxkgnskk.online^
@@ -130310,6 +130336,7 @@ vkcdnservice.appspot.com^
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||omnimove.tourradar.com^
 ||jitsu.ixbt.games^
 ||streams-scores.rbl.ms^
 ||sync.inmobi.com^
