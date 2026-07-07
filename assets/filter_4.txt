@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.89
+! Version: 1.0.18.90
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-06T22:32:12.696Z
+! Last modified: 2026-07-07T18:47:38.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3169,6 +3169,7 @@
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.agreementnow.com
+0.0.0.0 www.ahlie.com
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
 0.0.0.0 www.airypathsq.name
@@ -3256,6 +3257,7 @@
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.builtinfo.com
 0.0.0.0 www.bumerang.cc
+0.0.0.0 www.buystables.com
 0.0.0.0 www.bvcnle.cfd
 0.0.0.0 www.cablyshaw.com
 0.0.0.0 www.calmde.com
@@ -3306,6 +3308,7 @@
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commuteinfo.com
+0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
 0.0.0.0 www.conservativedeeper.garden
@@ -3889,6 +3892,7 @@
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.trustaddons.com
 0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
 0.0.0.0 www.tvccpt.com
@@ -3928,6 +3932,7 @@
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
+0.0.0.0 www.webontwerp.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
