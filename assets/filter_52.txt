@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.66
+! Version: 1.0.26.67
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-07T09:16:19.497Z
+! Last modified: 2026-07-07T19:37:29.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4900,13 +4900,10 @@
 ||adguard.ohmhv57.org^
 ||iamgpingtocrashoutifidontgetimagepermstodayigottayap.okcomputersolutions.ca^
 ||adh.olesgroup.com^
-||dns.olimpya44.shop^
 ||dns.oliverweinhold.de^
 ||whydidtheydoitrosin.olneybaptist.org^
-||myjulain.ololow.com^
 ||dns.olpploiopkuyhiopsfrt.info^
 ||dns.omada.cafe^
-||baseball.school.omallysplayland.com^
 ||dns.omee4.ru^
 ||adguard.oms-ctr.ru^
 ||fcgv4rovovvlixqc2a7qncvev40dbxsy.lambda-url.us-east-1.on.aws^
@@ -4926,7 +4923,6 @@
 ||adguard.onlyfriends.info^
 ||d.onlyjsmylord.org^
 ||info.onnemaa.ee^
-||learn-vcsa.onnemaa.ee^
 ||learnvcsa.onnemaa.ee^
 ||ojjccwjwov.onnemaa.ee^
 ||playernation.onnemaa.ee^
@@ -4939,7 +4935,6 @@
 ||zatoga-learning.onrender.com^
 ||andybunn.onthewifi.com^
 ||nexus-is.onthewifi.com^
-||frog.oofer.lat^
 ||g7y.ooguy.com^
 ||hknat.ooguy.com^
 ||rammernutsack.ooguy.com^
@@ -4972,7 +4967,6 @@
 ||dns.us-phoenix-1.oraclecloud.com^
 ||proxy.ordentlichbreit.de^
 ||securely.abbotsfordhallforhire.org.au^
-||trains.antrak.org.tr^
 ||noads.api.org.pl^
 ||ixl.shh.dont.tell.apocalypto.org.uk^
 ||harshsmellsliketoes.fundacioncidea.org.ar^
@@ -4983,18 +4977,14 @@
 ||kuailianworld.org.cn^
 ||mdpa.org.tw^
 ||teslacoils.org.uk^
-||grammerhelper.organized-cloud.eu^
 ||gov.orion-stella.com^
 ||pn.orion-stella.com^
-||artemis.orionnexus.top^
 ||dns.oryxlabs.com^
 ||info.osiadaczabogados.cl^
-||learncsscode.osiadaczabogados.cl^
 ||dns.osmenoga.com^
 ||wireguard.osmenoga.com^
 ||forms.osquiz.info^
 ||dns.ostfriese.org^
-||thebelaxenir.ostrovska.sk^
 ||adguard.ota.moe^
 ||adguard2.ota.moe^
 ||adguard3.ota.moe^
@@ -5014,14 +5004,12 @@
 ||vps-d38e82a1.vps.ovh.us^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
-||doh.p2cdn.cn^
 ||www-proxy.p2pear.asia^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||topic.teach.pacbell.hk^
 ||solve.write.pacificbellinternational.com^
 ||dns.pacificmonster.com^
-||drive.google.com.pacl.us^
 ||dns.paesa.es^
 ||world.real.pagano.ch^
 ||bd2b0c9e.intermath.pages.dev^
@@ -5108,7 +5096,6 @@
 ||sci.grid.patlacroix.com^
 ||nas.patrick-antoine.fr^
 ||learning.about.college.paulkelly.org^
-||testing.paulsfamilyhistory.com^
 ||dns.paxavemedia.com^
 ||silentslab.pay-per-head-solutions.com^
 ||vps-ovh.pb2004.pl^
@@ -5120,7 +5107,6 @@
 ||theory.edu.pcsmsnow.com^
 ||dns.peb-schmidt.de^
 ||check.peer2profit.site^
-||securly.com.pegle.com^
 ||upon.pegle.com^
 ||fuchur.pentament.de^
 ||manwhyisschoolhard.pepikutan.net^
@@ -5147,9 +5133,7 @@
 ||dns1.pietjacobs.be^
 ||family.pietre-la-rinichi.ro^
 ||dns.pine-home.de^
-||happynewdestenation.pintravel.ro^
 ||dns.pizzari.me^
-||67dircen67.pjabbari.com^
 ||doh.plaawan.uk^
 ||door.plasmadancer.ru^
 ||www.bhghhfhgffghfjh.152-53-136-204.plesk.page^
@@ -5242,12 +5226,7 @@
 ||dns2.prima-solusindo.com^
 ||editor.primeent.in^
 ||welcome.primeent.in^
-||canvas.com.primeflk.ch^
-||orange-rev.enge.primeflk.ch^
-||chris.lol.primeflk.ch^
 ||crops.primeflk.ch^
-||virtualhistory.primeflk.ch^
-||wecanbebees.primeflk.ch^
 ||agh.printk.info^
 ||las-vegas.privacy-dns.pw^
 ||luxembourg.privacy-dns.pw^
@@ -13236,7 +13215,6 @@
 ||optnl.com^
 ||opwrt.org^
 ||oqlindar.ru^
-||oqvpkylq.com^
 ||or-milo.ru^
 ||oraclevpn.com^
 ||orangeproxy.net^
@@ -13246,7 +13224,6 @@
 ||oruru.ru^
 ||oryabina.ru^
 ||os4work.com^
-||oscnl.site^
 ||osekvoya.ru^
 ||oshipovnik.ru^
 ||osobaka.ru^
@@ -13294,7 +13271,6 @@
 ||paecvrvv.com^
 ||paeey.com^
 ||pafcaw.com^
-||pagecloud.space^
 ||paimist.com^
 ||paladinvpn.com^
 ||paleoy.com^
@@ -13447,7 +13423,6 @@
 ||pirzjdlz.com^
 ||pisk.loan^
 ||pitertv24.ru^
-||pixelgorithm.com^
 ||pixelprivacy.com^
 ||pixolium.com^
 ||pizdets.ca^
@@ -13480,7 +13455,6 @@
 ||planetvpn.app^
 ||planetvpn.cloud^
 ||planetvpn.club^
-||planetvpn-cdn.xyz^
 ||planetvpn-free.net^
 ||planetvpn-ru.com^
 ||planetvpn-ru.net^
@@ -13596,7 +13570,6 @@
 ||pranzor.ru^
 ||prastin.ru^
 ||praxelio.ru^
-||precisiontruck.space^
 ||predecessor.info^
 ||premium-vpn.app^
 ||premium-vpn.store^

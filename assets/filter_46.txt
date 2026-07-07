@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.2
+! Version: 1.0.26.3
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-07T09:15:46.127Z
+! Last modified: 2026-07-07T19:36:57.015Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1749,6 +1749,7 @@
 ||123moviesgate.com^
 ||123moviesgdn.biz^
 ||123moviesget.com^
+||123moviesgo.ga^
 ||123moviesgo.su^
 ||123moviesgo.top^
 ||123moviesgo.tv^
@@ -2763,6 +2764,7 @@
 ||altadefinizionegratis.watch^
 ||altadefinizionegratis.website^
 ||altadefinizionegratis.wiki^
+||altadefinizionegratis.win^
 ||altadefinizionegratis.work^
 ||altadefinizionegratis.xyz^
 ||altadefinizionegratis.yachts^
@@ -24083,7 +24085,6 @@
 ||onhax.me^
 ||onhaxnet.com^
 ||onhockey.tv^
-||onionplay.co^
 ||onionplay.net^
 ||onionplay.network^
 ||onionplay.org^
@@ -24289,7 +24290,6 @@
 ||pacans-the-boys-lordfilm.ru^
 ||pacans-the-boys-lordfilms.ru^
 ||pacany-lordfilm.cam^
-||pacany-lordfilm.com^
 ||pacany-lordfilm3.ru^
 ||paccaany-lordfilm.ru^
 ||paccanny-lordfilm.ru^
@@ -24334,7 +24334,6 @@
 ||paper-houses-lordfilm.ru^
 ||paper-housey-lordfilm.ru^
 ||papflix.com^
-||papiny-dochki-lordfilm.com^
 ||papiny-dochki-lordfilm.ru^
 ||papiny-dochki-novye-lordfilm.buzz^
 ||papystreaming.com^
@@ -24443,8 +24442,6 @@
 ||pelisflix1.surf^
 ||pelisflix2.auction^
 ||pelisflix2.biz^
-||pelisflix2.cards^
-||pelisflix2.club^
 ||pelisflix2.estate^
 ||pelisflix2.live^
 ||pelisflix2.voto^
@@ -24455,7 +24452,6 @@
 ||pelisflix20.boats^
 ||pelisflix20.click^
 ||pelisflix20.com^
-||pelisflix20.fit^
 ||pelisflix20.lat^
 ||pelisflix20.net^
 ||pelisflix20.pro^
@@ -24614,7 +24610,6 @@
 ||piratebay.tv^
 ||piratebay.website^
 ||piratebay-mirrors.com^
-||piratebay-proxies.com^
 ||piratebay-proxy.org^
 ||piratebay-proxy.to^
 ||piratebay-proxylist.com^
@@ -24622,11 +24617,9 @@
 ||piratebay1.info^
 ||piratebay1.live^
 ||piratebay1.xyz^
-||piratebayapparel.com^
 ||piratebayathletics.store^
 ||piratebayblocked.com^
 ||piratebayggf.xyz^
-||piratebayinsulation.com^
 ||piratebaylive.com^
 ||piratebaymirror.eu^
 ||piratebaymirror.xyz^
@@ -24661,7 +24654,6 @@
 ||pirateproxy.cc^
 ||pirateproxy.click^
 ||pirateproxy.cloud^
-||pirateproxy.ga^
 ||pirateproxy.id^
 ||pirateproxy.ink^
 ||pirateproxy.lat^
@@ -24713,7 +24705,6 @@
 ||pkgps4.click^
 ||pkinoxrzum.com^
 ||pkuedu.online^
-||pkuedu.ru^
 ||pl1.com^
 ||plamennaya-brigada-lordfilm.ru^
 ||plan-pobeega-lordfilms.ru^
@@ -24737,13 +24728,13 @@
 ||playmods.app^
 ||playmods.co^
 ||playmods.net^
+||playmp4.xyz^
 ||playplayx.com^
 ||playseries.club^
 ||playturk.tv^
 ||playtvgo.com^
 ||playurbano.com^
 ||playwarez.com^
-||playwarez.net^
 ||playx.fun^
 ||playzona.org^
 ||plc4me.com^
@@ -24832,7 +24823,6 @@
 ||politseyskiy-s-rublyovki-lordfilm.buzz^
 ||politseyskiy-s-rublyovki-lordfilm.top^
 ||pollitsiya-chikago-lordfilm.ru^
-||pollyflix.com^
 ||polnyj-raskolbas-lordfilm3.ru^
 ||polnyy-raskolbass-lordfilm.ru^
 ||polovoe-vospitanie-lordfilm3.ru^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.51
+! Version: 1.0.5.52
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-07T09:16:19.777Z
+! Last modified: 2026-07-07T19:37:29.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -557,7 +557,6 @@
 ||gracepoint.org.au^
 ||techcaresolution.org.in^
 ||short.organicweb.top^
-||pay.osome.com^
 ||go.osu.edu^
 ||twirl.otee.dev^
 ||k20.ou.edu^
@@ -6199,7 +6198,6 @@
 ||oyn.at^
 ||oyo.net^
 ||oyz.io^
-||oz.mk^
 ||ozb.me^
 ||ozz.kr^
 ||p.asia^
@@ -6255,7 +6253,6 @@
 ||paut.to^
 ||pavleka.com^
 ||pawl.bio^
-||payfca.com^
 ||paymash.io^
 ||payskip.org^
 ||payspot.pro^
@@ -6284,7 +6281,6 @@
 ||peak.fan^
 ||peak-prosperity.com^
 ||pebley.uk^
-||pecurgoa.com^
 ||pedalhub.store^
 ||peek.link^
 ||peekstory.com^
@@ -6451,7 +6447,6 @@
 ||preml.ge^
 ||prendre-rendezvous.com^
 ||prephe.ro^
-||prepostseo.tools^
 ||pressthis.link^
 ||prf.hn^
 ||prfd.net^

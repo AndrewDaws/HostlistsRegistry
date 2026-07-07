@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's The World's Most Abused TLDs
 ! Description: The Top Most Abused Top Level Domains, merged from HaGeZi, Yokoffing, DandelionSprout and SpamHAUS.
-! Version: 1.0.19.99
+! Version: 1.0.20.0
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-05T09:09:28.544Z
+! Last modified: 2026-07-07T19:37:29.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -25,7 +25,7 @@
 ||*.bid^
 ||*.bike^$denyallow=dat.bike|lime.bike|onlinesizing.bike|rapido.bike
 ||*.bingo^
-||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz
+||*.biz^$denyallow=anonymurl.biz|antiphishing.biz|asana.biz|beiniz.biz|bonial.biz|cloudns.biz|cyberciti.biz|dailyinnovation.biz|engelliler.biz|epson.biz|ette.biz|figureit.biz|gamesindustry.biz|giftee.biz|gimmeporn.biz|hb.biz|ifext.biz|iimwf.biz|kioskcms.biz|knuddels.biz|line.biz|localise.biz|luckysbarbershop.biz|meetbot.biz|movabletype.biz|mysubwaytoolbox.biz|netcetera.biz|notebookcheck.biz|ooshahwa.biz|panasonic.biz|slussen.biz|surveycake.biz|turbify.biz|volvocars.biz|wiz.biz|wspay.biz|wyborcza.biz|yoox.biz|yougame.biz
 ||*.black^
 ||*.blue^$denyallow=niim.blue
 ||*.boats^
