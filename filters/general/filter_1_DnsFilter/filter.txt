@@ -1,12 +1,13 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.71.75
+! Version: 1.0.71.76
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-07T07:21:07.215Z
+! Last modified: 2026-07-07T09:15:16.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||unblockia.com^
 ||ski.leftnewsex.com^
 ||twigcrucialpal.com^
 ||unalaskamiaskitewormproof.monster^
@@ -7267,6 +7268,7 @@ vkcdnservice.appspot.com^
 ||22yy6.com^
 ||233to23o1ojfpyhiq.cfd^
 ||23axinix.com^
+||23cnbki86kcucginel3ztmnx.rest^
 ||23hssicm9.de^
 ||24-sportnews.com^
 ||2449march2024.com^
@@ -9490,6 +9492,7 @@ vkcdnservice.appspot.com^
 ||aidata.io^
 ||aidsswaggertrimness.com^
 ||aidthewallowtoh.org^
+||aidvcdsla.com^
 ||aiecrhvddyaqb.website^
 ||aieryduetto.com^
 ||aifgjdcarlmow.space^
@@ -9531,6 +9534,7 @@ vkcdnservice.appspot.com^
 ||airshedcoart.com^
 ||airyihltczmmq.online^
 ||aisfokgqw.online^
+||aislepard.shop^
 ||aisletowelreasoning.com^
 ||aiso.live^
 ||aitesispatata.qpon^
@@ -12563,6 +12567,7 @@ vkcdnservice.appspot.com^
 ||breakingunidentifiedperfection.com^
 ||breardssercom.cfd^
 ||breastfeedingdelightedtease.com^
+||breastsforcy.qpon^
 ||breathinggeoff.com^
 ||brebo.xyz^
 ||brecciaizdubarnignay.cyou^
@@ -17749,6 +17754,7 @@ vkcdnservice.appspot.com^
 ||eagerlycuisinecast.com^
 ||eagjohwicefoq.website^
 ||eaglewarfareconclusions.com^
+||eagqqoapkodhy.online^
 ||eagreengird.com^
 ||eagresnilous.shop^
 ||eajmeainaeeiq.site^
@@ -20247,6 +20253,7 @@ vkcdnservice.appspot.com^
 ||fofbposqrlqxh.com^
 ||foflf.com^
 ||foflib.org^
+||fogbankquaters.cyou^
 ||fogeweries.qpon^
 ||foggierbabasdeeming.cfd^
 ||foghug.site^
@@ -24911,6 +24918,7 @@ vkcdnservice.appspot.com^
 ||ioqzfmlumdesr.store^
 ||iorhohyyibwop.online^
 ||iornjqfdcrjjy.store^
+||ioruwh09.xyz^
 ||iosjscxobtbkk.store^
 ||ioskyathos.cfd^
 ||iosnlunyysgekdm.com^
@@ -27054,6 +27062,7 @@ vkcdnservice.appspot.com^
 ||ksknhvggsizbu.store^
 ||kslfqcxumewry.store^
 ||ksnhwtjoaoeim.space^
+||ksprjvv.com^
 ||kspyqwogczssl.website^
 ||ksswsyafjpdzo.online^
 ||ksuwsvhxfigruwi.com^
@@ -28108,6 +28117,7 @@ vkcdnservice.appspot.com^
 ||llyighaboveth.com^
 ||llykjmzkqvvqy.top^
 ||lm1668.com^
+||lm62z6ixx7opro5uug1xpbg1br2lm7.cfd^
 ||lmaarwdqraeak.online^
 ||lmaeuohpmbhtt.website^
 ||lmaowukrqnyiu.site^
@@ -28839,6 +28849,7 @@ vkcdnservice.appspot.com^
 ||maintaintournamentslick.com^
 ||maipureesbay.qpon^
 ||maisonpureconcept.fr^
+||maistrykelpsagistor.qpon^
 ||maithigloab.net^
 ||maiusfan.cfd^
 ||maiwbisqgsdzn.website^
@@ -28864,6 +28875,7 @@ vkcdnservice.appspot.com^
 ||malatiswirled.com^
 ||malaysguaymiebogging.cyou^
 ||malcare.me^
+||malchuschamber.shop^
 ||male-basis.pro^
 ||malewait.com^
 ||maliciousdemonic.com^
@@ -30355,6 +30367,7 @@ vkcdnservice.appspot.com^
 ||murvjwucldspc.space^
 ||musangyacata.cyou^
 ||muscidsbandstitres.cfd^
+||muscowwhammlegundeck.cfd^
 ||musersrands.cfd^
 ||muserynotaealburely.cyou^
 ||museumbodyguardappear.com^
@@ -31099,6 +31112,7 @@ vkcdnservice.appspot.com^
 ||nicobarwhedder.cfd^
 ||nicolasrhumbaenfile.cyou^
 ||nicolastiffle.cyou^
+||nicolocamalig.cyou^
 ||nicyosyoxyvvw.space^
 ||nidakcdk.com^
 ||nidfipgitrdhj.space^
@@ -31578,6 +31592,7 @@ vkcdnservice.appspot.com^
 ||nrqihuzvyunel.website^
 ||nrrofvqgzprnb.space^
 ||nrs6ffl9w.com^
+||nrtkdhscnykcv.online^
 ||nrvqlwhrwgzfu.site^
 ||nryfifdmpeotb.site^
 ||nsazqlkoklvvu.website^
@@ -38093,6 +38108,7 @@ vkcdnservice.appspot.com^
 ||rvrvqzbxqtmtz.online^
 ||rvsiidddallwz.online^
 ||rvtfgcrq.com^
+||rvwtfavlgiesq.space^
 ||rvyaqmmxxoinm.site^
 ||rvyhsdxujqhqw.website^
 ||rwbibzahcpiep.site^
@@ -39947,6 +39963,7 @@ vkcdnservice.appspot.com^
 ||sonantpoufedgaucher.cyou^
 ||songertringa.com^
 ||songhaigrommet.cfd^
+||songlenursy.cfd^
 ||songsill.com^
 ||songtopbrand.com^
 ||soniouacnode.shop^
@@ -40886,6 +40903,7 @@ vkcdnservice.appspot.com^
 ||sukjdmsazsmuw.space^
 ||sukmdrkbkegsx.space^
 ||sukudopped.cyou^
+||sukuesca.cyou^
 ||sulkersxenium.cfd^
 ||sulkgrinseafood.com^
 ||sulkweapon.com^
@@ -41355,6 +41373,7 @@ vkcdnservice.appspot.com^
 ||tailfoolproof.com^
 ||tailingsoorah.cfd^
 ||tailstories.biz^
+||taintereciter.shop^
 ||taiozrhfgkbsw.online^
 ||tairgercitator.cyou^
 ||taizibwgcfhwd.one^
@@ -42340,6 +42359,7 @@ vkcdnservice.appspot.com^
 ||topiccorruption.com^
 ||topicmagnitude.com^
 ||topincome.cc^
+||topjqxmuwimws.site^
 ||topjyrdikvtlh.site^
 ||topmostshrink.com^
 ||topmostsincereconsolation.com^
@@ -44527,6 +44547,7 @@ vkcdnservice.appspot.com^
 ||vdulz.org^
 ||vdxsvladcihnm.online^
 ||vdzepdkifdmeg.site^
+||vebefsusofpzg.space^
 ||vebejgenfzchn.space^
 ||vebv8me7q.com^
 ||vectoine.net^
@@ -45248,6 +45269,7 @@ vkcdnservice.appspot.com^
 ||vtxutkucrrxoj.website^
 ||vtzmfhdyaemzg.online^
 ||vuainqkmjdiqp.site^
+||vuavjqnpxa.com^
 ||vucgxemby.com^
 ||vucxfzsavoxdd.online^
 ||vudagmgwebke.in^
@@ -46956,6 +46978,7 @@ vkcdnservice.appspot.com^
 ||xdbofzoobrmgu.site^
 ||xddofaytuemne.site^
 ||xdeckgqeq.com^
+||xdgfzufqqumlk.space^
 ||xdhjbmysilynq.site^
 ||xdiccukqbviiz.online^
 ||xdifjhbyqxdbg.website^
@@ -48747,6 +48770,7 @@ vkcdnservice.appspot.com^
 ||znovjidqcxoza.website^
 ||znqvozidirqnh.site^
 ||znrakwmcjsvtm.online^
+||zntcsqipdchoi.space^
 ||zntyosjbsivry.site^
 ||znxifrpxsmuak.space^
 ||znycxdjoyexaj.website^
@@ -138686,7 +138710,6 @@ dlsdk.appsflyer.com^
 ||adsocy.com^
 ||bowedcounty.com^
 ||fuegodevida.com^
-||unblockia.com^
 ||publi.atresmediapublicidad.com^
 ||banners.inforchannel.com.br^
 ||juicebarads.com^
