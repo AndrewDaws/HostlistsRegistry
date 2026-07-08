@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.4
+! Version: 1.0.26.5
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-08T08:58:56.880Z
+! Last modified: 2026-07-08T19:34:38.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1907,6 +1907,7 @@
 ||1ddl.org^
 ||1desiremovies.foo^
 ||1dl.net^
+||1fanserials.org^
 ||1fichier.com^
 ||1filmyfly.mov^
 ||1filmyfly.top^
@@ -3436,6 +3437,7 @@
 ||azbuka-bezopasnosti-so-smesharikami-lordfilm3.ru^
 ||azm.to^
 ||azmovies.ag^
+||azmovies.app^
 ||azmovies.xyz^
 ||azseries.org^
 ||b-h.us^
@@ -4159,6 +4161,7 @@
 ||budka-poceluevs-lordfilm.ru^
 ||budka-poselluev-lordfilm.ru^
 ||budka-poseluuev-lordfilm.ru^
+||buff-streams.store^
 ||buffmovie.com^
 ||buffstream.io^
 ||buffstreams.app^
@@ -4601,6 +4604,10 @@
 ||cikava-ideya.top^
 ||cili001.com^
 ||ciligou0.com^
+||cima-free.icu^
+||cima-free.life^
+||cimafre.site^
+||cimafree.video^
 ||cine.to^
 ||cineb.net^
 ||cinebay.org^
@@ -5182,6 +5189,7 @@
 ||crichd.li^
 ||crichd.live^
 ||crichd.mobi^
+||crichd.mobile^
 ||crichd.one^
 ||crichd.pk^
 ||crichd.sc^
@@ -5253,6 +5261,7 @@
 ||cuevana3.me^
 ||cuevana3.mobi^
 ||cuevana3.video^
+||cuevana5.bid^
 ||cuevanagt.com^
 ||cutercounter.com^
 ||cuteyhoneyflash.de^
@@ -5297,6 +5306,7 @@
 ||daleko-vo-vselennoj-lordfilm3.ru^
 ||damag.net^
 ||damedesuyo.com^
+||damitv.app^
 ||danganronpa-lordfilm.ru^
 ||dangaons-dragonsu-lordfilm.ru^
 ||danger.lv^
@@ -5353,6 +5363,7 @@
 ||daveking.com^
 ||daxiv.com^
 ||dazactivator.com^
+||dazplay.app^
 ||dbgt.com^
 ||dbz-media.nl^
 ||dbzdivx.com^
@@ -5432,6 +5443,8 @@
 ||den-shakala-serial-lordfilm.ru^
 ||dendox.org^
 ||denshakala-lordfilm.lol^
+||deporte-libre.icu^
+||deporte-libre.live^
 ||der-passi-lordfilm.ru^
 ||derechosmadretierra.org^
 ||descargaapk.com^
@@ -6887,6 +6900,7 @@
 ||faargo-lordfilm.ru^
 ||facai-tv.com^
 ||fairytales.org^
+||falconstreams.org^
 ||fall-of-the-house-of-usheris-lordfilm.ru^
 ||fall-of-the-house-of-ushers-lordfilm.ru^
 ||fallout-lordfilm.online^
@@ -7262,6 +7276,7 @@
 ||filmsenzalimiti.uno^
 ||filmsenzalimiti.vg^
 ||filmsenzalimiti.ws^
+||filmsg.com^
 ||filmsofts.com^
 ||filmsplay.net^
 ||filmsrip.life^
@@ -7528,6 +7543,8 @@
 ||flixtor.to^
 ||flixtor.vc^
 ||flixtor.win^
+||flixtream.top^
+||flixtube.online^
 ||flixwatch.site^
 ||flixwave.me^
 ||flixwave.to^
@@ -7723,6 +7740,7 @@
 ||fonoon.org^
 ||footazo.com^
 ||football-live.stream^
+||footballe.fun^
 ||footballstream.to^
 ||footdirect.ru^
 ||footfy.pro^
@@ -7734,6 +7752,7 @@
 ||footybite.io^
 ||footybite.one^
 ||footybite.tv^
+||footybitez.app^
 ||for-all-mankiind-lordfilm.ru^
 ||for-all-mankind-lordfilms.ru^
 ||for-mankind-lordfilm.fun^
@@ -7852,6 +7871,7 @@
 ||freemp3juices.cc^
 ||freemp4moviez.com^
 ||freeoldies.com^
+||freeonlinehd.vip^
 ||freepeer.org^
 ||freeroms.com^
 ||freerus.ru^
@@ -7872,6 +7892,7 @@
 ||freewarez.net^
 ||freewatch.tv^
 ||freewebs.com^
+||freeytmp3.org^
 ||freezlib.me^
 ||frembed.hair^
 ||frembed.my^
@@ -8276,6 +8297,7 @@
 ||gfxtra31.com^
 ||gg666jj888.com^
 ||ggbases.com^
+||ggtv-pakistan.sbs^
 ||ghatailonline.net^
 ||ghost-riderr-lordfilms.ru^
 ||ghostbusterse-lordfilm.ru^
@@ -8340,6 +8362,7 @@
 ||globalcommunicationbd.com^
 ||globalhardwarezone.info^
 ||globalwarez.com^
+||glodls.site^
 ||glodls.to^
 ||glotorrents.com^
 ||glotorrents.pw^
@@ -8792,6 +8815,7 @@
 ||h2mp3.com^
 ||h2o-prosto-dobav-vody-lordfilm3.ru^
 ||h33t.to^
+||h9soccer.website^
 ||haallo-lordfilm.ru^
 ||hack64.net^
 ||hackchefs.com^
@@ -9560,6 +9584,7 @@
 ||hhalo-lordfilms.ru^
 ||hhdmovies.org^
 ||hhdmovies1.xyz^
+||hhesgoal.one^
 ||hi10anime.com^
 ||hianime.dk^
 ||hianime.nz^
@@ -10521,6 +10546,7 @@
 ||kinogo-cx.biz^
 ||kinogo-ua.com^
 ||kinogoo.zone^
+||kinogoua.net^
 ||kinogruz.net^
 ||kinoindian.net^
 ||kinoking.cc^
@@ -10995,12 +11021,17 @@
 ||konstantin-lordfilm.ru^
 ||konstantin-lordfilms.ru^
 ||konstantinopol-serial-lordfilm.ru^
+||koooratv.co^
 ||koora-live.io^
+||koora-yallashoot.live^
 ||koora365.io^
 ||kooralivs.com^
+||kooratv.fun^
 ||kopedafotor75.shop^
 ||koralina-v-strane-koshmarov-lordfilm3.ru^
+||koratair.com^
 ||korats.net^
+||koraylive.com^
 ||korea-yuzhnaia-lordfilm.ru^
 ||kormilitsa-lordfilm.top^
 ||korol-golfa-lordfilm3.ru^
@@ -11417,6 +11448,7 @@
 ||livesoccertv.com^
 ||livesports247.pro^
 ||livesx.eu^
+||livesx.net^
 ||livesxtv.com^
 ||livetorrents.com^
 ||livetv.asia^
@@ -11485,6 +11517,7 @@
 ||lookmovie.site^
 ||lookmovie.store^
 ||lookmovie.studio^
+||lookmovie.sx^
 ||lookmovie.top^
 ||lookmovie.tube^
 ||lookmovie.watch^
@@ -21598,6 +21631,7 @@
 ||mad-maxs-lordfilm.ru^
 ||mad-maxx-lordfilm.ru^
 ||madagaskar-lordfilm3.ru^
+||madarascans.org^
 ||maddagascarr-lordfilm.ru^
 ||madeintorrent.com^
 ||madogaskarr-lordfilm.ru^
@@ -22120,6 +22154,7 @@
 ||mkvcinema.net^
 ||mkvcinema.space^
 ||mkvcinemaapp.se^
+||mkvcinemas.ad^
 ||mkvcinemas.app^
 ||mkvcinemas.bet^
 ||mkvcinemas.cat^
@@ -22554,6 +22589,7 @@
 ||movie-blog.to^
 ||movie-blog.tv^
 ||movie-forum.co^
+||movie-news.online^
 ||movie-web.app^
 ||movie-web.me^
 ||movie123.club^
@@ -22676,6 +22712,7 @@
 ||moviepathz.com^
 ||movieplus.org^
 ||moviepowder.com^
+||moviepro21.com^
 ||movieprofits.com^
 ||movierot.com^
 ||movierr.online^
@@ -22789,6 +22826,7 @@
 ||movies123tv.bond^
 ||movies132.to^
 ||movies2015.com^
+||movies2d.com^
 ||movies2watch.cc^
 ||movies2watch.tv^
 ||movies4u.co^
@@ -22817,6 +22855,8 @@
 ||moviesfb.net^
 ||moviesfever.org^
 ||moviesflixcc.com^
+||moviesflixnow.xyz^
+||moviesflixpro.online^
 ||moviesfoundonline.com^
 ||moviesgo.co^
 ||movieshd.co^
@@ -22901,6 +22941,7 @@
 ||moviestars.to^
 ||moviestgp.net^
 ||moviestowatch.cc^
+||moviestrailers.online^
 ||moviestrawberry.com^
 ||moviestreamhd.org^
 ||moviestreez.com^
@@ -22937,6 +22978,7 @@
 ||movieuniverse.se^
 ||movieuniverse.skin^
 ||movieunlimited.net^
+||movieview.online^
 ||movievilla.cfd^
 ||movievilla.my^
 ||moviewatcher.eu^
@@ -22953,6 +22995,7 @@
 ||movix.bet^
 ||movix.club^
 ||moviz.net^
+||moviz-time.net^
 ||movizdb.com^
 ||movply.com^
 ||movreel.com^
@@ -24081,6 +24124,7 @@
 ||ohotnik-za-golovamis-lordfilm.ru^
 ||ohotnik-za-razumom-lordfilm3.ru^
 ||ohotniki-za-privideniyami-lordfilm3.ru^
+||okestream.fit^
 ||okfreemovies.com^
 ||okhota-lordfilm.lol^
 ||okhotnik-za-golovamu-lordfilm.ru^
@@ -24102,6 +24146,7 @@
 ||oldgamesfinder.com^
 ||oldschool-serial-lordfilm.ru^
 ||oldskul-lordfilm.buzz^
+||olefilms.com^
 ||olenyonok-lordfilm3.ru^
 ||oleoo.com^
 ||olevod.com^
@@ -25497,6 +25542,7 @@
 ||ranggo-lordfilms.ru^
 ||rango-lordfilm3.ru^
 ||raphustle.com^
+||rapidapk.com^
 ||rapidb.it^
 ||rapideo.net^
 ||rapideo.pl^
@@ -25648,7 +25694,9 @@
 ||redditsoccerstreams.watch^
 ||redditsoccerstreams.xyz^
 ||redditsport.cc^
+||redecanais.plus^
 ||redecanais.zip^
+||redecanaistv.win^
 ||redecanaistv.zip^
 ||redirectnflix.com^
 ||redlist-ultimate.be^
@@ -25707,6 +25755,7 @@
 ||revdl.net^
 ||revenge-of-usenet.online^
 ||reverendmike.org^
+||reviewphimhay.online^
 ||revolution-world.com^
 ||revolutiontt.net^
 ||rexagames.com^
@@ -25715,6 +25764,8 @@
 ||rezi.one^
 ||rezidenciya-lordfilm3.ru^
 ||rezka.ag^
+||rezka-ag.net^
+||rezka-tv.org^
 ||rf.ws^
 ||rg-mechanics.org^
 ||rgfootball.net^
@@ -25882,6 +25933,7 @@
 ||rootsofts.com^
 ||rootwarez.com^
 ||rootwarez.net^
+||rophim10.vip^
 ||rophimtv.sbs^
 ||roshy.tv^
 ||rosomaha-lordfilm3.ru^
@@ -26047,7 +26099,6 @@
 ||sdmoviespoint.fan^
 ||sdmoviespoint.fans^
 ||sdmoviespoint.meme^
-||sdmoviespoint.today^
 ||sdmoviespoint.trade^
 ||sdmoviespoint.wiki^
 ||sdtoons.in^
@@ -26139,7 +26190,6 @@
 ||serialreactor.com^
 ||serials.be^
 ||serials.ws^
-||serials1.com^
 ||serialsite.com^
 ||serialstart.com^
 ||serialsurf.com^
@@ -26154,7 +26204,6 @@
 ||serien.cam^
 ||serien.click^
 ||serien.life^
-||serien.me^
 ||serien.sx^
 ||serien-stream.cc^
 ||serienfans.org^
@@ -26224,7 +26273,6 @@
 ||seriesflix.team^
 ||seriesflix.top^
 ||seriesflix.trade^
-||seriesflix.tv^
 ||seriesflix.video^
 ||seriesflix.vip^
 ||seriesflix.win^
@@ -26249,11 +26297,8 @@
 ||seriesflixplay.com^
 ||seriesflixtv.xyz^
 ||seriesflixtv2.cc^
-||seriesflixtv2.fit^
 ||seriesflixtv2.help^
-||seriesflixtv2.onl^
 ||seriesflixtv2.online^
-||seriesflixtv2.skin^
 ||seriesflixtv3.com^
 ||seriesflixweb.ink^
 ||serieslan.com^
@@ -26280,7 +26325,6 @@
 ||sestrukha-lordfilm.rest^
 ||sestrukha-lordfilm.top^
 ||seuedu.online^
-||seuedu.ru^
 ||seven-deadly-sins-lordfilm.ru^
 ||seventorrents.org^
 ||severedbytes.net^
@@ -26314,16 +26358,24 @@
 ||sflix.to^
 ||sflix.tube^
 ||sflix2.to^
+||sflixz.day^
 ||sganime.org^
 ||sgnilo.wiki^
 ||shaahid4u.net^
+||shaahieed4u.net^
 ||shadow.lv^
 ||shadowpanda3.live^
 ||shag-vpered-lordfilm3.ru^
 ||shag-vvpereed-lordfilm.ru^
+||shaheed4u.day^
 ||shahhid4u.ink^
+||shahieed4u.com^
+||shahieid4u.com^
+||shahieid4u.day^
 ||shahiid4u.beauty^
 ||shahiid4u.net^
+||shahiied4u.day^
+||shaid4u.co^
 ||shaid4u.day^
 ||shalnoy-otdel-lordfilm.ru^
 ||shamelas-lordfilms.ru^
@@ -26360,7 +26412,6 @@
 ||sharlock-lordfilms.ru^
 ||sharlocks-lordfilm.ru^
 ||sharlocku-lordfilm.ru^
-||shawty.club^
 ||shchenyachij-patrul-lordfilm3.ru^
 ||shd247.live^
 ||shd247.pro^
@@ -26432,7 +26483,6 @@
 ||sickasswarez.xyz^
 ||sidequestvr.com^
 ||sifara.com^
-||sigmastreams3rd.site^
 ||sihoki51.xyz^
 ||silant-hilll-lordfilm.ru^
 ||silant-hills-lordfilm.ru^
@@ -26605,7 +26655,6 @@
 ||smertelnaya-biytvaa-lordfilm.ru^
 ||smertelnaya-biytvai-lordfilm.ru^
 ||smertelnaya-biytvau-lordfilm.ru^
-||smertelnaya-gonka-lordfilm.online^
 ||smertelnaya-gonka-lordfilm.ru^
 ||smertelnaya-gonka-lordfilm3.ru^
 ||smertelnoe-orugies-lordfilm.ru^
@@ -26678,7 +26727,6 @@
 ||soap2day.it^
 ||soap2day.makeup^
 ||soap2day.mobi^
-||soap2day.moi^
 ||soap2day.mx^
 ||soap2day.page^
 ||soap2day.pe^
@@ -26693,7 +26741,6 @@
 ||soap2day.wang^
 ||soap2day.wine^
 ||soap2day.zip^
-||soap2day-1.com^
 ||soap2day-2.com^
 ||soap2day-com.xyz^
 ||soap2day-free.com^
@@ -26702,7 +26749,6 @@
 ||soap2day-id.com^
 ||soap2day-live.top^
 ||soap2day-moi.cyou^
-||soap2day-movies.mov^
 ||soap2day-official.dev^
 ||soap2day-official.lol^
 ||soap2day-official.ltd^
@@ -26719,7 +26765,6 @@
 ||soap2day-tv.world^
 ||soap2day-tv-tv.cyou^
 ||soap2day-us.online^
-||soap2day2.space^
 ||soap2day4u.ltd^
 ||soap2day4u.org^
 ||soap2day7.xyz^
@@ -26727,7 +26772,6 @@
 ||soap2dayapk.online^
 ||soap2daybey.com^
 ||soap2daybox.com^
-||soap2daybusiness.art^
 ||soap2daycommunity.xyz^
 ||soap2dayd.lat^
 ||soap2dayfre.com^
@@ -26752,7 +26796,6 @@
 ||soap2dayhub.com^
 ||soap2dayi.co^
 ||soap2dayi.my^
-||soap2dayme.com^
 ||soap2daymoon.my^
 ||soap2daymovie.xyz^
 ||soap2daymovies.online^
@@ -26815,7 +26858,6 @@
 ||soap2dayz.bz^
 ||soap2dayz.cyou^
 ||soap2dayz.info^
-||soap2dayz.my^
 ||soap2dayz.net^
 ||soap2dayz.run^
 ||soap2dayz.site^
@@ -26854,7 +26896,6 @@
 ||soccerstreams.one^
 ||soccerstreams-100.live^
 ||soccerstreams100.lat^
-||soccerstreams100.top^
 ||soccerstreamshd.com^
 ||soccerstreamsz.app^
 ||soccerworldcup.me^
@@ -26888,7 +26929,6 @@
 ||softtorrents.org^
 ||softwanime.com^
 ||softwar.ru^
-||software-free.net^
 ||softwarebits.net^
 ||softwarecrackworks.com^
 ||softwareheritage.org^
@@ -26919,7 +26959,6 @@
 ||solarmovie.asia^
 ||solarmovie.ch^
 ||solarmovie.cool^
-||solarmovie.cr^
 ||solarmovie.day^
 ||solarmovie.do^
 ||solarmovie.fit^
@@ -26940,7 +26979,6 @@
 ||solarmovie.world^
 ||solarmovie-free.com^
 ||solarmovie1.com^
-||solarmovie1.watch^
 ||solarmovie123.city^
 ||solarmovie123.co^
 ||solarmovie123.fun^
@@ -26957,7 +26995,6 @@
 ||solarmovies.live^
 ||solarmovies.mobi^
 ||solarmovies.mov^
-||solarmovies.top^
 ||solarmovies.win^
 ||solarmovies-ms.cyou^
 ||solarmovies-sc.lol^
@@ -27073,6 +27110,7 @@
 ||spider-manu-lordfilm.ru^
 ||spider-meen-lordfilm.ru^
 ||spider-noir-lordfilm.cam^
+||spider-noir-lordserial.com^
 ||spiderman-lordfilm.com^
 ||spiderwickk-lordfilm.ru^
 ||spigotunlocked.com^
@@ -27110,7 +27148,6 @@
 ||sportlemon.info^
 ||sportlemon.live^
 ||sportlemon.net^
-||sportlemon.pro^
 ||sportlemon24.com^
 ||sportlemone.top^
 ||sportlemons.net^
@@ -27127,7 +27164,6 @@
 ||sportsbay.org^
 ||sportsbay.sx^
 ||sportsbay.top^
-||sportsdaldal.site^
 ||sportsleading.online^
 ||sportslive.me^
 ||sportsnetwork.fit^
@@ -27348,6 +27384,7 @@
 ||stream-data-q9k4.space^
 ||stream-oase.tv^
 ||stream-vf.co^
+||stream-zone.live^
 ||stream123movies.xyz^
 ||stream2watch.is^
 ||stream2watch.one^
@@ -27410,9 +27447,11 @@
 ||streamees.com^
 ||streamerflix.xyz^
 ||streamex.sh^
+||streamff.pro^
 ||streamflix.one^
 ||streamflix.space^
 ||streamfree.app^
+||streamfree.live^
 ||streamgoblin.com^
 ||streamhls.click^
 ||streamhls.to^
@@ -27421,6 +27460,7 @@
 ||streamhunters.com^
 ||streamhunters.top^
 ||streami.su^
+||streamic.ru^
 ||streaming-community.art^
 ||streaming-community.asia^
 ||streaming-community.cafe^
@@ -27739,9 +27779,11 @@
 ||streamoz.me^
 ||streampass.cc^
 ||streampass.sbs^
+||streamrk.site^
 ||streamruby.com^
 ||streams.center^
 ||streamshunters.com^
+||streamspass.space^
 ||streamsports.app^
 ||streamsports.tech^
 ||streamsports99.ch^
@@ -27753,6 +27795,7 @@
 ||streamsthunder.tv^
 ||streamtape.com^
 ||streamth.is^
+||streamtp.sbs^
 ||streamtp-abc.net^
 ||streamtp10.com^
 ||streamtpnew.com^
@@ -27768,10 +27811,13 @@
 ||streamwoop.xyz^
 ||streamworld.co^
 ||streamworld.ws^
+||streamx-hd.com^
 ||streamx10.cloud^
 ||streamx339.cloud^
 ||streamx550.com^
 ||streamx741.com^
+||streamx996.one^
+||streamymax.com^
 ||streamz.cc^
 ||streamz.ws^
 ||streamzone.es^
@@ -27850,6 +27896,7 @@
 ||subtracker.net^
 ||successione-lordfilm.ru^
 ||successionu-lordfilm.ru^
+||sudamericaplay.sbs^
 ||sudnaya-noch-lordfilm3.ru^
 ||sudnaya-nochh-lordfilm.ru^
 ||sudnaya-nochi-lordfilm.ru^
@@ -27959,6 +28006,7 @@
 ||supersemejka-lordfilm3.ru^
 ||superserials.com^
 ||superseries.live^
+||superstreampass.xyz^
 ||superstresser.com^
 ||supertela.live^
 ||supertorrents.org^
@@ -28219,6 +28267,7 @@
 ||telechargementz.org^
 ||telecharger-films.ws^
 ||telechargerjeuxtorrent.com^
+||telefilm.one^
 ||teleflix.tv^
 ||telegrampremiumapk.com^
 ||teleparty.com^
@@ -29824,6 +29873,7 @@
 ||tv247.site^
 ||tv24bd.com^
 ||tv5-lordfilm715.top^
+||tv96-kora.live^
 ||tvbfsy.com^
 ||tvbox.ag^
 ||tvbox.one^
@@ -29837,6 +29887,7 @@
 ||tvoyo-serdtse-budet-razbito-lordfilm.buzz^
 ||tvpinto.com^
 ||tvron.net^
+||tvroom16.org^
 ||tvsboy.com^
 ||tvseries.in^
 ||tvseriesnmovies.com^
@@ -30695,6 +30746,7 @@
 ||vexmovies.uno^
 ||vf-stream.org^
 ||vf-streaming.com^
+||vfilmeseriesonline.org^
 ||vfserie.com^
 ||vfstreamingseries.com^
 ||vfxdownload.com^
@@ -30763,6 +30815,7 @@
 ||videypro.live^
 ||videyy.stream^
 ||videzz.net^
+||vidfast.vc^
 ||vidgod.net^
 ||vidhog.com^
 ||vidi64.com^
@@ -30804,6 +30857,7 @@
 ||vidstreaming.io^
 ||vidstrm.cloud^
 ||vidstrm.mom^
+||vidsync.live^
 ||vidto.me^
 ||viduplayer.com^
 ||vidxls.com^
@@ -31197,6 +31251,7 @@
 ||watch32hd.co^
 ||watch32hd.org^
 ||watchadsontape.com^
+||watchalong.site^
 ||watchamovie.today^
 ||watchanimeworld.net^
 ||watchasian.co^
@@ -31206,6 +31261,7 @@
 ||watchepisodeseries.com^
 ||watchfilm.net^
 ||watchflix.app^
+||watchflixs.xyz^
 ||watchfree.at^
 ||watchfree.to^
 ||watchfree.win^
@@ -31335,6 +31391,8 @@
 ||westworldy-lordfilm.ru^
 ||wfhost2.com^
 ||wfs.lol^
+||wftoon217.com^
+||wftoon218.com^
 ||wgstream.sx^
 ||what.cd^
 ||whatsaero.com^
@@ -31660,14 +31718,26 @@
 ||ya-plyuyu-na-vashi-mogily-lordfilm3.ru^
 ||ya-roboot-lordfilm.ru^
 ||ya-znayu-kto-tebya-ubil-lordfilm3.ru^
+||yaacinetv.net^
 ||yabancidizi.now^
 ||yablochnyj-uksus-lordfilm3.ru^
 ||yabse.com^
+||yacineapktv.org^
+||yacinetv.watch^
+||yacinetvs.pro^
+||yalla-kora.mov^
 ||yalla-shoot.fun^
 ||yalla-shoot.mov^
 ||yalla-shoot-mobasher.com^
+||yalla-shoote.pics^
 ||yalla-shootv.live^
+||yallaa-sshoot.com^
+||yalladay.com^
+||yallakoorah.com^
+||yallalive.fun^
+||yallalivepro.click^
 ||yallashoothub.com^
+||yallasyarah.com^
 ||yamakasii-lordfilms.ru^
 ||yamakasis-lordfilm.ru^
 ||yamakasu-lordfilm.ru^
@@ -31790,11 +31860,13 @@
 ||yggtorrent2.com^
 ||yidio.com^
 ||yify.cc^
+||yify.co^
 ||yify-movie.com^
 ||yify-movies.net^
 ||yify-torrent.cc^
 ||yify-torrent.org^
 ||yify-torrents.com^
+||yify-yts.net^
 ||yifyhdtorrent.com^
 ||yifymovies.xyz^
 ||yifymoviesmx.live^
@@ -31906,7 +31978,9 @@
 ||yts-movie.cc^
 ||yts2.com^
 ||ytsauto.pro^
+||ytsfree.com^
 ||ytsstreaming.com^
+||ytssubtitles.info^
 ||ytstorrent.com^
 ||ytstv.me^
 ||ytstvmovies.xyz^
@@ -32094,6 +32168,7 @@
 ||zhuki-lordfilm.buzz^
 ||zhuki-lordfilm.rest^
 ||zhuki-lordfilm.top^
+||zinkmovies.today^
 ||zipcodeshop.com^
 ||zipcomic.com^
 ||zipcomics.net^
@@ -32164,9 +32239,11 @@
 ||zona-lordfilm.lat^
 ||zona-musical.com^
 ||zonacraft.net^
+||zonalivebola.store^
 ||zonaplus.ru^
 ||zonatorrent.org^
 ||zonatorrent.tv^
+||zonatvlive.xyz^
 ||zond.org^
 ||zone-ebook.com^
 ||zone-stream.net^

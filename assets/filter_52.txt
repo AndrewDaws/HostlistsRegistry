@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.68
+! Version: 1.0.26.69
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-08T08:59:27.969Z
+! Last modified: 2026-07-08T19:35:12.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -5534,14 +5534,12 @@
 ||dns.satellite226.cloud^
 ||rodgerwhodidthistoyou.satucat.uk^
 ||securedbyknox.satucat.uk^
-||cheap.fursuits.savenowclub.com^
 ||www-proxy.sayed.page^
 ||course.music.sbindy.com^
 ||dns.sbstructure.ir^
 ||ns1.sc-lezhi.com^
 ||us.sc92.cn^
 ||dns.scapetical.com^
-||sixseveendj82iiddududjdjeuei.ckm.scarboroughgymelites.ca^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||hjkhnkhkldfg.dchjvkhdfhbnksdf.sceneco.re^
@@ -5611,8 +5609,6 @@
 ||dns.sellan.fr^
 ||korridor.semia-infra.net^
 ||adguard.senthil.us^
-||dns.serdcebolit.ru^
-||dns1.serdcebolit.ru^
 ||forzalaquila.servebeer.com^
 ||privatnas.servebeer.com^
 ||doh.serverhost.no^
@@ -5641,7 +5637,6 @@
 ||purpose.shamanlanding.org^
 ||tutor.idea.shand.org^
 ||dns.shareworx.net^
-||wedgdh.wefds.sharptutor.net^
 ||dns.shaw.ca^
 ||dns.shecan.ir^
 ||free.shecan.ir^
@@ -5660,7 +5655,6 @@
 ||kind-wolf-912.shuttle.lol^
 ||nl.dns.shx.su^
 ||doh.sidnlabs.nl^
-||kendricklaminate.siggjen.eu^
 ||dns.sildom.me^
 ||dns.silen.org^
 ||dns.silentlybren.com^
@@ -5725,8 +5719,6 @@
 ||dns.sneakypanda.org^
 ||home.snow-sugar.net^
 ||ag.snrka.ru^
-||guard.sntrk.ru^
-||career.snwy.dev^
 ||vpn.snxi.de^
 ||dove.soapagent.com^
 ||petezahpizza.omega.social-networking.me^
@@ -5739,7 +5731,6 @@
 ||wtbd02.solowalk.top^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^
-||thtghrabf.soon.it^
 ||r.soraapp.gq^
 ||sentry.soraapp.gq^
 ||area.level.southtrestle.com^
@@ -5760,7 +5751,6 @@
 ||wormhole.is.your-savior.spacejamhd.com^
 ||sigmatic.spacejamhd.com^
 ||threeproxy.spacejamhd.com^
-||turb0warp.spacenaught.us^
 ||ilovemath.spacetechnology.net^
 ||lousiana-history-careers-ixl-geoly-education.spacetechnology.net^
 ||lomoff.spb.ru^
@@ -5774,7 +5764,6 @@
 ||dns.spirio.fr^
 ||soadfjrksf.lasdkfj.sportconceptmedia.ru^
 ||physicaleducation.sportseducationinstructors.org^
-||chillenglish.spot.hk^
 ||s1.srch.top^
 ||adguard.sre.ovh^
 ||dns.srijan.site^
@@ -14225,7 +14214,6 @@
 ||savycrafter.com^
 ||sawdmg.com^
 ||sbdc3cw.click^
-||sbjct.xyz^
 ||sbknvp.xyz^
 ||sbnbgict.com^
 ||sc-aff.cc^
@@ -14329,7 +14317,6 @@
 ||sf-helper.com^
 ||sfasoftballcamps.com^
 ||sfcxop.cc^
-||sflpc7kc.online^
 ||sfmcut.com^
 ||sfsso.cn^
 ||sgwzoch.online^
@@ -14411,7 +14398,6 @@
 ||signup-express-vpn.guru^
 ||silenceisnot.fun^
 ||sillygaming.org^
-||sillyy.lol^
 ||silvaro.ru^
 ||silvento.ru^
 ||simiqbwa.com^
@@ -14427,7 +14413,6 @@
 ||sipidwnt.com^
 ||sir90hl.com^
 ||sirqenio.ru^
-||sitdns.com^
 ||site2unblock.com^
 ||siteblockedbypass.com^
 ||siteget.net^
@@ -14479,7 +14464,6 @@
 ||smartproxy.com^
 ||smartydns.com^
 ||smdpschool.org^
-||smeqczpl.online^
 ||smfqhpw.cn^
 ||smirnovfamily.ru^
 ||sms8b04szwtm.online^
@@ -14512,7 +14496,6 @@
 ||soso.loan^
 ||sotavpn.com^
 ||sotk.am^
-||soundsonas.com^
 ||soundwaveearbuds.com^
 ||sourceproxy.com^
 ||sovpn.cc^
@@ -14574,7 +14557,6 @@
 ||ss-cdn.com^
 ||ssarea.com^
 ||ssgreen.org^
-||ssh-free.com^
 ||ssh-storage.ru^
 ||sshagan.net^
 ||sshdropbear.net^
