@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.27
+! Version: 1.0.21.28
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-07T05:26:10.504Z
+! Last modified: 2026-07-08T05:10:24.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -157,6 +157,8 @@
 ||confira.io^
 ||containably.com^
 ||coolest3d.com^
+||coolestpod.com^
+||copymyfx.com^
 ||corg.co^
 ||couponxoo.com^
 ||courier-tracking.com^
@@ -279,6 +281,7 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
+||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -700,6 +703,7 @@
 ||singleflirt.com^
 ||skincheap.com^
 ||skinszone.net^
+||skipped.vip^
 ||skyfollowerbridge.com^
 ||sligen.com^
 ||slimsyrups.ca^
@@ -875,6 +879,7 @@
 ||wadahlapak.top^
 ||wallpaperflare.com^
 ||watchmark.shop^
+||wavetshirt.com^
 ||wazofurniture.com^
 ||weathly.com^
 ||webvod.pl^
