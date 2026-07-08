@@ -1091,14 +1091,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.21.0",
+			"version": "1.0.21.1",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": "2023-04-13T15:39:05+0000",
-			"timeUpdated": "2026-07-08T00:48:18+0000"
+			"timeUpdated": "2026-07-08T07:54:17+0000"
 		},
 		{
 			"filterKey": "hagezi_threat_intelligence_feeds",
