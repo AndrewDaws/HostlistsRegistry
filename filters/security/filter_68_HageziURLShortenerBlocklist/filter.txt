@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.52
+! Version: 1.0.5.53
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-07T19:37:29.388Z
+! Last modified: 2026-07-08T08:59:28.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -595,7 +595,6 @@
 ||y.prfd.aero^
 ||lk.pro.br^
 ||url.procreatebrushes.app^
-||l.prodtrackers.com^
 ||short.profi.lv^
 ||t2mio.pulsem.me^
 ||a.qar.sa^
@@ -6504,7 +6503,6 @@
 ||ptm.id^
 ||ptm.ro^
 ||ptns.io^
-||ptolreco.com^
 ||ptr.tw^
 ||ptxt.io^
 ||ptxt.me^
@@ -6530,7 +6528,6 @@
 ||puxt.cc^
 ||pwc.to^
 ||pwgo.to^
-||pws1ooo.xyz^
 ||pxgo.net^
 ||pxl.fm^
 ||pxlcrv.co^
@@ -6734,7 +6731,6 @@
 ||rayzershort.com^
 ||razi-link.ir^
 ||rb.gy^
-||rb-story.com^
 ||rb6.me^
 ||rbcz.io^
 ||rbit.vision^
@@ -6757,7 +6753,6 @@
 ||rdee.us^
 ||rdr.gr^
 ||rdrclk.com^
-||rdrct.site^
 ||rdre.me^
 ||rdrt.cc^
 ||rds.ovh^
@@ -7037,7 +7032,6 @@
 ||salone.it^
 ||sam.am^
 ||samcart.me^
-||samnill.com^
 ||san.aq^
 ||sangamtalks.com^
 ||sanilac.gives^
@@ -8193,6 +8187,7 @@
 ||teeplantage.de^
 ||teil.cc^
 ||tek.io^
+||tekan.in^
 ||teknut.com^
 ||telega.io^
 ||teleko.me^
