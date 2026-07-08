@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.92
+! Version: 1.0.18.93
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-07T23:24:34.798Z
+! Last modified: 2026-07-08T16:36:37.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3380,6 +3380,7 @@
 0.0.0.0 www.eqarati.com
 0.0.0.0 www.eremplacementparts.com
 0.0.0.0 www.erincranor.com
+0.0.0.0 www.erspan.com
 0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
@@ -3397,6 +3398,7 @@
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farmacyty.com
 0.0.0.0 www.farnazinternational.com
+0.0.0.0 www.faruvclight.com
 0.0.0.0 www.fashiongown.com
 0.0.0.0 www.feelimprove.bond
 0.0.0.0 www.fenquavo.com
