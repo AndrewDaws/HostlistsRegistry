@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.55
+! Version: 1.0.3.56
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-02T05:25:57.562Z
+! Last modified: 2026-07-08T00:47:51.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,134
-# Updated: 7/1/2026  23:06 (11:06 PM CST)
+# Domains: 115,137
+# Updated: 7/7/2026  19:37 (7:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -21197,6 +21197,7 @@
 ||clickam.es^
 ||clickanalytic.com^
 ||clickapis.com^
+||click.appwonders.org^
 ||click.avenuehomes.net^
 ||clickbrainiacs.com^
 ||click.brand.klarna.com^
@@ -46560,6 +46561,7 @@
 ||marketing.wbresearch.com^
 ||marketingwebanalytics.com^
 ||marketing.webgruppen.no^
+||marketing.whitewallsolutions.com^
 ||marketing.whysymphony.com^
 ||marketing.willamettewines.com^
 ||marketing.wilmingtonandbeaches.com^
@@ -77666,6 +77668,7 @@
 ||serv.matchaao.com^
 ||servmetric.com^
 ||serv.oakwell.com^
+||servo-report.dvdfab.cn^
 ||servo-report.keepstreams.com^
 ||servo-report.streamfab.com^
 ||serv.paulacunha.com.br^
