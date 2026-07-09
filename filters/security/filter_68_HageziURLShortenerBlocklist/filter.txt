@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.54
+! Version: 1.0.5.55
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-08T19:35:14.034Z
+! Last modified: 2026-07-09T09:15:16.711Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -724,7 +724,6 @@
 ||go.tomary.de^
 ||a.trp.red^
 ||go.trtmn.io^
-||sc.ts460.com^
 ||lnk.tu-bs.de^
 ||link.tubi.tv^
 ||s.tunpok.com^
@@ -1915,7 +1914,6 @@
 ||bigurl.io^
 ||bigwinjiliwin63.online^
 ||biibly.com^
-||billion.run^
 ||bim.im^
 ||binbucks.com^
 ||binged.it^
@@ -2056,7 +2054,6 @@
 ||bliter.link^
 ||blizz.ly^
 ||blkstats.com^
-||blllb.com^
 ||blltly.com^
 ||blnk.in^
 ||blogshare.cfd^
@@ -2348,7 +2345,6 @@
 ||ceittp.com^
 ||celfam.us^
 ||centi.ai^
-||centre.is^
 ||centurylinke.com^
 ||cepat.link^
 ||certifyde.app^
@@ -2592,7 +2588,6 @@
 ||cort.li^
 ||cort.my^
 ||cortalo.net^
-||cosmos.ac^
 ||couic.fr^
 ||couldyouredirectmeplease.com^
 ||coupa.ng^
@@ -2693,7 +2688,6 @@
 ||cut.ovh^
 ||cut.pe^
 ||cut.sk^
-||cut.vin^
 ||cut-ly.com^
 ||cut2.eu^
 ||cutdown.link^
@@ -3298,7 +3292,6 @@
 ||fanlink.to^
 ||fansurl.com^
 ||faras.link^
-||fars.ee^
 ||fashionparklanka.com^
 ||fastbio.app^
 ||fastfilehost.link^
@@ -3383,7 +3376,6 @@
 ||flexitube.xyz^
 ||flexjetcareers.com^
 ||flextrig.com^
-||fli.so^
 ||flic.kr^
 ||flickerlink.com^
 ||flidoo.com^
@@ -3443,7 +3435,6 @@
 ||fooji.info^
 ||for.sg^
 ||ford.to^
-||format.asia^
 ||forms.gle^
 ||forr.com^
 ||forsakenx.live^
@@ -4097,7 +4088,6 @@
 ||ieg.li^
 ||iembelleze.com^
 ||if.fm^
-||iffii.com^
 ||ifix.gd^
 ||ift.cx^
 ||ift.tt^
@@ -4151,7 +4141,6 @@
 ||imrobpolit.pro^
 ||in.gl^
 ||in.mt^
-||in.run^
 ||in0.ca^
 ||incab.us^
 ||incises.com^
@@ -4305,7 +4294,6 @@
 ||iwr.link^
 ||iwwlink.org^
 ||ix.sk^
-||ixi.me^
 ||iyc.life^
 ||izi.su^
 ||izip.me^
@@ -4568,7 +4556,6 @@
 ||ko.gl^
 ||koi800.cc^
 ||koinko.in^
-||kol.vin^
 ||kolaylink.com^
 ||kollylad.com^
 ||koninfo.de^
@@ -4695,7 +4682,6 @@
 ||leakslinks.com^
 ||learn.to^
 ||learnit.today^
-||lebow.me^
 ||leenker.io^
 ||lef.link^
 ||lego.build^
@@ -4906,7 +4892,6 @@
 ||linkhub.biz^
 ||linkhub.to^
 ||linkhubdirect.com^
-||linkhuddle.com^
 ||linki.run^
 ||linkia.co^
 ||linkify.page^
@@ -4930,11 +4915,9 @@
 ||linkjago.me^
 ||linkjet.net^
 ||linkjitu.site^
-||linkjoy.io^
 ||linkjoy.org^
 ||linkjp.org^
 ||linkjust.com^
-||linkk.ing^
 ||linkkece.com^
 ||linkkita.me^
 ||linkkl.com^
@@ -5000,7 +4983,6 @@
 ||linkprotbkita.com^
 ||linkqr.io^
 ||linkr.com^
-||linkr.it^
 ||linkr.uk^
 ||linkr.vc^
 ||linkraya.com^
@@ -5266,7 +5248,6 @@
 ||lr53r.com^
 ||lrl.kr^
 ||lrl.li^
-||lrrrl.com^
 ||lru.jp^
 ||ls.st^
 ||lsc.io^
@@ -5692,7 +5673,6 @@
 ||mtny.mobi^
 ||mtozze.com^
 ||mttr.io^
-||mtw.so^
 ||mtws.cc^
 ||mtxt.xyz^
 ||muangay.info^
@@ -5726,7 +5706,6 @@
 ||my-urls.de^
 ||my1.ca^
 ||my3777.app^
-||my5353.com^
 ||myanlink.com^
 ||myaz.tech^
 ||mybio.bio^
@@ -5906,7 +5885,6 @@
 ||nikaurl.com^
 ||nils.link^
 ||nimbi.net^
-||nimble.li^
 ||nimbli.app^
 ||nimex.live^
 ||nimje.org^
@@ -6018,7 +5996,6 @@
 ||obblink.com^
 ||obdr.it^
 ||obio.link^
-||ocb.me^
 ||occ.li^
 ||ock.cn^
 ||ocul.us^
@@ -6321,7 +6298,6 @@
 ||philips.to^
 ||philthefire.com^
 ||phst.in^
-||phuongso.com^
 ||phygo.io^
 ||pi.uz^
 ||pia.sh^
@@ -6988,7 +6964,6 @@
 ||s-hub.xyz^
 ||s-turl.com^
 ||s-url.fr^
-||s-url.pro^
 ||s0.world^
 ||s04.de^
 ||s0t.eu^
@@ -7245,7 +7220,6 @@
 ||shorl.com^
 ||shorrty.com^
 ||short.al^
-||short.asia^
 ||short.bid^
 ||short.cc^
 ||short.cl^
@@ -7335,7 +7309,6 @@
 ||shortenn.org^
 ||shortenpay.com^
 ||shortenr.de^
-||shortens.org^
 ||shortenurl.app^
 ||shortenurl.org^
 ||shortenurls.eu^
@@ -7764,7 +7737,6 @@
 ||smsng.news^
 ||smsng.us^
 ||smst.ca^
-||smsu.io^
 ||smtvj.com^
 ||smu.gs^
 ||smurl.fr^
@@ -8187,7 +8159,6 @@
 ||temu.to^
 ||ter.li^
 ||terabox.in^
-||teraboxl.cloud^
 ||terakki.link^
 ||terashort.com^
 ||teratai888.ink^
@@ -8217,7 +8188,6 @@
 ||tgr.ph^
 ||th3.ovh^
 ||th8.us^
-||than.world^
 ||tharp.me^
 ||thatis.me^
 ||thd.co^
@@ -8268,7 +8238,6 @@
 ||thpsn.org^
 ||thr.cm^
 ||thrdl.es^
-||threely.com^
 ||thrill.to^
 ||thryt.com^
 ||thts.gg^
@@ -8305,7 +8274,6 @@
 ||timewatch.info^
 ||timnao.link^
 ||timxxx.ink^
-||tin.li^
 ||tinderurl.com^
 ||tinesy.com^
 ||tini.cc^
@@ -8399,7 +8367,6 @@
 ||tipeos.com^
 ||tiplink.ru^
 ||tisfri.se^
-||titan.is^
 ||titaniumlinks.com^
 ||titleagentmarketing.com^
 ||titly.pro^
@@ -8481,7 +8448,6 @@
 ||tokopedia.link^
 ||toliveal.ie^
 ||toliyos.com^
-||tomasz.top^
 ||tomi-app.com^
 ||tomly.io^
 ||tonancos.com^
@@ -8565,11 +8531,9 @@
 ||trick.ly^
 ||trieuview.life^
 ||triggerbee.com^
-||trim.ac^
 ||trim.cx^
 ||trim.one^
 ||trim-me.io^
-||trimaurl.com^
 ||trimify.xyz^
 ||trimlink.ai^
 ||trimlink.net^
@@ -8577,7 +8541,6 @@
 ||trimm.link^
 ||trimmer.to^
 ||trimrly.com^
-||trimrr.link^
 ||trims.me^
 ||trimuly.com^
 ||trimurl.co^
@@ -9289,7 +9252,6 @@
 ||vlug.link^
 ||vm88bet.org^
 ||vms.bz^
-||vn.run^
 ||vndr.tech^
 ||vnl.vn^
 ||vnlink.top^
@@ -9655,7 +9617,6 @@
 ||xrl.us^
 ||xronia.com^
 ||xrshort.eu^
-||xs.run^
 ||xshort.co^
 ||xshort.io^
 ||xsin.it^
@@ -9909,7 +9870,6 @@
 ||zorts.me^
 ||zotter.click^
 ||zotter.link^
-||zovo.ink^
 ||zovpart.com^
 ||zpag.es^
 ||zpr.io^
