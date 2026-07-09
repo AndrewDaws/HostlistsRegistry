@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.70
+! Version: 1.0.26.71
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-09T09:15:16.451Z
+! Last modified: 2026-07-09T20:40:13.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6312,7 +6312,6 @@
 ||ad.tzockt.beer^
 ||edu.ucecom-craiova.ro^
 ||v1.ufamax.eu^
-||vless-service.ufodns.com^
 ||study.howto.ugo.si^
 ||blokuj.ujwie.co^
 ||nitter.ujwie.co^
@@ -6329,14 +6328,6 @@
 ||unicast.uncensoreddns.dk^
 ||block.undo.cl^
 ||cheesepizza.undo.it^
-||diddywasinnocent.undo.it^
-||farthaanfartedtoohardandnowhecant.undo.it^
-||pms-ssd.undo.it^
-||galaxykeepthisasecret.undoanarchy.rocks^
-||glintkeepthisasecret.undoanarchy.rocks^
-||interstellerkeepthisasecret.undoanarchy.rocks^
-||quasarkeepthisasecret.undoanarchy.rocks^
-||selenitekeepthisasecret.undoanarchy.rocks^
 ||voidkeepthisasecret.undoanarchy.rocks^
 ||dns.unerror.network^
 ||ines.zfn.uni-bremen.de^
@@ -6358,11 +6349,6 @@
 ||webproxy.us.com^
 ||dns.usualposts.xyz^
 ||coolguy.uzhi.ru^
-||algebra-math.v119.com^
-||clever-math.v119.com^
-||hamburger.v119.com^
-||prodigy-learning.v119.com^
-||sssdfg.v119.com^
 ||cc2.v8er.net^
 ||luminal.vacte.org^
 ||dns.vaguthu.mv^
@@ -6439,14 +6425,8 @@
 ||vpn-dlya-tg.vercel.app^
 ||zatoga-three.vercel.app^
 ||nwea.veriler.com^
-||virtualenglish.verolook.com^
 ||jahyussif.verymad.net^
 ||ohttp.prod.via.google^
-||cludenxenibyte.viar3d.com^
-||ilovenirb.viar3d.com^
-||mathteacher.viar3d.com^
-||sampanei.viar3d.com^
-||tubmledxeni.viar3d.com^
 ||ad.viet.date^
 ||dns.vietdns.vn^
 ||kids.vietdns.vn^
@@ -6502,7 +6482,6 @@
 ||megumin.is.my.waifu.cz^
 ||yunyun.is.my.waifu.cz^
 ||44c.wakemeup.ru^
-||damianlikesjulie.wakemeup.ru^
 ||kailovefurries.wakemeup.ru^
 ||dns.walker.id^
 ||adguard.wallura.eu^
@@ -6584,7 +6563,6 @@
 ||home.weisbrod.me^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^
-||drive.google.com.wesp.fi^
 ||math.westkis.com^
 ||doh.wewitro.net^
 ||doh-rs.whalebone.io^
@@ -15167,10 +15145,8 @@
 ||ueeftvvc.cc^
 ||ues-letsvpn.com^
 ||ufovpn.io^
-||ufreevpn.com^
 ||ugdsoft.com^
 ||ughhhhcuminmedaddypleaseimsofuckingwetaughhh.cfd^
-||uhgnzr44.online^
 ||uhzuran.win^
 ||uisujhks.com^
 ||ujrmdtrq.cc^
@@ -15228,7 +15204,6 @@
 ||unblocked.buzz^
 ||unblocked.cloud^
 ||unblocked.foo^
-||unblocked.help^
 ||unblocked.how^
 ||unblocked.id^
 ||unblocked.me^
@@ -15448,7 +15423,6 @@
 ||v4speed.com^
 ||v4trojn.xyz^
 ||v6.wiki^
-||vacrxakv.com^
 ||vadim.online^
 ||vaipn.app^
 ||valarre.com^
@@ -15654,8 +15628,6 @@
 ||vpn-byen.dk^
 ||vpn-edge.help^
 ||vpn-fastest.com^
-||vpn-free.com^
-||vpn-free.download^
 ||vpn-free.pro^
 ||vpn-kostenlos.com^
 ||vpn-kuailianapp.com^
@@ -16011,7 +15983,6 @@
 ||web-letsvpn.org^
 ||web-proxy.org^
 ||web-proxy.site^
-||web-rated.ie^
 ||web3jsq.com^
 ||web3jsq.pro^
 ||web3jsq.vip^
@@ -16068,7 +16039,6 @@
 ||wgetcloud6.org^
 ||wgetcloud9.org^
 ||wgflfolu.cc^
-||wgnngvoo.com^
 ||wgy0.com^
 ||wh-letsvpn.com^
 ||whatcaniplay.com^
@@ -16095,7 +16065,6 @@
 ||wikimediadns.org^
 ||wikivpn.org^
 ||wiksa.com^
-||william.tienda^
 ||wilway.christmas^
 ||wilway.today^
 ||wimorala.ru^
