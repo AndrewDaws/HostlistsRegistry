@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.21
+! Version: 1.0.99.22
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-09T15:07:20.533Z
+! Last modified: 2026-07-09T16:56:23.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1088,11 +1088,9 @@
 ||480executors.net^
 ||481516ca1d.com^
 ||483cab1ae9.638e922b9c.com^
-||48583ed9cf.com^
 ||485bd96db9.7d9d50ada1.com^
 ||4863232c.xyz^
 ||4883b6e943.d5ed0737cd.com^
-||48cc0c0e07.com^
 ||48d368a6f7.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
@@ -23306,7 +23304,6 @@
 ||hmvtwfudecij.com^
 ||hmvuezvlrxygm.website^
 ||hmxg5mhyx.com^
-||hmxoufchteecf.world^
 ||hmxrqsqisg.com^
 ||hmzxoegngasft.site^
 ||hnbanvxtkavun.site^
@@ -51160,7 +51157,6 @@
 ||webstag.kplus.vn^
 ||webstat.channel4.com^
 ||webstat.com^
-||webstat.freaks4u.com^
 ||webstat.net^
 ||webstat.qiumibao.com^
 ||webstat.ws.126.net^
@@ -54959,7 +54955,6 @@
 ||zhntvykltwwcp.website^
 ||zhomsqvldksoy.site^
 ||zhownsplpphyu.online^
-||zhoyyibwywgev.one^
 ||zhqhczzmtgaur.website^
 ||zhqrceorwfmqd.site^
 ||zhrqbrvoyfcuw.store^
