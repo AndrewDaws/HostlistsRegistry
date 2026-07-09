@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.1
+! Version: 1.0.21.2
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-08T07:54:17.975Z
+! Last modified: 2026-07-09T07:22:08.153Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -499,6 +499,7 @@
 ||24-7livenews.com^
 ||247pcsupport.net^
 ||247rapidresponse.com.au^
+||247tech.me^
 ||24ccdb8c44.com^
 ||24df4bd648.com^
 ||24houcryptowatcher.com^
@@ -6872,6 +6873,7 @@
 ||briefinedibleparson.com^
 ||brieflyenemiesstrongly.com^
 ||briefold.com^
+||brieftrouble.com^
 ||brielayover.com^
 ||brigadedelegatesandbox.com^
 ||brigadematerial.com^
@@ -25747,6 +25749,7 @@
 ||moderatelyvarying.com^
 ||modestcodglide.com^
 ||modestselfevident.com^
+||modest-significance.com^
 ||modestwillingnessboth.online^
 ||modificationdesignate.com^
 ||modificationdispatch.com^
