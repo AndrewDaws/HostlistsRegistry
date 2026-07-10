@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.58
+! Version: 1.0.3.59
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-10T00:52:12.318Z
+! Last modified: 2026-07-10T21:27:32.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,156
-# Updated: 7/9/2026  19:09 (7:09 PM CST)
+# Domains: 115,158
+# Updated: 7/10/2026  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -26267,6 +26267,7 @@
 ||datadoghq-browser-agent.com^
 ||datadoghq.com^
 ||datadoghq.eu^
+||datadog.pool.ntp.org^
 ||datadogsux.com^
 ||datadogsux.net^
 ||data.doktorselz-shop.de^
@@ -69945,6 +69946,7 @@
 ||pro.wildpacificwhalewatch.com^
 ||proxcactus.com^
 ||proxem.com^
+||proxima.ai^
 ||proximic.com^
 ||proxnodded.com^
 ||proxomnibusborn.com^
