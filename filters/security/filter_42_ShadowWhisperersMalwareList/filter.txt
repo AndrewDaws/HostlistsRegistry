@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.2
+! Version: 1.0.21.3
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-09T07:22:08.153Z
+! Last modified: 2026-07-10T00:52:35.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -899,6 +899,7 @@
 ||487ed86ea3.com^
 ||4885e2e6f7.com^
 ||48a11e6b12.com^
+||48cc0c0e07.com^
 ||48cd631c5c.com^
 ||48d368a6f7.com^
 ||48daa0d92b.com^
@@ -1726,6 +1727,7 @@
 ||91porn005.me^
 ||91tzy.com^
 ||921b6384ac.com^
+||922f5b94e5.com^
 ||92540760ee.com^
 ||9287167913.com^
 ||92888e5ff3.com^
@@ -2137,6 +2139,7 @@
 ||ablefeijoa.top^
 ||ablehandbookrepugnant.com^
 ||ablelaunchshorts.com^
+||abluentdecocttawpies.qpon^
 ||ablybeastssarcastic.com^
 ||ablyglossmartyr.com^
 ||abmagbychan.com^
@@ -17160,6 +17163,7 @@
 ||fp0trk.com^
 ||fpcasbdev.com^
 ||fqqenf8trk.com^
+||fqqljzlrnlp1ry.cfd^
 ||fractionbangingsunrise.com^
 ||fractionfridgejudiciary.com^
 ||fractionsadly.com^
@@ -19215,6 +19219,7 @@
 ||gullvacationinfamous.com^
 ||gullyending.com^
 ||gulpcaptivate.com^
+||gulpedcountwhipped.com^
 ||gulphecticadopt.com^
 ||gulphydrogen.com^
 ||gulpiersqueaky.shop^
