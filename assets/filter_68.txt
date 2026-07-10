@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.56
+! Version: 1.0.5.57
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-09T19:36:20.423Z
+! Last modified: 2026-07-10T09:14:50.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1381,6 +1381,7 @@
 ||adbaw.com^
 ||adbl.co^
 ||adbly.co^
+||adcryp.to^
 ||add.lat^
 ||add-l.ink^
 ||add2wallet.link^
@@ -9705,7 +9706,6 @@
 ||yoretube.net^
 ||yorkpa.homes^
 ||yorl.io^
-||yorl.to^
 ||yors.io^
 ||yorurl.com^
 ||yotpoclicks.com^
