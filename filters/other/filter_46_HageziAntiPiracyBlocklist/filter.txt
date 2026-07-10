@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.8
+! Version: 1.0.26.9
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-10T09:14:18.969Z
+! Last modified: 2026-07-10T20:35:43.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11170,6 +11170,7 @@
 ||konstantin-lordfilm.ru^
 ||konstantin-lordfilms.ru^
 ||konstantinopol-serial-lordfilm.ru^
+||kooora-city.com^
 ||koora-live.io^
 ||koora-yallashoot.live^
 ||koora365.io^
@@ -11312,6 +11313,7 @@
 ||landyshi-lordfilm.ru^
 ||laola1.tv^
 ||lapak21.com^
+||lapakstreaming.live^
 ||lapakstreaming.store^
 ||lapochkaa-lordfilm.ru^
 ||lapochkka-lordfilm.ru^
@@ -11585,6 +11587,7 @@
 ||liteapks.com^
 ||liteapks.mobi^
 ||litemodapk.com^
+||live-football.tv^
 ||live-kooora-tv.com^
 ||live-kooora-tv.net^
 ||live-nfl.stream^
@@ -11595,6 +11598,7 @@
 ||livehd7i.live^
 ||livekooora.online^
 ||livekoora.io^
+||livekooraa.online^
 ||liveon4.zip^
 ||liveon5.zip^
 ||liveonscore.tv^
@@ -11622,6 +11626,7 @@
 ||livetv815.me^
 ||livetv886.me^
 ||livextv.live^
+||livextv.pro^
 ||livingtorrents.com^
 ||livnet.xyz^
 ||livrefilmeshd.net^
@@ -25913,6 +25918,7 @@
 ||qeseh3sk.com^
 ||qimanhwa.com^
 ||qiq.ws^
+||qlzww.cc^
 ||qmovies.net^
 ||qoob.name^
 ||qqdl.site^
@@ -26646,6 +26652,7 @@
 ||serialbay.com^
 ||serialcoded.com^
 ||serialfan.com^
+||serialflix.online^
 ||serialgo.tv^
 ||serialheaven.com^
 ||serialkeys.info^
@@ -29292,7 +29299,6 @@
 ||tjrksciow.pro^
 ||tlgetin.cc^
 ||tlt-torrent.ru^
-||tma-lordfilm.hair^
 ||tma-serial-lordfilm.ru^
 ||tmaxapp.site^
 ||tmovierulz.com^
@@ -31906,6 +31912,7 @@
 ||winneritbd.com^
 ||winning2day.com^
 ||winobraz.net^
+||winsgoal.live^
 ||wintorr.com^
 ||wintorrents.ru^
 ||wipfiles.net^
@@ -32374,6 +32381,7 @@
 ||yoouu-lordfilms.ru^
 ||yosuga-no-sora-lordfilm.ru^
 ||yotoshi.com^
+||youcineversoes.com^
 ||youflixmovies.xyz^
 ||youhaveavirus.com^
 ||youmoviz.tv^

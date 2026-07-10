@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's The World's Most Abused TLDs
 ! Description: The Top Most Abused Top Level Domains, merged from HaGeZi, Yokoffing, DandelionSprout and SpamHAUS.
-! Version: 1.0.20.0
+! Version: 1.0.20.1
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-07T19:37:29.226Z
+! Last modified: 2026-07-10T20:36:14.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -249,7 +249,7 @@
 ||*.sport^$denyallow=dyn.sport
 ||*.srl^
 ||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|cnckitchen.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|hom.store|immich.store|iqunix.store|myexpresscarwash.store|myshopline.store|pbshop.store|peugeot.store|pyrocynical.store|roble.store|rokomari.store|shoplazza.store|shopware.store|sofascore.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store|xqc.store
-||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|woodsea.studio|zenn.studio
+||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|tivio.studio|woodsea.studio|zenn.studio
 ||*.style^$denyallow=nebula.style|primer.style|shiki.style
 ||*.su^$denyallow=encode.su|jpg4.su|jpg6.su|promportal.su|saint2.su
 ||*.support^$denyallow=ada.support|jitsi.support|windrose.support
