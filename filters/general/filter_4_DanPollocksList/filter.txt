@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.96
+! Version: 1.0.18.97
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-09T18:41:50.201Z
+! Last modified: 2026-07-10T16:45:40.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2015,6 +2015,7 @@
 0.0.0.0 hcg82f2b.com
 0.0.0.0 headization.lexkd.cn
 0.0.0.0 healpublic.best
+0.0.0.0 healthit.live
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
 0.0.0.0 helpmedb.com
@@ -3799,6 +3800,7 @@
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
 0.0.0.0 www.santemama.com
+0.0.0.0 www.sapiatinsurance.com
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.sealabour.living
