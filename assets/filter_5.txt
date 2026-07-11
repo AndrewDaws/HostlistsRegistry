@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.35
+! Version: 1.0.99.36
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-11T06:53:41.640Z
+! Last modified: 2026-07-11T10:30:53.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -52459,7 +52459,6 @@
 ||wt2x6p7j.xyz^
 ||wtaorvnpa.com^
 ||wtatrrum.net^
-||wtb-tag.mikmak.ai^
 ||wtb-tag.swaven.com^
 ||wtbevents.pricespider.com^
 ||wtdshzjdlppil.online^
