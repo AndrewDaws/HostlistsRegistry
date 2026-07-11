@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.10
+! Version: 1.0.26.11
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-11T08:39:38.203Z
+! Last modified: 2026-07-11T19:28:23.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -29848,7 +29848,6 @@
 ||torrentfeed.xyz^
 ||torrentfile.net^
 ||torrentfilmes.net^
-||torrentfilmesagora.net^
 ||torrentfilmeshd.com^
 ||torrentfilmindir.com^
 ||torrentfive.com^
@@ -30796,7 +30795,6 @@
 ||unblockedgames66.info^
 ||unblockedgames67.xyz^
 ||unblockedgames6969.us^
-||unblockedgames6x.top^
 ||unblockedgames6x.xyz^
 ||unblockedgames76.biz^
 ||unblockedgames76.website^
