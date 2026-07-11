@@ -1,9 +1,9 @@
 !
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Version: 1.0.17.43
+! Version: 1.0.17.44
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-07-11T15:24:30.253Z
+! Last modified: 2026-07-11T18:23:34.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2504,6 +2504,7 @@
 ||pgpartner.com^
 ||pheedo.com^
 ||phoenix-adrunner.mycomputer.com^
+||pi.pdfjs.express^
 ||piano.io^
 ||pimproll.com^
 ||ping.ublock.org^
@@ -2716,6 +2717,7 @@
 ||republika.onet.pl^
 ||resalag.com^
 ||rescuerhino.com^
+||researchlog.dbresearch.com^
 ||resonantbrush.com^
 ||resonate.com^
 ||responsiveads.com^
@@ -3283,6 +3285,7 @@
 ||trkn.us^
 ||trkoptimizer.com^
 ||trkpnt.ongage.net^
+||trkweb.clinch.co^
 ||trmit.com^
 ||truckstomatoes.com^
 ||truculentrate.com^
