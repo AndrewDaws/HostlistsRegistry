@@ -1,9 +1,9 @@
 !
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Version: 1.0.17.44
+! Version: 1.0.17.45
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-07-11T18:23:34.230Z
+! Last modified: 2026-07-11T21:20:45.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2751,6 +2751,7 @@
 ||rmedia.boston.com^
 ||roaddynamics.com^
 ||roar.com^
+||robotrefinery.com^
 ||robotreplay.com^
 ||rockabox.co^
 ||rockagainst.com^
