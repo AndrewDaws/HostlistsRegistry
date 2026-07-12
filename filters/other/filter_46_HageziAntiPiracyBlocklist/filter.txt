@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.12
+! Version: 1.0.26.13
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-12T08:50:20.149Z
+! Last modified: 2026-07-12T19:28:18.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3035,6 +3035,7 @@
 ||animegojoo.com^
 ||animegoo.life^
 ||animehd47.com^
+||animehdzeroo.net^
 ||animeheaven.ru^
 ||animeholics.org^
 ||animehub.ac^
@@ -22827,6 +22828,7 @@
 ||megakino1.ws^
 ||megakino1-co.com^
 ||megakino1-co.cool^
+||megakino10.com^
 ||megakino2.biz^
 ||megakino2.com^
 ||megakino2.net^
@@ -24036,7 +24038,6 @@
 ||multicanais.reisen^
 ||multicanais.soccer^
 ||multicanais.space^
-||multicanais.study^
 ||multicanais.team^
 ||multicanais.today^
 ||multicanais.travel^
@@ -24612,7 +24613,6 @@
 ||netmirror.cyou^
 ||netmirror.download^
 ||netmirror.eu^
-||netmirror.fun^
 ||netmirror.gg^
 ||netmirror.global^
 ||netmirror.lat^
