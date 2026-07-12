@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.27.98",
+			"version": "1.1.27.99",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-12T21:20:37+0000"
+			"timeUpdated": "2026-07-12T23:21:58+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -294,14 +294,14 @@
 				111
 			],
 			"languages": [],
-			"version": "1.0.7.8",
+			"version": "1.0.7.9",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt",
 			"timeAdded": "2025-08-12T08:33:05+0000",
-			"timeUpdated": "2026-07-11T09:36:02+0000"
+			"timeUpdated": "2026-07-12T23:22:21+0000"
 		},
 		{
 			"filterKey": "no_google",
