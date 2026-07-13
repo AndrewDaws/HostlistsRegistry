@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.14
+! Version: 1.0.26.15
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-13T09:14:03.610Z
+! Last modified: 2026-07-13T12:57:02.010Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3091,6 +3091,7 @@
 ||animesonline.biz^
 ||animesonline.cc^
 ||animesound.ru^
+||animesquadron.org^
 ||animestars.org^
 ||animestotais.xyz^
 ||animestream.in^
@@ -7365,7 +7366,6 @@
 ||filmoflix.money^
 ||filmoflix.page^
 ||filmoflix.pizza^
-||filmoflix.sbs^
 ||filmoflix.shop^
 ||filmoflix.singles^
 ||filmoflix.store^
@@ -32690,6 +32690,7 @@
 ||worldboxingvideoarchive.com^
 ||worldbytez.com^
 ||worldcupfootball.me^
+||worldfree4u.dog^
 ||worldfree4u.moe^
 ||worldfree4u.pm^
 ||worldfree4u.sarl^
