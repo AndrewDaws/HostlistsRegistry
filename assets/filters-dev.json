@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.72.49",
+			"version": "1.0.72.50",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-13T20:31:01+0000"
+			"timeUpdated": "2026-07-13T22:22:58+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.28.14",
+			"version": "1.1.28.15",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-13T21:23:33+0000"
+			"timeUpdated": "2026-07-13T22:23:01+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -172,14 +172,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.19.0",
+			"version": "1.0.19.1",
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-13T21:23:47+0000"
+			"timeUpdated": "2026-07-13T22:23:16+0000"
 		},
 		{
 			"filterKey": "hagezi_pro++",
@@ -763,14 +763,14 @@
 				109
 			],
 			"languages": [],
-			"version": "1.0.14.73",
+			"version": "1.0.14.74",
 			"homepage": "https://github.com/ABPindo/indonesianadblockrules",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-05T00:58:28+0000"
+			"timeUpdated": "2026-07-13T22:23:35+0000"
 		},
 		{
 			"filterKey": "KOR_list_kr",
@@ -1031,14 +1031,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.41.67",
+			"version": "1.0.41.68",
 			"homepage": "https://phishing.army/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"subscriptionUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": "2023-07-19T22:24:59+0000",
-			"timeUpdated": "2026-07-13T17:41:48+0000"
+			"timeUpdated": "2026-07-13T22:23:40+0000"
 		},
 		{
 			"filterKey": "curben_phishing_filter",

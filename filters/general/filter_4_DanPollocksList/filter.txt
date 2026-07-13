@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.0
+! Version: 1.0.19.1
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-13T21:23:47.912Z
+! Last modified: 2026-07-13T22:23:16.341Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1952,6 +1952,7 @@
 0.0.0.0 gcn-1nterc.com
 0.0.0.0 gdudh473-chersfeye483.landmarksfeed.su
 0.0.0.0 gekowex.com
+0.0.0.0 genuinepeople.cc
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
@@ -2960,6 +2961,7 @@
 0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenewswire.fr
+0.0.0.0 thesciencequest.info
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
