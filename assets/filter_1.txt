@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.72.48
+! Version: 1.0.72.49
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-13T18:38:27.420Z
+! Last modified: 2026-07-13T20:31:03.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8147,6 +8147,7 @@ vkcdnservice.appspot.com^
 ||84e867f7b4.com^
 ||84eb50d125.com^
 ||84gs08xe1.com^
+||84toexecutors.com^
 ||8537b5712c.com^
 ||85a30cce17.com^
 ||85mrruhppm8w5264n.rest^
@@ -11005,6 +11006,7 @@ vkcdnservice.appspot.com^
 ||awlpiert.shop^
 ||awlsqqofnkse.com^
 ||awltovhc.com^
+||awltzbrmwmzlf.site^
 ||awmbed.com^
 ||awmdelivery.com^
 ||awmplus.com^
@@ -12781,10 +12783,12 @@ vkcdnservice.appspot.com^
 ||brankiewringle.cyou^
 ||brannedalbinosstaw.cyou^
 ||brarowmannetbigwigs.cfd^
+||brasanoxiasegos.qpon^
 ||brashespresa.cyou^
 ||brashgrandchild.com^
 ||brassedcreme.cfd^
 ||brassedunicism.qpon^
+||brasseycopeisept.cfd^
 ||brassstacker.com^
 ||brationalfilarded.com^
 ||brave-village.com^
@@ -17511,6 +17515,7 @@ vkcdnservice.appspot.com^
 ||dpvowksnrdhxv.site^
 ||dpvztnqfkmlbs.store^
 ||dqciuftqqizon.website^
+||dqcnhcmiaosjv.online^
 ||dqdsnemauijvc.online^
 ||dqeozccymwpqw.online^
 ||dqfzbnhbqeqox.space^
@@ -17908,6 +17913,7 @@ vkcdnservice.appspot.com^
 ||dszqsm.com^
 ||dszqzq.com^
 ||dszres.com^
+||dszscg.com^
 ||dt4ever.com^
 ||dt51.net^
 ||dtadnetwork.com^
@@ -18701,6 +18707,7 @@ vkcdnservice.appspot.com^
 ||ekogulzaxpito.site^
 ||ekqlj8o5wpcc1hi.cfd^
 ||ekrpjrrovubka.club^
+||ekrvzaqtbhxjx.site^
 ||ektmyescfvnmb.website^
 ||ektxsfkdnciut.space^
 ||ekvhgfruqyadw.site^
@@ -20271,6 +20278,7 @@ vkcdnservice.appspot.com^
 ||festivalpronoundeserve.com^
 ||festtube.com^
 ||fetchlately.com^
+||fetchtosensitive.com^
 ||fetclarity.qpon^
 ||fettersbatties.qpon^
 ||fetusphytome.cfd^
@@ -28538,6 +28546,7 @@ vkcdnservice.appspot.com^
 ||ldnkepcuqetum.online^
 ||ldodcckzbfgop.site^
 ||ldofvnruxhixg.site^
+||ldoiaupitddx.com^
 ||ldoxmvlsvzban.online^
 ||ldpdhccjkfarr.online^
 ||ldpwpfjyhwvnb.space^
@@ -32224,6 +32233,7 @@ vkcdnservice.appspot.com^
 ||nhdalwapuz.com^
 ||nhelzh785g5o8j.cfd^
 ||nheopaobzlrqc.site^
+||nhhkiwxywzduc.site^
 ||nhiaoadcolahl.website^
 ||nhiwyubasvwub.site^
 ||nhkstivqaqwvz.store^
@@ -32928,6 +32938,7 @@ vkcdnservice.appspot.com^
 ||nv3tosjqd.com^
 ||nvagcpwuffuxj.space^
 ||nvejmzqxuuujx.love^
+||nvekimjufdbfx.site^
 ||nvfpshunedmgf.online^
 ||nvftdcwewfhow.space^
 ||nvgezlkkqshtt.online^
@@ -33905,6 +33916,7 @@ vkcdnservice.appspot.com^
 ||oqigcunk5upcor85qn53gfni691y7z6fgiq.rest^
 ||oqisfnvewbcaz.online^
 ||oqjuxsuaavimo.online^
+||oqkbvcvsokqjc.online^
 ||oqkhxgzljvqzr.store^
 ||oqkynbmdyecilek.com^
 ||oqmiadfkmlcwz.website^
@@ -35442,6 +35454,7 @@ vkcdnservice.appspot.com^
 ||pixazza.com^
 ||pixbduooqbddq.website^
 ||pixelhere.com^
+||pixfflbtgvh.com^
 ||pixfuture.net^
 ||pixgallery.xyz^
 ||pixis510.net^
@@ -40687,6 +40700,7 @@ vkcdnservice.appspot.com^
 ||shiveexoticsmucor.cfd^
 ||shlfkekeuszwo.site^
 ||shlilfelzoelt.space^
+||shmjrtuqpod.com^
 ||shnegttccwnom.site^
 ||shoagloumtoamir.net^
 ||shoalsirate.shop^
@@ -41639,6 +41653,7 @@ vkcdnservice.appspot.com^
 ||spadelack.com^
 ||spaderonium.com^
 ||spadsync.com^
+||spagxivzizmfm.space^
 ||spaikfoxery.cyou^
 ||spaniardinformationbookworm.com^
 ||spaninghidel.cfd^
