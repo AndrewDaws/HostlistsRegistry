@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
-! Version: 1.0.15.32
+! Version: 1.0.15.33
 ! Homepage: https://github.com/hagezi/dns-blocklists#referral
-! Last modified: 2026-07-07T09:15:45.800Z
+! Last modified: 2026-07-13T19:33:47.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -359,6 +359,7 @@
 @@||d.hodes.com^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
+@@||data.email.tangerine.ca^
 @@||dct.klaviyodns.com^
 @@||dealabs.digidip.net^
 @@||deeplink.page^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.77
+! Version: 1.0.26.78
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-13T09:14:35.237Z
+! Last modified: 2026-07-13T19:34:24.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4867,6 +4867,7 @@
 ||wise-bear-455.nowgg.me^
 ||dns.npe.bz^
 ||adguard.npglocal.com^
+||api.npvu.me^
 ||xpen.ns01.info^
 ||x.ns1net.com^
 ||dnscache0.ns71.net^
@@ -6862,6 +6863,7 @@
 ||1tv8q2k.online^
 ||1utins.xyz^
 ||1vpn.app^
+||1vpn.co^
 ||1vpn.org^
 ||1vpn.website^
 ||1xiaowang.com^
@@ -8580,10 +8582,14 @@
 ||closetruth.date^
 ||cloudbenders.fun^
 ||cloudbob.fr^
+||cloudburstcdn.com^
+||cloudflaracdn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||cloudflaredns.com^
 ||cloudflareresolve.com^
+||cloudflingcdn.com^
+||cloudlogcdn.com^
 ||cloudnetcdn.com^
 ||cloudnetwork.pro^
 ||cloudnymous.com^
@@ -8593,6 +8599,7 @@
 ||cloudspacecdn.site^
 ||cloudssh.net^
 ||cloudssh.us^
+||cloudtimecdn.com^
 ||cloudvpn.ai^
 ||cloudvpn.pro^
 ||clovian.ru^
