@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS Popup Hosts filter
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
-! Version: 1.0.18.41
+! Version: 1.0.18.42
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-10T18:36:02.304Z
+! Last modified: 2026-07-13T03:12:39.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -469,6 +469,7 @@
 ||kagonst.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kaminari.systems^$dnsrewrite=ad-block.dns.adguard.com
 ||ker2clk.com^$dnsrewrite=ad-block.dns.adguard.com
+||kinetiksoft.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kstrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ku42hjr2e.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lamplynx.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -625,6 +626,7 @@
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||radiancerelaysacred.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ragan-qdr.com^$dnsrewrite=ad-block.dns.adguard.com
+||rak8s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rcdn-web.com^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -657,6 +659,7 @@
 ||sabasadara.com^$dnsrewrite=ad-block.dns.adguard.com
 ||safeonlinetips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
+||scarfstartpickle.com^$dnsrewrite=ad-block.dns.adguard.com
 ||schedulerationally.com^$dnsrewrite=ad-block.dns.adguard.com
 ||security-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||security-u.com^$dnsrewrite=ad-block.dns.adguard.com
