@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.4
+! Version: 1.0.21.5
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-13T03:13:07.769Z
+! Last modified: 2026-07-13T15:05:44.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1124,6 +1124,7 @@
 ||5bb66f161d.com^
 ||5be7319a8b.com^
 ||5bf6d94b92.com^
+||5c0ddac6e3.com^
 ||5c4ccd56c9.com^
 ||5c536d71ba.com^
 ||5cb79f17b9.com^
@@ -1151,6 +1152,7 @@
 ||5f8eae82ca.com^
 ||5f93004b68.com^
 ||5fa93678cd.com^
+||5fb4d91deb.com^
 ||5fbc7e29cd.com^
 ||5fc96ec3c7.com^
 ||5finder.com^
@@ -2067,6 +2069,7 @@
 ||abattuehagbuts.com^
 ||abayo.law^
 ||abb030d6a7.com^
+||abb84a6bf8.com^
 ||abbateerupted.com^
 ||abbattery.com^
 ||abberantbeefy.com^
@@ -4587,6 +4590,7 @@
 ||athletecrusadeslowing.com^
 ||athletedurable.com^
 ||athletethrong.com^
+||athortamoved.cfd^
 ||athwartendorsetwinkle.com^
 ||athyriaafara.shop^
 ||atimygud.cyou^
@@ -8571,6 +8575,7 @@
 ||chyre.xyz^
 ||ciatest.com^
 ||ciatran.com.co^
+||cicadacacophony.space^
 ||ciclonrox.com^
 ||ci-cmf.com^
 ||cidimortus.com^
@@ -14703,6 +14708,7 @@
 ||elliotretained.com^
 ||ellsconuses.com^
 ||elmachif.com^
+||elmiestindishshole.qpon^
 ||eloawiphi.net^
 ||elocutecowbarn.shop^
 ||elongatedcrow.com^
@@ -16281,6 +16287,7 @@
 ||fidiaestherstepbairn.com^
 ||fidohvqwukz.com^
 ||fidonav.com^
+||fieldandhaven.com^
 ||fieldmachine.icu^
 ||fierycakes.com^
 ||fieryforgekeeper.top^
@@ -18276,6 +18283,7 @@
 ||giantsender.com^
 ||giaourssthenia.shop^
 ||gibbiergreens.com^
+||gibbousgambol.site^
 ||gicp.net^
 ||giddinessresolute.com^
 ||giddinessscrewscandal.com^
@@ -19287,6 +19295,7 @@
 ||gystek.com^
 ||gytyn.com.cn^
 ||h0w-t0-watch.net^
+||h1no26ftnb9ucf1fovk4p.cfd^
 ||h2938834.stratoserver.net^
 ||h2ghftrk.com^
 ||h3f8ktrk.com^
@@ -29466,6 +29475,7 @@
 ||pausenotification.xyz^
 ||pausingaunt.com^
 ||pausingcapacityapology.com^
+||pausingfaintly.com^
 ||pausingrespectfully.com^
 ||pausingroyale.com^
 ||pavementbluffybluffy.com^
@@ -31940,6 +31950,7 @@
 ||quickspeedtest.org^
 ||quicktemplatefinder.com^
 ||quicktoemail.com^
+||quicktoolera.com^
 ||quickweatheralert.com^
 ||quickweathersearch.com^
 ||quickweathertracker.com^
@@ -33897,6 +33908,7 @@
 ||samplelocation5.xyz^
 ||samplelocation6.xyz^
 ||samplelocation7.xyz^
+||sampleobtuse.shop^
 ||samplepipermoan.com^
 ||samplesbuddy.com^
 ||samplesflash.com^
@@ -36441,6 +36453,7 @@
 ||sornilexa.my^
 ||sorosehottie.com^
 ||sorrelsogives.com^
+||sorrilylivyershape.cyou^
 ||sorrowamiablehereafter.com^
 ||sorrowfulchemical.com^
 ||sorrowfulrevenuegroundless.com^
@@ -39867,6 +39880,7 @@
 ||trypsinneutral.com^
 ||tryshiftcdn.com^
 ||tryshift.com^
+||tryuseelements.com^
 ||tsapphires.buzz^
 ||tsdtocl.com^
 ||tshirtlabawfully.com^
@@ -40131,6 +40145,7 @@
 ||uir-news2.club^
 ||uj8sdtrk.com^
 ||ukankingwithea.com^
+||ukasesboorish.qpon^
 ||ukelpmetoreali.pics^
 ||ukentaspe.xyz^
 ||ukforward.xyz^
