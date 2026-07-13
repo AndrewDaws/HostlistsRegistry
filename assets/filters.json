@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.72.43",
+			"version": "1.0.72.44",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-13T09:13:32+0000"
+			"timeUpdated": "2026-07-13T11:06:51+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.26.19",
+			"version": "1.0.26.20",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-12T22:21:13+0000"
+			"timeUpdated": "2026-07-13T11:06:53+0000"
 		},
 		{
 			"filterKey": "oisd_full",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.28.4",
+			"version": "1.1.28.5",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-13T09:13:35+0000"
+			"timeUpdated": "2026-07-13T11:06:55+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -294,14 +294,14 @@
 				111
 			],
 			"languages": [],
-			"version": "1.0.7.9",
+			"version": "1.0.7.10",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt",
 			"timeAdded": "2025-08-12T08:33:05+0000",
-			"timeUpdated": "2026-07-12T23:22:21+0000"
+			"timeUpdated": "2026-07-13T11:07:16+0000"
 		},
 		{
 			"filterKey": "no_google",
@@ -658,14 +658,14 @@
 				103
 			],
 			"languages": [],
-			"version": "1.0.17.47",
+			"version": "1.0.17.48",
 			"homepage": "http://abpvn.com/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
 			"subscriptionUrl": "https://abpvn.com/android/abpvn.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-09T09:14:48+0000"
+			"timeUpdated": "2026-07-13T11:07:34+0000"
 		},
 		{
 			"filterKey": "SWE_frellwit_swedish_hosts_file",
@@ -1031,14 +1031,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.41.65",
+			"version": "1.0.41.66",
 			"homepage": "https://phishing.army/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"subscriptionUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": "2023-07-19T22:24:59+0000",
-			"timeUpdated": "2026-07-13T05:16:18+0000"
+			"timeUpdated": "2026-07-13T11:07:43+0000"
 		},
 		{
 			"filterKey": "curben_phishing_filter",
