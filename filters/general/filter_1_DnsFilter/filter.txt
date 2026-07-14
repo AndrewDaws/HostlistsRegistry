@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.72.52
+! Version: 1.0.72.53
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-14T03:09:09.825Z
+! Last modified: 2026-07-14T05:05:20.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14228,6 +14228,7 @@ vkcdnservice.appspot.com^
 ||cheftoondiligord.site^
 ||chegoeinbent.cfd^
 ||chemicalssmuglyuntying.com^
+||chenaobldigress.cyou^
 ||chengaib.net^
 ||chengplacidova.cfd^
 ||chequesbalolo.cfd^
@@ -14691,6 +14692,7 @@ vkcdnservice.appspot.com^
 ||clrqbqtonradt.online^
 ||clrstm.com^
 ||cltdabpjiaqlw.space^
+||cltkyk3re7lzwb.rest^
 ||cltnopjcmaxkj.website^
 ||clubacquiregivens.qpon^
 ||clubbytentory.qpon^
@@ -17879,6 +17881,7 @@ vkcdnservice.appspot.com^
 ||dstpwgogbw.com^
 ||dstqck.com^
 ||dstsjj.com^
+||dsttpi.com^
 ||dstvpc.com^
 ||dsughf.com^
 ||dsuhyg.com^
@@ -18405,6 +18408,7 @@ vkcdnservice.appspot.com^
 ||eclvgswxvthwx.space^
 ||eclzoaiippely.site^
 ||ecmlevzhgcdwh.online^
+||ecnbingejoain.site^
 ||ecnikbpb2gy8zo3u1.cfd^
 ||ecntpxvcdvmsn.website^
 ||ecologystoter.com^
@@ -19865,6 +19869,7 @@ vkcdnservice.appspot.com^
 ||f18ddd0d1a.com^
 ||f19062be44.com^
 ||f1ce24f962.com^
+||f1nebbj12ff96xlh9wmkv2968yt.cfd^
 ||f247dab479.com^
 ||f270fefbd3.com^
 ||f2a31b0912.com^
@@ -20357,6 +20362,7 @@ vkcdnservice.appspot.com^
 ||ffzljtcftssxn.space^
 ||fg1focl77h2obu.cfd^
 ||fgdubihoojote.online^
+||fgdwucvkviqtr.online^
 ||fggjrptybynnt.space^
 ||fggovwtouynec.site^
 ||fggxupklylewk.online^
@@ -20903,6 +20909,7 @@ vkcdnservice.appspot.com^
 ||foamergv.qpon^
 ||foapsovi.net^
 ||fockleuncomptbraves.cfd^
+||foctdwolfczyy.website^
 ||focusameneducation.com^
 ||focusedquit.pro^
 ||fodpqylf.com^
@@ -22378,6 +22385,7 @@ vkcdnservice.appspot.com^
 ||glinkhitler.com^
 ||glirinetreague.shop^
 ||glistenbutt.com^
+||glisteningfinding.pro^
 ||glisteninginstruction.pro^
 ||glitnirtaphole.qpon^
 ||glitteringsinkingdefense.com^
@@ -25205,6 +25213,7 @@ vkcdnservice.appspot.com^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
 ||ilzualntjfjjd.online^
+||ilzwfvbwizszr.space^
 ||imageadvantage.net^
 ||imagenest.site^
 ||imagessofta.com^
@@ -29832,6 +29841,7 @@ vkcdnservice.appspot.com^
 ||lyvkvqitzktkx.store^
 ||lyvlbjzbozkxy.space^
 ||lyvootnkgwxkq.online^
+||lyvymetkd.com^
 ||lywfwxeexwcwc.online^
 ||lywuyxazjxmbt.site^
 ||lyyyupftoqfoz.site^
@@ -33732,6 +33742,7 @@ vkcdnservice.appspot.com^
 ||omrlipeocxijz.online^
 ||omshedinjaor.com^
 ||omswwmgtqwekb.space^
+||omvuimqorbgvf.site^
 ||omwvapmytccsc.online^
 ||omxpiremgszzv.space^
 ||omzal.com^
@@ -36398,6 +36409,7 @@ vkcdnservice.appspot.com^
 ||processingcontinuediligence.com^
 ||processingnettleremiss.com^
 ||processlayoutreality.com^
+||processors2480.com^
 ||processors2controller.com^
 ||processors801.net^
 ||processorsinlake.net^
@@ -36933,6 +36945,7 @@ vkcdnservice.appspot.com^
 ||pvuaypsrfcecd.site^
 ||pvuznrtadztxu.space^
 ||pvvkigebunabd.site^
+||pvwmszjztmcoh.site^
 ||pvzesryoifiit.online^
 ||pw5ztjnz8557v35.rest^
 ||pwbxyinigxrju.website^
@@ -36997,6 +37010,7 @@ vkcdnservice.appspot.com^
 ||pyqezmcomuayf.website^
 ||pyqquhawbtrpm.site^
 ||pyralmite.com^
+||pyrhbdwhgdbgo.site^
 ||pyriteshumean.shop^
 ||pyroium.net^
 ||pyrrhicangekokamplect.qpon^
@@ -42765,6 +42779,7 @@ vkcdnservice.appspot.com^
 ||svmjnmmvxntru.site^
 ||svn-defender.pro^
 ||svntrk.com^
+||svqjewqywqppu.site^
 ||svqzcswdpeytq.space^
 ||svrgcqgtpe.com^
 ||svstfplolhlll.website^
@@ -44669,6 +44684,7 @@ vkcdnservice.appspot.com^
 ||tubecorp.com^
 ||tubecup.net^
 ||tubeelite.com^
+||tubeewpdowlwe.site^
 ||tubemov.com^
 ||tubeultra.com^
 ||tubfishhechtia.cfd^
@@ -132440,6 +132456,8 @@ vkcdnservice.appspot.com^
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||r.vares.top^
+||umami.vidfast.
 ||akutagawa.consumer.gopuff.com^
 ||1414.hexa.su^
 ||c.bubutv.top^
@@ -150204,6 +150222,8 @@ dlsdk.appsflyer.com^
 ||zptfrxoaumxhnu.com^
 ||078pwrxpbg.com^
 ||tzifhmvuju.com^
+||ronfjvonmo.com^
+||18ioh53d3f.com^
 ||xxp4802or.com^
 ||x94pjnejo.com^
 ||wheelbarrow64.com^
