@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.56
+! Version: 1.0.99.57
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-14T01:39:15.954Z
+! Last modified: 2026-07-14T03:09:32.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8585,7 +8585,6 @@
 ||beterrakionan.com^
 ||betgorebysson.club^
 ||betissantos.com^
-||betmasquerainchan.com^
 ||betmenaff.com^
 ||betotodilea.com^
 ||betr-for-tod.com^
