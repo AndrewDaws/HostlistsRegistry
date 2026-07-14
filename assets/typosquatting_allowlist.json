@@ -102,6 +102,10 @@
       "exceptions": [ "kink.com" ]
     },
     {
+      "domain": "ksmobile.com",
+      "exceptions": [ "usmobile.com" ]
+    },
+    {
       "domain": "mail.com",
       "exceptions": [ "mailo.com" ]
     },
