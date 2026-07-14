@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.61
+! Version: 1.0.3.62
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-13T03:12:42.950Z
+! Last modified: 2026-07-14T16:33:15.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,180
-# Updated: 7/12/2026  21:20 (9:20 PM CST)
+# Domains: 115,190
+# Updated: 7/14/2026  10:50 (10:50 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2191,6 +2191,7 @@
 ||a.apmapi.com^
 ||aa.popculture.com^
 ||aa.poptv.com^
+||aap-p.ups.com^
 ||aapud.simmonsfirm.com^
 ||aa.qualcomm.cn^
 ||aardvark.considerable.cx^
@@ -4078,6 +4079,7 @@
 ||amp-consent.thomassixt.de^
 ||amp.dzonline.de^
 ||ampedmedia.com^
+||amp-endpoint3.com^
 ||amp.hallo24.de^
 ||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
@@ -18385,6 +18387,7 @@
 ||bd.dailyfoodsservice.com^
 ||bddatabot.xyz^
 ||bddsdbpro.fr^
+||bded8a3c6ae-1-1053047382554.us-central1.run.app^
 ||bdelac.cl^
 ||bdex.com^
 ||bdg001a.com^
@@ -22025,6 +22028,7 @@
 ||cnd-motionmedia.de^
 ||cnect-stats.com^
 ||c.nine.com.au^
+||c.ninjaone.com^
 ||c.nl.msn.com^
 ||cn.lucasfinanzas.cl^
 ||cno20itj.com^
@@ -23954,6 +23958,7 @@
 ||cquotient.com^
 ||cqz6fn6aox.aporia.com^
 ||cr1ms0ncurv3.com^
+||crab.baidu.com^
 ||crabbychin.com^
 ||crab.cachix.org^
 ||crab.dunkeldbutchers.co.uk^
@@ -24624,6 +24629,7 @@
 ||d2na2p72vtqyok.cloudfront.net^
 ||d2nj2idkddbtuj.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
+||d2o9p5vky89u4e.cloudfront.net^
 ||d2oarllo6tn86.cloudfront.net^
 ||d2oybhctagfa9.cloudfront.net^
 ||d2p9l91d5g68ru.cloudfront.net^
@@ -31971,6 +31977,7 @@
 ||fgtzs.bugmd.com^
 ||fgujp.whataroom.com^
 ||fgvdd.nectarsleep.com^
+||fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws^
 ||fhhxfi.lowermydentalbills.com^
 ||fhj2i1k2tr.com^
 ||fhjuocb.nordicoil.pl^
@@ -33925,6 +33932,7 @@
 ||go-mpulse.net^
 ||go.nagios.org^
 ||gondolagnome.com^
+||go.ninjaone.com^
 ||gonow.threatconnect.com^
 ||gooanalytics.com^
 ||gooddata.com^
@@ -39324,6 +39332,7 @@
 ||insights-r.webex.com^
 ||insights.sitesearch360.com^
 ||insights.stobag.com^
+||insights-tag.convertkit.com^
 ||insight-stats.com^
 ||insights.thehighwire.com^
 ||insights.theorangestudio.com^
@@ -72475,6 +72484,7 @@
 ||rottenray.com^
 ||roughharmony.com^
 ||roughroll.com^
+||roundprincemusic.com^
 ||rounduptheusualsuspect.com^
 ||roupas.leveeconfortavel.com.br^
 ||roupas.mylovestore.com.br^
