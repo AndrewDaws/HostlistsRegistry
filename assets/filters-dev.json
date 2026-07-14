@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.26.20",
+			"version": "1.0.26.21",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-13T11:06:53+0000"
+			"timeUpdated": "2026-07-14T09:39:45+0000"
 		},
 		{
 			"filterKey": "oisd_full",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.28.21",
+			"version": "1.1.28.22",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-14T08:50:09+0000"
+			"timeUpdated": "2026-07-14T09:39:47+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.99.60",
+			"version": "1.0.99.61",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-14T08:50:27+0000"
+			"timeUpdated": "2026-07-14T09:40:08+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -294,14 +294,14 @@
 				111
 			],
 			"languages": [],
-			"version": "1.0.7.10",
+			"version": "1.0.7.11",
 			"homepage": "https://badmojr.github.io/1Hosts/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt",
 			"timeAdded": "2025-08-12T08:33:05+0000",
-			"timeUpdated": "2026-07-13T11:07:16+0000"
+			"timeUpdated": "2026-07-14T09:40:11+0000"
 		},
 		{
 			"filterKey": "no_google",
