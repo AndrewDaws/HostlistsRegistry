@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.31.47",
+			"version": "1.0.31.48",
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": "2023-07-14T12:53:26+0000",
-			"timeUpdated": "2026-07-14T08:50:16+0000"
+			"timeUpdated": "2026-07-14T19:33:35+0000"
 		},
 		{
 			"filterKey": "peter_lowe_list",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.17.45",
+			"version": "1.0.17.46",
 			"homepage": "https://pgl.yoyo.org/adservers/",
 			"expires": 345600,
 			"displayNumber": 3,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
 			"subscriptionUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-11T21:20:41+0000"
+			"timeUpdated": "2026-07-14T19:33:37+0000"
 		},
 		{
 			"filterKey": "awavenue_ads_rule",
@@ -91,14 +91,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.99.62",
+			"version": "1.0.99.63",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-14T10:37:11+0000"
+			"timeUpdated": "2026-07-14T19:33:46+0000"
 		}
 	],
 	"tags": [
