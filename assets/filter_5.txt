@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.68
+! Version: 1.0.99.69
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-15T09:42:15.049Z
+! Last modified: 2026-07-15T10:38:15.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -33,7 +33,6 @@
 ||01466b626e.b173280abe.com^
 ||015ea24446.com^
 ||0171pjx5q.com^
-||01955ad1f7.com^
 ||01a3500ed0.3bfff8a34d.com^
 ||01anf08rf.com^
 ||01ca03c5d7.9a131ab3ce.com^
@@ -1698,7 +1697,6 @@
 ||7e8bf019d5.com^
 ||7e9b8519af.1fd9bb65c7.com^
 ||7ec5e0d805.com^
-||7ed58b948f.com^
 ||7ee7484ba9.com^
 ||7ee9924215.com^
 ||7eit28evocng5gjuu.rest^
@@ -12911,7 +12909,6 @@
 ||crqjtfoolnelm.site^
 ||crqnmxczwaoeq.website^
 ||crqohlrqgmefu.online^
-||crqwhsxcvngdp.icu^
 ||crrepo.com^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
@@ -12972,7 +12969,6 @@
 ||cschyogh.com^
 ||csdoranmotswo.site^
 ||cse.rakanto.com^
-||csephkkcdkljz.club^
 ||csfijhywqxquh.space^
 ||csfuiuwdubtyr.online^
 ||csgkj.com^
@@ -13249,7 +13245,6 @@
 ||cxjtsybhvpsfl.space^
 ||cxlog.shinhansec.com^
 ||cxmolk.com^
-||cxnbgyadiqscl.click^
 ||cxnp-protect.pro^
 ||cxofostbnjehi.website^
 ||cxpppgnjrsers.space^
@@ -13297,7 +13292,6 @@
 ||cyrola.net^
 ||cysclatowtdxq.website^
 ||cysodwprdoejs.online^
-||cytdmhahgvmur.fun^
 ||cyu6bl939o.com^
 ||cyutuwsoxyjju.online^
 ||cyvzavjhmduqn.online^
@@ -14626,7 +14620,6 @@
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d90z5o386dhs7.cloudfront.net^
 ||d91i6bsb0ef59.cloudfront.net^
-||d949b51857.com^
 ||d94qwxh6czci4.cloudfront.net^
 ||d985a9d2clzq5.cloudfront.net^
 ||d99ec2324b.3a1362b385.com^
@@ -14662,7 +14655,6 @@
 ||dab.rus-km.ru^
 ||dable.io^
 ||dabmbren.com^
-||daboovip.xyz^
 ||dabxucgukjf.in^
 ||daccroi.com^
 ||daciuehpyf.com^
@@ -14957,7 +14949,6 @@
 ||dc5koxhfh.com^
 ||dc8na2hxrj29i.cloudfront.net^
 ||dcai7bdiz5toz.cloudfront.net^
-||dcakwfzcjfjjb.life^
 ||dcapugcaiirxs.site^
 ||dcavixmtxjxra.site^
 ||dcazkddmpuwkw.website^
@@ -15853,7 +15844,6 @@
 ||dizhenmeehipj.space^
 ||dizimax2.com^
 ||diziwatchpreroll.pages.dev^
-||dizznplerllul.love^
 ||dizzydiamond.pro^
 ||dizzyexit.com^
 ||dizzyshow.com^
@@ -17008,7 +16998,6 @@
 ||e67f6fea84.com^
 ||e67repidwnfu7gcha.com^
 ||e695de9aef.com^
-||e6c5f295b4.com^
 ||e6c84e5378.com^
 ||e709b26fc0.f9abdf7da0.com^
 ||e75liqii98.com^
@@ -17142,7 +17131,6 @@
 ||ebatndolrzsxc.space^
 ||ebayadservices.com^
 ||ebayadvertising.com^
-||ebbbhtkridivs.love^
 ||ebcf.cn^
 ||ebd.cda-hd.cc^
 ||ebd.cda-hd.co^
@@ -18129,7 +18117,6 @@
 ||esellerate.net^
 ||esemrvueskrke.site^
 ||esesmyinteukre.org^
-||esfljmhdtpdvj.xyz^
 ||esgwgsnrbevnb.website^
 ||eshm72fwql.com^
 ||eshqskffhqaz.com^
@@ -18474,7 +18461,6 @@
 ||everlasting-inflation.com^
 ||everlastingrisk.pro^
 ||evermoto.xyz^
-||every-abuse.com^
 ||every-broad.com^
 ||everybodycreeduphill.com^
 ||everydayhomeless.com^
@@ -18643,7 +18629,6 @@
 ||exotrck.com^
 ||expandeddistressclient.com^
 ||expandsbathingyork.cyou^
-||expandwhomjackal.com^
 ||expansioneggnog.com^
 ||expdirclk.com^
 ||expeditionbudgetlikely.com^
@@ -19257,7 +19242,6 @@
 ||fertilehybridsstep.com^
 ||fertilisedconductiveplank.com^
 ||fertilitywailceramic.com^
-||fervcbytncxaj.icu^
 ||fervorsixtiesveteran.com^
 ||ferziendfljud.site^
 ||fesecrxmwowzq.site^
@@ -19336,7 +19320,6 @@
 ||fghwqfybjktvq.space^
 ||fgilpsxltypf.com^
 ||fgip.rosehosting.com^
-||fgkxluxqgpzzm.xyz^
 ||fgllllfedeltb.website^
 ||fgnvnqsoqehlp.space^
 ||fgoqfrzcwdmrh.online^
@@ -20046,7 +20029,6 @@
 ||fondonberake.com^
 ||fondstudy.com^
 ||fonecta.leiki.com^
-||foniuhuuwwnhm.tech^
 ||fontdeterminer.com^
 ||foo.cosmocode.de^
 ||foodieblogroll.com^
@@ -20598,7 +20580,6 @@
 ||fvxttknut.com^
 ||fwbdfg5n6.com^
 ||fwbntw.com^
-||fwcavwstvmekw.online^
 ||fwcvdfgoeayyo.site^
 ||fwfzomszkhywg.online^
 ||fwgxxywastlyi.com^
@@ -20642,7 +20623,6 @@
 ||fxsdyahhcwykb.website^
 ||fxstyle.net^
 ||fxsupzozeialv.online^
-||fxthjlhiybnyf.space^
 ||fxuenhhaucscs.online^
 ||fxuzrinlbacql.site^
 ||fxwlyddrjhupc.store^
@@ -22955,7 +22935,6 @@
 ||hessafifqgqoq.online^
 ||hestyoaesnqpq.site^
 ||hetadinh.com^
-||hetbvptffmxgj.site^
 ||hetcash.com^
 ||hetnu.com^
 ||hetterbarytas.shop^
@@ -24132,7 +24111,6 @@
 ||icubeswire.co^
 ||iculpiumiyznp.space^
 ||icunvveszpzxa.online^
-||icwmsalkqywyp.fun^
 ||icxtalveexksf.space^
 ||icxyqoonmogdn.online^
 ||icyads.com^
@@ -24255,7 +24233,6 @@
 ||iggcszxljlchr.website^
 ||iggfwsbqonyyw.online^
 ||iginimhtppjum.website^
-||iglakgdhhmagf.online^
 ||iglinptrmtzff.site^
 ||ignateignatepredominanteatable.com^
 ||ignateignatetame.com^
