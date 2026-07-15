@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.28.53",
+			"version": "1.1.28.54",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-15T22:24:13+0000"
+			"timeUpdated": "2026-07-15T23:23:44+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -172,14 +172,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.19.2",
+			"version": "1.0.19.3",
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-15T21:24:34+0000"
+			"timeUpdated": "2026-07-15T23:23:58+0000"
 		},
 		{
 			"filterKey": "hagezi_pro++",
@@ -763,14 +763,14 @@
 				109
 			],
 			"languages": [],
-			"version": "1.0.14.74",
+			"version": "1.0.14.75",
 			"homepage": "https://github.com/ABPindo/indonesianadblockrules",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-13T22:23:35+0000"
+			"timeUpdated": "2026-07-15T23:24:20+0000"
 		},
 		{
 			"filterKey": "KOR_list_kr",
