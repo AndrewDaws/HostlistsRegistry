@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Badware Hoster Blocklist
 ! Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
-! Version: 1.0.20.75
+! Version: 1.0.20.76
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-15T08:53:54.804Z
+! Last modified: 2026-07-15T19:32:09.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -19,6 +19,7 @@
 ||blogspot.com.au^
 ||blogspot.com.br^
 ||blogspot.com.es^
+||cableonline.com.mx^
 ||encurtador.com.br^
 ||kl.com.ua^
 ||webnode.com.pt^

@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.31.49",
+			"version": "1.0.31.50",
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": "2023-07-14T12:53:26+0000",
-			"timeUpdated": "2026-07-15T08:52:58+0000"
+			"timeUpdated": "2026-07-15T19:31:15+0000"
 		},
 		{
 			"filterKey": "peter_lowe_list",
@@ -91,14 +91,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.99.77",
+			"version": "1.0.99.78",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-15T18:30:47+0000"
+			"timeUpdated": "2026-07-15T19:31:26+0000"
 		}
 	],
 	"tags": [

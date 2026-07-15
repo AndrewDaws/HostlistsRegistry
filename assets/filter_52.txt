@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.81
+! Version: 1.0.26.82
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-15T08:53:54.707Z
+! Last modified: 2026-07-15T19:32:09.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -433,6 +433,7 @@
 ||dns.ru.anitelekom.ru^
 ||dns.anitelekom.ru^
 ||sanns.aniuo.com^
+||cliffbayschools.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -640,6 +641,7 @@
 ||archlinuxisthebestlol.baselinux.net^
 ||dashboardd.baselinux.net^
 ||aphistorytutoring.bastaff.ru^
+||aqua.bastaff.ru^
 ||tacobelljobs.bastaff.ru^
 ||we-hate-school.bastaff.ru^
 ||home.basthorst.eu^
@@ -816,6 +818,7 @@
 ||r.britannica.cf^
 ||agh.broaddy.com^
 ||dns.brono.cloud^
+||blooket.broomleigh.org^
 ||classroom.broomleigh.org^
 ||home.bruckmoser.it^
 ||81.brudnowski.eu^
@@ -6015,6 +6018,7 @@
 ||92.38.177.16.dyn.tcadmin.net^
 ||galaxy.is.cool.tcloud.my^
 ||dms.dms.dms.tcloud.my^
+||baablu.tcloud.my^
 ||galaxy.tcloud.my^
 ||galaxyisthebest.tcloud.my^
 ||home.tcloud.my^
@@ -6036,6 +6040,7 @@
 ||teach.state.teachmetofish.net^
 ||learning.teamgaming.pw^
 ||dns.teaminfo.fr^
+||arab.is.goated.teamradicus.com^
 ||dns-br.leonardo.tec.br^
 ||dns.techcpu.net^
 ||dns1.techeasy.org^
@@ -7428,6 +7433,7 @@
 ||annual2025.uk^
 ||ano404.top^
 ||anol.loan^
+||anomivpn.com^
 ||anonine.com^
 ||anonto.pw^
 ||anonvpn.io^
@@ -7487,7 +7493,6 @@
 ||aoxvpn666.com^
 ||aoxvpnapp.com^
 ||apache-iv.com^
-||apfgexfusion.com^
 ||api-gogles.com^
 ||api-tel.xyz^
 ||api999.com^
@@ -7636,6 +7641,7 @@
 ||awardztq.com^
 ||awebproxy.com^
 ||awhoer.net^
+||axaxa.fun^
 ||axistechsupport.com^
 ||axyno.xyz^
 ||ayako.cc^
@@ -7672,6 +7678,7 @@
 ||baikalvpn.ru^
 ||bailey.today^
 ||bajie.la^
+||bajiess.com^
 ||ballbang.com^
 ||banana-vpn.com^
 ||bananaspeed.site^
@@ -8246,6 +8253,7 @@
 ||browservpn.online^
 ||brsjk.cn^
 ||brsueykh.com^
+||brunycraft.xyz^
 ||brunysixl.work^
 ||brwczgvk.com^
 ||bsbollbn.com^
@@ -11221,6 +11229,7 @@
 ||iopgn.com^
 ||iopl.xyz^
 ||iosedge.com^
+||iosequence.online^
 ||iosjiasu.net^
 ||iossync.com^
 ||ioxy.de^
