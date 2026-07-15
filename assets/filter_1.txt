@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.72.68
+! Version: 1.0.72.69
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-15T10:37:55.496Z
+! Last modified: 2026-07-15T12:36:35.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -15462,6 +15462,7 @@ vkcdnservice.appspot.com^
 ||cpdqvdvmwlnyq.site^
 ||cpgkivogfu.com^
 ||cphatlpirvbfikd.com^
+||cphevsznlbdpw.online^
 ||cpiutdrcihvim.space^
 ||cpiwiwegyqrjel.com^
 ||cpjgcxcpswkai.space^
@@ -16556,6 +16557,7 @@ vkcdnservice.appspot.com^
 ||deedeedwinos.com^
 ||deedsdeesisapay.cyou^
 ||deefauph.com^
+||deegvcassuvkz.online^
 ||deehalig.net^
 ||deemphotousage.com^
 ||deenerfuddles.qpon^
@@ -17341,6 +17343,7 @@ vkcdnservice.appspot.com^
 ||dmhwextkychrz.website^
 ||dmiiqrlkypdmw.online^
 ||dmiredindeed.com^
+||dmjbxwdonirzj.space^
 ||dmkwwrvfilmze.space^
 ||dmkynnbnphpyl.store^
 ||dmlnznrxcwfeo.store^
@@ -20445,6 +20448,7 @@ vkcdnservice.appspot.com^
 ||ffdlzdsluvwjn.online^
 ||fff3cd7d36.com^
 ||ffguuahiakcxd.online^
+||ffhkeevfzibsq.website^
 ||ffhuaiwestbtl.site^
 ||ffjrpdfduteic.website^
 ||ffjzmuwqcpdsq.online^
@@ -20756,6 +20760,7 @@ vkcdnservice.appspot.com^
 ||fkyelofoqnndn.space^
 ||fkysfnkphrljo.site^
 ||fkzcrofqtjawk.space^
+||flabileamber.qpon^
 ||flaconshe.qpon^
 ||flagads.net^
 ||flaggynasi.com^
@@ -21035,6 +21040,7 @@ vkcdnservice.appspot.com^
 ||foghug.site^
 ||fogramcheersdecenyl.cyou^
 ||fogvnoq.com^
+||fogxtahbqavpo.website^
 ||fogydomhariana.cfd^
 ||fohshxrgpzlkj.site^
 ||foicuoxmzjthm.site^
@@ -21454,6 +21460,7 @@ vkcdnservice.appspot.com^
 ||frtyd.com^
 ||frtyl.com^
 ||frugginplatine.qpon^
+||frugsneeborfarset.cyou^
 ||frugstrain.qpon^
 ||fruitedmataiops.cfd^
 ||fruitful-request.com^
@@ -25108,6 +25115,7 @@ vkcdnservice.appspot.com^
 ||idolizedestimate.pro^
 ||idpgakrenkmki.store^
 ||idpvgjtqaiygt.space^
+||idqeknhxvricy.website^
 ||idqmcmowhjmps.website^
 ||idqodpsjvxftt.online^
 ||idqxcpofspalj.space^
@@ -25289,6 +25297,7 @@ vkcdnservice.appspot.com^
 ||ikhgxaeobmbb.com^
 ||ikikigxywqcrf.site^
 ||ikkakvnicwguw.store^
+||ikndbndvadnuh.website^
 ||ikonsripcordslice.qpon^
 ||ikqtzvhuhddod.online^
 ||ikquaycaaygib.space^
@@ -27616,6 +27625,7 @@ vkcdnservice.appspot.com^
 ||kdhwaqcwpqvwo.website^
 ||kdisbgxtxiyru.online^
 ||kdkpsqklemvnu.site^
+||kdlgoaounowvi.online^
 ||kdluiznnaekvy.space^
 ||kdlzhlzdielmy.site^
 ||kdmizytjznodo.online^
@@ -27724,6 +27734,7 @@ vkcdnservice.appspot.com^
 ||kfbjqsqbvnmrj.site^
 ||kfeiovrksdezl.online^
 ||kfesqxzagfxgr.online^
+||kfiqxtcuthefp.online^
 ||kfjhd.com^
 ||kfjwapsftuxtw.online^
 ||kfkewuaghmbfm.website^
@@ -27927,6 +27938,7 @@ vkcdnservice.appspot.com^
 ||kjgnidnhlxugm.icu^
 ||kjhlxuvkdqteb.website^
 ||kjhyxdphquxwd.website^
+||kjidqqdsliqyh.site^
 ||kjjzj4c9kx8phini.cfd^
 ||kjk9m7x4yngol85h4.cfd^
 ||kjljrwoibgbso.site^
@@ -30350,6 +30362,7 @@ vkcdnservice.appspot.com^
 ||martnetinhumed.cyou^
 ||martpleadescended.com^
 ||martted.com^
+||martuupanaya.shop^
 ||marysth.cyou^
 ||masakeku.com^
 ||masanaogangadogly.qpon^
@@ -33571,6 +33584,7 @@ vkcdnservice.appspot.com^
 ||odewjqygsvtnhhl.com^
 ||odeybruslekoq.website^
 ||odfuwbdguqkrj.site^
+||odgljbx.com^
 ||odgmxwepbbfwe.online^
 ||odgsaxlabmvgi.online^
 ||odhdnbucgpwly.website^
@@ -34798,6 +34812,7 @@ vkcdnservice.appspot.com^
 ||padskis.com^
 ||padslims.com^
 ||padspms.com^
+||padxuflmisux.com^
 ||paeastei.net^
 ||paehakooyuygo.website^
 ||paehceman.com^
@@ -38127,6 +38142,7 @@ vkcdnservice.appspot.com^
 ||r63engo6xw8jtkpze.cfd^
 ||r66net.com^
 ||r66net.net^
+||r6883e4wqhecxtjx2u.cfd^
 ||r6h2ww744xk62t7.cfd^
 ||r7q58o51bl9lwkertbpurn78fjri.rest^
 ||r8bz.com^
@@ -40354,6 +40370,7 @@ vkcdnservice.appspot.com^
 ||sbqjioehjqnzb.site^
 ||sbsbetlinfevn.site^
 ||sbtiulwkstzpt.space^
+||sbtpdwuykncl.com^
 ||sbvgrghfeedfp.com^
 ||sbxoukhwafjlx.site^
 ||sbydvwdgsfoqj.site^
@@ -41262,6 +41279,7 @@ vkcdnservice.appspot.com^
 ||silverwhitebirds.co^
 ||silylcanhoop.cfd^
 ||simardj.qpon^
+||simbaresumeangered.cfd^
 ||simblumpunter.shop^
 ||simdzjrftxwvf.site^
 ||simhtgguozodp.online^
@@ -49970,6 +49988,7 @@ vkcdnservice.appspot.com^
 ||xzzoiprvfobyw.space^
 ||y1jxiqds7v.com^
 ||y1zoxngxp.com^
+||y2ccezxjrfzb1fz6qok4fh7t6z.rest^
 ||y2j5emrkfrm9htbouguh.cfd^
 ||y2mmqm12x629ok.cfd^
 ||y3gt29zfgkxcr1cwelguvzigbf33.cfd^
@@ -150635,6 +150654,7 @@ dlsdk.appsflyer.com^
 ||ccpvq7fgy.com^
 ||v85ps46o4.com^
 ||vzayis1qa.com^
+||xo2ra1fu7.com^
 ||s2ze6h0miy.com^
 ||4e0jpheoi1.com^
 ||scissors73.top^

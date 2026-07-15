@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.70
+! Version: 1.0.99.71
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-15T11:34:41.760Z
+! Last modified: 2026-07-15T12:36:54.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -26885,7 +26885,6 @@
 ||kftgzmjqxjooc.store^
 ||kfvhovjgchgde.website^
 ||kfvtvbihzxkck.website^
-||kfx4vg9rbh4397k52t8o.cfd^
 ||kgaviuu42.com^
 ||kgbfawlsumiyn.space^
 ||kgbgcuabndbjw.store^
@@ -30159,7 +30158,6 @@
 ||mduhynevsirtw.com^
 ||mdvgrshtkuvfcbf.com^
 ||mdvywvdkbpcdv.site^
-||mdwzdvbjkixim.site^
 ||mdyhysyezdigw.online^
 ||mdyjjnmwhhcpa.site^
 ||mdznads.pages.dev^
@@ -31443,7 +31441,6 @@
 ||mrpfmhwlzwqph.space^
 ||mrplmfulxetas.space^
 ||mrpqqtuzjnkdc.site^
-||mrqcxjbhluvew.xyz^
 ||mrrbfbgoqzbvh.online^
 ||mrrvmp.com^
 ||mrsivqqtsnlcx.site^
@@ -31854,7 +31851,6 @@
 ||mzafanowhdcpc.space^
 ||mzb60mu3z7.com^
 ||mzcgpmpygdoer.site^
-||mzdhejfvuankc.global^
 ||mzgcaatryecyd.website^
 ||mzhdcgwoqgnpc.online^
 ||mzidndvsmszfx.space^
@@ -32358,8 +32354,6 @@
 ||nexage.com^
 ||nexium33bv.com^
 ||nexium530.com^
-||nexjzgqalrtgq.online^
-||nexkrnphsfipi.buzz^
 ||next-lust.cfd^
 ||nextclass.pro^
 ||nextdaymedia-ads.s3.amazonaws.com^
@@ -32840,7 +32834,6 @@
 ||notify.bugsnag.com^
 ||notify.sec.miui.com^
 ||notify6.com^
-||notifypicture.info^
 ||notifysrv.com^
 ||notiks.io^
 ||notioncarpplash.com^
@@ -33151,7 +33144,6 @@
 ||nvxbjvswajhug.space^
 ||nvxntvdttjbrg.site^
 ||nvyhlkbvtoifv.site^
-||nwarktriynwek.store^
 ||nwayheohicfbo.online^
 ||nwbuhr.icu^
 ||nwemnd.com^
@@ -33339,7 +33331,6 @@
 ||ob.leap.app^
 ||oba.rus-km.ru^
 ||obafigsydginf.space^
-||obakkaqbwcnlh.global^
 ||obbpynvgqolcf.space^
 ||obdsfxfwjrlko.space^
 ||obduratefizzylament.com^
@@ -35268,7 +35259,6 @@
 ||peculiargentleman.com^
 ||pedigreeamiableferry.com^
 ||pedjnohpdrthi.site^
-||pedxbegjosaew.space^
 ||peekcragassisted.com^
 ||peeksmiddle.com^
 ||peelismramona.com^
@@ -36530,7 +36520,6 @@
 ||pqwdiwikgevnn.site^
 ||pqybiuubsheqv.online^
 ||pqzplntcvsxvm.store^
-||pqzyzircitnva.top^
 ||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
 ||pr.blogflux.com^
@@ -37528,7 +37517,6 @@
 ||pydtwiqutiusg.online^
 ||pyebouezyhhxd.online^
 ||pyecyiqatdboi.site^
-||pyghwgyjuuaht.space^
 ||pygirfcitczab.store^
 ||pyiukciljqkpc.space^
 ||pyjamasweated.com^
@@ -37783,7 +37771,6 @@
 ||qfqbznmeuztgs.website^
 ||qfqgzbbjjutfs.site^
 ||qfwhko.icu^
-||qfwwhelkdjaeu.buzz^
 ||qfxheyyfxnply.site^
 ||qgbhjzjoduaqe.site^
 ||qgckb3ov46.com^
@@ -38096,7 +38083,6 @@
 ||qrsncgmcjerjx.site^
 ||qrtxfpiviodkq.website^
 ||qruaioyiygwvo.online^
-||qruatazgwctro.fun^
 ||qruihxvuwbaiw.space^
 ||qrvypmegddrdp.space^
 ||qryckervqngsx.store^
