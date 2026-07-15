@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Badware Hoster Blocklist
 ! Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
-! Version: 1.0.20.74
+! Version: 1.0.20.75
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-14T19:34:31.016Z
+! Last modified: 2026-07-15T08:53:54.804Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -311,6 +311,7 @@
 ||builderall.net^
 ||builtfree.org^
 ||bulkurlshortener.com^
+||business.site^
 ||business-minagne.com^
 ||bx5.de^
 ||byethost.com^
@@ -584,7 +585,6 @@
 ||genblogger.com^
 ||gerentebr.com^
 ||getenjoyment.net^
-||getfile.biz^
 ||getresponsesite.com^
 ||gg123.vip^
 ||gilde.in^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.80
+! Version: 1.0.26.81
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-14T19:34:30.955Z
+! Last modified: 2026-07-15T08:53:54.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -810,6 +810,7 @@
 ||newyears.brg2.xyz^
 ||dns.briac-mlb.fr^
 ||dns.system.brianhong.kr^
+||ag.brianlee.fun^
 ||vacation.briaquaticcabinets.com^
 ||dns.brionesserver.net^
 ||r.britannica.cf^
@@ -2178,6 +2179,7 @@
 ||tromp.creographix.at^
 ||vcsa.creographix.at^
 ||adguard.crestfallen.de^
+||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
@@ -3082,7 +3084,6 @@
 ||dns.filipccz.eu^
 ||collegeprep.fin-tech.com^
 ||learngeometryfr.fin-tech.com^
-||testplease.fin-tech.com^
 ||nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi^
 ||canvas-math-tools.firebaseapp.com^
 ||infamous-scram-test.firebaseapp.com^
@@ -4057,6 +4058,7 @@
 ||toe.kaiak.top^
 ||adguard.kalyanmudumby.com^
 ||dns.kamilszczepanski.com^
+||adguard.kantinyoyok.xyz^
 ||dns.kapite.in^
 ||dns.kapoww.tk^
 ||dns.karadag.me^
@@ -6718,6 +6720,7 @@
 ||httpdns.gslb.yy.com^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
+||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||adguard.zachitect.com^
 ||akylah.zapto.org^
@@ -6764,6 +6767,7 @@
 ||vpn.zotus.ru^
 ||d.zscale.gq^
 ||dns.zui.lol^
+||1dollarmeathod.zunbaoyule123.com^
 ||httpdns.zybang.com^
 ||ams.core.access.zznet.fun^
 ||hkg.core.access.zznet.fun^
@@ -6797,6 +6801,7 @@
 ||112112789.xyz^
 ||1145145.com^
 ||123-proxy.net^
+||123-proxy.org^
 ||123000123.xyz^
 ||123417.xyz^
 ||123adsas.store^
@@ -6809,10 +6814,12 @@
 ||123down.org^
 ||123fr.info^
 ||123free.info^
+||123goproxy.com^
 ||123hideip.com^
 ||123inside.net^
 ||123jsq.top^
 ||123li.me^
+||123me.net^
 ||123music.app^
 ||123proxy.app^
 ||123proxy.biz^
@@ -6937,6 +6944,7 @@
 ||3kh0.org^
 ||3nkh5crxol.ch^
 ||3proxy.de^
+||3proxy.us^
 ||3qguvtvrpyzkatp2.online^
 ||3x.nz^
 ||40920604.xyz^
@@ -6973,6 +6981,7 @@
 ||55780358.xyz^
 ||55aktnolkvuoctxitm.online^
 ||55gms.com^
+||55gms.me^
 ||55laomao.com^
 ||57824.com^
 ||583838.xyz^
