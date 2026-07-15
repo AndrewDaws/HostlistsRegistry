@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.6
+! Version: 1.0.21.7
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-15T05:06:08.348Z
+! Last modified: 2026-07-15T16:36:41.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -633,6 +633,7 @@
 ||2ww.me^
 ||2yd.eu^
 ||3009e36989.com^
+||3050.co.il^
 ||305421ba72.com^
 ||305slot78.win^
 ||3071caa5ff.com^
@@ -4636,6 +4637,7 @@
 ||atsluvefiles.net^
 ||atsnivychan.com^
 ||atspace.cc^
+||atssc.co^
 ||attacheatableoverlabor.com^
 ||attacheddavidcorners.com^
 ||attachedkneel.com^
@@ -5729,6 +5731,7 @@
 ||benevolenthung.com^
 ||benevolentswallow.com^
 ||benfathomarticle.com^
+||benfedhu.net^
 ||bengekoo.com^
 ||benidorinor.com^
 ||benignitysink.com^
@@ -8349,6 +8352,7 @@
 ||checkmy.pictures^
 ||checkmyspeed.co^
 ||checkmyspeednow.com^
+||checkp.help^
 ||checkpointsys.com^
 ||checkpost.club^
 ||checkrobotpage.online^
@@ -8908,6 +8912,7 @@
 ||clk2win.com^
 ||clkfeed.com^
 ||clkursl.com^
+||clladss.com^
 ||cloakattended.com^
 ||cloakfedconfiscate.com^
 ||cloakroomaileeninquiry.com^
@@ -9840,6 +9845,7 @@
 ||coolingvaluer.com^
 ||cooliofungames.com^
 ||cooliosearch.com^
+||coolmedialand.my^
 ||coolmediatabsearch.com^
 ||coolmountaintrail.com^
 ||coolmovies.asia^
@@ -10466,6 +10472,7 @@
 ||culinaryinsanesarcasm.com^
 ||culpritcourt.com^
 ||cultivatedclassy.com^
+||cultivated-guitar.com^
 ||cultivatesorrowmonths.com^
 ||cultsearch.pw^
 ||culturalorchard.com^
@@ -12146,6 +12153,7 @@
 ||decideparcel.com^
 ||decideplungedanalyse.com^
 ||decidualiaison.com^
+||decimalair.com^
 ||decimalclawkidding.com^
 ||decimalcursor.com^
 ||decimalediblegoose.com^
@@ -16572,6 +16580,7 @@
 ||fiveminutes.biz^
 ||fivesimilarlyrepel.com^
 ||fiwhibse.com^
+||fixaflaw.com^
 ||fixatessoused.com^
 ||fixeddisloyal.com^
 ||fixedheadquartercowardly.com^
@@ -16974,6 +16983,7 @@
 ||forchecamize.com^
 ||forcingrear.com^
 ||forcommit.com^
+||fordem.buzz^
 ||fordi.eu^
 ||foreactsherifs.com^
 ||forearmliving.com^
@@ -17335,6 +17345,7 @@
 ||freestreamingradiotab.com^
 ||freestreamsearch.com^
 ||freetabmemory.online^
+||freetard.net^
 ||freetemplatefinder.com^
 ||freetrckr.com^
 ||free-videohosting.com^
@@ -17584,6 +17595,7 @@
 ||funnelconsultants.com^
 ||funninglimpers.com^
 ||funnwebs.com^
+||funnyandsexy.com^
 ||funnyestdating.top^
 ||funnyjokesnow.com^
 ||funnypigs.website^
@@ -19858,6 +19870,7 @@
 ||helonatrix.my^
 ||heloninremake.shop^
 ||helpagencyall.site^
+||helpbc.com^
 ||helpclean.co.kr^
 ||helpconnect.us^
 ||helpdesk.plus^
@@ -19870,6 +19883,7 @@
 ||help.law^
 ||helpmetwe.com^
 ||helpme.vip^
+||helpnow.help^
 ||helponerousgabble.com^
 ||helpoo7.com^
 ||helpri.com^
@@ -32284,6 +32298,7 @@
 ||rbt5.hair^
 ||rbthre.work^
 ||rcblnd.xyz^
+||rcmypc.com^
 ||rcmzy.xyz^
 ||rcomhost.com^
 ||rcraveoisanikc.com^
@@ -32522,6 +32537,7 @@
 ||redheadactress.com^
 ||redheadchapelacademy.com^
 ||redheadinfluencedchill.com^
+||redihilfe.ch^
 ||redir2fuck.com^
 ||redir2me.com^
 ||redirectbuzz.club^
@@ -32618,6 +32634,7 @@
 ||refueluniversepersecute.com^
 ||refugeattempt.com^
 ||refulgetonk.top^
+||refundeu.com^
 ||refundlikeness.com^
 ||refundsexynarrow.com^
 ||refurinast.com^
@@ -32709,6 +32726,7 @@
 ||reliefcommunicatelabourer.com^
 ||reliefreinsside.com^
 ||relieval.com^
+||relievedvariation.com^
 ||religionaffairs.com^
 ||religionhaltnon.com^
 ||religionrush.com^
@@ -32760,6 +32778,7 @@
 ||remoflina.my^
 ||remorsehare.com^
 ||remorsetrumpet.com^
+||remote01.com^
 ||remotebrightesttumor.com^
 ||remotepwn.com^
 ||removalinsinuate.com^
@@ -36344,6 +36363,7 @@
 ||solarnoises.com^
 ||solazzigloriam.cfd^
 ||soldadinas.com^
+||soldco.net^
 ||solderrequests.com^
 ||soldierby.com^
 ||soldierindefinitely.com^
@@ -38397,6 +38417,7 @@
 ||tendontoss.com^
 ||teninvadedollar.com^
 ||tennisleg.com^
+||tenntie.de^
 ||tenourcagy.com^
 ||tensasscarify.com^
 ||tentaclesbirthday.com^
@@ -40873,6 +40894,7 @@
 ||vebadu.com^
 ||vebergreat.net^
 ||vebv8me7q.com^
+||vector.help^
 ||veemauhe.xyz^
 ||veepteero.com^
 ||veewheephime.net^
@@ -41169,6 +41191,7 @@
 ||viipurises.com^
 ||viismlup.com^
 ||viisupport.com^
+||viiwmkvb.com^
 ||viiwzrlr.com^
 ||viizoabp.com^
 ||viktoriya-syzran.ru^
@@ -42716,6 +42739,7 @@
 ||xorg.pl^
 ||xotu.org^
 ||xowivitay.com^
+||xp3mando.com^
 ||xp666.com^
 ||xpertzgroup.com^
 ||xppark4.xyz^
@@ -42787,6 +42811,7 @@
 ||yamanaisleepry.com^
 ||yandaequas.com^
 ||yanews24.com^
+||yangbing.net^
 ||yangtaotaming.com^
 ||yapabbreviate.com^
 ||yapfairmark.com^
