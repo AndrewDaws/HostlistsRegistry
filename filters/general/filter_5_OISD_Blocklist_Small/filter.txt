@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.73
+! Version: 1.0.99.74
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-15T14:39:04.203Z
+! Last modified: 2026-07-15T15:35:23.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2171,7 +2171,6 @@
 ||a.digitalgiftshopping.com^
 ||a.dipi.online^
 ||a.doganburda.com^
-||a.dtrem.site^
 ||a.duanmeiwen.com^
 ||a.dyjqd.com^
 ||a.emea01.idio.episerver.net^
@@ -7560,7 +7559,6 @@
 ||axkojdfhek.com^
 ||axmaxhsa.com^
 ||axmlccssip.com^
-||axmmilepqvdyj.world^
 ||axojwdxauwpaa.online^
 ||axolotlly.com^
 ||axon.ai^
@@ -8020,7 +8018,6 @@
 ||barinvent.net^
 ||barium.cheezdev.com^
 ||barkequilibrium.com^
-||barlo.xyz^
 ||barmanonymity.shop^
 ||barnabaslinger.com^
 ||barnacle.big-in-japan.com^
@@ -8207,9 +8204,7 @@
 ||bdcode.2345.com^
 ||bdcode.qinglue.com^
 ||bdcode.youke.com^
-||bdd549304d.com^
 ||bddeampqxylbg.space^
-||bddhprzriicus.world^
 ||bddmqqnpoy.com^
 ||bddujehaeaubs.space^
 ||bdelkjdmtfkjy.website^
@@ -8325,7 +8320,6 @@
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
 ||beavertron.com^
-||bebautvdrradc.world^
 ||bebeuwaqgtukc.site^
 ||becausepishworth.com^
 ||becketcoffee.com^
@@ -10006,7 +10000,6 @@
 ||c1.czcol.cn^
 ||c1.prmonline.ru^
 ||c1.wfinterface.com^
-||c1068112e7.com^
 ||c11a6baa3f.com^
 ||c17e7f4aa9.com^
 ||c18f3ffc23.com^
@@ -13327,7 +13320,6 @@
 ||czsusasfoyqln.website^
 ||czt4gnz57.com^
 ||cztesoepklydo.online^
-||cztmmijwxiafu.click^
 ||czuwprnlhxpdh.site^
 ||czxnozkdqlcrk.online^
 ||czynhitkvjkkw.space^
@@ -15978,7 +15970,6 @@
 ||dlwmkldaebzds.website^
 ||dlxk2dj1h3e83.cloudfront.net^
 ||dlyarecnew.me^
-||dlzuocvcjdqvq.space^
 ||dlzxazsvocjfy.online^
 ||dm.51okc.com^
 ||dm.aizhan.com^
@@ -16400,7 +16391,6 @@
 ||drawnbinary.com^
 ||drawncooler.com^
 ||drawnlygordius.cyou^
-||drawx.xyz^
 ||drbccw04ifva6.cloudfront.net^
 ||drbsliemurknv.website^
 ||drbtcjprbqkhj.site^
@@ -16607,6 +16597,7 @@
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqs84i8bq.com^
 ||dtr-onsite-feed.datarize.ai^
+||dtrem.site^
 ||dtrvbwdwzuvif.space^
 ||dts-log.anker.com^
 ||dtscdn.com^
@@ -17304,7 +17295,6 @@
 ||eentent.streampiay.me^
 ||eenyxwxaeelzx.online^
 ||eepholseeb.net^
-||eepjhvlyzlred.icu^
 ||eeptoabs.com^
 ||eeqjdgqbvpbjw.site^
 ||eeqkygeabndmo.online^
@@ -17741,7 +17731,6 @@
 ||emxdgt.com^
 ||emxipsmjhingj.website^
 ||emyssetwall.cfd^
-||emzxhwzaxdarg.vip^
 ||en-collect.trendyol.com^
 ||en-log.vietnamplus.vn^
 ||enablesasmetot.org^
@@ -18063,7 +18052,6 @@
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
-||ero-match.site^
 ||erogazopple.com^
 ||eromkfzhemkeo.space^
 ||erovation.com^
@@ -22777,7 +22765,6 @@
 ||hddrfyoifiuad.website^
 ||hdeapukntskyp.online^
 ||hdggrhgzgptxg.site^
-||hdkokhzvalbxn.tech^
 ||hdmxutcrtereb.online^
 ||hdpaaaidikjlf.site^
 ||hdqtevaaenn.com^
@@ -23576,7 +23563,6 @@
 ||hquerdxxxxdlp.site^
 ||hqurnvlwjlqgk.space^
 ||hqvkbn.icu^
-||hqwa.xyz^
 ||hqxvhbntctxha.space^
 ||hraayzvvjlead.site^
 ||hramiseocsztd.site^
@@ -23600,7 +23586,6 @@
 ||hrrsimgjcllyz.site^
 ||hrslukdsqmzyi.online^
 ||hrsubwzcikzrf.site^
-||hrtarsko.com^
 ||hrtfumqovvmik.site^
 ||hrtqvxkfdhvwz.website^
 ||hruk.afguk.top^
@@ -28358,7 +28343,6 @@
 ||live.gamesvot.com^
 ||live.healthvot.com^
 ||live.hyprmx.com^
-||live.meghentai.live^
 ||live.newsvot.com^
 ||live.pornamigo.com^
 ||live.pornamigos.com^
@@ -53565,7 +53549,6 @@
 ||xwfafjiihnpmy.space^
 ||xwgkbcbvjjvxr.website^
 ||xwhztrazolmbm.space^
-||xwiashrkcpvns.love^
 ||xwkepddq.com^
 ||xwkuffnipcisj.site^
 ||xwkvojadxcnyd.space^
