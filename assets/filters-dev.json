@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.72.64",
+			"version": "1.0.72.65",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-15T03:09:36+0000"
+			"timeUpdated": "2026-07-15T05:05:16+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -273,14 +273,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.3.62",
+			"version": "1.0.3.63",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
 			"timeAdded": "2025-07-16T15:28:52+0000",
-			"timeUpdated": "2026-07-14T16:33:14+0000"
+			"timeUpdated": "2026-07-15T05:05:42+0000"
 		},
 		{
 			"filterKey": "1hosts_xtra",
@@ -971,14 +971,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.21.34",
+			"version": "1.0.21.35",
 			"homepage": "https://github.com/durablenapkin/scamblocklist",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-14T05:05:59+0000"
+			"timeUpdated": "2026-07-15T05:06:04+0000"
 		},
 		{
 			"filterKey": "urlhaus_filter_online",
@@ -1031,14 +1031,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.41.72",
+			"version": "1.0.41.73",
 			"homepage": "https://phishing.army/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"subscriptionUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": "2023-07-19T22:24:59+0000",
-			"timeUpdated": "2026-07-14T22:25:23+0000"
+			"timeUpdated": "2026-07-15T05:06:05+0000"
 		},
 		{
 			"filterKey": "curben_phishing_filter",
@@ -1091,14 +1091,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.21.5",
+			"version": "1.0.21.6",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": "2023-04-13T15:39:05+0000",
-			"timeUpdated": "2026-07-13T15:05:44+0000"
+			"timeUpdated": "2026-07-15T05:06:07+0000"
 		},
 		{
 			"filterKey": "hagezi_threat_intelligence_feeds",

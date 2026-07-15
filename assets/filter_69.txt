@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.62
+! Version: 1.0.3.63
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-14T16:33:15.721Z
+! Last modified: 2026-07-15T05:05:43.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,190
-# Updated: 7/14/2026  10:50 (10:50 AM CST)
+# Domains: 115,188
+# Updated: 7/14/2026  23:17 (11:17 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16635,7 +16635,6 @@
 ||api.invictusjoias.com.br^
 ||api.iobb.com.br^
 ||api.ip6.org.il^
-||api.ipinfo.io^
 ||apiip.net^
 ||api.ipsybr.com.br^
 ||api.irmaosnails.com^
@@ -39686,6 +39685,7 @@
 ||ip-info.ff.avast.com^
 ||ipinfo.in^
 ||ipinfo.info^
+||ipinfo.io^
 ||ip-info.monster^
 ||ip-info.org^
 ||ipinfo.pango.co^
@@ -67806,7 +67806,6 @@
 ||pixel.ionos.es^
 ||pixel.ionos.it^
 ||pixel.ionos.mx^
-||pixel.ipinfo.io^
 ||pixel.irblindado.com^
 ||pixel.jacintocosta.com.br^
 ||pixel.javycoffee.com^
@@ -111194,7 +111193,6 @@
 ||vipimo.accessbdd.com^
 ||vipimo.hohenlohe.de^
 ||vipimo.oplayo.com^
-||v.ipinfo.io^
 ||vipjishu.top^
 ||vipsj.zgallerie.com^
 ||vipwebdesign.net^

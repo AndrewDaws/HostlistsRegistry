@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.5
+! Version: 1.0.21.6
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-13T15:05:44.993Z
+! Last modified: 2026-07-15T05:06:08.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8647,6 +8647,7 @@
 ||citizenhid.com^
 ||citizensmantle.com^
 ||citralschancrecensing.qpon^
+||citylovejunction.online^
 ||citysubcss.com^
 ||cityunddder.com^
 ||ciuvo.com^
@@ -43208,6 +43209,7 @@
 ||zremgec.com^
 ||zryydi.com^
 ||zsrc-now.com^
+||ztnjcc.com^
 ||ztomy.com^
 ||zugriffemailnt.com^
 ||zuhaowan.com^

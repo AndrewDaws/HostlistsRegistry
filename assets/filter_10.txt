@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.34
+! Version: 1.0.21.35
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-14T05:05:59.577Z
+! Last modified: 2026-07-15T05:06:04.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -115,7 +115,6 @@
 ||bnidigital.com^
 ||bolejug.us^
 ||bombardina.pl^
-||booking.transaction-processing.one^
 ||botsuanah.com^
 ||boutiqueondemand.com^
 ||bradcroninnapo82.myshopify.com^
@@ -125,7 +124,6 @@
 ||bsnltowerinstallations.com^
 ||bsntowoff.com^
 ||buddhakind.com^
-||budm.shop^
 ||burgershirt.com^
 ||buydubuy.com^
 ||bwpkizpfms.funnelish.com^
@@ -285,7 +283,6 @@
 ||finnews7.wordpress.com^
 ||fishingdaily.shop^
 ||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
 ||fiusps.com^
 ||fixpub.com^
 ||flattee.com^
@@ -675,6 +672,7 @@
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozomii.info^
+||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahsaku.com^
 ||rustdesk.co.nz^
@@ -880,6 +878,7 @@
 ||visatoindia.org^
 ||visumbuitenland.nl^
 ||vizjer-pl.pl^
+||vizjer.com.pl^
 ||vizjer.eu^
 ||vod-tv.pl^
 ||vod.film^
@@ -897,8 +896,8 @@
 ||webvod.pl^
 ||whbinder.com^
 ||wikeb.com^
-||wind88.shop^
 ||wintexfashions.com^
+||wisdomganga.com^
 ||withyotta.com^
 ||woadoodles.com^
 ||wp3.xyz^
@@ -923,13 +922,11 @@
 ||yofi-yofi.com^
 ||youdebrid.com^
 ||yoursecrethookup.com^
-||youthfy.shop^
 ||youtubee.com^
 ||youtunbe.com^
 ||youutube.com^
 ||ytvancedpro.com^
 ||yuaonew.com^
-||yyderfreap.shop^
 ||z-lib.id^
 ||z-lib.is^
 ||zalukaj-film.pl^
