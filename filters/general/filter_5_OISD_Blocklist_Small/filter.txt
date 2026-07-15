@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.99.72
+! Version: 1.0.99.73
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-15T13:36:10.375Z
+! Last modified: 2026-07-15T14:39:04.203Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1003,7 +1003,6 @@
 ||3xeo00tqz.com^
 ||3yq51wjim.com^
 ||3yx95kv3at.com^
-||3znoji162fuxp71whii.cfd^
 ||4.gukj8k9h8oxi44c.cyou^
 ||4.www.0ul1wlo58s-vu69us-r1u.xyz^
 ||4.www.2wu0m0ms098w7148.xyz^
@@ -1091,7 +1090,6 @@
 ||483cab1ae9.638e922b9c.com^
 ||485bd96db9.7d9d50ada1.com^
 ||4863232c.xyz^
-||48d368a6f7.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
 ||492plugins.com^
@@ -11648,7 +11646,6 @@
 ||clownfish.wrestlingiq.com^
 ||clprfkljfcmnm.site^
 ||clprr.com^
-||clqmmy2lhc2qnfjvyxigxe95wb.cfd^
 ||clrpdhptoddatj49.pro^
 ||clrqbqtonradt.online^
 ||clrstm.com^
@@ -18455,7 +18452,6 @@
 ||eventuryremov.com^
 ||eventweepinghoarse.com^
 ||ever8trk.com^
-||evercrucial.com^
 ||evergreen-room.com^
 ||evergreenagilezoo.com^
 ||everlasting-inflation.com^
@@ -24498,7 +24494,6 @@
 ||imk.neweggimages.com^
 ||imkirh.com^
 ||immaculatehighlight.com^
-||immaterial-mother.com^
 ||immediateequivalentstunning.com^
 ||immediatelydoghead.com^
 ||immense-owner.com^
@@ -25648,7 +25643,6 @@
 ||jasperybarmie.qpon^
 ||jauhedeps.net^
 ||jaunithuw.com^
-||jaunty-leadership.com^
 ||jauntyit.com^
 ||javascriptcdnlive.com^
 ||javascriptcounter.appspot.com^
@@ -28122,7 +28116,6 @@
 ||lhhpbaiyufphu.site^
 ||lhjkqdgxnrmjo.site^
 ||lhjnegfxaoemq.website^
-||lhkpvpnnqcebn.fun^
 ||lhmaq99q.xyz^
 ||lhmkjtnhstesl.website^
 ||lhmos.com^
@@ -28562,7 +28555,6 @@
 ||lmvylvrpfyscz.online^
 ||lmwwbrgjj.com^
 ||lmzuqfelmvtab.space^
-||lmzzrvmmcm9c6r34cv4j4uh.cfd^
 ||lnabew.com^
 ||lnbjvhefrwuxh.website^
 ||lnbkckhipmi.com^
@@ -32724,7 +32716,6 @@
 ||no2veeamggaseber.com^
 ||noa.yahoo.com^
 ||noaaduliugvul.online^
-||noafechu.xyz^
 ||noapeveety.top^
 ||noavoahevugrib.com^
 ||nobleaccentshell.com^
@@ -32843,7 +32834,6 @@
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notorietysoldduplicate.com^
-||notoriouscolumnistdead.com^
 ||notslgefxb.com^
 ||notspecial.biz^
 ||nougatdimetry.com^
@@ -32940,7 +32930,6 @@
 ||nqqqnyyceaypa.online^
 ||nqrmfxfrclxyx.space^
 ||nqrmulefubdjw.website^
-||nqsizzyicehpm.one^
 ||nqslmtuswqdz.com^
 ||nqtmdwxjkutyf.website^
 ||nqujxpsgreztv.online^
@@ -34305,7 +34294,6 @@
 ||oseveralyearsfo.org^
 ||osfultrbriolenai.info^
 ||osignaments.org^
-||osigquwnvunsj.top^
 ||osiseouvxbgzj.online^
 ||osjbeyssyyunp.site^
 ||oskiwood.com^
@@ -34522,7 +34510,6 @@
 ||ovpukbvfluhnw.site^
 ||ovret.com^
 ||ovsaopbvoajdn.website^
-||ovtflklfxbrgo.today^
 ||ovvghgmsdefhf.online^
 ||ovvpwkalipjts.online^
 ||ovwjauothlcix.site^
@@ -38594,7 +38581,6 @@
 ||raptripeessentially.com^
 ||raptureinsanity.com^
 ||rapturevirtueblake.com^
-||rare-reveal.com^
 ||rarelywithinlull.com^
 ||rarerburundi.cyou^
 ||rarespeech.pro^
@@ -43481,7 +43467,6 @@
 ||srwhoxkyksvql.site^
 ||srwww1.com^
 ||srydpfeufugyr.website^
-||sryfmerwefrwj.icu^
 ||srytiqervsgbi.space^
 ||srzwbetxwdkpt.online^
 ||ss.azuremagazine.com^
@@ -44961,7 +44946,6 @@
 ||syigfmoeoaono.space^
 ||syinga.com^
 ||syjdybprospmg.site^
-||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
 ||sylmyar.pw^
 ||sylvagereding.qpon^
@@ -45772,7 +45756,6 @@
 ||tepid-permission.com^
 ||tepidpolicy.com^
 ||tepsmyvnxfssq.space^
-||teqdutdxiwzwd.one^
 ||teracreative.com^
 ||teralog.techhub.co.kr^
 ||teraticsquelch.cyou^
@@ -47727,7 +47710,6 @@
 ||ttkfjmovlwrvb.space^
 ||ttkmtmvtrezer.online^
 ||ttknlsfqmtqoe.online^
-||ttlhwufpaqwkw.site^
 ||ttlouwaejtqlb.online^
 ||ttmetrics.jcpenney.com^
 ||ttmmbknqrdsrs.website^
@@ -48268,7 +48250,6 @@
 ||uektouluarthe.site^
 ||uelclnfeaxlur.online^
 ||ueleensadcyxh.site^
-||uemrtknwjbgzp.one^
 ||uenrrmxuhjdm.com^
 ||ueobtcrdeefau.space^
 ||ueomdedzyvpdn.online^
@@ -48378,7 +48359,6 @@
 ||uhslbfnnqqqqh.space^
 ||uhsmmaq4l2n5.com^
 ||uhuvadkubxjkv.website^
-||uhvsefglyttww.fun^
 ||uhwzjbveib.com^
 ||uhyqieok5u.com^
 ||uhyuspdyothna.online^
@@ -50092,7 +50072,6 @@
 ||vm5xs8nvqh.com^
 ||vmap.v.ad-generation.jp^
 ||vmapojovqesek.online^
-||vmawhaylmkxpv.vip^
 ||vmeacwefprekg.website^
 ||vmecbdkpvugpj.website^
 ||vmenlgdowysab.website^
@@ -50222,7 +50201,6 @@
 ||vozer.voffka.com^
 ||vozpublic.com^
 ||vpbhuddvufxvb.space^
-||vpbigdsnehwam.today^
 ||vpbjuracackcm.online^
 ||vpcjijijkzhjv.space^
 ||vpdehpjxotemz.space^
@@ -50482,7 +50460,6 @@
 ||vxkqazollahft.store^
 ||vxkuefsbr.com^
 ||vxmgwfvl.net^
-||vxo-protect.co.in^
 ||vxqpuuzamduiw.space^
 ||vxsdibhjeyvwf.space^
 ||vxslamouxg.com^
@@ -50731,7 +50708,6 @@
 ||wappatoskee.cyou^
 ||wapperrattage.com^
 ||wapstart.ru^
-||waqiqbzkvozig.click^
 ||waqool.com^
 ||waqwcbnbbpliz.online^
 ||warbler.resumebuilder.dev^
@@ -50901,7 +50877,6 @@
 ||wctomfpolmxxr.online^
 ||wcumiqigmpkoc.site^
 ||wcuujkywusvpv.online^
-||wcuxkyjwndqxj.top^
 ||wcvevntrztrdi.site^
 ||wcwpnipkfluae.space^
 ||wcwxkbakmbtct.space^
@@ -51389,7 +51364,6 @@
 ||whstvdsqpzlaa.website^
 ||whswprjesbewv.site^
 ||whsyfigscmbif.space^
-||whtrsheljrpso.rocks^
 ||whudwpbpfcjye.site^
 ||whuffchagrin.cfd^
 ||whuzucot.net^
@@ -51960,7 +51934,6 @@
 ||wqtpdbegijbuz.website^
 ||wqtrndlf.com^
 ||wqtvhnrmmgbdn.online^
-||wqvwqxstgqjyk.fun^
 ||wqvzwdrbabind.website^
 ||wqwoynnxgujac.online^
 ||wqxvfzvqcqmcs.website^
@@ -52210,7 +52183,6 @@
 ||wydk6zdk2.com^
 ||wyebbkxinxgud.website^
 ||wyemijjnbkrol.space^
-||wyeosamxhgqwt.world^
 ||wygcjzjkryxfv.site^
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
@@ -52391,7 +52363,6 @@
 ||xciryzdnl.com^
 ||xckmiovstahqy.website^
 ||xclick24.com^
-||xclicks.net^
 ||xcnfzp.icu^
 ||xcognklpyq.com^
 ||xcohzwdmnkryw.online^
@@ -52670,7 +52641,6 @@
 ||xlog.tiktokv.com^
 ||xlrdr.com^
 ||xlrm-tech.com^
-||xlsfswiaqcrxc.xyz^
 ||xltdqkwaamxgg.website^
 ||xlucsjrgiunux.website^
 ||xlujbmaahnwxj.space^
@@ -53558,7 +53528,6 @@
 ||xuwmylm697.com^
 ||xuxtzbczsxcrs.website^
 ||xv62yli8iz.com^
-||xvayntirbqohr.space^
 ||xvbwjd.icu^
 ||xvcefcdyvbyyx.website^
 ||xvcwbxjzdecpi.store^
@@ -53754,7 +53723,6 @@
 ||yaebhbyweyxvt.store^
 ||yagtyjaefiecu.online^
 ||yah3ph65tc.com^
-||yahdrctswmvax.space^
 ||yahzsa6o2o.com^
 ||yajjppbbzrxfk.space^
 ||yajwwgdogebga.space^
@@ -53823,7 +53791,6 @@
 ||ybqteyuhurgdj.online^
 ||ybrvrws2p9.com^
 ||ybs2ffs7v.com^
-||ybsqqegmkdonc.life^
 ||ybtevzivkqolm.website^
 ||ybtyvbzvxpvex.store^
 ||ybvcxmqpgtdyd.store^
@@ -53836,7 +53803,6 @@
 ||ycckcvaqnbiqa.store^
 ||yccpbhbgpm.com^
 ||yccsuvitctcyc.site^
-||yccylqzzbmeqg.global^
 ||ycdfmqjhwjjqf.online^
 ||ycdhgqvracdci.space^
 ||ycencliqriclu.space^
@@ -53948,7 +53914,6 @@
 ||yfwwfbxkteuwp.site^
 ||yfxkedinghbze.space^
 ||yfyfvwxsymjake.com^
-||yfypfpfmcfvmi.top^
 ||yg0051thk.com^
 ||yg4j3py9b.com^
 ||ygacesefzgcvt.site^
@@ -53991,7 +53956,6 @@
 ||yhlpwerxrstov.online^
 ||yhlsugkxfnjqq.online^
 ||yhmqcuzbgzuix.space^
-||yhmugtdyhziys.space^
 ||yhnledkewy.net^
 ||yhnxwhgkqogsi.online^
 ||yhrh.cn^
@@ -54395,7 +54359,6 @@
 ||ytluqctugedmm.site^
 ||ytmwqfftkvood.store^
 ||ytoeesaeuulcy.website^
-||ytoqesmpkvxkq.click^
 ||ytpfbbg6hl.com^
 ||ytqlqvguttjuf.store^
 ||ytseotpnuzrdc.site^
@@ -54538,7 +54501,6 @@
 ||yypsmobejtdoh.space^
 ||yyqrofyyvjfyo.space^
 ||yyroyyipsitcf.site^
-||yytxgghgvtwfp.icu^
 ||yyvxcmhpkmaxd.website^
 ||yywflujrcwrcrio.net^
 ||yyxpearkrincp.site^
@@ -54714,7 +54676,6 @@
 ||zcxdhoyoncjbv.space^
 ||zcxwmnfhcsbzm.website^
 ||zcymvyglyjyxu.online^
-||zdawvocofpfcr.vip^
 ||zdbuagetodumy.website^
 ||zddfupohzurso.website^
 ||zddipepgvdwfp.online^
@@ -54730,7 +54691,6 @@
 ||zdqynwnojttwt.space^
 ||zduskykoxzasu.site^
 ||zduwgpvfgvhqm.space^
-||zdvtuadwafljw.global^
 ||zdw.w8.com.cn^
 ||zdybhgdlpashv.website^
 ||zdynppqtiqilb.website^
@@ -55141,7 +55101,6 @@
 ||zozvjoawtvxpi.online^
 ||zp0o8pii.xyz^
 ||zpatfnmuzqfez.website^
-||zpfmqfxgrtttb.icu^
 ||zpgb.cn^
 ||zpgnipitynywq.space^
 ||zpgtcgqdycckj.online^
