@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.61
+! Version: 1.0.5.62
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-16T08:54:23.237Z
+! Last modified: 2026-07-16T19:31:22.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3976,6 +3976,7 @@
 ||hmf.li^
 ||hmp.me^
 ||hmt.ai^
+||hncinnamon.com^
 ||hnd.bio^
 ||hnpa.top^
 ||hnsl.mn^
@@ -4253,6 +4254,7 @@
 ||iolink.me^
 ||ionos.ly^
 ||ipdc.link^
+||ipgrab.org^
 ||ipgrabber.ru^
 ||ipgraber.ru^
 ||ipkill.org^
@@ -4394,6 +4396,7 @@
 ||jh7.uk^
 ||jhu.li^
 ||jhxpc.info^
+||jieee.sbs^
 ||jif.li^
 ||jijr.com^
 ||jilitrick.live^
@@ -4719,6 +4722,7 @@
 ||lcp.ovh^
 ||lcra-tamu.org^
 ||ldgr.info^
+||ldjet.io^
 ||leakslinks.com^
 ||learn.to^
 ||learnit.today^
@@ -4769,6 +4773,7 @@
 ||lighthouse-scholarship.com^
 ||lign.it^
 ||lih.kg^
+||lihat.bio^
 ||lihat.info^
 ||lihi.biz^
 ||lihi.cc^
@@ -4813,6 +4818,7 @@
 ||lin-k.ai^
 ||lin-k.cc^
 ||lin-k.eu^
+||lin-k.me^
 ||lin0.de^
 ||linanok.com^
 ||linc.li^
@@ -4835,6 +4841,7 @@
 ||link-cut.com^
 ||link-ease.in^
 ||link-fe.nz^
+||link-me.vip^
 ||link-safe.co^
 ||link-trim.com^
 ||link-trim.in^
@@ -4905,6 +4912,7 @@
 ||linkdly.com^
 ||linkdly.me^
 ||linkdoer.com^
+||linkdom.me^
 ||linkdpx.xyz^
 ||linkdrip.com^
 ||linke.to^
@@ -5009,6 +5017,7 @@
 ||linkoo.ru^
 ||linkoon.com^
 ||linkopener.co^
+||linkopeners.com^
 ||linkoqr.com^
 ||linkotomy.com^
 ||linkotw.live^
@@ -5018,9 +5027,11 @@
 ||linkpara.bio^
 ||linkpatel.com^
 ||linkpays.in^
+||linkpool.us^
 ||linkpop.com^
 ||linkpop.in^
 ||linkprotbkita.com^
+||linkqb.com^
 ||linkqr.io^
 ||linkr.com^
 ||linkr.uk^
@@ -5182,6 +5193,7 @@
 ||lmcjl.com^
 ||lmddgtfy.net^
 ||lmg.gg^
+||lmg9.com^
 ||lmt.co^
 ||lmt.sh^
 ||lmy.de^
