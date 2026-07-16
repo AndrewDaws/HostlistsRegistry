@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.21.35
+! Version: 1.0.21.36
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-07-15T05:06:04.081Z
+! Last modified: 2026-07-16T05:08:14.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -36,6 +36,7 @@
 ||airupgreece.net^
 ||airupsrbija.com^
 ||aizipai.cn^
+||aldi-life.vip^
 ||alindflepkaty14.pages.dev^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||all-tube.pl^
@@ -47,7 +48,6 @@
 ||altruetech.com^
 ||altwi-zgs.com^
 ||amorpulse.com^
-||animeshoppers.com^
 ||anydebrid.com^
 ||aoptee.com^
 ||appdrive.info^
@@ -134,7 +134,6 @@
 ||canjaume.com^
 ||caraci.it^
 ||casualdating1.com^
-||cda-pl.pl^
 ||cda-zalukaj.prv.pl^
 ||chat-o-live.com^
 ||cheat-on.com^
@@ -469,8 +468,8 @@
 ||lucatee.com^
 ||lucidtiger.com^
 ||luckyhomie.com^
-||lucysstyle.com^
 ||luxsgear.com^
+||m.coinexeu.vip^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -658,6 +657,7 @@
 ||quitasueno.com^
 ||quotex.com.in^
 ||re-captha-version-3-277.buzz^
+||reanimando.org^
 ||resources4gaming.com^
 ||revanced-extended.com^
 ||reviewshirts.com^
@@ -666,13 +666,11 @@
 ||rjgriffith.com^
 ||robalmeister.workers.dev^
 ||robinmooreband.com^
-||robuxmenu.vip^
 ||rockchief.com^
 ||rosateeshop.com^
 ||royaldecorhome.store^
 ||royalhedgies.com^
 ||rozomii.info^
-||rptbaa.shop^
 ||rsaonlinenow.com.au^
 ||rupiahsaku.com^
 ||rustdesk.co.nz^
