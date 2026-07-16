@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.72.82",
+			"version": "1.0.72.83",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-16T18:30:55+0000"
+			"timeUpdated": "2026-07-16T20:22:32+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.28.68",
+			"version": "1.1.28.69",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-16T19:30:17+0000"
+			"timeUpdated": "2026-07-16T20:22:36+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.99.83",
+			"version": "1.0.99.84",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-16T10:43:48+0000"
+			"timeUpdated": "2026-07-16T20:22:51+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -742,14 +742,14 @@
 				108
 			],
 			"languages": [],
-			"version": "1.0.17.97",
+			"version": "1.0.17.98",
 			"homepage": "https://anti-ad.net/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"subscriptionUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-13T20:31:47+0000"
+			"timeUpdated": "2026-07-16T20:23:07+0000"
 		},
 		{
 			"filterKey": "IDN_abpindo",
@@ -1111,14 +1111,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.31.68",
+			"version": "1.0.31.69",
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"timeAdded": "2023-08-16T11:51:09+0000",
-			"timeUpdated": "2026-07-16T08:54:00+0000"
+			"timeUpdated": "2026-07-16T20:23:14+0000"
 		},
 		{
 			"filterKey": "ublock_badware_risks",
@@ -1151,14 +1151,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.26.83",
+			"version": "1.0.26.84",
 			"homepage": "https://github.com/hagezi/dns-blocklists#bypass",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
 			"timeAdded": "2023-10-25T11:19:42+0000",
-			"timeUpdated": "2026-07-16T08:54:22+0000"
+			"timeUpdated": "2026-07-16T20:23:36+0000"
 		},
 		{
 			"filterKey": "hagezi_dyndns_blocklist",
