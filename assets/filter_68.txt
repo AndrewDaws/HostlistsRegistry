@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.60
+! Version: 1.0.5.61
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-15T19:32:09.666Z
+! Last modified: 2026-07-16T08:54:23.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -83,6 +83,7 @@
 ||go.bitcomma.com^
 ||url.nafi.biz.id^
 ||aje.biz.id^
+||dnl.biz.id^
 ||opetsalman.biz.id^
 ||artist.blanchtrap.com^
 ||ai.blendnow.com^
@@ -2712,6 +2713,7 @@
 ||customurlshortener.com^
 ||cut.by^
 ||cut.gl^
+||cut.live^
 ||cut.lu^
 ||cut.ovh^
 ||cut.pe^
@@ -2754,6 +2756,7 @@
 ||cutt.ly^
 ||cutt.pk^
 ||cutt.us^
+||cutt4.me^
 ||cuttgoo.com^
 ||cutth.com^
 ||cutthis.link^
@@ -2938,6 +2941,7 @@
 ||dkng.co^
 ||dky.bz^
 ||dl.gl^
+||dl-protect.info^
 ||dl-protect.link^
 ||dl100.cc^
 ||dld.bz^
@@ -3091,9 +3095,11 @@
 ||eaash.co^
 ||earl.sh^
 ||earn4link.in^
+||earn4url.com^
 ||earnesst.website^
 ||earnestwiles.com^
 ||earnfly.net^
+||earnpays.com^
 ||earnshort.site^
 ||earnshorter.com^
 ||earnshortly.com^
@@ -3109,6 +3115,7 @@
 ||easyurl.site^
 ||easyurlshortener.com^
 ||eazify.net^
+||eb.do^
 ||ebarata.com^
 ||ebay.to^
 ||ebbco.ir^
@@ -3145,6 +3152,7 @@
 ||eeb.me^
 ||eepurl.com^
 ||efie.co^
+||eflick.me^
 ||efraising.org^
 ||efs.link^
 ||efshop.tw^
@@ -3271,6 +3279,7 @@
 ||exploreosv.com^
 ||exx.us^
 ||eyemakeu.com^
+||eyq.me^
 ||eys.li^
 ||ez1.cc^
 ||ezbio.me^
@@ -3304,6 +3313,7 @@
 ||f5i.org^
 ||f5url.com^
 ||f5yo.com^
+||f6x.cn^
 ||fa.by^
 ||fa.gd^
 ||fa-st.co^
@@ -3708,6 +3718,7 @@
 ||go2.do^
 ||go2.me^
 ||go2ct.pro^
+||go2cut.com^
 ||go2l.ir^
 ||go2ln.com^
 ||go2my.info^
@@ -3855,6 +3866,7 @@
 ||gyntekbusiness.com^
 ||h-ref.com^
 ||h1.nu^
+||h2mhridayff.com^
 ||h3x.ir^
 ||h5bio.com^
 ||ha4l.com^

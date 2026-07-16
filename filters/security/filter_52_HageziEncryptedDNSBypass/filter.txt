@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.82
+! Version: 1.0.26.83
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-15T19:32:09.267Z
+! Last modified: 2026-07-16T08:54:22.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -434,6 +434,7 @@
 ||dns.anitelekom.ru^
 ||sanns.aniuo.com^
 ||cliffbayschools.anjumanallana.in^
+||dontbelocked.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -2182,7 +2183,6 @@
 ||tromp.creographix.at^
 ||vcsa.creographix.at^
 ||adguard.crestfallen.de^
-||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
@@ -3045,6 +3045,7 @@
 ||api.fatibara.com^
 ||adguardhome.favrep.ovh^
 ||dns2.fawz.de^
+||dns.faze.dev^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||vpn.fdn.fr^
@@ -4216,6 +4217,7 @@
 ||wiselines.lebrija.org^
 ||adblock.leenit.kr^
 ||directory.leeschoolsk12.org^
+||externalmobiel.lekdijk.online^
 ||skill.vocab.lekovic.ca^
 ||sndkcuf.lekun.me^
 ||dns.lepilleur.com^
@@ -5099,6 +5101,7 @@
 ||securley.patelmortgage.com^
 ||buy.patf.net^
 ||shop.patf.net^
+||doh.gcp.pathofgrace.com^
 ||sci.grid.patlacroix.com^
 ||nas.patrick-antoine.fr^
 ||learning.about.college.paulkelly.org^
@@ -5141,6 +5144,7 @@
 ||dns.pine-home.de^
 ||dns.pizzari.me^
 ||doh.plaawan.uk^
+||draco.plan9-ns2.com^
 ||door.plasmadancer.ru^
 ||www.bhghhfhgffghfjh.152-53-136-204.plesk.page^
 ||sdtfghjbnm.152-53-136-204.plesk.page^
@@ -5352,6 +5356,7 @@
 ||luminalvcsa.ramalhais.com^
 ||madeby-vcsa.ramalhais.com^
 ||dns.ramansarda.com^
+||drpepperisbetter.ramonmedina.net^
 ||nana.ddx.v2.ramos90.ca^
 ||thiscopyofartclassisnotgenuine.rare1k.space^
 ||doh.rasmusminde.dk^
@@ -6576,6 +6581,7 @@
 ||doh.wewitro.net^
 ||doh-rs.whalebone.io^
 ||bwh.why4free.top^
+||dns.wibenson.cloud^
 ||dns1-secure.wifire.it^
 ||hammerhead-shark.wifizone.org^
 ||adguard.wifri.space^
@@ -6673,6 +6679,7 @@
 ||dns.xusqui.com^
 ||dns.xv.fi^
 ||app.xvpncdn.com^
+||dns.xwdmw.xyz^
 ||dns.xwu.us^
 ||v2.xx3210766.live^
 ||dns.xydustc.me^
@@ -8719,6 +8726,7 @@
 ||cratesg.top^
 ||crawlbase.com^
 ||crawler.mobi^
+||crazycattle3d.lol^
 ||crazysurfer.info^
 ||crbtqxdu.com^
 ||createssh.com^
@@ -8829,6 +8837,7 @@
 ||dabai.in^
 ||dabmix.com^
 ||daddyproxy.com^
+||dagecloud.com^
 ||dageyun.com^
 ||dageyun.info^
 ||dageyun.net^
@@ -8889,8 +8898,10 @@
 ||deeper.network^
 ||deepstateplatypus.com^
 ||deepwebvpn.net^
+||default2024.uk^
 ||defencevpn.com^
 ||defendfrienddns.fyi^
+||defilter.us^
 ||defined.pics^
 ||definitechaos.org^
 ||defyxvpn.com^
@@ -8913,6 +8924,7 @@
 ||devotesodium.com^
 ||dewassh.net^
 ||dexira.ru^
+||dfa-appointment.com^
 ||dft-cdn42.net^
 ||dfwdlitu.cc^
 ||dg6.me^
@@ -8944,6 +8956,7 @@
 ||dirproxy.xyz^
 ||disbish.com^
 ||disconnect.me^
+||discord.tattoo^
 ||discordvpn.com^
 ||districtnewyork.com^
 ||diuwdkjf.cc^
@@ -8960,6 +8973,7 @@
 ||dns.pub^
 ||dns.sb^
 ||dns.watch^
+||dns-free.link^
 ||dns-savage.com^
 ||dns0.eu^
 ||dns4all.eu^
@@ -9478,6 +9492,8 @@
 ||ednovas.tech^
 ||ednovas.world^
 ||ednovas.xyz^
+||ednovasyunclash.com^
+||edpuzzle.space^
 ||edpxzc8w5jqk.online^
 ||edsqevwp.com^
 ||edublue.org^
@@ -9784,6 +9800,7 @@
 ||fastniuniu.com^
 ||fastnixes.net^
 ||fastnod.com^
+||fastnodegw.com^
 ||fastnpv.com^
 ||fasto2.com^
 ||fastonion.net^
@@ -10102,6 +10119,7 @@
 ||free-vpn.cn^
 ||free-vpn.mom^
 ||free-vpn.pro^
+||free-vpn.xyz^
 ||free-vpn-planet.net^
 ||free-vpnapp.com^
 ||free-vpnplanet.net^
@@ -10143,6 +10161,7 @@
 ||freeproxy.win^
 ||freeproxyaccess.com^
 ||freeproxydb.com^
+||freeproxylist.online^
 ||freeproxylist.ru^
 ||freeproxyserver.co^
 ||freeproxysites.co^
@@ -10483,6 +10502,7 @@
 ||gostarlight.xyz^
 ||gotoproxy.com^
 ||gotrusted.com^
+||gougoujiasu.com^
 ||gougouvpn.info^
 ||goujijiasu.com^
 ||gouzicloud.com^
@@ -11479,6 +11499,7 @@
 ||jumpjumpvpn.help^
 ||jumpvpn.homes^
 ||jumpvpn.mom^
+||jupitrdns.com^
 ||juproxy.com^
 ||juranel.my^
 ||juratet.baby^
