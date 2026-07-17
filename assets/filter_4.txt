@@ -1,9 +1,9 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.5
+! Version: 1.0.19.6
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-17T19:29:26.745Z
+! Last modified: 2026-07-17T23:20:59.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3298,6 +3298,7 @@
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
+0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
