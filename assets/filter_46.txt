@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.22
+! Version: 1.0.26.23
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-17T08:50:32.432Z
+! Last modified: 2026-07-17T19:29:42.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1990,6 +1990,7 @@
 ||1bt.ru^
 ||1cinevood.kim^
 ||1ddl.org^
+||1desiremovies.fans^
 ||1desiremovies.foo^
 ||1dl.net^
 ||1fanserials.org^
@@ -5885,6 +5886,8 @@
 ||diktator-film-lordfilm.ru^
 ||dilandau.com^
 ||dilll.com^
+||dimakooora24.com^
+||dimakoora4u.live^
 ||dimeadozen.org^
 ||dimitrology.com^
 ||dinoster-lordfilm3.ru^
@@ -11604,6 +11607,7 @@
 ||kisscartoon.love^
 ||kisscartoon.nz^
 ||kisscartoon.xyz^
+||kissimge1.site^
 ||kissing-boyths-lordfilm.ru^
 ||kissing-boythsi-lordfilm.ru^
 ||kissing-boythsu-lordfilm.ru^
@@ -11736,6 +11740,7 @@
 ||konstantina-lordfilm.ru^
 ||konstantinopol-lordfilm.ru^
 ||konstantinopol-serial-lordfilm.ru^
+||kool.ws^
 ||kooora.run^
 ||kooora-city.com^
 ||kooora4liv.com^
@@ -26498,6 +26503,7 @@
 ||phimmoii.to^
 ||phoenix-warez.ws^
 ||phonewarez.net^
+||phonofilm.net^
 ||photosflix.com^
 ||pianosheets.org^
 ||pianyuan.net^
@@ -27353,6 +27359,7 @@
 ||quantumstress.net^
 ||quantus.tv^
 ||quebec-partage.com^
+||quebec-team.net^
 ||quedustreaming.com^
 ||queijoevinhoda.best^
 ||quentin-tarantiino-lordfilm.ru^
@@ -27473,6 +27480,7 @@
 ||rarbg-official.live^
 ||rarbg-official.site^
 ||rarbg2018.org^
+||rarbg2019.org^
 ||rarbg2020.org^
 ||rarbgaccess.org^
 ||rarbgaccessed.org^
@@ -27652,6 +27660,7 @@
 ||revancedapk.org^
 ||revancedapp.download^
 ||revancedapp.io^
+||revancedapps.com^
 ||revancedextended.com^
 ||revancedextended.io^
 ||revdl.com^
@@ -27781,6 +27790,7 @@
 ||rojadirectaenhd.net^
 ||rojadirectaenvivo.club^
 ||rojadirectaenvivo.com^
+||rojadirectaenvivo.life^
 ||rojadirectaenvivo.site^
 ||rojadirectaes.org^
 ||rojadirectahd.blog^
@@ -27861,6 +27871,7 @@
 ||rsload.net^
 ||rsoccerstreams.com^
 ||rsoccerstreams.net^
+||rth77.ru^
 ||rtorrent.net^
 ||rubezh-shangrii-la-lordfilms.ru^
 ||rulez-movies.com^
@@ -27992,6 +28003,7 @@
 ||scenerace.net^
 ||scenesource.me^
 ||scenespot.net^
+||scenex.me^
 ||schastlivy-vmeste-lordfilm.buzz^
 ||schastlivy-vmeste-lordfilm.ru^
 ||schastlivy-vmeste-lordfilm.top^
@@ -28029,6 +28041,7 @@
 ||search-torrent.com^
 ||searchcracks.com^
 ||seasonvar.ru^
+||secret-cinema.com^
 ||secret-cinema.net^
 ||securedgen.com^
 ||see-lordfilms.ru^
@@ -28130,6 +28143,7 @@
 ||serien.cam^
 ||serien.click^
 ||serien.life^
+||serien.lol^
 ||serien.sx^
 ||serien-stream.cc^
 ||serienfans.org^
@@ -28179,6 +28193,8 @@
 ||seriesflix.boats^
 ||seriesflix.bond^
 ||seriesflix.cam^
+||seriesflix.cc^
+||seriesflix.cfd^
 ||seriesflix.city^
 ||seriesflix.click^
 ||seriesflix.co^
@@ -28197,9 +28213,13 @@
 ||seriesflix.lol^
 ||seriesflix.men^
 ||seriesflix.org^
+||seriesflix.pics^
 ||seriesflix.pro^
 ||seriesflix.rest^
+||seriesflix.sbs^
+||seriesflix.shop^
 ||seriesflix.social^
+||seriesflix.space^
 ||seriesflix.taxi^
 ||seriesflix.team^
 ||seriesflix.top^
@@ -28557,6 +28577,7 @@
 ||skynetbd.net^
 ||skynetchowmuhani.com^
 ||skynetonlinebd.net^
+||skytorrents.lol^
 ||skytorrents.to^
 ||slabyj-geroj-lordfilm3.ru^
 ||sladinki007.net^
@@ -28592,6 +28613,7 @@
 ||smartflix.digital^
 ||smartkino.ru^
 ||smartnetltd.com^
+||smartoneiptv.space^
 ||smartonlinebd.com^
 ||smartorrent.com^
 ||smartserial.com^
@@ -28712,6 +28734,7 @@
 ||soap2day.plus^
 ||soap2day.press^
 ||soap2day.rodeo^
+||soap2day.se^
 ||soap2day.sh^
 ||soap2day.study^
 ||soap2day.tel^
@@ -28726,6 +28749,7 @@
 ||soap2day-free.com^
 ||soap2day-hd.com^
 ||soap2day-hd.online^
+||soap2day-hd-movies.com^
 ||soap2day-id.com^
 ||soap2day-live.top^
 ||soap2day-moi.cyou^
@@ -28878,6 +28902,7 @@
 ||soaper.live^
 ||soaper.top^
 ||soaper.tv^
+||soaper.vip^
 ||soaperpage.com^
 ||soapertv.cc^
 ||soapgate.org^
@@ -28889,6 +28914,7 @@
 ||sobybor-lordfilm.ru^
 ||soccerbite.net^
 ||soccerinhd.com^
+||soccerlive.app^
 ||socceron.name^
 ||socceron.org^
 ||socceronline.me^
@@ -28948,6 +28974,7 @@
 ||softwareheritage.org^
 ||softwarehomes.in^
 ||softwarez.org^
+||softwarez.site^
 ||softwarezawi.sbs^
 ||softwarezawy.shop^
 ||softwarezawy.xyz^
@@ -29106,6 +29133,7 @@
 ||spacesu-lordfilm.ru^
 ||spaider.net^
 ||spanishare2.com^
+||spanishtracker.com^
 ||sparkdeer21.online^
 ||sparklinkbd.com^
 ||sparknetbd.com^
@@ -29147,6 +29175,7 @@
 ||spigotunlocked.com^
 ||spilve.com^
 ||spirit-lordfilm3.ru^
+||spirit-tracker.org^
 ||spisoft.net^
 ||spletnica-lordfilm3.ru^
 ||spletnicas-lordfilm.ru^
@@ -29164,6 +29193,8 @@
 ||spongebob-squarepentsu-lordfilm.ru^
 ||sport-scene.net^
 ||sport-stream.ru^
+||sport-tv.live^
+||sport3.tv^
 ||sport365.live^
 ||sport365.sx^
 ||sportagoals.fit^
@@ -29197,6 +29228,7 @@
 ||sportsbay.org^
 ||sportsbay.sx^
 ||sportsbay.top^
+||sportsdaldal.site^
 ||sportsleading.online^
 ||sportslive.me^
 ||sportsnetwork.fit^
@@ -29214,6 +29246,7 @@
 ||sportsonlinetv.com^
 ||sportspass.zip^
 ||sportstream.tv^
+||sportsurge.app^
 ||sportsurge.baby^
 ||sportsurge.beer^
 ||sportsurge.bid^
@@ -29274,6 +29307,7 @@
 ||sportsurgev2.biz^
 ||sportsurgev34.shop^
 ||sportsurgez.com^
+||sporttuna.online^
 ||sporttuna.pro^
 ||sporttuna.sx^
 ||sportyhunter.com^
@@ -29309,6 +29343,7 @@
 ||ssoap2day.biz^
 ||ssoap2day.co^
 ||ssoap2day.cyou^
+||ssoap2day.live^
 ||ssoap2day.online^
 ||ssoap2day.org^
 ||ssoap2day.pro^
@@ -29516,6 +29551,7 @@
 ||streaming-community.cyou^
 ||streaming-community.dev^
 ||streaming-community.directory^
+||streaming-community.dog^
 ||streaming-community.earth^
 ||streaming-community.fans^
 ||streaming-community.fit^
@@ -29545,6 +29581,7 @@
 ||streamingcommunity.actor^
 ||streamingcommunity.africa^
 ||streamingcommunity.ag^
+||streamingcommunity.airforce^
 ||streamingcommunity.app^
 ||streamingcommunity.army^
 ||streamingcommunity.asia^
@@ -29556,6 +29593,7 @@
 ||streamingcommunity.bet^
 ||streamingcommunity.bike^
 ||streamingcommunity.bingo^
+||streamingcommunity.bio^
 ||streamingcommunity.black^
 ||streamingcommunity.blog^
 ||streamingcommunity.boats^
@@ -29568,6 +29606,8 @@
 ||streamingcommunity.cash^
 ||streamingcommunity.center^
 ||streamingcommunity.chat^
+||streamingcommunity.click^
+||streamingcommunity.cloud^
 ||streamingcommunity.co^
 ||streamingcommunity.codes^
 ||streamingcommunity.com^
@@ -29579,6 +29619,7 @@
 ||streamingcommunity.dev^
 ||streamingcommunity.discount^
 ||streamingcommunity.dog^
+||streamingcommunity.education^
 ||streamingcommunity.estate^
 ||streamingcommunity.eu^
 ||streamingcommunity.express^
@@ -29587,6 +29628,7 @@
 ||streamingcommunity.fm^
 ||streamingcommunity.foo^
 ||streamingcommunity.forum^
+||streamingcommunity.garden^
 ||streamingcommunity.help^
 ||streamingcommunity.hiphop^
 ||streamingcommunity.in^
@@ -29598,7 +29640,9 @@
 ||streamingcommunity.li^
 ||streamingcommunity.life^
 ||streamingcommunity.lol^
+||streamingcommunity.london^
 ||streamingcommunity.lu^
+||streamingcommunity.marketing^
 ||streamingcommunity.me^
 ||streamingcommunity.mobi^
 ||streamingcommunity.name^
@@ -29611,6 +29655,7 @@
 ||streamingcommunity.pet^
 ||streamingcommunity.ph^
 ||streamingcommunity.photos^
+||streamingcommunity.pink^
 ||streamingcommunity.pizza^
 ||streamingcommunity.pl^
 ||streamingcommunity.plus^
@@ -29803,6 +29848,7 @@
 ||streamkiste.taxi^
 ||streamlairtv.com^
 ||streamlive.to^
+||streamlivetv.site^
 ||streamlixy.com^
 ||streamlock.net^
 ||streamlord.com^
@@ -29940,6 +29986,7 @@
 ||styd-lordfilm3.ru^
 ||styuart-littl-lordfilm3.ru^
 ||su-data.com^
+||subdl.in^
 ||subsplease.org^
 ||subtituladas.com^
 ||subtracker.net^
@@ -30026,6 +30073,7 @@
 ||superflixapi.online^
 ||superflixapi.pro^
 ||superflixapi.wales^
+||superflixhd.net^
 ||superfutebol.tv^
 ||supergirli-lordfilm.ru^
 ||supergirll-lordfilm.ru^
@@ -30095,6 +30143,7 @@
 ||swatchseries.ru^
 ||swe101.online^
 ||swe101.ru^
+||swebits.org^
 ||sweet-paris.com^
 ||sweetvideo.site^
 ||swefilmer.to^
@@ -30187,6 +30236,7 @@
 ||tantifilm.be^
 ||tantifilm.bet^
 ||tantifilm.bingo^
+||tantifilm.blog^
 ||tantifilm.buzz^
 ||tantifilm.casa^
 ||tantifilm.claims^
@@ -30212,6 +30262,7 @@
 ||tantifilm.live^
 ||tantifilm.locker^
 ||tantifilm.me^
+||tantifilm.name^
 ||tantifilm.net^
 ||tantifilm.online^
 ||tantifilm.org^
@@ -30951,6 +31002,7 @@
 ||topanalyse.org^
 ||topbytes.net^
 ||topcartoons.tv^
+||topcinma.com^
 ||topdocumentaryfilms.com^
 ||topelite.com^
 ||topeuropix.net^
@@ -31863,6 +31915,7 @@
 ||tri-sestry-lordfilm.rest^
 ||triahgames.com^
 ||tribalmixes.com^
+||tribunvideo.com^
 ||tricitytorrents.com^
 ||trigger-lordfilm.top^
 ||trigger-serial-lordfilm.ru^
@@ -32059,6 +32112,7 @@
 ||uakinogo.day^
 ||uakinogo.ec^
 ||uakinogo.io^
+||uakinogo.is^
 ||uakinogo.nl^
 ||uakinogo.online^
 ||uakinogo.org^
@@ -32495,6 +32549,7 @@
 ||vash-druzhelyubnyj-sosed-chelovek-pauk-lordfilm3.ru^
 ||vasha-chest-lordfilm.lol^
 ||vasha-chest-lordfilm.ru^
+||vavoo.net^
 ||vavoo.top^
 ||vboku.com^
 ||vbooter.com^
@@ -32886,6 +32941,7 @@
 ||victoriay-lordfilm.ru^
 ||victorraulrr.net^
 ||viday.icu^
+||vidbinge.com^
 ||vidbox.dev^
 ||vidby.co^
 ||vidcloud.co^
