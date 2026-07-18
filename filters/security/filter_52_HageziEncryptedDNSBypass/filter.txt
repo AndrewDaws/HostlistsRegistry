@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
-! Version: 1.0.26.86
+! Version: 1.0.26.87
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2026-07-17T19:30:23.957Z
+! Last modified: 2026-07-18T08:40:18.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -445,6 +445,7 @@
 ||playernation.anjumanallana.in^
 ||pto.anjumanallana.in^
 ||qusa.anjumanallana.in^
+||we2education.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -688,6 +689,7 @@
 ||learnvcsa.bestprogramsforkids.com^
 ||officialcepheusx.bestprogramsforkids.com^
 ||space.bestprogramsforkids.com^
+||thisisthe.bestprogramsforkids.com^
 ||v2202510290637393088.bestsrv.de^
 ||dns.bezmezhau.com^
 ||dns.bgeneto.com^
@@ -2061,6 +2063,7 @@
 ||edu.ts-me.com.my^
 ||kj7.ts-me.com.my^
 ||youtwo.ts-me.com.my^
+||waguri.vancorp.com.au^
 ||help.vantagestrategy.com.au^
 ||doh.viatech.com.tw^
 ||dogebynirb.winkel.com.ar^
@@ -2189,6 +2192,7 @@
 ||jasper.crabdance.com^
 ||learningcreativethinking.crabdance.com^
 ||nrusimha.crabdance.com^
+||utopiaunblocker.crabdance.com^
 ||clever.com.santi.craftleds.com^
 ||history.grade.cranbury.info^
 ||cool.creatyc.com^
@@ -2201,7 +2205,6 @@
 ||tromp.creographix.at^
 ||vcsa.creographix.at^
 ||adguard.crestfallen.de^
-||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
@@ -3155,7 +3158,6 @@
 ||www-proxy.formen.cc^
 ||submit.formengineer.org^
 ||dns.foximao.cn^
-||de-f1.foxyfy.net^
 ||dns.foxyfy.net^
 ||es-ma.foxyfy.net^
 ||jp-to.foxyfy.net^
@@ -4899,6 +4901,7 @@
 ||dnscache0.ns71.net^
 ||garlandisd.nseuropa.org^
 ||nljkjfdssdf.ckejlsd.nshosting.xyz^
+||uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz^
 ||dns.ntccloud.vn^
 ||dns.ntr.lol^
 ||dns1.ntus.io^
@@ -5523,6 +5526,7 @@
 ||dns1.saferbfc.org^
 ||dns2.saferbfc.org^
 ||dns.safko.eu^
+||w.q.sagesinst.org^
 ||admin.sailforeducation.org^
 ||api.sailforeducation.org^
 ||app.sailforeducation.org^
@@ -6075,7 +6079,9 @@
 ||grammar.techmaxasia.com^
 ||llc.techmaxasia.com^
 ||sainttech.techmaxasia.com^
+||vpn.technicule.info^
 ||dns1.techniverse.net^
+||vapor.techno.pics^
 ||doh.technochat.in^
 ||essay.gov.technologybriefingcenter.com^
 ||dns.technologycage.com^
@@ -12425,6 +12431,7 @@
 ||mehide.asia^
 ||mehide.org^
 ||melisatea.com^
+||meloo.bond^
 ||melqorvixa.xyz^
 ||membean.cf^
 ||memojiaura.com^
@@ -14891,6 +14898,7 @@
 ||techtecnow.club^
 ||techvaso.com^
 ||tecworx.at^
+||tejiass.com^
 ||telegramnn.org^
 ||telegramvpn.mom^
 ||telex.app^
@@ -14937,13 +14945,16 @@
 ||theproxy.cc^
 ||theproxy.club^
 ||theproxy.dev^
+||theproxy.ink^
 ||theproxy.io^
 ||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
+||theproxy.work^
 ||theproxy2.biz^
 ||theproxy2.com^
 ||theproxya.org^
+||theproxyer.com^
 ||theproxyguide.com^
 ||theproxyultra.com^
 ||therabbitvpn.com^
@@ -15027,6 +15038,7 @@
 ||tnquyfpp.com^
 ||tns5gcwfy.online^
 ||tntv2.com^
+||tnvpn.com^
 ||toaster.lol^
 ||toggle.org^
 ||togglevpn.org^
@@ -15089,6 +15101,7 @@
 ||totorocloud.info^
 ||totorocloud.net^
 ||totorocloud.org^
+||totovps.com^
 ||touchvpn.net^
 ||touhou.tel^
 ||toutline.lt^
@@ -15110,6 +15123,7 @@
 ||transmoon.xyz^
 ||transocks.com^
 ||travelvpn.info^
+||travelvpn.net^
 ||traysub.com^
 ||trayvpn.com^
 ||trees.app^
@@ -15306,7 +15320,9 @@
 ||unblocked.id^
 ||unblocked.me^
 ||unblocked.name^
+||unblocked.racing^
 ||unblocked.soy^
+||unblocked.surf^
 ||unblocked2.biz^
 ||unblocked2.cc^
 ||unblocked2.dev^
@@ -15726,6 +15742,7 @@
 ||vpn-byen.dk^
 ||vpn-edge.help^
 ||vpn-fastest.com^
+||vpn-free.com^
 ||vpn-free.pro^
 ||vpn-kostenlos.com^
 ||vpn-kuailianapp.com^
@@ -16027,6 +16044,7 @@
 ||vsiquiqk.com^
 ||vstkp.click^
 ||vtbimdkh.com^
+||vtcuong.site^
 ||vthiawvu.com^
 ||vthrnrwrbtq2n1xpjt5d.online^
 ||vuivn.site^
@@ -16092,10 +16110,12 @@
 ||webedg.net^
 ||webfusiones.com^
 ||weblockapp.com^
+||webopen.info^
 ||weboproxy.com^
 ||webpro.xyz^
 ||webproxy.club^
 ||webproxy.com^
+||webproxy.mobi^
 ||webproxy.online^
 ||webproxy.to^
 ||webproxy.us^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Badware Hoster Blocklist
 ! Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
-! Version: 1.0.20.77
+! Version: 1.0.20.78
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-17T19:30:24.192Z
+! Last modified: 2026-07-18T08:40:18.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -763,7 +763,6 @@
 ||lnkz.at^
 ||logomebel.ru^
 ||look.in^
-||loophole.site^
 ||lovelocals.us^
 ||loveslife.biz^
 ||lovestoblog.com^
@@ -1090,6 +1089,7 @@
 ||tripod.com^
 ||turbo.site^
 ||turkish.lc^
+||tutorial-blog.net^
 ||tw.gp^
 ||tw1.ru^
 ||twilight.ws^
