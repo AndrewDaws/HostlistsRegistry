@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.24
+! Version: 1.0.26.25
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-18T08:39:40.489Z
+! Last modified: 2026-07-18T19:28:20.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -191,6 +191,7 @@
 ||xanabandforum.boosterforum.com^
 ||labs.boramalper.org^
 ||coolztorrentz.bounceme.net^
+||xcinema.boxmovies.club^
 ||tracker.breizh.pm^
 ||tracker.brokenstones.club^
 ||midas.bs.to^
@@ -1287,12 +1288,22 @@
 ||edownloader61.usa.cc^
 ||jdownload12.usa.cc^
 ||kdownload14.usa.cc^
+||sdownloads03.usa.cc^
+||sdownloads05.usa.cc^
+||sdownloads13.usa.cc^
+||sdownloadz038.usa.cc^
+||sdownloadz100.usa.cc^
 ||vdownloads967x.usa.cc^
 ||wdownloads1.usa.cc^
 ||wdownloadx01.usa.cc^
 ||wdownloadx05.usa.cc^
 ||wdownloadx10.usa.cc^
 ||wdownloadx201.usa.cc^
+||xdownloads41.usa.cc^
+||xdownloads52.usa.cc^
+||xdownloads55.usa.cc^
+||xdownloads65.usa.cc^
+||xdownloads69.usa.cc^
 ||tracker.uw0.xyz^
 ||frp.v2fy.com^
 ||papaja.v2v.cc^
@@ -1597,6 +1608,7 @@
 ||123movie.works^
 ||123moviefree.sbs^
 ||123moviefree4u.com^
+||123moviego.com^
 ||123moviehub.co^
 ||123movieonline.xyz^
 ||123movierulz.live^
@@ -10597,6 +10609,7 @@
 ||il-geniodellostreaming.digital^
 ||il-geniodellostreaming.forum^
 ||il-geniodellostreaming.help^
+||il-geniodellostreaming.live^
 ||il-geniodellostreaming.study^
 ||il-geniodellostreaming.surf^
 ||ilcorsaronero.info^
@@ -25759,7 +25772,6 @@
 ||ncore.pro^
 ||ne-dishis-lordfilm.ru^
 ||ne-izdevaysya-nagatoroo-lordfilm.ru^
-||ne-lordfilm.online^
 ||ne-lordfilm.top^
 ||ne-rodic-krasivojj-lordfilm.ru^
 ||ne-rodis-krasivoj-lordfilm3.ru^
@@ -28908,6 +28920,7 @@
 ||sklifosovski-lordfilm.ru^
 ||sklifosovskiy-lordfilm.buzz^
 ||sklifosovsky-lordfilm.ru^
+||sknetcity.com^
 ||skoraya-pomoshch-lordfilm.buzz^
 ||skorpion-lordfilm3.ru^
 ||skorpioon-lordfilms.ru^
@@ -34225,6 +34238,7 @@
 ||x-site.pl^
 ||x1337x.eu^
 ||x1337x.ws^
+||x264.me^
 ||x265movies.co^
 ||x360club.pw^
 ||x4f7yww4ddr.com^
@@ -34259,9 +34273,11 @@
 ||xalaflix.website^
 ||xalaflix-fr.cv^
 ||xalaflix-iptv.fr^
+||xalaflix-to.click^
 ||xalaflix-tv.mom^
 ||xalaflix1.fr^
 ||xalaflix2.fr^
+||xalaflix2.world^
 ||xalaflixfr.com^
 ||xalaflixs.world^
 ||xalaflixtv.biz^
@@ -34362,6 +34378,7 @@
 ||xtraseed.com^
 ||xtreme.cc^
 ||xtremespeeds.net^
+||xtremetv.org^
 ||xtremewrestlingtorrents.net^
 ||xtremezone.ro^
 ||xtubeflix.com^
@@ -34476,6 +34493,7 @@
 ||yesmovies.is^
 ||yesmovies.lat^
 ||yesmovies.lol^
+||yesmovies.love^
 ||yesmovies.media^
 ||yesmovies.mn^
 ||yesmovies.mom^
@@ -34534,6 +34552,7 @@
 ||ygg.re^
 ||yggleak.top^
 ||yggtorrent.com^
+||yggtorrent.fi^
 ||yggtorrent.forum^
 ||yggtorrent.is^
 ||yggtorrent.li^
@@ -34553,6 +34572,7 @@
 ||yify-torrent.cc^
 ||yify-torrent.org^
 ||yify-torrents.com^
+||yify-torrents.to^
 ||yify-yts.net^
 ||yifyhdtorrent.com^
 ||yifymovies.xyz^
@@ -34625,6 +34645,7 @@
 ||youserials.com^
 ||youthincinema.com^
 ||youtorrent.com^
+||youtrade.tv^
 ||youu-lordfilms.ru^
 ||youwatch.org^
 ||yowaapp.com^
@@ -34889,6 +34910,7 @@
 ||zlib2g2v.xyz^
 ||zlib520.online^
 ||zlib996.online^
+||zlibary.org^
 ||zlibiology.com^
 ||zlibis.com^
 ||zlibo.com^
