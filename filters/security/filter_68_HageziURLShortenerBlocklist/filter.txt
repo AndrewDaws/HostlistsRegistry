@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.67
+! Version: 1.0.5.68
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-19T05:09:51.662Z
+! Last modified: 2026-07-19T19:29:31.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1077,6 +1077,7 @@
 ||2no.co^
 ||2nu.gs^
 ||2one.in^
+||2osb.com^
 ||2pl.us^
 ||2pu.sh^
 ||2qr.bz^
@@ -3773,6 +3774,7 @@
 ||goo2.pro^
 ||goo2url.com^
 ||goodmoejo.art^
+||goodpics.net^
 ||goodwinlink.com^
 ||google-url.com^
 ||googleidmaps.live^
@@ -4415,6 +4417,7 @@
 ||jkf.lv^
 ||jks.bio^
 ||jktc.pro^
+||jm-88.cc^
 ||jmal.top^
 ||jmeet.io^
 ||jmp.ad^
@@ -9484,6 +9487,7 @@
 ||webi.li^
 ||webinfos.info^
 ||weblink.biz^
+||webls.net^
 ||webmienphi.net^
 ||webn.in^
 ||webproject.pt^
