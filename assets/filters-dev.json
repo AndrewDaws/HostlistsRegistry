@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.29.24",
+			"version": "1.1.29.25",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-19T19:28:15+0000"
+			"timeUpdated": "2026-07-19T20:21:05+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -742,14 +742,14 @@
 				108
 			],
 			"languages": [],
-			"version": "1.0.17.98",
+			"version": "1.0.17.99",
 			"homepage": "https://anti-ad.net/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"subscriptionUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-16T20:23:07+0000"
+			"timeUpdated": "2026-07-19T20:21:41+0000"
 		},
 		{
 			"filterKey": "IDN_abpindo",
