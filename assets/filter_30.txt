@@ -1,9 +1,9 @@
 !
 ! Title: Phishing URL Blocklist (PhishTank and OpenPhish)
 ! Description: Blocklist of phishing websites, based on PhishTank and OpenPhish lists
-! Version: 1.0.28.3
+! Version: 1.0.28.4
 ! Homepage: https://gitlab.com/malware-filter/phishing-filter
-! Last modified: 2026-07-19T00:49:37.434Z
+! Last modified: 2026-07-19T13:34:34.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -986,6 +986,7 @@
 ||a-tomic.wixstudio.com^
 ||a-voiceatbtbill.vev.site^
 ||a.inaltipiani.it^
+||a.rs6.net^
 ||a0omer.webwave.dev^
 ||a1-creditmutuel-fr.s-host.net^
 ||a11sprachboxlogde.weebly.com^
@@ -4154,6 +4155,7 @@
 ||app-mercadopromo.myshopify.com^
 ||app-mobilefacture1.com^
 ||app-mtapps-prod-wu2.azurewebsites.net^
+||app-na1.hubspotdocuments.com^
 ||app-official-qiutan.com^
 ||app-page-trezor.wixstudio.com^
 ||app-phantom.to^
@@ -7724,6 +7726,7 @@
 ||cabin-queue.firebaseapp.com^
 ||cabin-queue.web.app^
 ||cac-es.weebly.com^
+||cache.nebula.phx3.secureserver.net^
 ||cachedview.com^
 ||cackm.com^
 ||caconstructionweb.com^
@@ -9376,6 +9379,7 @@
 ||d2t9mg04.na1.hubspotlinksstarter.com^
 ||d314xy.csb.app^
 ||d32fgx.webwave.dev^
+||d32yelvf3fh72e.cloudfront.net^
 ||d39wpm04.eu1.hubspotlinksstarter.com^
 ||d3bbdk04.eu1.hubspotlinksstarter.com^
 ||d4ht5z04.na1.hubspotlinksstarter.com^
@@ -10887,6 +10891,7 @@
 ||echoela1.wixstudio.io^
 ||eciadalore.firebaseapp.com^
 ||eciadalore.web.app^
+||eco.sapo.pt^
 ||ecodus-us.wixstudio.com^
 ||ecoformacao.com^
 ||ecology-desktop.wixstudio.com^
@@ -11591,6 +11596,7 @@
 ||essschools.com^
 ||esstttcccusstomersetttinnggs.weebly.com^
 ||estaciorequestcancellation.weebly.com^
+||estadisticas.neored.com^
 ||estarrcfe2.myportfolio.com^
 ||estatesync-dev-346221.firebaseapp.com^
 ||estatesync-dev-346221.web.app^
@@ -16419,6 +16425,7 @@
 ||kzuqqvru.firebaseapp.com^
 ||kzuqqvru.web.app^
 ||l-edgerlive.zapier.app^
+||l.culvers.com^
 ||l0g.mojpdtk.com^
 ||l0g0nuiccu0nlinepr0file.weebly.com^
 ||l0g1ngpich1ncha.webcindario.com^
@@ -16914,7 +16921,6 @@
 ||likeforeal.weebly.com^
 ||lillil111.weebly.com^
 ||lillsusan.mvt.so^
-||lilplay.com^
 ||lily.duanduanhj.com^
 ||limaii.weebly.com^
 ||lime-guests-837893.framer.app^
@@ -17349,6 +17355,7 @@
 ||login.lzjlkq.com^
 ||login.mba554.com^
 ||login.medicaldisplayworld.com^
+||login.mirakl.net^
 ||login.mjcm3688.com^
 ||login.mmlaio.com^
 ||login.nbjwforging.com^
@@ -18704,6 +18711,7 @@
 ||mm-devices-deletion-form.firebaseapp.com^
 ||mm-devices-deletion-form.web.app^
 ||mm.hostinglawn.com^
+||mm.ipros.jp^
 ||mmapplicationshub-bhi.pages.dev^
 ||mmbra.weebly.com^
 ||mmbxcdfg.vercel.app^
@@ -19169,6 +19177,7 @@
 ||my.nativeforms.com^
 ||my.onairupdatehere.com^
 ||my.qr-cloud.com^
+||my.visme.co^
 ||my.wqengine.com^
 ||my0nlinewins0uttmina0aerb.weebly.com^
 ||my1password.xyz^
@@ -19212,6 +19221,7 @@
 ||mydirectfi.firebaseapp.com^
 ||mydirectfi.web.app^
 ||mydoctorpado.com^
+||mydrive.effem.com^
 ||mydropboxdocs.weebly.com^
 ||myeaglebk.weebly.com^
 ||myeclass4.weebly.com^
@@ -20831,6 +20841,7 @@
 ||pages-metmaskcdn.wixstudio.com^
 ||pages-suit-trezre.wixstudio.com^
 ||pages-texorsuites.wixstudio.com^
+||pages.cm.com^
 ||pagesbusiness-centerpolicy.pages.dev^
 ||pagesp218.firebaseapp.com^
 ||pagesp218.web.app^
@@ -21840,6 +21851,7 @@
 ||pretty-redirect.bolt.host^
 ||preventivahealth.com^
 ||preview-coinbase.com^
+||preview.mailerlite.io^
 ||preview.studio.site^
 ||preview.webcake.io^
 ||preview.webflow.com^
@@ -25478,6 +25490,7 @@
 ||semolaysoyutsedfgdgrd-8510.twil.io^
 ||sen2ri.cfd^
 ||sender.zohoinsights.com^
+||sender.zohoinsights.eu^
 ||sendnoteview-log.myportfolio.com^
 ||senecasy2k.github.io^
 ||senesiomirro.sviluppo.host^
@@ -25739,6 +25752,8 @@
 ||shankaramatha.org^
 ||shanxicu.com^
 ||shar3pointfilehjdcl0udprotect.myportfolio.com^
+||share-eu1.hsforms.com^
+||share-na2.hsforms.com^
 ||share-na3.hsforms.com^
 ||share.ebforms.com^
 ||share.kz^
@@ -25837,6 +25852,7 @@
 ||shorturl.webcindario.com^
 ||shorturlza.com^
 ||shoubenty.findarkom.es^
+||shoutout.wix.com^
 ||showlup.weebly.com^
 ||shpeauxiliar.vercel.app^
 ||shpebrrasil-tinta2.vercel.app^
@@ -26712,6 +26728,7 @@
 ||ss-jupter-apps.wixstudio.com^
 ||ss-jupter.wixstudio.com^
 ||ss-ledgr-us.wixstudio.com^
+||ss.realgreen.com^
 ||ss9jup.casa^
 ||ssbfdq.blogspot.ch^
 ||ssbsecure2.weebly.com^
@@ -27519,6 +27536,7 @@
 ||survey-na2.hsforms.com^
 ||survey-ppl-log.com^
 ||survey.zigpoll.com^
+||survey.zohopublic.eu^
 ||suryamututama.co.id^
 ||susandesch.shop^
 ||suscribe-prime.info^
@@ -28807,6 +28825,7 @@
 ||u14522209.ct.sendgrid.net^
 ||u2-okx.com^
 ||u21oeo.webwave.dev^
+||u2405942.ct.sendgrid.net^
 ||u24148341.ct.sendgrid.net^
 ||u2bgc-uf7v-6ho70-c87wj-89i.pages.dev^
 ||u3738.square.site^
@@ -29119,6 +29138,7 @@
 ||urhicommfcu.weebly.com^
 ||urhuld30.weebly.com^
 ||urkuxux-497794.weebly.com^
+||url.emailprotection.link^
 ||url.in.th^
 ||url1924.medicardmalta.com^
 ||url414.ucf.edu^
@@ -29177,11 +29197,15 @@
 ||us10.campaign-archive.com^
 ||us11.campaign-archive.com^
 ||us12.campaign-archive.com^
+||us13.campaign-archive.com^
+||us14.admin.mailchimp.com^
+||us14.campaign-archive.com^
 ||us15.campaign-archive.com^
 ||us16.campaign-archive.com^
 ||us17.campaign-archive.com^
 ||us18.campaign-archive.com^
 ||us19.campaign-archive.com^
+||us2.campaign-archive.com^
 ||us20.campaign-archive.com^
 ||us21.campaign-archive.com^
 ||us22.campaign-archive.com^
@@ -30291,7 +30315,6 @@
 ||webfhrhfsde.weebly.com^
 ||webflow.us21.list-manage.com^
 ||webfo-kundenassistent.weebly.com^
-||webforms.salesmate.io^
 ||webhfjfhfjrj.weebly.com^
 ||webhfjsgdhdhd78jk.weebly.com^
 ||webhn-cuscatl4n.webcindario.com^
