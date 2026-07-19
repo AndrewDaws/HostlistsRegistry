@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's URL Shortener Blocklist
 ! Description: Blocks URL shorteners.
-! Version: 1.0.5.66
+! Version: 1.0.5.67
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-07-18T19:28:49.121Z
+! Last modified: 2026-07-19T05:09:51.662Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -2491,6 +2491,7 @@
 ||clickbase.pro^
 ||clickbio.co^
 ||clicke.me^
+||clickgenee.com^
 ||clickhub.cc^
 ||clicklink.dev^
 ||clicklinkearn.com^
@@ -10024,4 +10025,5 @@
 ||zz3.co^
 ||zzb.bz^
 ||zzlinks.com^
+||zzlocalsquared.com^
 ||zzu.info^

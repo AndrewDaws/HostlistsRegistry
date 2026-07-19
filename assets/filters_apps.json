@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.73.9",
+			"version": "1.0.73.10",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-19T03:11:36+0000"
+			"timeUpdated": "2026-07-19T05:08:41+0000"
 		},
 		{
 			"filterKey": "hagezi_multinormal",
@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.31.56",
+			"version": "1.0.31.57",
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": "2023-07-14T12:53:26+0000",
-			"timeUpdated": "2026-07-18T19:28:03+0000"
+			"timeUpdated": "2026-07-19T05:08:50+0000"
 		},
 		{
 			"filterKey": "peter_lowe_list",

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.25
+! Version: 1.0.26.26
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-18T19:28:20.317Z
+! Last modified: 2026-07-19T05:09:13.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3218,6 +3218,7 @@
 ||animepictures.top^
 ||animepill.com^
 ||animeplex.fun^
+||animeplus.id^
 ||animeram.cc^
 ||animerealms.org^
 ||animerush.tv^
@@ -28669,6 +28670,7 @@
 ||seriesway.com^
 ||seriousfiles.com^
 ||seriousurls.com^
+||seroiptv.tv^
 ||serrdce-drakona-lordfilm.ru^
 ||serv24.eu^
 ||serverbd247.com^
