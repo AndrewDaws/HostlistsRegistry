@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.73.26",
+			"version": "1.0.73.27",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-20T16:34:02+0000"
+			"timeUpdated": "2026-07-20T18:42:38+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.29.39",
+			"version": "1.1.29.40",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-20T17:45:47+0000"
+			"timeUpdated": "2026-07-20T18:42:41+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.0.13",
+			"version": "1.1.0.14",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-20T16:34:23+0000"
+			"timeUpdated": "2026-07-20T18:43:00+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -273,14 +273,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.3.70",
+			"version": "1.0.3.71",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
 			"timeAdded": "2025-07-16T15:28:52+0000",
-			"timeUpdated": "2026-07-19T05:09:05+0000"
+			"timeUpdated": "2026-07-20T18:43:02+0000"
 		},
 		{
 			"filterKey": "1hosts_xtra",
@@ -1091,14 +1091,14 @@
 				2
 			],
 			"languages": [],
-			"version": "1.0.21.7",
+			"version": "1.0.21.8",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": "2023-04-13T15:39:05+0000",
-			"timeUpdated": "2026-07-15T16:36:40+0000"
+			"timeUpdated": "2026-07-20T18:43:26+0000"
 		},
 		{
 			"filterKey": "hagezi_threat_intelligence_feeds",

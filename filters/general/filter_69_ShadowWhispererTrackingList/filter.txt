@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.70
+! Version: 1.0.3.71
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-19T05:09:06.454Z
+! Last modified: 2026-07-20T18:43:03.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,226
-# Updated: 7/18/2026  23:30 (11:30 PM CST)
+# Domains: 115,230
+# Updated: 7/20/2026  12:55 (12:55 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -39815,6 +39815,7 @@
 ||ipwhois.app^
 ||ipwhois.io^
 ||ipwhois.pro^
+||ipwho.org^
 ||ip.wtf^
 ||ip.yinghualuo.cn^
 ||ipyxel.com^
@@ -54641,6 +54642,7 @@
 ||mightysignal.com^
 ||mightyspiders.com^
 ||miglobal.pandora.net^
+||mig-log.com^
 ||migstat.com^
 ||miipaj8trk.com^
 ||mika.kiddiprint.com^
@@ -61024,6 +61026,7 @@
 ||oafishobservation.com^
 ||oaiab.mykitsch.com^
 ||oaiad.josephjoseph.com^
+||oaistatsig.com^
 ||oajkd.youngla.com^
 ||oamtrk.com^
 ||oapdi.deltoroshoes.com^
@@ -112262,6 +112265,7 @@
 ||web.powgen.es^
 ||web.pri.com^
 ||webpubcontent.raycommedia.com^
+||webpushstat-sgp.engagelab.com^
 ||web.quiqlite.com^
 ||webr.buell.com^
 ||web.redazione.milanofinanza.it^

@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.1.0.13
+! Version: 1.1.0.14
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-20T16:34:25.202Z
+! Last modified: 2026-07-20T18:43:02.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -35873,7 +35873,6 @@
 ||pixel.spotify.com^
 ||pixel.sprinklr.com^
 ||pixel.thoughtmetric.io^
-||pixel.trackverify.com^
 ||pixel.udpauto.ru^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
