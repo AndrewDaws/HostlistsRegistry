@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.73.27
+! Version: 1.0.73.28
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-20T18:42:39.786Z
+! Last modified: 2026-07-20T20:33:42.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8925,6 +8925,7 @@ vkcdnservice.appspot.com^
 ||adappi.co^
 ||adaptationprodigalevil.com^
 ||adaptconveyperformed.com^
+||adaptdivinity.com^
 ||adaptedestimatedcaress.com^
 ||adaptedmercifulinterruption.com^
 ||adapterwith1024.net^
@@ -11086,6 +11087,7 @@ vkcdnservice.appspot.com^
 ||avmviiih.com^
 ||avnhqqqoljvgf.space^
 ||avnwqayeafuve.website^
+||avoihmaitkpln.online^
 ||avouchuramil.com^
 ||avourpimlicodoping.cyou^
 ||avowcosmo.cfd^
@@ -11228,6 +11230,7 @@ vkcdnservice.appspot.com^
 ||ay.delivery^
 ||ay267.com^
 ||ayads.co^
+||ayancqseakeek.space^
 ||ayarkkbmakkja.top^
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
@@ -11750,6 +11753,7 @@ vkcdnservice.appspot.com^
 ||beach-vacation.site^
 ||beachesdixit.cfd^
 ||beafuelerlazary.qpon^
+||beaglesdenize.shop^
 ||beajlyqczgv.com^
 ||beakfuljato.com^
 ||beaksuccisa.qpon^
@@ -12304,6 +12308,7 @@ vkcdnservice.appspot.com^
 ||biodegradableyellow.pro^
 ||biolcrewcut.cyou^
 ||biolitelambspulser.cyou^
+||biologysubpartephapse.cfd^
 ||bioncrocketleos.cfd^
 ||biopsypainless.com^
 ||biosomerefed.cyou^
@@ -18130,6 +18135,7 @@ vkcdnservice.appspot.com^
 ||dsbuzs.com^
 ||dsccgm.com^
 ||dscenn.com^
+||dscgcu.com^
 ||dscjbq.com^
 ||dscjnr.com^
 ||dsckgc.com^
@@ -21084,6 +21090,7 @@ vkcdnservice.appspot.com^
 ||firstlyignorantbasis.com^
 ||firstmake.pro^
 ||firstosama.com^
+||firstresponsibility.pro^
 ||firtaips.com^
 ||firvmamosigpu.website^
 ||fiscalexplanation.com^
@@ -22608,6 +22615,7 @@ vkcdnservice.appspot.com^
 ||geologypraised.com^
 ||geometryafflictionshrub.com^
 ||geometryperformance.com^
+||geoneatplott.cyou^
 ||geonomabriseis.qpon^
 ||georgianacaravanscoop.com^
 ||georgianagarrisontired.com^
@@ -25729,6 +25737,7 @@ vkcdnservice.appspot.com^
 ||igcvczotebzhr.space^
 ||igdkxrljusxvt.space^
 ||igeklopmvcb.com^
+||igfgnaesszzpk.space^
 ||iggcszxljlchr.website^
 ||iggfwsbqonyyw.online^
 ||iginimhtppjum.website^
@@ -28448,6 +28457,7 @@ vkcdnservice.appspot.com^
 ||khdiamondcdn.space^
 ||khedassphene.com^
 ||khehpukitab.in^
+||kheogvlmmulir.website^
 ||khetzeketostao.cyou^
 ||khezmsrqwmnxm.space^
 ||khgawzlfmtajq.online^
@@ -30089,6 +30099,7 @@ vkcdnservice.appspot.com^
 ||llglxmzxsmcgo.space^
 ||llhobralwmgcc.website^
 ||llhxhipo.com^
+||llipdqmmdvmpu.online^
 ||lljoetsjbpukj.online^
 ||llllhshgscfda.site^
 ||llnakdvnqoghu.site^
@@ -30305,6 +30316,7 @@ vkcdnservice.appspot.com^
 ||loqnomgwbsiel.site^
 ||lordhelpuswithssl.com^
 ||lordtroublessounding.com^
+||lorerchxrrckf.online^
 ||lorftyrrshdxj.online^
 ||lorgtbzlfxixd.online^
 ||lorisdivas.cyou^
@@ -33025,6 +33037,7 @@ vkcdnservice.appspot.com^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
 ||ncqtxzmuffxiwk.cfd^
+||ncrodwckimzgq.space^
 ||ncszswtpaguzr.online^
 ||nctksllzwpaci.online^
 ||nctmwluyknbwl.website^
@@ -41031,6 +41044,7 @@ vkcdnservice.appspot.com^
 ||rvtrtnttekpums.com^
 ||rvtyyatwwirps.online^
 ||rvvffzxpikkqt.website^
+||rvwcdvpihzfqx.online^
 ||rvwtfavlgiesq.space^
 ||rvwuhmfxmps.com^
 ||rvyaqmmxxoinm.site^
@@ -42151,6 +42165,7 @@ vkcdnservice.appspot.com^
 ||shfsdvc.com^
 ||shgakmobtupxs.website^
 ||shgjampnhhdxpc.com^
+||shgoeftsghm.com^
 ||shhfmfubw.com^
 ||shhmnoej.com^
 ||shiaitutored.qpon^
@@ -44738,6 +44753,7 @@ vkcdnservice.appspot.com^
 ||tbtophs.cyou^
 ||tburybrcvclih.online^
 ||tbuujyqojwgrz.site^
+||tbuzjeihnihii.space^
 ||tbwqvufmxnyst.space^
 ||tcaigdyrlxeox.online^
 ||tcdjvujzfhyoc.online^
@@ -46459,6 +46475,7 @@ vkcdnservice.appspot.com^
 ||txjgnbljkekft.space^
 ||txjjuoxttdlhl.store^
 ||txjuuftyjkdlo.online^
+||txklqhwpkxyc.com^
 ||txljgipkkispw.space^
 ||txmbrmustuayj.space^
 ||txmzgt912ujx47rkqu2g352h1.cfd^
@@ -47725,6 +47742,7 @@ vkcdnservice.appspot.com^
 ||uxbygjzvingbv.online^
 ||uxcjzhltqcgxy.space^
 ||uxffgxaqqkiha.site^
+||uxfvatxoqvrpf.space^
 ||uxgipzzehpttp.online^
 ||uxibgyftvdzyr.site^
 ||uxirxhplkjpke.website^
@@ -54638,6 +54656,7 @@ vkcdnservice.appspot.com^
 ||banners.livepartners.com^
 ||bc.coupons.com^
 ||bctt.igaming-service.io^
+||bd.raptivecdn.com^
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||billing.roofnrack.us^
