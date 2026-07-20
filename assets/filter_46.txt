@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.30
+! Version: 1.0.26.31
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-20T09:11:36.960Z
+! Last modified: 2026-07-20T19:35:31.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1904,6 +1904,7 @@
 ||123moviesla.sbs^
 ||123movieslegal.com^
 ||123movieslife.xyz^
+||123movieslink.net^
 ||123movieslive.com^
 ||123movieslive.top^
 ||123moviesmaxtv.cfd^
@@ -6013,6 +6014,7 @@
 ||diana-salasar-lordfilm.lol^
 ||diavol-nosit-prada-lordfilm.sbs^
 ||dibamoviez.org^
+||dibamoviez.xyz^
 ||dici-filme-lordfilm.ru^
 ||dici-filmi-lordfilm.ru^
 ||dici-filmis-lordfilm.ru^
@@ -11877,6 +11879,7 @@
 ||kinoz.co^
 ||kinoz.to^
 ||kinozal.ws^
+||kinozapas.one^
 ||kinozapas.ru^
 ||kinozapas.ws^
 ||kinozavr.org^
@@ -30975,6 +30978,7 @@
 ||strimsy.top^
 ||strmd.link^
 ||strmfree.link^
+||strmfree.st^
 ||strmup.to^
 ||strumyk.cv^
 ||strumyk.help^
@@ -31311,6 +31315,7 @@
 ||tantifilmhd.cyou^
 ||tantinuovo.com^
 ||taodung.com^
+||tap4sport.ci^
 ||tapecity.org^
 ||tapecontent.net^
 ||tapedown.com^
@@ -31917,6 +31922,8 @@
 ||tiedge1.lat^
 ||tiendaskin.shop^
 ||tienichmaytinh.com^
+||tieulam4.live^
+||tieulamtv.com^
 ||tigerblack.net^
 ||tigerflare10.xyz^
 ||tihoe-mesto-lordfilm.online^
@@ -31976,6 +31983,7 @@
 ||titaniumstresser.net^
 ||titany-lordfilm3.ru^
 ||tivioneiptv.live^
+||tivo8k.com^
 ||tixati.com^
 ||tiz-cycling.tv^
 ||tjma-lordfilms.ru^
@@ -33692,6 +33700,14 @@
 ||veepu-lordfilm.ru^
 ||veev.to^
 ||veevcdn.co^
+||vega-eco.com^
+||vega-et.com^
+||vega-fx.com^
+||vega-pl.com^
+||vega-pt.com^
+||vegamall.net^
+||vegamix.org^
+||vegamn.com^
 ||vegamovie.page^
 ||vegamovies.ae^
 ||vegamovies.ai^
@@ -33979,6 +33995,7 @@
 ||vegamovles.bond^
 ||vegamovles.com^
 ||vegamovles.pics^
+||vegasdpa.com^
 ||veidtr.com^
 ||veliikaya-lordfilm.ru^
 ||velikaya-lordfilm3.ru^
@@ -34633,6 +34650,7 @@
 ||watchsomuch.org^
 ||watchsomuch.tv^
 ||watchsomuchtorrents.com^
+||watchsports.su^
 ||watchsports.to^
 ||watchstream.site^
 ||watchtvepisodes.me^
@@ -34899,6 +34917,7 @@
 ||x-menuy-lordfilm.ru^
 ||x-oo.com^
 ||x-site.pl^
+||x121.live^
 ||x1337x.eu^
 ||x1337x.ws^
 ||x264.me^
@@ -35049,6 +35068,7 @@
 ||xtubeflix.com^
 ||xtvi.com^
 ||xubster.com^
+||xuperhydra.com^
 ||xuyadong.sbs^
 ||xwt-classics.net^
 ||xx-lordfilm.online^

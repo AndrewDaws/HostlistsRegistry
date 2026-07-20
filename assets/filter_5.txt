@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.1.0.14
+! Version: 1.1.0.15
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-20T18:43:02.106Z
+! Last modified: 2026-07-20T19:35:24.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11099,7 +11099,6 @@
 ||chickenadjacent.com^
 ||chidir.com^
 ||chief-border.com^
-||chiefindividual.com^
 ||chieflydecorationtreasure.com^
 ||chihuahuadoorstoppond.com^
 ||chikpazrmdyuh.website^
@@ -36785,7 +36784,6 @@
 ||prince08062025.shop^
 ||principlespite.com^
 ||principleunitsweighty.com^
-||pringed.space^
 ||prinksoncotic.com^
 ||printergrandchildrencanteen.com^
 ||printerkidneyethel.com^
@@ -43433,7 +43431,6 @@
 ||sprungextraordinaryhonorary.com^
 ||sprunglurk.com^
 ||sprungstorm.com^
-||spry-cat.com^
 ||spry-trick.com^
 ||spsfjtvdgbfmo.website^
 ||spsiqdfdkjgqv.space^
@@ -49780,7 +49777,6 @@
 ||vg4u8rvq65t6.com^
 ||vgbllzycxjrub.online^
 ||vgbvqutapetpb.website^
-||vgcustom-ad.xyz^
 ||vgefehgpxogcw.online^
 ||vgexzbbuusqxf.space^
 ||vgfasfrttxhrc.site^
@@ -49807,7 +49803,6 @@
 ||vgxjxrbvldgfw.online^
 ||vgxmagbsctvdf.online^
 ||vgzard.icu^
-||vgzglvykuyclh.store^
 ||vhanxmtpkluuf.online^
 ||vhbbeareiglah.website^
 ||vhbbubfytrjht.space^
@@ -52040,7 +52035,6 @@
 ||wrathfulletter.com^
 ||wrathyblesmol.com^
 ||wrazdlwgbgrvt.online^
-||wrbaboroypgmq.online^
 ||wrcbaiyrpmsza.website^
 ||wrdo8dl9bb.com^
 ||wreckcentigradecleared.com^

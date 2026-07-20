@@ -1,14 +1,13 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.8
+! Version: 1.0.21.9
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-20T18:43:26.891Z
+! Last modified: 2026-07-20T19:35:55.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 ||00000.live^
-||blazerhomestorage.blob.core.windows.net^
 ||0000o.xyz^
 ||00104186da.com^
 ||0012e30263.com^
@@ -6192,6 +6191,7 @@
 ||bittsearch.com^
 ||bitzaar.com^
 ||biuneimpot.com^
+||bixsearch.com^
 ||biz4zoomers.com^
 ||bizarrehall.com^
 ||biz-boardu.com^
@@ -6272,9 +6272,12 @@
 ||blattidarchivingsibb.com^
 ||blazemankind.com^
 ||blazerapi.com^
+||blazerbrowser.blob.core.windows.net^
 ||blazerbrowser.com^
 ||blazerextensionsstorage.blob.core.windows.net^
 ||blazerhome.com^
+||blazerhomestorage.blob.core.windows.net^
+||blazerwebstorage.blob.core.windows.net^
 ||blazeteamlow.com^
 ||blazingdrape.com^
 ||blazntrak.com^
@@ -13928,6 +13931,7 @@
 ||dtrwsre.shop^
 ||dtsedge.com^
 ||dtsince.com^
+||dtsrchrdr.com^
 ||dtstesting.com^
 ||dtu2kitmpserg.cloudfront.net^
 ||dtv5loup63fac.cloudfront.net^
@@ -34805,6 +34809,7 @@
 ||searchthatonline.com^
 ||searchthatup.com^
 ||searchtheconverter.com^
+||searchtheimages.com^
 ||searchtheweb.co^
 ||searchtheweb.io^
 ||searchtheweb.today^
@@ -35008,6 +35013,7 @@
 ||secure-track1.com^
 ||securetrck-dl.com^
 ||securetrklink.com^
+||securewalle.com^
 ||securewashingwest.com^
 ||secureway.club^
 ||securewebsiteaccess.com^
@@ -39864,6 +39870,7 @@
 ||truprogressivereturn.com^
 ||trusssuccuss.com^
 ||trust789.cc^
+||trustdataguard.co.in^
 ||trustedantivirus.com^
 ||trustedapknest.com^
 ||trustedcpmrevenue.com^
