@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.29.36",
+			"version": "1.1.29.37",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-20T14:48:46+0000"
+			"timeUpdated": "2026-07-20T15:39:18+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -253,14 +253,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.0.11",
+			"version": "1.1.0.12",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-20T14:49:04+0000"
+			"timeUpdated": "2026-07-20T15:39:37+0000"
 		},
 		{
 			"filterKey": "shadowwhisperer_tracking_list",
@@ -616,14 +616,14 @@
 				101
 			],
 			"languages": [],
-			"version": "1.0.15.8",
+			"version": "1.0.15.9",
 			"homepage": "https://www.certyficate.it/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-20T14:49:18+0000"
+			"timeUpdated": "2026-07-20T15:39:57+0000"
 		},
 		{
 			"filterKey": "KOR_youslist",
