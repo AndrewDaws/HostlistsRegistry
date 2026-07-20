@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.28
+! Version: 1.0.26.29
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-19T19:28:49.956Z
+! Last modified: 2026-07-20T05:19:41.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -34468,6 +34468,7 @@
 ||watchfree.at^
 ||watchfree.to^
 ||watchfree.win^
+||watchfreemovie4k.online^
 ||watchfreemovies.ch^
 ||watchfullmovie.co^
 ||watchfullmovieonline.info^
