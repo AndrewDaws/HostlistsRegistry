@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.73.37
+! Version: 1.0.73.38
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-07-21T14:45:33.286Z
+! Last modified: 2026-07-21T16:34:28.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -10933,6 +10933,7 @@ vkcdnservice.appspot.com^
 ||atswfbonkmkrw.website^
 ||attaccocalusarspaces.cfd^
 ||attacheatableoverlabor.com^
+||attached-spare.com^
 ||attachedglorysticks.com^
 ||attachedkneel.com^
 ||attackastonishment.com^
@@ -11320,6 +11321,7 @@ vkcdnservice.appspot.com^
 ||aztizumgcjnwa.site^
 ||aztumqassickf.space^
 ||azurestealth.com^
+||azwsruurqxp.com^
 ||azwvcioqzjtu.in^
 ||azyfgghezmgho.site^
 ||azygotesonless.com^
@@ -14327,6 +14329,7 @@ vkcdnservice.appspot.com^
 ||cenont.xyz^
 ||censesbefogsennett.qpon^
 ||censorsgedrite.cyou^
+||censualalphardleaning.cyou^
 ||censualminable.qpon^
 ||censuscompassembryo.com^
 ||censusgrouch.cfd^
@@ -30749,6 +30752,7 @@ vkcdnservice.appspot.com^
 ||luststeelie.qpon^
 ||luteciaporkpen.qpon^
 ||luteicchainessmeary.cyou^
+||luteousoecus.com^
 ||luu39jmjcwu1j2uknv7e2bum.cfd^
 ||luuming.com^
 ||luuspdbnxvyjs.site^
@@ -32344,6 +32348,7 @@ vkcdnservice.appspot.com^
 ||mortonlogymethyls.qpon^
 ||mortypush.com^
 ||morulasbopsoxhide.cyou^
+||mosaic-static.lol^
 ||moscmzvpxnjjq.website^
 ||moseshecticalodial.qpon^
 ||mosqueworking.com^
@@ -34329,6 +34334,7 @@ vkcdnservice.appspot.com^
 ||o-oo.ooo^
 ||o18.click^
 ||o18.link^
+||o1n73qh6vlwxb539w8o1.rest^
 ||o2c7dks4.de^
 ||o3sxhw5ad.com^
 ||o4nofsh6.de^
@@ -34840,6 +34846,7 @@ vkcdnservice.appspot.com^
 ||ojzpcvipynqhw.online^
 ||okadgpkptxakv.website^
 ||okanwoesgsogw.website^
+||okbickxhtmqbl.online^
 ||okcfdzfqcdemc.website^
 ||okdcrqtemifgo.online^
 ||okdigital.me^
@@ -36565,6 +36572,7 @@ vkcdnservice.appspot.com^
 ||pgfnciyodtbsm.store^
 ||pgfviujllriob.website^
 ||pghcaeinfqjow.website^
+||pghpmvqssfiae.website^
 ||pgisdxbicrxqi.online^
 ||pgkmbmnndmwwo.online^
 ||pgmcdn.com^
@@ -36904,6 +36912,7 @@ vkcdnservice.appspot.com^
 ||pjzftkxmyzuat.space^
 ||pjzngxzektni.com^
 ||pk910324e.com^
+||pkahnqiopjkfr.online^
 ||pkahpynblcscu.space^
 ||pkdvcmrjfscjr.space^
 ||pkgslichee.cfd^
@@ -38380,6 +38389,7 @@ vkcdnservice.appspot.com^
 ||pxtu9ob4c18xvx7ejz5.cfd^
 ||pxtxitotxkkrk.website^
 ||pxwqvvumecpsd.world^
+||pxxoledudoibh.website^
 ||pxyhaolanvgjl.site^
 ||pyasnafgpytqf.site^
 ||pybytwattsq.com^
@@ -38862,6 +38872,7 @@ vkcdnservice.appspot.com^
 ||qoibivmolnw.com^
 ||qoiqfckhwinup.online^
 ||qojeoccuereut.space^
+||qokzrwccbilzz.website^
 ||qomqxzufyzmit.site^
 ||qooohwwd.xyz^
 ||qoqyvixrvteym.site^
@@ -38874,6 +38885,7 @@ vkcdnservice.appspot.com^
 ||qoxewwbseudmz.website^
 ||qoxsqwqyxyjit.site^
 ||qoydtxdfmwlwn.store^
+||qoyuhtehzwryg.website^
 ||qozveo.com^
 ||qozwuskwwzqua.space^
 ||qp3oebx9tj2lifyfj3.cfd^
@@ -39777,6 +39789,7 @@ vkcdnservice.appspot.com^
 ||recordedheavinessexperience.com^
 ||recordedthereby.com^
 ||recordercrimeslender.com^
+||recorderfuss.com^
 ||recordingbush.com^
 ||recordsbuoyage.cyou^
 ||recordtwo.com^
@@ -40571,6 +40584,7 @@ vkcdnservice.appspot.com^
 ||rkhjmlctptzuf.online^
 ||rkjtlnfhsocoz.store^
 ||rkjudjufaamjy.site^
+||rklqfsveypcgy.website^
 ||rkmdodaubyhyp.space^
 ||rkngifybkarej.online^
 ||rknlzlbihktrf.space^
@@ -41011,6 +41025,7 @@ vkcdnservice.appspot.com^
 ||rtbzohtaqbqgw.site^
 ||rtcdupmicrfkp.site^
 ||rtdpfwzxfajfl.online^
+||rtewxcbmcxbkc.website^
 ||rtfmihmkwgxlh.online^
 ||rtgio.co^
 ||rthgioiiitlww.space^
@@ -44860,6 +44875,7 @@ vkcdnservice.appspot.com^
 ||tarterbawneenhydage.qpon^
 ||tartlay.com^
 ||tartlyreticle.cfd^
+||tartsrelumespsoitis.qpon^
 ||tarvedossed.cyou^
 ||tarzanbajoccopooli.cyou^
 ||tarzansaminate.cfd^
@@ -134535,6 +134551,7 @@ vkcdnservice.appspot.com^
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||s1.bss.2gis.com^
 ||t.mmganalytics.com^
 ||stat.ip.sb^
 ||bzrcdn.openai.com^
