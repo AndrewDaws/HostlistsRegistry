@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.1.0.21
+! Version: 1.1.0.22
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-21T12:38:58.706Z
+! Last modified: 2026-07-21T14:45:52.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -9695,6 +9695,7 @@
 ||bubblesmedia.ru^
 ||bubbly-sound.com^
 ||bubblyzucchini.com^
+||bubuklerevoirlurg.cfd^
 ||bucabjnocfjgu.website^
 ||buccamestome.cfd^
 ||buchloequests.shop^
@@ -15567,6 +15568,7 @@
 ||dhtycstkokmb.com^
 ||dhupptmedfhss.site^
 ||dhvziqebhusgt.space^
+||dhwtgxjayjmaf.online^
 ||dhwusndjyxipsw.com^
 ||dhxbrqtpallzi.site^
 ||dhxnhvawducul.site^
