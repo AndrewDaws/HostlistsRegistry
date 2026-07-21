@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.9
+! Version: 1.0.21.10
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-20T19:35:55.113Z
+! Last modified: 2026-07-21T13:37:21.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -10530,7 +10530,6 @@
 ||curledrelative.com^
 ||curlingbesra.com^
 ||curlsbatter.com^
-||curls.com^
 ||curlyhabiru.click^
 ||curlyrice.com^
 ||curnberthed.com^
