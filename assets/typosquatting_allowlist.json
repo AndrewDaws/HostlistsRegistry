@@ -111,7 +111,7 @@
     },
     {
       "domain": "ksmobile.com",
-      "exceptions": [ "usmobile.com" ]
+      "exceptions": [ "usmobile.com", "kwmobile.com" ]
     },
     {
       "domain": "mail.com",
