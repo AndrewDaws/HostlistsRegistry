@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.26.34
+! Version: 1.0.26.35
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-07-22T08:59:46.792Z
+! Last modified: 2026-07-22T15:35:38.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8662,6 +8662,7 @@
 ||freeytmp3.org^
 ||freezlib.me^
 ||frembed.asia^
+||frembed.casa^
 ||frembed.hair^
 ||frembed.my^
 ||frembed.work^
@@ -34583,6 +34584,7 @@
 ||voiny-klonovv-lordfilm.ru^
 ||voir-anime.to^
 ||voir-seriestreaming.org^
+||voiranime.pro^
 ||voiranime.rip^
 ||voirdrama.org^
 ||voirfilm.vip^

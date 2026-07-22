@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.10
+! Version: 1.0.21.11
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-21T13:37:21.338Z
+! Last modified: 2026-07-22T15:35:52.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -9902,6 +9902,7 @@
 ||copiergift.com^
 ||copiesresearchingbucket.com^
 ||copigagmixess.com^
+||copilotcli.co.com^
 ||copiousgoutswimwear.com^
 ||copp-chimie.com^
 ||coppercranberrylamp.com^
@@ -22187,6 +22188,7 @@
 ||isousugnom.net^
 ||isportsearch.com^
 ||ispot.cc^
+||isqu.net^
 ||isrch.co^
 ||isrch.mobi^
 ||issedoibauds.shop^
@@ -28330,6 +28332,7 @@
 ||ojn-news2.club^
 ||ojn-news3.club^
 ||ojolink.fr^
+||ok2.it^
 ||ok365.com.cn^
 ||okalets.com^
 ||okaynews.me^
@@ -32092,6 +32095,7 @@
 ||rackhumsceptical.com^
 ||rackinabox.com^
 ||rack-search.com^
+||racxd.de^
 ||radarconsultation.com^
 ||radarelemental.com^
 ||radarpulseoftheworld.com^
@@ -35830,6 +35834,7 @@
 ||sinastorage.cn^
 ||sinastorage.com^
 ||sinbiticus.com^
+||sin.by^
 ||sincalled.com^
 ||sincerecompatriot.com^
 ||sincerelaurie.com^
