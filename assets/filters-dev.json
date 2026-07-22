@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.73.51",
+			"version": "1.0.73.52",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-22T18:31:43+0000"
+			"timeUpdated": "2026-07-22T20:29:29+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.29.76",
+			"version": "1.1.29.77",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-22T18:31:46+0000"
+			"timeUpdated": "2026-07-22T20:29:32+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -273,14 +273,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.3.75",
+			"version": "1.0.3.76",
 			"homepage": "https://github.com/ShadowWhisperer/BlockLists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt",
 			"subscriptionUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
 			"timeAdded": "2025-07-16T15:28:52+0000",
-			"timeUpdated": "2026-07-22T15:35:30+0000"
+			"timeUpdated": "2026-07-22T20:29:49+0000"
 		},
 		{
 			"filterKey": "1hosts_xtra",
@@ -742,14 +742,14 @@
 				108
 			],
 			"languages": [],
-			"version": "1.0.18.0",
+			"version": "1.0.18.1",
 			"homepage": "https://anti-ad.net/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"subscriptionUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": "2021-06-02T13:09:03+0000",
-			"timeUpdated": "2026-07-20T12:51:06+0000"
+			"timeUpdated": "2026-07-22T20:30:04+0000"
 		},
 		{
 			"filterKey": "IDN_abpindo",

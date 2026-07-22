@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.3.75
+! Version: 1.0.3.76
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-07-22T15:35:31.724Z
+! Last modified: 2026-07-22T20:29:50.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,474
-# Updated: 7/22/2026  10:28 (10:28 AM CST)
+# Domains: 115,485
+# Updated: 7/22/2026  15:25 (3:25 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -12466,6 +12466,7 @@
 ||analytics.provitool.de^
 ||analytics.proware.fr^
 ||analytics.proxad.net^
+||analytics.proxybase.xyz^
 ||analytics.proxy.mycryptoapi.com^
 ||analytics-proxy.springboard.com^
 ||analytics.pryer.co^
@@ -12548,6 +12549,7 @@
 ||analytics.qorn.me^
 ||analytics.qos.quiet-oceans.com^
 ||analytics.qouldnt.net^
+||analytics.qqs.tw^
 ||analytics.qrc.to^
 ||analytics.qrfy.com^
 ||analytics.qrkey.in^
@@ -12688,6 +12690,7 @@
 ||analytics.realitylab.at^
 ||analytics.reallybrightdigital.com^
 ||analytics.reallysimple.ltd^
+||analytics.realtime.info^
 ||analytics.rebaltic.lt^
 ||analytics.rebit.sk^
 ||analytics.rebru.ch^
@@ -13019,6 +13022,7 @@
 ||analytics.rvf.de^
 ||analytics.rvssolicitors.co.uk^
 ||analytics.rvw.co^
+||analytics.rwkv.cn^
 ||analytics.rwz.ag^
 ||analytics.ryanbritton.com^
 ||analytics.ryanpalmer.tech^
@@ -13051,6 +13055,7 @@
 ||analytics.safia.tech^
 ||analytics.sagaan.de^
 ||analytics.saga-classic.com^
+||analytics.saga.dk^
 ||analytics.sagaform.com^
 ||analytics.sagaris.ro^
 ||analytics.sagenhafter-westerwald.de^
@@ -13059,6 +13064,7 @@
 ||analytics.sailingeurope.com^
 ||analytics.saintcatherineshome.com^
 ||analytics.saintnoirestudio.com^
+||analytics.sakerhetssm.se^
 ||analytics.saleroinnovation.com^
 ||analytics.salestratus.com^
 ||analytics.sallehimoveis.com.br^
@@ -13089,6 +13095,7 @@
 ||analytics.sandbox.grupovizer.com^
 ||analytics.sanderlauwers.be^
 ||analytics.sandiego.com^
+||analytics.sandpiper.studio^
 ||analytics.sandraantunes.com.br^
 ||analytics.sandstorm.game^
 ||analytics.sanicframework.org^
@@ -101107,6 +101114,7 @@
 ||stats.simplesigns.de^
 ||stats.simplia.cz^
 ||stats.simplifier.io^
+||stats.simpli.so^
 ||stats.simplo.site^
 ||stats.simplylinux.ch^
 ||stats.simplytel.de^
@@ -101149,6 +101157,7 @@
 ||stats.sklein.xyz^
 ||stats.skmg.fr^
 ||stats.skybly.de^
+||stats.skyfleet.blue^
 ||stats.skyline-va.de^
 ||stats.slashed.cloud^
 ||stats.slaughter.io^
@@ -101248,6 +101257,7 @@
 ||stats.solidarity-at-sea.org^
 ||stats.solitec.com^
 ||stats.solj.de^
+||stats.soloboardgaming.com^
 ||stats.solocom.dk^
 ||stats.solutionsetassocies.com^
 ||stats.solutionspc.ch^
@@ -101632,6 +101642,7 @@
 ||stats.tennishalle-ludwigsburg.de^
 ||stats.tennistalk.com^
 ||stats.tentwentyfour.lu^
+||stats.tenwrite.com^
 ||stat.stephan-juergens.de^
 ||stat.stephan-reitz.de^
 ||stats.terragnosis.net^
