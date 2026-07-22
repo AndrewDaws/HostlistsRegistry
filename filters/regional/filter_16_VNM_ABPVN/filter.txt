@@ -1,9 +1,9 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.52
+! Version: 1.0.17.53
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-21T09:00:53.341Z
+! Last modified: 2026-07-22T08:59:52.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1917,11 +1917,19 @@
 0.0.0.0 v2.gdt.qq.com
 0.0.0.0 wxadliteapp.gdt.qq.com
 0.0.0.0 tdid.m.qq.com
+0.0.0.0 oth.bls.mdt.qq.com
+0.0.0.0 sg.bls.mdt.qq.com
+0.0.0.0 sq.bls.mdt.qq.com
+0.0.0.0 vi.bls.mdt.qq.com
+0.0.0.0 game.eve.mdt.qq.com
 0.0.0.0 mtt.eve.mdt.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 yyb.eve.mdt.qq.com
+0.0.0.0 game.str.mdt.qq.com
 0.0.0.0 mig.str.mdt.qq.com
 0.0.0.0 mtt.str.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 yyb.str.mdt.qq.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
@@ -9162,6 +9170,7 @@
 0.0.0.0 adright.xml-v6.ak-is2.net
 0.0.0.0 adscompute.xml.ak-is2.net
 0.0.0.0 adventurefeeds.xml-eu.ak-is2.net
+0.0.0.0 adventurefeeds.xml-v4.ak-is2.net
 0.0.0.0 adventurefeeds.xml-v6.ak-is2.net
 0.0.0.0 adventurefeeds.xml.ak-is2.net
 0.0.0.0 adwooo.fs.ak-is2.net
@@ -10751,9 +10760,11 @@
 0.0.0.0 popup.popupsmart.com
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 gotrackier.com
+0.0.0.0 info.gotrackier.com
 0.0.0.0 masteraffiliates.gotrackier.com
 0.0.0.0 mmads.gotrackier.com
 0.0.0.0 optimidea.gotrackier.com
+0.0.0.0 sbm49.gotrackier.com
 0.0.0.0 dmpxs.com
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 confiant-integrations.net
@@ -15927,6 +15938,7 @@
 0.0.0.0 ivdjs.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 iwanttodeliver.com
+0.0.0.0 iy.agynarysyun.cyou
 0.0.0.0 iyfbodn.com
 0.0.0.0 j93557g.com
 0.0.0.0 ja2n2u30a6rgyd.com
@@ -15970,6 +15982,7 @@
 0.0.0.0 joudauhee.com
 0.0.0.0 jouteetu.net
 0.0.0.0 jouwaikekaivep.net
+0.0.0.0 jpcrtqakzrlqy.space
 0.0.0.0 jpwrashuzfstxc.com
 0.0.0.0 jqvhnbxtwze.com
 0.0.0.0 jqyryzrbuqpfp.space
@@ -16451,6 +16464,7 @@
 0.0.0.0 nexac.com
 0.0.0.0 nextmillmedia.com
 0.0.0.0 ng3.ads.warnerbros.com
+0.0.0.0 nhttvqorwq.com
 0.0.0.0 nibaz.com
 0.0.0.0 nicksstevmark.com
 0.0.0.0 nightmareirene.com
@@ -17017,6 +17031,7 @@
 0.0.0.0 rbergego.com
 0.0.0.0 rcvlink.com
 0.0.0.0 rcyopmpfef.in
+0.0.0.0 rdipmrbwgvk.com
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
@@ -17383,6 +17398,7 @@
 0.0.0.0 spuriousstranger.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarenuker.com
+0.0.0.0 spzzsykjwgplod.com
 0.0.0.0 sq.exonerrotter.com
 0.0.0.0 squeegetirret.cyou
 0.0.0.0 srv.trafficgate.net
@@ -17447,6 +17463,7 @@
 0.0.0.0 studyunharmedupscale.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stylish-knife.com
+0.0.0.0 sub.api-rfr.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 succeedscene.com
