@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.73.50",
+			"version": "1.0.73.51",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-07-22T16:35:20+0000"
+			"timeUpdated": "2026-07-22T18:31:43+0000"
 		},
 		{
 			"filterKey": "1hosts_lite",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.29.75",
+			"version": "1.1.29.76",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"subscriptionUrl": "https://big.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-22T17:32:58+0000"
+			"timeUpdated": "2026-07-22T18:31:46+0000"
 		},
 		{
 			"filterKey": "steven_blacks_list",
@@ -172,14 +172,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.19.10",
+			"version": "1.0.19.11",
 			"homepage": "https://someonewhocares.org/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt",
 			"subscriptionUrl": "https://someonewhocares.org/hosts/zero/hosts",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-07-21T21:29:35+0000"
+			"timeUpdated": "2026-07-22T18:32:00+0000"
 		},
 		{
 			"filterKey": "hagezi_pro++",
