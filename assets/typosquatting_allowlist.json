@@ -15,7 +15,7 @@
     },
     {
       "domain": "aicdn.com",
-      "exceptions": [ "uicdn.com", "s.uicdn.com" ]
+      "exceptions": [ "uicdn.com" ]
     },
     {
       "domain": "alamy.com",
