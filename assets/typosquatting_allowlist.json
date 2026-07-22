@@ -82,6 +82,10 @@
       "exceptions": [ "galp.com" ]
     },
     {
+      "domain": "gmail.com",
+      "exceptions": [ "ymail.com" ]
+    },
+    {
       "domain": "gtimg.com",
       "exceptions": [ "etimg.com" ]
     },
