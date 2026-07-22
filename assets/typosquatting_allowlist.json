@@ -14,6 +14,10 @@
       "exceptions": [ "afcdn.com" ]
     },
     {
+      "domain": "aicdn.com",
+      "exceptions": [ "uicdn.com", "s.uicdn.com" ]
+    },
+    {
       "domain": "alamy.com",
       "exceptions": [ "lamy.com" ]
     },
