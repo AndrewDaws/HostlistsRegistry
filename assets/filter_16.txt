@@ -1,9 +1,9 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.53
+! Version: 1.0.17.54
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-22T08:59:52.630Z
+! Last modified: 2026-07-23T08:59:51.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7281,7 +7281,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 abtest.alibaba.com
-0.0.0.0 cmap.alibaba.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 fourier.alibaba.com
@@ -16383,6 +16382,7 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
+0.0.0.0 myesutdnuyddu.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypopups.com
 0.0.0.0 mypowermall.com
@@ -16603,6 +16603,7 @@
 0.0.0.0 onmobile.com
 0.0.0.0 onstunkyr.com
 0.0.0.0 onwardperishvaluables.com
+0.0.0.0 oofmhbmqdn.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
@@ -17746,6 +17747,7 @@
 0.0.0.0 twinrdsyn.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 twistconcept.com
+0.0.0.0 twitchegotistical.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 txtimpact.com
@@ -17850,6 +17852,7 @@
 0.0.0.0 vast.vstserv.com
 0.0.0.0 vaugroar.com
 0.0.0.0 vcqclbetewdnq.website
+0.0.0.0 vd.bundthoecake.cyou
 0.0.0.0 vdkdxarnqiaedw.com
 0.0.0.0 vebadu.com
 0.0.0.0 vebo-vast.pages.dev
