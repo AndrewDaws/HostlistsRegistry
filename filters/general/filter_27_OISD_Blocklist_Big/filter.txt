@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.1.37.35
+! Version: 1.1.37.36
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-06T07:17:02.840Z
+! Last modified: 2026-09-06T08:21:03.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -16514,6 +16514,7 @@
 ||aggle.net^
 ||agglomate.com^
 ||aggora.co.uk^
+||aggraindie.store^
 ||aggravatingchicken.pro^
 ||aggravatingoil.com^
 ||aggravationbabysitterplumbing.com^
@@ -90614,6 +90615,7 @@
 ||fishymonster.com^
 ||fisio1-tempora48.sbs^
 ||fisios0-animi73.sbs^
+||fisios2-repellendus76.sbs^
 ||fisios3-dicta35.sbs^
 ||fisios3-eos23.sbs^
 ||fisios3-velit13.sbs^
@@ -90621,6 +90623,7 @@
 ||fisios4-voluptatem72.sbs^
 ||fisios5-placeat98.sbs^
 ||fisios7-voluptate86.sbs^
+||fisios8-dolore94.sbs^
 ||fisios8-rerum81.sbs^
 ||fisios9-a24.sbs^
 ||fisiotiburtina.com^
@@ -108858,6 +108861,7 @@
 ||heringpdf.weebly.com^
 ||heriolamer.weebly.com^
 ||heritage-style.shop^
+||heritage-thread.shop^
 ||heritagebookpublishing.org^
 ||heritagedecor.shop^
 ||heritageexterior.com^
@@ -113346,6 +113350,7 @@
 ||hydroshifa.shop^
 ||hydrostress.com^
 ||hydrotastic.com^
+||hydrothyro.store^
 ||hydttrocrackingshiretown.info^
 ||hye.comp.360os.com^
 ||hyena.baseline.is^
@@ -143086,6 +143091,7 @@
 ||mailgooramslocalise.info^
 ||mailhelpdesk.github.io^
 ||maili3n.com^
+||mailify.cc^
 ||mailinb1.surf-town.net^
 ||mailinfitelstraa.weebly.com^
 ||mailing-prime.fr^
@@ -182343,6 +182349,7 @@
 ||provalky.info^
 ||provea.com^
 ||proveedor-2026login.vercel.app^
+||proveedoradeproyectosysoluciones.com^
 ||proveedores.rednavemar.com^
 ||proveedoresdeobra.com^
 ||provegatv.webcindario.com^
@@ -199851,6 +199858,7 @@
 ||sad4w7h913-b4a57f9c36eb.herokuapp.com^
 ||sadabiz.com^
 ||sadaos.com^
+||sadaqatclinic.com^
 ||sadasdaapppp.pages.dev^
 ||sadasdasd.iceiy.com^
 ||sadbasindinner.com^
@@ -223059,6 +223067,7 @@
 ||sympmsnsports.112.2o7.net^
 ||symtabballies.cyou^
 ||symybau.com^
+||syn-096-011-145-107.biz.spectrum.com^
 ||syn-159-089-176-107.wifi.spectrum.com^
 ||syn-162-243-229-214.wifi.spectrum.com^
 ||syn-thalora.live^
@@ -246357,6 +246366,7 @@
 ||verybouncy.com^
 ||veryboys.com^
 ||verydismantle.com^
+||veryfying-54854.co^
 ||verygoodminigames.com^
 ||verylokmailes.webcindario.com^
 ||veryvoga.pl^
