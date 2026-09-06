@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.1.37.42
+! Version: 1.1.37.43
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-06T15:14:07.106Z
+! Last modified: 2026-09-06T16:16:26.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -19226,7 +19226,6 @@
 ||allegrolokalnie.419.lol^
 ||allegrolokalnie.438zimq41.click^
 ||allegrolokalnie.441048723.click^
-||allegrolokalnie.455653ra.top^
 ||allegrolokalnie.45j5ewer3.click^
 ||allegrolokalnie.4cvsjrttrijj.sbs^
 ||allegrolokalnie.50476345762.shop^
@@ -19262,7 +19261,6 @@
 ||allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online^
 ||allegrolokalnie.eu-ogloszenie-priv-039212-kup.online^
 ||allegrolokalnie.eu-page-number-291233-super.shop^
-||allegrolokalnie.hplts.sbs^
 ||allegrolokalnie.id37ns38rjd76d8ndbvds83.sbs^
 ||allegrolokalnie.ij0943ji9rjom32.shop^
 ||allegrolokalnie.j5j409ji4n3io.shop^
@@ -19394,7 +19392,6 @@
 ||allegrolokalnie.pl-04673785.click^
 ||allegrolokalnie.pl-06940912.click^
 ||allegrolokalnie.pl-109211.shop^
-||allegrolokalnie.pl-393839.cyou^
 ||allegrolokalnie.pl-471752.shop^
 ||allegrolokalnie.pl-4729483.shop^
 ||allegrolokalnie.pl-472959.shop^
@@ -19557,7 +19554,6 @@
 ||allegrolokalnie.pl-smart24.pl^
 ||allegrolokalnie.pl-wfde.shop^
 ||allegrolokalnie.pl-zamow-oferta-4059212.sbs^
-||allegrolokalnie.pl01.me^
 ||allegrolokalnie.pl01.top^
 ||allegrolokalnie.pl1238-offerta.shop^
 ||allegrolokalnie.pl292829.cyou^
@@ -90685,12 +90681,10 @@
 ||fishymonster.com^
 ||fisio1-tempora48.sbs^
 ||fisios0-animi73.sbs^
-||fisios0-et72.sbs^
 ||fisios3-dicta35.sbs^
 ||fisios3-eos23.sbs^
 ||fisios3-velit13.sbs^
 ||fisios3-velit51.sbs^
-||fisios4-est79.sbs^
 ||fisios4-voluptatem72.sbs^
 ||fisios5-placeat98.sbs^
 ||fisios7-voluptate86.sbs^
