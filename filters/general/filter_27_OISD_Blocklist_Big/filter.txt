@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.1.37.41
+! Version: 1.1.37.42
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-06T13:14:05.021Z
+! Last modified: 2026-09-06T15:14:07.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7193,6 +7193,7 @@
 ||8poz7uwoho.com^
 ||8proe3xx6.com^
 ||8pyy.com^
+||8q2v.oftesid.lat^
 ||8q5urel9y5v5h5kj.cfd^
 ||8qfqhat9d.com^
 ||8qi3.fowebsiqa.shop^
@@ -19125,6 +19126,7 @@
 ||allegro.92359293ghg.lol^
 ||allegro.92877ggg.rest^
 ||allegro.9392130120.casa^
+||allegro.9458323ffo.beauty^
 ||allegro.9812831204.qpon^
 ||allegro.allegro.cam^
 ||allegro.allegrolokalnie.cfd^
@@ -19224,6 +19226,7 @@
 ||allegrolokalnie.419.lol^
 ||allegrolokalnie.438zimq41.click^
 ||allegrolokalnie.441048723.click^
+||allegrolokalnie.455653ra.top^
 ||allegrolokalnie.45j5ewer3.click^
 ||allegrolokalnie.4cvsjrttrijj.sbs^
 ||allegrolokalnie.50476345762.shop^
@@ -19259,6 +19262,7 @@
 ||allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online^
 ||allegrolokalnie.eu-ogloszenie-priv-039212-kup.online^
 ||allegrolokalnie.eu-page-number-291233-super.shop^
+||allegrolokalnie.hplts.sbs^
 ||allegrolokalnie.id37ns38rjd76d8ndbvds83.sbs^
 ||allegrolokalnie.ij0943ji9rjom32.shop^
 ||allegrolokalnie.j5j409ji4n3io.shop^
@@ -19350,6 +19354,7 @@
 ||allegrolokalnie.oferta7259489.click^
 ||allegrolokalnie.oferta7262738382838371.biz^
 ||allegrolokalnie.oferta7432716.rest^
+||allegrolokalnie.oferta743821.lol^
 ||allegrolokalnie.oferta78206.lol^
 ||allegrolokalnie.oferta7979848.click^
 ||allegrolokalnie.oferta81739283829377320.shop^
@@ -19389,6 +19394,7 @@
 ||allegrolokalnie.pl-04673785.click^
 ||allegrolokalnie.pl-06940912.click^
 ||allegrolokalnie.pl-109211.shop^
+||allegrolokalnie.pl-393839.cyou^
 ||allegrolokalnie.pl-471752.shop^
 ||allegrolokalnie.pl-4729483.shop^
 ||allegrolokalnie.pl-472959.shop^
@@ -19551,6 +19557,7 @@
 ||allegrolokalnie.pl-smart24.pl^
 ||allegrolokalnie.pl-wfde.shop^
 ||allegrolokalnie.pl-zamow-oferta-4059212.sbs^
+||allegrolokalnie.pl01.me^
 ||allegrolokalnie.pl01.top^
 ||allegrolokalnie.pl1238-offerta.shop^
 ||allegrolokalnie.pl292829.cyou^
@@ -67966,6 +67973,7 @@
 ||ddfstlvddxdr.com^
 ||ddghshrcnwebtrsnaport.weebly.com^
 ||ddgjwrj.cc^
+||ddgqxkiv.shop^
 ||ddhjnrssqnmxc.store^
 ||ddhpwyarmgevw.online^
 ||ddhrzfgnufzoz.online^
@@ -68787,6 +68795,7 @@
 ||dejong-greiner.at^
 ||dejysk.com^
 ||dejyskde.com^
+||dejyskdes.com^
 ||dekampeeksoa.net^
 ||dekapl.shop^
 ||dekarmuhendislik.com^
@@ -72093,6 +72102,7 @@
 ||disney-secure.fr^
 ||disney-store.fr^
 ||disney.locker^
+||disney.magiclands-support.com^
 ||disney.pm^
 ||disney.re^
 ||disney.realtimedaten.de^
@@ -83746,6 +83756,7 @@
 ||eunzl1ftpxk.com^
 ||euodicoch.qpon^
 ||euonfb.shop^
+||euoniil.shop^
 ||euoniol.shop^
 ||euonlad.shop^
 ||euonlap.shop^
@@ -90674,10 +90685,12 @@
 ||fishymonster.com^
 ||fisio1-tempora48.sbs^
 ||fisios0-animi73.sbs^
+||fisios0-et72.sbs^
 ||fisios3-dicta35.sbs^
 ||fisios3-eos23.sbs^
 ||fisios3-velit13.sbs^
 ||fisios3-velit51.sbs^
+||fisios4-est79.sbs^
 ||fisios4-voluptatem72.sbs^
 ||fisios5-placeat98.sbs^
 ||fisios7-voluptate86.sbs^
@@ -94789,6 +94802,7 @@
 ||friesmove.info^
 ||friezesoneiric.cyou^
 ||frigghome.gitbook.io^
+||frighchilo.store^
 ||frightened-half.com^
 ||frightened-selection.pro^
 ||frightenedcraft.com^
@@ -119069,6 +119083,7 @@
 ||intersectionbegan.com^
 ||interslarnox.com^
 ||interspor.fr^
+||intersportsroonline.shop^
 ||interstat.hu^
 ||interstone-site.us.stackstaging.com^
 ||intersubstitutabilitccies.info^
@@ -124128,6 +124143,7 @@
 ||jouer-talismania.fr^
 ||joueraucasinoargentreel.fr^
 ||jouermafiacasino.fr^
+||jouetgo.shop^
 ||jouetsclub.fr^
 ||jougroumaiwoo.net^
 ||joulesoutletfrance.fr^
@@ -131470,6 +131486,7 @@
 ||kyngscasino-fr.fr^
 ||kyngsfr.fr^
 ||kynning.olis.is^
+||kynonexitap.online^
 ||kynrae.info^
 ||kynterav3core.com^
 ||kyntrixnova-gpt.com^
@@ -142308,6 +142325,7 @@
 ||m4q2-cukb12-hz0d4-yzp5en.pages.dev^
 ||m4q8zr.lat^
 ||m4vt1m0f1f28jiwwlk6u.s3.eu-south-1.amazonaws.com^
+||m4w8.ofsets.lat^
 ||m5.66077.cn^
 ||m583.dailydemocrat.com^
 ||m5dropbox-e330.ilovegeniunes.workers.dev^
@@ -142850,6 +142868,7 @@
 ||magixmail.weebly.com^
 ||magjeon.com^
 ||magjoule.shop^
+||maglibrahm.store^
 ||maglish.lovable.app^
 ||magma.casasdomani.net^
 ||magnatejuicier.qpon^
@@ -159653,6 +159672,7 @@
 ||nlsmhyylwozop.site^
 ||nltcs.idfnet.net^
 ||nlthaiu88.com^
+||nltntlfx.165-154-254-148.cpanel.site^
 ||nltopsuites.com^
 ||nltrosub.com^
 ||nluyukqnyfjfk.space^
@@ -169385,6 +169405,7 @@
 ||p3tt.com^
 ||p3vn8zk.casa^
 ||p3ws28setu1f34no.fantom.neriobazzano.it^
+||p4.ax1pir.sbs^
 ||p4.dnvod.tv^
 ||p48.lublin.eu^
 ||p4dc8ve6i.com^
@@ -186544,6 +186565,7 @@
 ||qbdrc.com^
 ||qbdtjnxxkygrl.site^
 ||qbexkuniuilkk.com^
+||qbgkebnz.shop^
 ||qbiapxkofrlix.online^
 ||qbipmmfyscior.site^
 ||qbitarbitrage.pl^
@@ -215148,6 +215170,7 @@
 ||sportnovia.jysk.club^
 ||sportnovia.sbs^
 ||sportnovia.shop^
+||sportoutlesde.shop^
 ||sportoutletonlinesk.com^
 ||sportpferde-crespo-kast.de^
 ||sportplus.pro^
@@ -215431,8 +215454,10 @@
 ||spry-trick.com^
 ||sprysummit.com^
 ||sprzedawcy-5438.shop^
+||sprzedawcy72893.eu.cc^
 ||sprzedaz-5322.eu.cc^
 ||sprzedaz-6853.eu.cc^
+||sprzedaz-75r2.eu.cc^
 ||sprzedaz-8372y.shop^
 ||sprzedaz324.com^
 ||sprzedazonline-pl.com^
@@ -219490,6 +219515,7 @@
 ||strauss-eu77-vip-01.shop^
 ||strauss-market.shop^
 ||strauss-pl.shop^
+||strauss-vip.shop^
 ||strauss-vipshop-6.shop^
 ||straussdiscountstorevip-1.shop^
 ||straussdiscountstorevip-a.shop^
@@ -226615,6 +226641,7 @@
 ||telekomai-de.fyi^
 ||telekomloginbenutzernameeingeben.weebly.com^
 ||telekomloginonlineds.weebly.com^
+||telekrypxo.icu^
 ||telelizepr.shop^
 ||telelllz.com^
 ||telelprdim.love^
@@ -226622,6 +226649,7 @@
 ||teleltvrg.com^
 ||teleltyxus.cyou^
 ||telelunarl.click^
+||telelunarl.help^
 ||teleluxtio.shop^
 ||telelypros.click^
 ||telelypros.club^
@@ -226691,6 +226719,7 @@
 ||telenepros.wiki^
 ||telenet-webmail.com^
 ||telenexlis.cyou^
+||telenexlis.shop^
 ||telenixxxr.click^
 ||telenor.112.2o7.net^
 ||telenorstartsiden.112.2o7.net^
@@ -226730,9 +226759,13 @@
 ||telestalxs.club^
 ||telestalxs.help^
 ||telestiogs.help^
+||telesystem.cyou^
 ||telet.me^
 ||teletalxsm.work^
 ||telete.in^
+||teletenpro.club^
+||teletenpro.icu^
+||teletenpro.shop^
 ||teleterpro.cyou^
 ||teleterpro.help^
 ||teletlanft.wiki^
@@ -230884,6 +230917,7 @@
 ||thumeezy.xyz^
 ||thumpedshavie.cfd^
 ||thunaronement.cfd^
+||thundathaar.com^
 ||thunderapostrophefunds.com^
 ||thunderbirda.com^
 ||thunderbloom-phantom.com^
@@ -235435,6 +235469,7 @@
 ||transylvaniadelish.com^
 ||transylvaniawealth.net^
 ||tranultapack.site^
+||tranvapress.site^
 ||tranvospark.site^
 ||tranwrap.site^
 ||tranzcorev11.digital^
@@ -247544,6 +247579,7 @@
 ||villeroy-topsale.shop^
 ||villeroyat.fr^
 ||villeroyboch-official.shop^
+||villeroyboch-topsale.shop^
 ||villeroyboch-world.shop^
 ||villesaintgalmier.fr^
 ||villesaintgervaislesbains.fr^
@@ -258547,6 +258583,7 @@
 ||x22nf.u4zjn4ppz5oh95efcwjq.cyou^
 ||x24hr.com^
 ||x2ae7-m5q0t1-9kz-cxdn6p-zgi.pages.dev^
+||x2c8.oftesid.lat^
 ||x2db.cx^
 ||x2jjzvnd.dichvuff.com^
 ||x2lt.com^
