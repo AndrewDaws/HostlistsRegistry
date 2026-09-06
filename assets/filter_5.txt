@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.1.3.16
+! Version: 1.1.3.17
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-06T12:23:04.435Z
+! Last modified: 2026-09-06T13:14:17.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -3017,7 +3017,6 @@
 ||acerecipientevenings.com^
 ||acermired.com^
 ||acertb.com^
-||aceshipcentres.cyou^
 ||acetizehawbucktaximen.qpon^
 ||acetylsshikarsswampy.qpon^
 ||aceyearling.com^
@@ -5608,7 +5607,6 @@
 ||akdnhszqeqasz.store^
 ||akdrclfipxvkj.store^
 ||akftqsaedhfqt.space^
-||akfvccxkwaclu.com^
 ||akfzziowsd.in^
 ||akhflmskoecmk.site^
 ||akhghskywdfoz.website^
@@ -9006,7 +9004,6 @@
 ||beamanalytics.b-cdn.net^
 ||beamedfragmentrunners.com^
 ||beanedrollman.shop^
-||beanersamghaexcess.qpon^
 ||beanofarls.shop^
 ||beap-bc.yahoo.com^
 ||bear.datingrelationshipsadvice.com^
@@ -10366,7 +10363,6 @@
 ||brandlemilled.cyou^
 ||brandmovers-delivery.reviveservers.com^
 ||brandnewapp.pro^
-||brandonalister.com^
 ||brandreachsys.com^
 ||brandsmat.com^
 ||brannywallaby.cfd^
@@ -10847,7 +10843,6 @@
 ||busy-man.com^
 ||buthawk.com^
 ||butlecarina.cfd^
-||butlerones.qpon^
 ||butleruther.cyou^
 ||butomuskainah.com^
 ||butoqj0vh.com^
@@ -14414,7 +14409,6 @@
 ||crocodile.rapid-sale.co.uk^
 ||croefyhjjkzhg.site^
 ||crogctnujttuy.site^
-||croiszeroed.qpon^
 ||crojikspoppean.cfd^
 ||cronaura.com^
 ||croni.site^
@@ -19982,7 +19976,6 @@
 ||envayeconfort.cyou^
 ||envczfherlnzg.website^
 ||envelopeallydespair.com^
-||enviesgoupenbocardo.qpon^
 ||envious-attention.com^
 ||enviousthread.com^
 ||enviromengreen.cfd^
@@ -21277,7 +21270,6 @@
 ||faucetfiling.com^
 ||faucetsuperficialalternative.com^
 ||faultlying.com^
-||faunistshopboy.qpon^
 ||fauyntrhfdiwq.website^
 ||favmaqyqgcirx.space^
 ||favor080227.shop^
@@ -29526,7 +29518,6 @@
 ||jo.lesbianbliss.com^
 ||jo.transhero.com^
 ||jo9q3dhqf.com^
-||joachimsoddens.com^
 ||joanneguichetamarin.cyou^
 ||joanordeal.com^
 ||jobbox-front.mamastar.jp^
@@ -30208,7 +30199,6 @@
 ||kajyqgfjhohks.website^
 ||kakuyomu.life^
 ||kaldmnhopwcji.online^
-||kalenedpiggy.qpon^
 ||kalesrussiaschuln.cyou^
 ||kalganscope.com^
 ||kalmiasparple.shop^
@@ -30380,7 +30370,6 @@
 ||keen-eyed.dotabuff.com^
 ||keentiedknives.com^
 ||keepinfit.net^
-||keepingohs.shop^
 ||keepnetfrankly.shop^
 ||keepssalele.shop^
 ||keeptraumatic.com^
@@ -31712,7 +31701,6 @@
 ||ldwizdqfenjo.com^
 ||ldwwwkdzfxmdd.site^
 ||ldy5.com^
-||ldynsrhmo.com^
 ||ldyqwzfmd.com^
 ||ldyztceolxrmy.space^
 ||ldzvujwptvheu.site^
@@ -32254,7 +32242,6 @@
 ||littlevigorously.com^
 ||litudimble.cfd^
 ||litznards.com^
-||liui7e8hjr9fi9j2evy9j.rest^
 ||livableprelacy.com^
 ||livauxgwqfjks.space^
 ||live-api.hktvmall.com^
@@ -34027,7 +34014,6 @@
 ||maredpt.com^
 ||mareferncrawl.com^
 ||marekanidian.cfd^
-||marfikdolcan.shop^
 ||marfiredebitor.shop^
 ||margaritawanderingelusive.com^
 ||margedsurfle.qpon^
@@ -36993,7 +36979,6 @@
 ||nilgaisquipful.qpon^
 ||niljvt71w5.com^
 ||nillsfaxes.cfd^
-||nilouspaginal.shop^
 ||nimble-bench.com^
 ||nimblecontest.com^
 ||nimblermysosts.com^
@@ -38395,7 +38380,6 @@
 ||oijhekvoh.com^
 ||oilcansfumarinbeaker.cfd^
 ||oilrjign.com^
-||oilsewans.shop^
 ||oilycyath.qpon^
 ||oilygams.shop^
 ||oimg.nbcuni.com^
@@ -39254,7 +39238,6 @@
 ||ovenaccording.com^
 ||ovenbifaces.cam^
 ||overbidsettingunderfeed.com^
-||overbitnsec.cfd^
 ||overboardbilingual.com^
 ||overcobalionom.com^
 ||overcrowdsillyturret.com^
@@ -39344,7 +39327,6 @@
 ||owsazgnm.in^
 ||owslnuzidiugg.store^
 ||owssalylvzcox.site^
-||owtchahdidromy.qpon^
 ||owtpooquoezgt.space^
 ||owvedlxhgvvxf.store^
 ||owvkfujan.com^
@@ -39803,7 +39785,6 @@
 ||parkurl.com^
 ||parledrowth.cyou^
 ||parlordenialrummage.com^
-||parlourclaye.cfd^
 ||parlouroutlayfavor.com^
 ||parloursixty.com^
 ||paroasse.xyz^
@@ -46824,7 +46805,6 @@
 ||sackenprepink.shop^
 ||sacramentexpensivestretching.com^
 ||sacrificecare.com^
-||sacrifymalist.com^
 ||sacrifymedlars.shop^
 ||sacrifystereid.cyou^
 ||sacwumsf.com^
@@ -47532,7 +47512,6 @@
 ||selecttopoff.com^
 ||selecttopon.com^
 ||selenepoking.qpon^
-||seleroanoke.com^
 ||seleturbots.qpon^
 ||selfassured-celebration.com^
 ||selfcontrolextraordinary.com^
@@ -47649,7 +47628,6 @@
 ||seresedenite.cfd^
 ||serestelian.com^
 ||sergttaproot.cfd^
-||seriangust.cfd^
 ||serinusnymphos.cfd^
 ||serinuspotions.com^
 ||serinuswelling.com^
@@ -52383,7 +52361,6 @@
 ||tfpodf.ars.appsflyersdk.com^
 ||tfqrifustrybg.store^
 ||tfrkbyualptil.online^
-||tfvqkvkyvj.com^
 ||tfwjtrkuueobz.online^
 ||tfxipmcetrqiu.website^
 ||tfxswxtxcickc.space^
@@ -58993,7 +58970,6 @@
 ||wkhyhmqdtpvwgyc.com^
 ||wkjwumtex3.com^
 ||wklmyjveuvlyf.online^
-||wkmorvzbkqjvw.top^
 ||wkmotajasmrof.website^
 ||wknzhduxctbep.online^
 ||wkoocdlvzcmzd.space^
@@ -60067,7 +60043,6 @@
 ||ximybkpxwu.com^
 ||xinju.cc^
 ||xintndhlggczz.space^
-||xiomrgl8wc71mwryc.cfd^
 ||xioxcrzwixuet.space^
 ||xiozrgajvpfry.site^
 ||xipteq.com^
