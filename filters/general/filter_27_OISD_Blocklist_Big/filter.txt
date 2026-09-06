@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.1.37.45
+! Version: 1.1.37.46
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-06T19:11:51.661Z
+! Last modified: 2026-09-06T20:15:51.527Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -72765,6 +72765,7 @@
 ||dl.weshineapp.com^
 ||dl.xvlhj.pw^
 ||dl01.socdn.com^
+||dl1.claudflare-gateway.net^
 ||dl15edu.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl2.bav.baidu.com^
@@ -88372,6 +88373,7 @@
 ||fergentex-pro.com^
 ||ferggrimagnetically.info^
 ||fergusewing.com^
+||ferhfw.oss-cn-hongkong.aliyuncs.com^
 ||feriassaimiri.com^
 ||feribazarbd.com^
 ||ferienwohnungen-alpenland.at^
@@ -97371,6 +97373,7 @@
 ||gantsoldes.fr^
 ||gantt-charts.com^
 ||gao1874.com^
+||gaode11223.oss-ap-southeast-7.aliyuncs.com^
 ||gaoduan.cc^
 ||gaogr.com^
 ||gaogroupinc.com^
@@ -143212,7 +143215,6 @@
 ||mailgooramslocalise.info^
 ||mailhelpdesk.github.io^
 ||maili3n.com^
-||mailify.cc^
 ||mailinb1.surf-town.net^
 ||mailinfitelstraa.weebly.com^
 ||mailing-prime.fr^
@@ -182496,7 +182498,6 @@
 ||provalky.info^
 ||provea.com^
 ||proveedor-2026login.vercel.app^
-||proveedoradeproyectosysoluciones.com^
 ||proveedores.rednavemar.com^
 ||proveedoresdeobra.com^
 ||provegatv.webcindario.com^
@@ -186748,6 +186749,7 @@
 ||qdyey.com^
 ||qdygwqnzemupq.space^
 ||qdyjb.com^
+||qdzip-1476850762.cos.ap-singapore.myqcloud.com^
 ||qdzxakgqmclda.site^
 ||qdzyspjx.com^
 ||qe.k5pl3cz4qub6ymv663vl3.cyou^
@@ -187608,6 +187610,7 @@
 ||qqvfhdcwc.com^
 ||qqvukxnvxmulgo.com^
 ||qqwnsgvfmw.com^
+||qqwwaa.tos-cn-hongkong.volces.com^
 ||qqxkscrbfjn.com^
 ||qqxsq.com^
 ||qqylw.com^
