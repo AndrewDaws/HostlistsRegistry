@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
-! Version: 1.0.21.95
+! Version: 1.0.22.0
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-09-29T23:17:07.497Z
+! Last modified: 2026-10-02T21:17:16.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -470,6 +470,7 @@
 ||15688c.com^
 ||156c8a8dbd.com^
 ||1587eefd59.com^
+||15881599.com^
 ||159.253.214.149.srvlist.ukfast.net^
 ||15946bfe8d.com^
 ||15b4a9d5e8.com^
@@ -5687,6 +5688,7 @@
 ||arousedimitateplane.com^
 ||arousedpassed.com^
 ||arousedpremise.com^
+||aroyntpsha.qpon^
 ||arpoliwrather.com^
 ||arpxs.com^
 ||arraignmentjump.com^
@@ -10458,6 +10460,7 @@
 ||clckfltr.com^
 ||clckz.com^
 ||cldirplarimo.com^
+||cle38jfzoop9fyii8rwgiy59hzi.cfd^
 ||clean-2-clean.club^
 ||clean-blocker.com^
 ||cleanbrowsers.com^
@@ -10897,6 +10900,7 @@
 ||collectapartmentviolence.com^
 ||collectbirthday.com^
 ||collectbladders.com^
+||collecteddefrostthriving.com^
 ||collectinglavishnesshandbook.com^
 ||collectionsmast.com^
 ||collectionwidetotally.website^
@@ -12420,6 +12424,7 @@
 ||cybercontrolnetwork.com^
 ||cyberforgekey.com^
 ||cyberionx.my^
+||cyberplaisir.com^
 ||cybersearch.xyz^
 ||cyberspc.com^
 ||cybertransfer.net^
@@ -13852,6 +13857,7 @@
 ||datingtop.za.com^
 ||dating-traffic24.com^
 ||datinguniversezone.top^
+||datingwiithmee.net^
 ||datinnglife.com^
 ||datlngchat.com^
 ||datlnglife.net^
@@ -14829,6 +14835,7 @@
 ||digtoolbar.com^
 ||digtrivia.com^
 ||dihutyaiafuhr.cloudfront.net^
+||diiambsoojee.cyou^
 ||dikeprotectorencyclopaedia.com^
 ||dikonline.com^
 ||dil4q0t0blrf8.cloudfront.net^
@@ -17286,6 +17293,7 @@
 ||eruptionprivately.com^
 ||eruthoxup.com^
 ||ervantasrelate.info^
+||ervilcopsesoutcrow.cfd^
 ||esaidees.com^
 ||escalatorardour.com^
 ||escalatorclung.com^
@@ -18001,6 +18009,7 @@
 ||facultativethus.com^
 ||facultycoffeehouseharp.com^
 ||facultydriedgrope.com^
+||facultymakingsubgroup.com^
 ||facultymoney.com^
 ||facultysink.com^
 ||fad1ef26a9.com^
@@ -20144,6 +20153,7 @@
 ||ganhosautomaticos.com^
 ||gannetsmechant.com^
 ||ganofrenames.top^
+||ganserunwry.qpon^
 ||gapcontroversialprodigal.com^
 ||gappierlionne.com^
 ||gappoison.com^
@@ -20396,6 +20406,7 @@
 ||getbreakingnewstabnet.com^
 ||getbushed.com^
 ||getcaptcha.top^
+||getcheckintegrity.com^
 ||getclearlauncher.com^
 ||getclick10.biz^
 ||getcloudosapps1.com^
@@ -21473,6 +21484,7 @@
 ||gsearchwithus.com^
 ||gsecurecontent.com^
 ||gsg4-20.biz^
+||gsgtapaplvfhr.site^
 ||gsp-orgproekt.ru^
 ||gsxzq.com^
 ||gt0mcg1trk.com^
@@ -21774,6 +21786,7 @@
 ||hannahtugparade.com^
 ||hanokyoufo.biz^
 ||hanovercycles.com^
+||hanseffaces.qpon^
 ||hanssubside.com^
 ||hantioniale.co.in^
 ||hao123.com^
@@ -21948,6 +21961,7 @@
 ||haveproceeding.com^
 ||havetestifyharriet.com^
 ||havewordingplanner.com^
+||havingartisticta.com^
 ||havingunderwear.com^
 ||havocreplace.com^
 ||hawfiuptto.com^
@@ -23420,6 +23434,7 @@
 ||icarusnippily.com^
 ||icatethebenefits.com^
 ||icatrk.com^
+||icearyclearnin.com^
 ||icebergaccusedfurnace.com^
 ||iceboxsubscription.com^
 ||icecyber.org^
@@ -25059,6 +25074,7 @@
 ||juncabyssa.cfd^
 ||juncos.eu^
 ||junctionexcursionkitty.com^
+||junecontrarycling.com^
 ||junefangs.com^
 ||junehardilygreetings.com^
 ||junepantomime.com^
@@ -25952,6 +25968,7 @@
 ||ledgeadmitted.com^
 ||ledgegreetingsaltitude.com^
 ||ledsovet.ru^
+||ledtbzgnkecya.site^
 ||leechgrateattest.com^
 ||leechiza.net^
 ||leechrevolve.com^
@@ -29233,6 +29250,7 @@
 ||narwalacnida.shop^
 ||nasa6.com^
 ||nasalhoney.com^
+||nascapidupleaplombs.qpon^
 ||nashgabsporter.top^
 ||nashickaltirdab.com^
 ||nashimcachexydries.cyou^
@@ -32429,6 +32447,7 @@
 ||phaukugaucmo.net^
 ||phaunaitsi.net^
 ||phaursargy.net^
+||phbroughton.store^
 ||ph-cmf.com^
 ||pheasantbottomfulfil.com^
 ||pheasantconstructivekeg.com^
@@ -34633,6 +34652,7 @@
 ||rabbleit.com^
 ||rabicunbone.com^
 ||racemeasuregenerations.com^
+||racemold.com.tw^
 ||racesdepart.com^
 ||racesmoulderstamp.com^
 ||racespreachersupper.com^
@@ -34868,6 +34888,7 @@
 ||rbt5.hair^
 ||rbthre.work^
 ||rcblnd.xyz^
+||rchelp.cn^
 ||rcmypc.com^
 ||rcmzy.xyz^
 ||rcomhost.com^
@@ -41713,6 +41734,7 @@
 ||tmaclick.online^
 ||tmapsndirections.com^
 ||tmatrk.com^
+||tmblkvxxkvilj.online^
 ||tmcdeas4dx.com^
 ||tmprb.xyz^
 ||tmserver-2.net^
@@ -43973,6 +43995,7 @@
 ||violaterotate.com^
 ||violationphysics.click^
 ||violationtones.com^
+||violentenclose.com^
 ||violetconverted.com^
 ||violetfeednewstophub.com^
 ||violetrarely.com^
@@ -44192,6 +44215,7 @@
 ||vvlqbmawwmbwm.top^
 ||vwkvu.com^
 ||vws4brkfst.com^
+||vxcsh.com^
 ||vxcv4sd5qfsd6f9ze9ra56e6frsd56fq5df.s3.amazonaws.com^
 ||vxshurt.com^
 ||vydoxtrial.com^

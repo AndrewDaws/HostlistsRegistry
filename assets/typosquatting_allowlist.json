@@ -26,6 +26,10 @@
       "exceptions": [ "lamy.com" ]
     },
     {
+      "domain": "autodoc.de",
+      "exceptions": [ "autodoc.dk" ]
+    },
+    {
       "domain": "avid.com",
       "exceptions": [ "xvid.com" ]
     },
@@ -135,7 +139,15 @@
     },
     {
       "domain": "isc.org",
-      "exceptions": ["isc2.org", "isc3.org"]
+      "exceptions": [ "isc2.org", "isc3.org" ]
+    },
+    {
+      "domain": "jivo.ru",
+      "exceptions": [ "divo.ru" ]
+    },
+    {
+      "domain": "karousell.com",
+      "exceptions": [ "carousell.com" ]
     },
     {
       "domain": "kick.com",
@@ -143,7 +155,7 @@
     },
     {
       "domain": "ksmobile.com",
-      "exceptions": ["usmobile.com", "kwmobile.com"]
+      "exceptions": [ "usmobile.com", "kwmobile.com" ]
     },
     {
       "domain": "mail.com",
@@ -195,7 +207,7 @@
     },
     {
       "domain": "seel.com",
-      "exceptions": ["seek.com", "setel.com"]
+      "exceptions": [ "seek.com", "setel.com" ]
     },
     {
       "domain": "sling.com",
@@ -204,6 +216,10 @@
     {
       "domain": "spacex.com",
       "exceptions": [ "space.com" ]
+    },
+    {
+      "domain": "spglobal.com",
+      "exceptions": [ "vspglobal.com" ]
     },
     {
       "domain": "ssgcdn.com",
@@ -236,6 +252,10 @@
     {
       "domain": "wiley.com",
       "exceptions": [ "wifey.com" ]
+    },
+    {
+      "domain": "wolt.com",
+      "exceptions": [ "woot.com" ]
     },
     {
       "domain": "yimg.jp",

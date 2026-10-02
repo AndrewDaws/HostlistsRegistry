@@ -11,14 +11,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.81.29",
+			"version": "1.0.81.61",
 			"homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
 			"expires": 345600,
 			"displayNumber": 1,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"subscriptionUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": "2014-06-30T07:56:55+0000",
-			"timeUpdated": "2026-09-30T04:22:16+0000"
+			"timeUpdated": "2026-10-02T22:17:01+0000"
 		},
 		{
 			"filterKey": "hagezi_multinormal",
@@ -31,14 +31,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.32.69",
+			"version": "1.0.32.74",
 			"homepage": "https://github.com/hagezi/dns-blocklists",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"subscriptionUrl": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt",
 			"timeAdded": "2023-07-14T12:53:26+0000",
-			"timeUpdated": "2026-09-29T10:18:51+0000"
+			"timeUpdated": "2026-10-02T10:18:34+0000"
 		},
 		{
 			"filterKey": "peter_lowe_list",
@@ -51,14 +51,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.0.17.95",
+			"version": "1.0.17.97",
 			"homepage": "https://pgl.yoyo.org/adservers/",
 			"expires": 345600,
 			"displayNumber": 3,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
 			"subscriptionUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-09-27T16:17:49+0000"
+			"timeUpdated": "2026-10-02T12:28:41+0000"
 		},
 		{
 			"filterKey": "awavenue_ads_rule",
@@ -91,14 +91,14 @@
 				1
 			],
 			"languages": [],
-			"version": "1.1.4.91",
+			"version": "1.1.5.14",
 			"homepage": "https://oisd.nl/",
 			"expires": 345600,
 			"displayNumber": 4,
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"subscriptionUrl": "https://small.oisd.nl/",
 			"timeAdded": "2021-12-21T10:31:18+0000",
-			"timeUpdated": "2026-09-30T02:29:33+0000"
+			"timeUpdated": "2026-10-02T23:15:25+0000"
 		}
 	],
 	"tags": [
